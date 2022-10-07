@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(punt_komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma=";" pos="punct" postag="LET()" pt="let" rel="--" root=";" sense=";" special="punt_komma" word=";"/>
+    <node begin="0" cat="du" end="16" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="dp">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(end(both))" his="normal" his_1="decap" his_1_1="V-d" his_1_1_1="normal" id="4" infl="no_e" lcat="ppres" lemma="lachen" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="predm" root="lach" sense="lach" vform="gerund" word="Lachend" wvorm="od"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),part_intransitive(tegen))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="tegen_stribbelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="stribbel_tegen" sc="part_intransitive(tegen)" sense="stribbel_tegen" stype="declarative" tense="past" word="stribbelde" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+        <node begin="3" end="4" frame="particle(tegen)" his="normal" his_1="normal" id="7" lcat="part" lemma="tegen" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="tegen" sense="tegen" vztype="fin" word="tegen"/>
+      </node>
+      <node begin="5" cat="smain" end="16" id="8" rel="dp">
+        <node begin="5" cat="np" end="7" id="9" index="1" rel="su">
+          <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="uitbarsting" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="uitbarsting" sense="uitbarsting" word="uitbarsting"/>
+        </node>
+        <node begin="7" end="8" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="12" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+        <node begin="11" cat="cp" end="15" id="13" rel="predm">
+          <node begin="11" end="12" frame="complementizer(als)" his="normal" his_1="normal" id="14" lcat="cp" lemma="als" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="als" sc="als" sense="als" vztype="init" word="als"/>
+          <node begin="12" cat="np" end="15" id="15" rel="body">
+            <node begin="12" end="13" frame="determiner(een)" his="normal" his_1="normal" id="16" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="17" infl="both" lcat="ppart" lemma="verbroken" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="mod" root="verbroken" sense="verbroken" vform="psp" word="verbroken" wvorm="vd"/>
+            <node begin="14" end="15" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="evenwicht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="evenwicht" sense="evenwicht" word="evenwicht"/>
+          </node>
+        </node>
+        <node begin="5" cat="ppart" end="16" id="19" rel="vc">
+          <node begin="5" end="7" id="20" index="1" rel="su"/>
+          <node begin="8" cat="pp" end="11" id="21" rel="mod">
+            <node begin="8" end="9" frame="preposition(in,[])" his="normal" his_1="normal" id="22" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="9" cat="np" end="11" id="23" rel="obj1">
+              <node begin="9" buiging="zonder" end="10" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="24" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+              <node begin="10" end="11" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="25" lcat="np" lemma="iets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="iets" sense="iets" special="meas_mod" status="vol" vwtype="onbep" word="iets"/>
+            </node>
+          </node>
+          <node begin="15" buiging="zonder" end="16" frame="verb(hebben,psp,intransitive)" his="normal" his_1="normal" id="26" infl="psp" lcat="ppart" lemma="herstellen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="herstel" sc="intransitive" sense="herstel" word="hersteld" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="27" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="133-2">Lachend stribbelde zij tegen ; de uitbarsting had in haar iets als een verbroken evenwicht hersteld .</sentence>
+  <comments>
+    <comment>Q#133-2|Lachend stribbelde zij tegen ; de uitbarsting had in haar iets als een verbroken evenwicht hersteld .|1|1|3.4349286699799992</comment>
+  </comments>
+</alpino_ds>

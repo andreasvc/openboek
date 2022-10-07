@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="2" his="name" his_1="begin" id="0" rel="top">
+    <node begin="0" cat="mwu" end="2" his="name" his_1="begin" id="1" mwu_root="BOEK I." mwu_sense="BOEK I." rel="--">
+      <node begin="0" end="1" frame="proper_name(both,'ORG')" id="2" lcat="np" lemma="BOEK" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="BOEK" sense="BOEK" spectype="deeleigen" word="BOEK"/>
+      <node begin="1" end="2" frame="proper_name(both,'ORG')" id="3" lcat="np" lemma="I." neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="I." sense="I." spectype="deeleigen" word="I."/>
+    </node>
+  </node>
+  <sentence sentid="1-1">BOEK I.</sentence>
+  <comments>
+    <comment>Q#1-1|BOEK I.|1|1|0.86334</comment>
+  </comments>
+</alpino_ds>

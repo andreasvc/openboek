@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T12:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="13" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="of" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="of" sc="root" sense="of" word="Of"/>
+      <node begin="1" cat="sv1" end="13" id="4" rel="nucl">
+        <node begin="1" end="2" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="5" infl="sg" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="ynquestion" tense="past" word="was" wvorm="pv"/>
+        <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+        <node begin="3" cat="np" end="13" id="7" rel="predc">
+          <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="8" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="9" lcat="np" lemma="grap" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="grap_DIM" sense="grap_DIM" word="grapje"/>
+          <node begin="5" cat="pp" end="8" id="10" rel="mod">
+            <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="11" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="6" cat="np" end="8" id="12" rel="obj1">
+              <node begin="6" end="7" frame="determiner(den)" his="normal" his_1="variant" id="13" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+              <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="duivel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="duivel" sense="duivel" word="duivel"/>
+            </node>
+          </node>
+          <node begin="9" cat="np" end="13" id="15" rel="app">
+            <node begin="9" cat="detp" end="11" id="16" rel="det">
+              <node begin="9" buiging="zonder" end="10" frame="pre_det_quant(al)" his="normal" his_1="normal" id="17" infl="al" lcat="detp" lemma="al" naamval="stan" pdtype="det" pos="det" positie="vrij" postag="VNW(onbep,det,stan,vrij,zonder)" pt="vnw" rel="mod" root="al" sense="al" special="pre_det_quant" vwtype="onbep" word="al"/>
+              <node begin="10" buiging="zonder" end="11" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="hd" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+            </node>
+            <node aform="base" begin="11" buiging="met-e" end="12" frame="adjective(ende(padv))" his="normal" his_1="V-de" his_1_1="normal" id="19" infl="e" lcat="ppres" lemma="weten" pos="adj" positie="prenom" postag="WW(od,prenom,met-e)" pt="ww" rel="mod" root="weet" sense="weet" vform="gerund" word="wetende" wvorm="od"/>
+            <node begin="12" end="13" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="20" lcat="np" lemma="oogen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="oogen" sense="oogen" word="oogen"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(vraag)" his="normal" his_1="normal" id="21" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="skip" id="22" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="8-8">Of was &apos;t een grapje van den duivel , al die wetende oogen ? &quot;</sentence>
+  <comments>
+    <comment>Q#8-8|Of was &apos;t een grapje van den duivel , al die wetende oogen ? &quot;|1|1|-4.2028427004</comment>
+  </comments>
+</alpino_ds>

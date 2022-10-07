@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="20" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="19" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="cnj">
+        <node begin="0" cat="np" end="2" id="4" rel="su">
+          <node begin="0" buiging="zonder" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="Die"/>
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="verkoop" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="verkoop" sense="verkoop" word="verkoop"/>
+        </node>
+        <node begin="2" end="3" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="noodzakelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="noodzakelijk" sense="noodzakelijk" vform="adj" word="noodzakelijk"/>
+      </node>
+      <node begin="5" conjtype="neven" end="6" frame="conj(maar)" his="normal" his_1="normal" id="9" lcat="vg" lemma="maar" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="maar" sense="maar" word="maar"/>
+      <node begin="6" cat="smain" end="19" id="10" rel="cnj">
+        <node begin="12" end="13" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="past" word="kon" wvorm="pv"/>
+        <node begin="15" cat="np" end="17" id="12" index="1" rel="su">
+          <node begin="15" buiging="zonder" end="16" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="13" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+          <node begin="16" end="17" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="sprake" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="sprake" sense="sprake" word="sprake"/>
+        </node>
+        <node begin="6" cat="inf" end="19" id="15" rel="vc">
+          <node begin="6" cat="pp" end="12" id="16" rel="mod">
+            <node begin="6" end="7" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="voor" his_1_1_2="vóór" his_1_2="normal" id="17" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="vóór"/>
+            <node begin="7" cat="np" end="12" id="18" rel="obj1">
+              <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="verzoening" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="verzoening" sense="verzoening" word="verzoening"/>
+              <node begin="9" cat="pp" end="12" id="21" rel="mod">
+                <node begin="9" end="10" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="22" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+                <node begin="10" cat="np" end="12" id="23" rel="obj1">
+                  <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="24" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+                  <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="vrouw" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vrouw" sense="vrouw" word="vrouw"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node aform="base" begin="14" buiging="zonder" end="15" frame="adjective(no_e(sentadv))" graad="basis" his="normal" his_1="normal" id="26" infl="no_e" lcat="ap" lemma="natuurlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="natuurlijk" sense="natuurlijk" vform="adj" word="natuurlijk"/>
+          <node begin="15" end="17" id="27" index="1" rel="su"/>
+          <node begin="13" cat="pp" end="18" id="28" rel="pc">
+            <node begin="13" end="14" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="29" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="obj1" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+            <node begin="17" end="18" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="30" lcat="pp" lemma="van" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="van" sense="van" vztype="fin" word="van"/>
+          </node>
+          <node begin="18" buiging="zonder" end="19" frame="verb(unacc,inf,fixed([subj(sprake),pc(van)],no_passive))" his="normal" his_1="normal" id="31" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="fixed([subj(sprake),pc(van)],no_passive)" sense="sprake-ben-van" word="zijn" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="19" end="20" frame="punct(punt)" his="normal" his_1="normal" id="32" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="51-5">Die verkoop was noodzakelijk , maar vóór de verzoening met zijn vrouw kon daar natuurlijk geen sprake van zijn .</sentence>
+  <comments>
+    <comment>Q#51-5|Die verkoop was noodzakelijk , maar vóór de verzoening met zijn vrouw kon daar natuurlijk geen sprake van zijn .|1|1|-10.67988079759</comment>
+  </comments>
+</alpino_ds>

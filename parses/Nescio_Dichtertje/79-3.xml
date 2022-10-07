@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="13" id="2" rel="--">
+      <node begin="1" end="2" frame="verb(hebben,sg_heeft,aux_psp_hebben)" his="normal" his_1="normal" id="3" infl="sg_heeft" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="present" word="heeft" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+      <node begin="0" cat="ppart" end="13" id="5" rel="vc">
+        <node begin="0" end="1" frame="tmp_adverb" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="Nu"/>
+        <node begin="2" end="3" id="7" index="1" rel="su"/>
+        <node begin="3" cat="np" end="8" id="8" rel="obj1">
+          <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="zakdoek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zakdoek" sense="zakdoek" word="zakdoek"/>
+          <node begin="5" cat="pp" end="8" id="11" rel="mod">
+            <node begin="5" end="6" frame="preposition(om,[heen])" his="normal" his_1="normal" id="12" lcat="pp" lemma="om" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="om" sense="om" vztype="init" word="om"/>
+            <node begin="6" cat="np" end="8" id="13" rel="obj1">
+              <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="14" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+              <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="diminutive" id="15" lcat="np" lemma="boord" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="boord_DIM" sense="boord_DIM" word="boordje"/>
+            </node>
+          </node>
+        </node>
+        <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="16" infl="psp" lcat="ppart" lemma="leggen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="leg" sc="transitive" sense="leg" word="gelegd" wvorm="vd"/>
+        <node begin="10" cat="pp" end="13" id="17" rel="mod">
+          <node begin="10" end="11" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="18" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+          <node begin="11" cat="np" end="13" id="19" rel="obj1">
+            <node begin="11" end="12" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="20" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+            <node begin="12" buiging="zonder" end="13" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="21" lcat="np" lemma="zweten" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="zweet" sc="intransitive" sense="zweet" special="v_noun" word="zweten" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="79-3">Nu heeft hij een zakdoek om z&apos;n boordje gelegd , voor &apos;t zweten .</sentence>
+  <comments>
+    <comment>Q#79-3|Nu heeft hij een zakdoek om z&apos;n boordje gelegd , voor &apos;t zweten .|1|1|-9.203113578960002</comment>
+  </comments>
+</alpino_ds>

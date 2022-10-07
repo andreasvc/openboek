@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:04" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="14" id="4" rel="nucl">
+        <node begin="2" end="3" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="6" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+        <node begin="1" cat="ppart" end="14" id="7" rel="vc">
+          <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="nou" pos="adv" postag="BW()" pt="bw" rel="mod" root="nou" sense="nou" word="nou"/>
+          <node begin="3" end="4" id="9" index="1" rel="su"/>
+          <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+          <node aform="base" begin="5" end="6" frame="adjective(pred(adv))" his="normal" his_1="normal" id="11" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+          <node begin="6" buiging="zonder" end="7" frame="verb(hebben,psp,tr_sbar)" his="normal" his_1="normal" id="12" infl="psp" lcat="ppart" lemma="zeggen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" word="gezegd" wvorm="vd"/>
+          <node begin="8" cat="cp" end="14" id="13" rel="vc">
+            <node begin="8" conjtype="onder" end="9" frame="complementizer(dat)" his="normal" his_1="normal" id="14" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+            <node begin="9" cat="ssub" end="14" id="15" rel="body">
+              <node begin="9" cat="np" end="12" id="16" index="2" rel="su">
+                <node begin="9" end="10" frame="determiner(een)" his="normal" his_1="normal" id="17" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                <node aform="base" begin="10" buiging="zonder" end="11" frame="adjective(no_e(both))" graad="basis" his="normal" his_1="normal" id="18" infl="no_e" lcat="ap" lemma="nieuw" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="nieuw" sense="nieuw" vform="adj" word="nieuw"/>
+                <node begin="11" end="12" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="tijdvak" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="tijdvak" sense="tijdvak" word="tijdvak"/>
+              </node>
+              <node begin="12" end="13" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="20" infl="sg" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" tense="past" word="was" wvorm="pv"/>
+              <node begin="9" cat="ppart" end="14" id="21" rel="vc">
+                <node begin="9" end="12" id="22" index="2" rel="su"/>
+                <node begin="13" buiging="zonder" end="14" frame="verb(zijn,psp,ninv(intransitive,part_intransitive(aan)))" his="normal" his_1="part-V" id="23" infl="psp" lcat="ppart" lemma="aan_breken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="breek_aan" sc="part_intransitive(aan)" sense="breek_aan" word="aangebroken" wvorm="vd"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="21-3">En nou had -ie nog wel gezegd , dat een nieuw tijdvak was aangebroken .</sentence>
+  <comments>
+    <comment>Q#21-3|En nou had -ie nog wel gezegd , dat een nieuw tijdvak was aangebroken .|1|1|-13.478093053600002</comment>
+  </comments>
+</alpino_ds>

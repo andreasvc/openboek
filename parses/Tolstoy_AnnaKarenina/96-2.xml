@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="8" id="2" rel="--">
+      <node begin="1" cat="np" end="3" id="3" rel="su">
+        <node begin="1" buiging="zonder" end="2" frame="determiner(pron)" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="4" infl="pron" lcat="detp" lemma="u" naamval="stan" npagr="agr" pdtype="det" persoon="2" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="u" sense="u" status="vol" vwtype="bez" word="Uw"/>
+        <node begin="2" end="3" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="traan" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="traan" sense="traan" word="tranen"/>
+      </node>
+      <node begin="3" end="4" frame="verb(hebben,pl,transitive_ndev)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="present" word="hebben" wvorm="pv"/>
+      <node begin="4" cat="pp" end="6" id="7" rel="mod">
+        <node begin="4" end="5" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+        <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="9" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+      </node>
+      <node begin="6" cat="np" end="8" id="10" rel="obj1">
+        <node begin="6" buiging="zonder" end="7" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="11" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+        <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="waarde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="waarde" sense="waarde" word="waarde"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(uitroep)" his="normal" his_1="normal" id="13" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="96-2">&quot; Uw tranen hebben voor mij geen waarde !</sentence>
+  <comments>
+    <comment>Q#96-2|&quot; Uw tranen hebben voor mij geen waarde !|1|1|-0.42358846447000187</comment>
+  </comments>
+</alpino_ds>

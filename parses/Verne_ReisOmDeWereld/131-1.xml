@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="4" id="2" rel="--">
+      <node begin="1" end="2" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="Hier"/>
+      <node begin="2" end="3" frame="verb(unacc,pl,intransitive)" his="normal" his_1="normal" id="4" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="intransitive" sense="ben" stype="declarative" tense="present" word="zijn" wvorm="pv"/>
+      <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="5" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="6" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="7" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="131-1">&quot; Hier zijn ze . &quot;</sentence>
+  <comments>
+    <comment>Q#131-1|&quot; Hier zijn ze . &quot;|1|1|-3.5430018407200006</comment>
+  </comments>
+</alpino_ds>

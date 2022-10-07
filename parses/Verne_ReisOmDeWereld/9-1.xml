@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="sv1" end="5" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(unacc,past(sg),copula)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="ynquestion" tense="past" word="Was" wvorm="pv"/>
+      <node begin="1" cat="np" end="4" id="3" rel="su">
+        <node begin="1" buiging="met-e" end="2" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="4" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="deze"/>
+        <node begin="2" cat="mwu" end="4" his="normal" his_1="names_dictionary" id="5" mwu_root="Phileas Fogg" mwu_sense="Phileas Fogg" rel="hd">
+          <node begin="2" end="3" frame="proper_name(sg,'PER')" id="6" lcat="np" lemma="Phileas" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Phileas" sense="Phileas" spectype="deeleigen" word="Phileas"/>
+          <node begin="3" end="4" frame="proper_name(sg,'PER')" id="7" lcat="np" lemma="Fogg" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Fogg" sense="Fogg" spectype="deeleigen" word="Fogg"/>
+        </node>
+      </node>
+      <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="rijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="rijk" sense="rijk" vform="adj" word="rijk"/>
+    </node>
+    <node begin="5" end="6" frame="punct(vraag)" his="normal" his_1="normal" id="9" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="9-1">Was deze Phileas Fogg rijk ?</sentence>
+  <comments>
+    <comment>Q#9-1|Was deze Phileas Fogg rijk ?|1|1|-2.8712757573300003</comment>
+  </comments>
+</alpino_ds>

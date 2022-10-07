@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:55" cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(dubb_punt)" his="normal" his_1="normal" id="1" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="18" id="4" rel="--">
+      <node begin="0" cat="du" end="5" id="5" rel="nucl">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" cat="smain" end="5" id="7" rel="nucl">
+          <node begin="1" end="2" frame="er_adverb(naast)" his="normal" his_1="normal" id="8" lcat="pp" lemma="daarnaast" pos="pp" postag="BW()" pt="bw" rel="mod" root="daarnaast" sense="daarnaast" special="er" word="daarnaast"/>
+          <node begin="2" end="3" frame="verb(hebben,past(pl),intransitive)" his="normal" his_1="normal" id="9" infl="pl" lcat="smain" lemma="liggen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="lig" sc="intransitive" sense="lig" stype="declarative" tense="past" word="lagen" wvorm="pv"/>
+          <node begin="3" cat="np" end="5" id="10" rel="su">
+            <node begin="3" end="4" frame="determiner(de)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="4" end="5" frame="meas_mod_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="cent" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="cent" sense="cent" special="meas_mod" word="centen"/>
+          </node>
+        </node>
+      </node>
+      <node begin="6" cat="conj" end="18" id="13" rel="sat">
+        <node begin="6" cat="np" end="9" id="14" rel="cnj">
+          <node begin="6" end="7" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="15" infl="pl_num" lcat="detp" lemma="vier" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="vier" sense="vier" special="hoofd" word="vier"/>
+          <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="16" infl="e" lcat="ap" lemma="blauw" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="blauw" sense="blauw" vform="adj" word="blauwe"/>
+          <node begin="8" end="9" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="17" lcat="np" lemma="papier" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="papier_DIM" sense="papier_DIM" word="papiertjes"/>
+        </node>
+        <node begin="10" cat="np" end="12" id="18" rel="cnj">
+          <node begin="10" end="11" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="19" infl="pl_num" lcat="detp" lemma="twee" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="twee" sense="twee" special="hoofd" word="twee"/>
+          <node begin="11" end="12" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="rijksdaalder" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="rijksdaalder" sense="rijksdaalder" word="rijksdaalders"/>
+        </node>
+        <node begin="13" cat="np" end="15" id="21" rel="cnj">
+          <node begin="13" end="14" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="22" infl="pl_num" lcat="detp" lemma="drie" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="drie" sense="drie" special="hoofd" word="drie"/>
+          <node begin="14" end="15" frame="meas_mod_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="gulden" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="gulden" sense="gulden" special="meas_mod" word="guldens"/>
+        </node>
+        <node begin="15" conjtype="neven" end="16" frame="conj(en)" his="normal" his_1="normal" id="24" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="16" cat="np" end="18" id="25" rel="cnj">
+          <node begin="16" buiging="met-e" end="17" frame="adj_number(enkele)" his="normal" his_1="normal" id="26" infl="enkele" lcat="detp" lemma="enkel" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="enkel" sense="enkel" special="adj_number" vwtype="onbep" word="enkele"/>
+          <node begin="17" end="18" frame="meas_mod_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="cent" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="cent" sense="cent" special="meas_mod" word="centen"/>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="28" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="33-16">En daarnaast lagen de centen : vier blauwe papiertjes , twee rijksdaalders , drie guldens en enkele centen .</sentence>
+  <comments>
+    <comment>Q#33-16|En daarnaast lagen de centen : vier blauwe papiertjes , twee rijksdaalders , drie guldens en enkele centen .|1|1|-12.37027587965</comment>
+  </comments>
+</alpino_ds>

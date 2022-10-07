@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:11" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="11" id="2" rel="--">
+      <node begin="0" end="1" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="foei" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="foei" sense="foei" word="Foei"/>
+      <node begin="1" cat="du" end="11" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="5" id="5" rel="dp">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="2" end="3" frame="verb(unacc,sg1,aux_psp_zijn)" his="normal" his_1="normal" id="7" infl="sg1" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="present" word="ben" wvorm="pv"/>
+          <node begin="1" cat="ppart" end="5" id="8" rel="vc">
+            <node begin="1" end="2" id="9" index="1" rel="su"/>
+            <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="ig" id="10" infl="no_e" lcat="ap" lemma="rillerig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="rillerig" sense="rillerig" vform="adj" word="rillerig"/>
+            <node begin="4" buiging="zonder" end="5" frame="verb(unacc,psp,copula)" his="normal" his_1="normal" id="11" infl="psp" lcat="ppart" lemma="worden" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="geworden" wvorm="vd"/>
+          </node>
+        </node>
+        <node begin="6" cat="smain" end="11" id="12" rel="dp">
+          <node begin="6" cat="np" end="8" id="13" rel="su">
+            <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="14" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+            <node begin="7" end="8" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="knie" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="knie" sense="knie" word="knieën"/>
+          </node>
+          <node begin="8" end="9" frame="verb(unacc,pl,copula)" his="normal" his_1="normal" id="16" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="zijn" wvorm="pv"/>
+          <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+          <node aform="base" begin="10" buiging="zonder" end="11" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="18" infl="no_e" lcat="ap" lemma="nat" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="nat" sense="nat" vform="adj" word="nat"/>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="44-6">Foei ik ben rillerig geworden , mijn knieën zijn nog nat .</sentence>
+  <comments>
+    <comment>Q#44-6|Foei ik ben rillerig geworden , mijn knieën zijn nog nat .|1|1|-14.15051794425</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="9" end="10" frame="punct(vraag)" his="normal" his_1="normal" id="2" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="du" end="14" id="4" rel="--">
+      <node begin="1" cat="smain" end="9" id="5" rel="nucl">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="Men"/>
+        <node begin="2" end="3" frame="verb(hebben,sg_heeft,transitive_ndev)" his="normal" his_1="normal" id="7" infl="sg_heeft" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="present" word="heeft" wvorm="pv"/>
+        <node begin="3" end="4" frame="sentence_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="dus" pos="adv" postag="BW()" pt="bw" rel="mod" root="dus" sense="dus" special="sentence" word="dus"/>
+        <node begin="4" cat="np" end="9" id="9" rel="obj1">
+          <node begin="4" end="5" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="10" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="signalement" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="signalement" sense="signalement" word="signalement"/>
+          <node begin="6" cat="pp" end="9" id="12" rel="mod">
+            <node begin="6" end="7" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="13" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="7" cat="np" end="9" id="14" rel="obj1">
+              <node begin="7" end="8" frame="determiner(den)" his="normal" his_1="variant" id="15" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+              <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="dief" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="dief" sense="dief" word="dief"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="11" cat="sv1" end="14" id="17" rel="tag">
+        <node begin="11" end="12" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="18" infl="sg" lcat="sv1" lemma="vragen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vraag" sc="sbar" sense="vraag" tense="past" word="vroeg" wvorm="pv"/>
+        <node begin="12" cat="mwu" end="14" his="name" his_1="not_begin" id="19" mwu_root="Andrew Stuart" mwu_sense="Andrew Stuart" rel="su">
+          <node begin="12" end="13" frame="proper_name(sg,'PER')" id="20" lcat="np" lemma="Andrew" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Andrew" sense="Andrew" spectype="deeleigen" word="Andrew"/>
+          <node begin="13" end="14" frame="proper_name(sg,'PER')" id="21" lcat="np" lemma="Stuart" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Stuart" sense="Stuart" spectype="deeleigen" word="Stuart"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="44-6">&quot; Men heeft dus het signalement van den dief ? &quot; vroeg Andrew Stuart .</sentence>
+  <comments>
+    <comment>Q#44-6|&quot; Men heeft dus het signalement van den dief ? &quot; vroeg Andrew Stuart .|1|1|-0.8282661273700019</comment>
+  </comments>
+</alpino_ds>

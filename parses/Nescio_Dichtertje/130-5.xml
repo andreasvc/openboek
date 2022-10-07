@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:58" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="2" index="1" lcat="np" lemma="Coba" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Coba" sense="Coba" word="Coba"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" word="zou" wvorm="pv"/>
+      <node begin="0" cat="inf" end="8" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="vast" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vast" sense="vast" vform="adj" word="vast"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="7" infl="inf" lcat="inf" lemma="geven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="geef" sc="transitive" sense="geef" word="geven" wvorm="inf"/>
+        <node begin="3" cat="np" end="8" id="8" rel="obj1">
+          <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="10" lcat="np" lemma="gil" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="gil_DIM" sense="gil_DIM" word="gilletje"/>
+          <node begin="6" cat="pp" end="8" id="11" rel="mod">
+            <node begin="6" end="7" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="12" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="plezier" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="plezier" sense="plezier" word="plezier"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="130-5">Coba zou vast een gilletje geven van plezier .</sentence>
+  <comments>
+    <comment>Q#130-5|Coba zou vast een gilletje geven van plezier .|1|1|-0.10962473727999944</comment>
+  </comments>
+</alpino_ds>

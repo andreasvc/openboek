@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="du" end="9" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="conj" end="9" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="4" id="4" rel="cnj">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="5" index="1" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+          <node begin="2" end="3" frame="verb(hebben,past(sg),transitive_ndev_ndev)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="vinden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vind" sc="transitive_ndev_ndev" sense="vind" tense="past" word="vond" wvorm="pv"/>
+          <node begin="3" end="4" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="niets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="niets" sense="niets" special="meas_mod" status="vol" vwtype="onbep" word="niets"/>
+        </node>
+        <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="8" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="1" cat="smain" end="9" id="9" rel="cnj">
+          <node begin="1" end="2" id="10" index="1" rel="su"/>
+          <node begin="5" end="6" frame="verb(unacc,past(sg),aux(inf))" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="blijven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" tense="past" word="bleef" wvorm="pv"/>
+          <node begin="1" cat="inf" end="9" id="12" rel="vc">
+            <node begin="1" end="2" id="13" index="1" rel="su"/>
+            <node begin="6" case="dat_acc" def="def" end="7" frame="pronoun(nwh,thi,both,de,dat_acc,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="14" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="zich" sense="zich" special="wkpro" status="red" vwtype="refl" wh="nwh" word="zich"/>
+            <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(end(both))" his="normal" his_1="V-d" his_1_1="normal" id="15" infl="no_e" lcat="ppres" lemma="kwijnen" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="mod" root="kwijn" sense="kwijn" vform="gerund" word="kwijnend" wvorm="od"/>
+            <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="16" infl="inf" lcat="inf" lemma="rekken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="rek" sc="transitive" sense="rek" word="rekken" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="114-4">Maar zij vond niets en bleef zich kwijnend rekken .</sentence>
+  <comments>
+    <comment>Q#114-4|Maar zij vond niets en bleef zich kwijnend rekken .|1|1|-3.449585005880002</comment>
+  </comments>
+</alpino_ds>

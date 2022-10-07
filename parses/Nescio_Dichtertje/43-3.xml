@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:13" cats="1" skips="0" />
+  <node begin="0" cat="top" end="4" id="0" rel="top">
+    <node begin="0" cat="np" end="3" id="1" rel="--">
+      <node begin="0" cat="detp" end="2" id="2" rel="det">
+        <node begin="0" buiging="zonder" end="1" frame="pre_det_quant(al)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="al" lcat="detp" lemma="al" naamval="stan" pdtype="det" pos="det" positie="vrij" postag="VNW(onbep,det,stan,vrij,zonder)" pt="vnw" rel="mod" root="al" sense="al" special="pre_det_quant" vwtype="onbep" word="Al"/>
+        <node begin="1" buiging="zonder" end="2" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="4" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="hd" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+      </node>
+      <node begin="2" end="3" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="dag" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="dag" sense="dag" special="tmp" word="dagen"/>
+    </node>
+    <node begin="3" end="4" frame="punct(punt)" his="normal" his_1="normal" id="6" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="43-3">Al die dagen .</sentence>
+  <comments>
+    <comment>Q#43-3|Al die dagen .|1|1|-4.090111220799999</comment>
+  </comments>
+</alpino_ds>

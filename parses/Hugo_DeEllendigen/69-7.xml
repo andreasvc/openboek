@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="Zijn"/>
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="preek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="preek" sense="preek" word="preek"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,past(sg),fixed([[tot,onderwerp],acc],no_passive))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="fixed([[tot,onderwerp],acc],no_passive)" sense="tot-onderwerp-heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+      <node begin="3" cat="np" end="5" id="6" rel="obj1">
+        <node begin="3" end="4" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node begin="4" end="5" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="liefdadigheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="liefdadigheid" sense="liefdadigheid" word="liefdadigheid"/>
+      </node>
+      <node begin="5" cat="mwu" end="7" his="normal" his_1="normal" id="9" mwu_root="tot onderwerp" mwu_sense="tot onderwerp" rel="svp">
+        <node begin="5" end="6" frame="fixed_part([tot,onderwerp])" id="10" lcat="fixed" lemma="tot" pos="fixed" postag="VZ(init)" pt="vz" rel="mwp" root="tot" sense="tot" vztype="init" word="tot"/>
+        <node begin="6" end="7" frame="fixed_part([tot,onderwerp])" genus="onz" getal="ev" graad="basis" id="11" lcat="fixed" lemma="onderwerp" naamval="stan" ntype="soort" pos="fixed" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" root="onderwerp" sense="onderwerp" word="onderwerp"/>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="69-7">Zijn preek had de liefdadigheid tot onderwerp .</sentence>
+  <comments>
+    <comment>Q#69-7|Zijn preek had de liefdadigheid tot onderwerp .|1|1|-2.127521886320001</comment>
+  </comments>
+</alpino_ds>

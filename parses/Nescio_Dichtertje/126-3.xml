@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:53" cats="1" skips="3" />
+  <node begin="0" cat="top" end="31" id="0" rel="top">
+    <node begin="22" end="23" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="27" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="spelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="speel" sc="sbar" sense="speel" tense="past" word="speelde" wvorm="pv"/>
+        <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+        <node begin="3" case="both" def="indef" end="4" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="vc" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" stype="whquestion" vwtype="vb" wh="ywh" word="wat"/>
+      </node>
+      <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="8" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="27" id="9" rel="cnj">
+        <node begin="0" end="1" id="10" index="1" rel="su"/>
+        <node begin="5" end="6" frame="verb(hebben,past(sg),transitive_ndev)" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="transitive_ndev" sense="heb" tense="past" word="had" wvorm="pv"/>
+        <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+        <node begin="7" cat="du" end="12" id="13" rel="predm">
+          <node begin="7" end="8" frame="eenmaal_adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="dp" root="eens" sense="eens" special="eenmaal" word="eens"/>
+          <node begin="8" cat="np" end="12" id="15" rel="dp">
+            <node begin="8" end="9" frame="determiner(een)" his="normal" his_1="normal" id="16" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="9" cat="ap" end="11" id="17" rel="mod">
+              <node begin="9" buiging="zonder" end="10" frame="intensifier" graad="basis" his="normal" his_1="normal" id="18" lcat="advp" lemma="heel" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="heel" sense="heel" special="intensifier" word="heel"/>
+              <node aform="base" begin="10" buiging="met-e" end="11" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="19" infl="e" lcat="ap" lemma="nieuw" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="hd" root="nieuw" sense="nieuw" vform="adj" word="nieuwe"/>
+            </node>
+            <node begin="11" end="12" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="20" lcat="np" lemma="ensceneering" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="ensceneering" sense="ensceneering" word="ensceneering"/>
+          </node>
+        </node>
+        <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="21" infl="no_e" lcat="ppart" lemma="bedenken" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="bedenken" sense="bedenken" vform="psp" word="bedacht" wvorm="vd"/>
+        <node begin="13" cat="oti" end="25" id="22" rel="mod">
+          <node begin="13" end="14" frame="complementizer(om)" his="normal" his_1="normal" id="23" lcat="oti" lemma="om" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="om" sc="om" sense="om" vztype="init" word="om"/>
+          <node begin="14" cat="ti" end="25" id="24" rel="body">
+            <node begin="20" end="21" frame="complementizer(te)" his="normal" his_1="normal" id="25" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="14" cat="inf" end="25" id="26" rel="body">
+              <node begin="14" cat="np" end="19" id="27" rel="obj1">
+                <node begin="14" buiging="zonder" end="15" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="28" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+                <node begin="15" cat="mwu(Leiden des jungen Werthers,Leiden des jungen Werthers)" end="19" his="name" his_1="not_begin" id="29" rel="hd">
+                  <node begin="15" end="16" frame="proper_name(both)" id="30" lcat="np" lemma="Leiden" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Leiden" sense="Leiden" spectype="deeleigen" word="Leiden"/>
+                  <node begin="16" end="17" frame="proper_name(both)" id="31" lcat="np" lemma="des" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="des" sense="des" spectype="deeleigen" word="des"/>
+                  <node begin="17" end="18" frame="proper_name(both)" id="32" lcat="np" lemma="jungen" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="jungen" sense="jungen" spectype="deeleigen" word="jungen"/>
+                  <node begin="18" end="19" frame="proper_name(both)" id="33" lcat="np" lemma="Werthers" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Werthers" sense="Werthers" spectype="deeleigen" word="Werthers"/>
+                </node>
+              </node>
+              <node begin="19" end="20" frame="particle(op)" his="normal" his_1="normal" id="34" lcat="part" lemma="op" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="op" sense="op" vztype="fin" word="op"/>
+              <node begin="21" buiging="zonder" end="22" frame="verb(hebben,inf,part_als_pred_np(op))" his="normal" his_1="normal" id="35" infl="inf" lcat="inf" lemma="op_voeren" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="voer_op" sc="part_als_pred_np(op)" sense="voer_op" word="voeren" wvorm="inf"/>
+              <node begin="23" cat="cp" end="25" id="36" rel="predc">
+                <node begin="23" conjtype="onder" end="24" frame="complementizer(als)" his="normal" his_1="normal" id="37" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+                <node begin="24" case="nom" def="def" end="25" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="38" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="body" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="25" end="26" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="39" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+        <node begin="26" end="27" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="40" lcat="np" lemma="lust" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="lust" sense="lust" word="lust"/>
+      </node>
+    </node>
+    <node begin="27" end="28" frame="particle(in)" his="robust_skip" id="41" lcat="--" lemma="in" pos="part" postag="VZ(init)" pt="vz" rel="--" root="in" sense="in" vztype="init" word="in"/>
+    <node begin="28" end="29" frame="verb(hebben,past(sg),aux(inf))" his="robust_skip" id="42" infl="sg" lcat="--" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="zal" sc="aux(inf)" sense="zal" tense="past" word="zou" wvorm="pv"/>
+    <node begin="29" end="30" frame="verb(hebben,inf,aux_psp_hebben)" his="robust_skip" id="43" infl="inf" lcat="--" lemma="hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="--" root="heb" sc="aux_psp_hebben" sense="heb" word="hebben" wvorm="pv"/>
+    <node begin="30" end="31" frame="punct(punt)" his="robust_skip" id="44" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="126-3">Hij speelde maar wat en had maar eens een heel nieuwe ensceneering bedacht om die Leiden des jungen Werthers op te voeren , als hij daar lust in zou hebben .</sentence>
+  <comments>
+    <comment>Q#126-3|Hij speelde maar wat en had maar eens een heel nieuwe ensceneering bedacht om die Leiden des jungen Werthers op te voeren , als hij daar lust in zou hebben .|1|4|-1.1407940160400052</comment>
+  </comments>
+</alpino_ds>

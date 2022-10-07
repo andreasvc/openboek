@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="5" skips="4" />
+  <node begin="0" cat="top" end="31" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="determiner(des)" his="robust_skip" id="2" infl="des" lcat="--" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="det" postag="LID(bep,gen,evmo)" pt="lid" rel="--" root="de" sense="de" word="des"/>
+    <node begin="20" end="21" frame="punct(komma)" his="robust_skip" id="3" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="21" conjtype="neven" end="22" frame="conj(en)" his="robust_skip" id="4" lcat="--" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="--" root="en" sense="en" word="en"/>
+    <node begin="22" end="23" frame="determiner(des)" his="robust_skip" id="5" infl="des" lcat="--" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="det" postag="LID(bep,gen,evmo)" pt="lid" rel="--" root="de" sense="de" word="des"/>
+    <node aform="base" begin="24" end="25" frame="np_me_adjective(both(oadv))" his="robust_skip" id="6" infl="both" lcat="--" lemma="door" pos="adj" postag="VZ(init)" pt="vz" rel="--" root="door" sc="np_me" sense="door" vform="adj" vztype="init" word="door"/>
+    <node begin="0" cat="du" end="30" id="7" rel="--">
+      <node begin="0" cat="smain" end="10" id="8" rel="dp">
+        <node begin="0" end="1" frame="adverb" his="normal" his_1="decap" his_1_1="normal" id="9" lcat="advp" lemma="alsdan" pos="adv" postag="BW()" pt="bw" rel="mod" root="alsdan" sense="alsdan" word="Alsdan"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="10" infl="sg" lcat="smain" lemma="verhelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="verheel" sc="transitive" sense="verheel" stype="declarative" tense="past" word="verheelde" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="11" rel="su">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="12" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="bisschop" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bisschop" sense="bisschop" word="bisschop"/>
+        </node>
+        <node begin="4" cat="np" end="10" id="14" rel="obj1">
+          <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="5" end="6" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="verlegenheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="verlegenheid" sense="verlegenheid" word="verlegenheid"/>
+          <node begin="6" cat="rel" end="10" id="17" rel="mod">
+            <node begin="6" end="7" frame="waar_adverb(in)" his="normal" his_1="normal" id="18" index="1" lcat="pp" lemma="waarin" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarin" sense="waarin" special="waar" word="waarin"/>
+            <node begin="6" cat="ssub" end="10" id="19" rel="body">
+              <node begin="6" end="7" id="20" index="1" rel="ld"/>
+              <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="21" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+              <node begin="8" end="9" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="22" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+              <node begin="9" end="10" frame="verb(hebben,past(sg),refl_ld_pp)" his="normal" his_1="normal" id="23" infl="sg" lcat="ssub" lemma="bevinden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="bevind" sc="refl_ld_pp" sense="zich-bevind" tense="past" word="bevond" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="12" end="13" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="winter" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="dp" rnum="pl" root="winter" sense="winter" special="tmp" word="winters"/>
+      <node begin="13" cat="cp" end="20" id="25" rel="dp">
+        <node begin="13" end="14" frame="complementizer(inf)" his="normal" his_1="normal" id="26" lcat="cp" lemma="door" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="door" sc="inf" sense="door" vztype="init" word="door"/>
+        <node begin="14" cat="ti" end="20" id="27" rel="body">
+          <node begin="17" end="18" frame="complementizer(te)" his="normal" his_1="normal" id="28" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="14" cat="inf" end="20" id="29" rel="body">
+            <node begin="18" buiging="zonder" end="19" frame="verb(unacc,inf,aux(inf))" his="normal" his_1="normal" id="30" infl="inf" lcat="inf" lemma="blijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" word="blijven" wvorm="inf"/>
+            <node begin="14" cat="inf" end="20" id="31" rel="vc">
+              <node begin="14" cat="pp" end="17" id="32" rel="ld">
+                <node begin="14" end="15" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="33" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+                <node begin="15" cat="np" end="17" id="34" rel="obj1">
+                  <node begin="15" end="16" frame="determiner(den)" his="normal" his_1="variant" id="35" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+                  <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="36" lcat="np" lemma="schoorsteen" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="schoorsteen" sense="schoorsteen" word="schoorsteen"/>
+                </node>
+              </node>
+              <node begin="19" buiging="zonder" end="20" frame="verb(hebben,inf(no_e),ld_pp)" his="normal" his_1="normal" id="37" infl="inf(no_e)" lcat="inf" lemma="staan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="sta" sc="ld_pp" sense="sta" word="staan" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="23" end="24" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="38" lcat="np" lemma="zomer" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="dp" rnum="pl" root="zomer" sense="zomer" special="tmp" word="zomers"/>
+      <node begin="25" cat="ti" end="30" id="39" rel="dp">
+        <node begin="28" end="29" frame="complementizer(te)" his="normal" his_1="normal" id="40" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="25" cat="inf" end="30" id="41" rel="body">
+          <node begin="25" cat="pp" end="28" id="42" rel="ld">
+            <node begin="25" end="26" frame="preposition(in,[])" his="normal" his_1="normal" id="43" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="26" cat="np" end="28" id="44" rel="obj1">
+              <node begin="26" end="27" frame="determiner(den)" his="normal" his_1="variant" id="45" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+              <node begin="27" end="28" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="46" lcat="np" lemma="tuin" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tuin" sense="tuin" word="tuin"/>
+            </node>
+          </node>
+          <node begin="29" buiging="zonder" end="30" frame="verb('hebben/zijn',inf,ld_pp)" his="normal" his_1="normal" id="47" infl="inf" lcat="inf" lemma="wandelen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="wandel" sc="ld_pp" sense="wandel" word="wandelen" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="30" end="31" frame="punct(punt)" his="robust_skip" id="48" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="115-2">Alsdan verheelde de bisschop de verlegenheid waarin hij zich bevond , des winters door voor den schoorsteen te blijven staan , en des zomers door in den tuin te wandelen .</sentence>
+  <comments>
+    <comment>Q#115-2|Alsdan verheelde de bisschop de verlegenheid waarin hij zich bevond , des winters door voor den schoorsteen te blijven staan , en des zomers door in den tuin te wandelen .|1|9|0.2612512667999991</comment>
+  </comments>
+</alpino_ds>

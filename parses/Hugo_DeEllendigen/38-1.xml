@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="3" skips="1" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="8" end="9" frame="verb(hebben,past(sg),transitive)" his="robust_skip" id="1" infl="sg" lcat="--" lemma="bekleden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="bekleed" sc="transitive" sense="bekleed" tense="past" word="bekleedde" wvorm="pv"/>
+    <node begin="9" end="10" frame="punct(komma)" his="robust_skip" id="2" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="du" end="5" id="4" rel="dp">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(tmpadv))" graad="basis" his="decap_and_compound" his_1="2" id="5" infl="no_e" lcat="ap" lemma="zoo_lang" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="zoo_lang" sense="zoo_lang" vform="adj" word="Zoolang"/>
+        <node begin="1" cat="np" end="5" id="6" rel="dp">
+          <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="bisschop" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bisschop" sense="bisschop" word="bisschop"/>
+          <node begin="3" cat="mwu" end="5" his="name" his_1="not_begin" id="9" mwu_root="Myriel den" mwu_sense="Myriel den" rel="app">
+            <node begin="3" end="4" frame="proper_name(both,'PER')" id="10" lcat="np" lemma="Myriel" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Myriel" sense="Myriel" spectype="deeleigen" word="Myriel"/>
+            <node begin="4" end="5" frame="proper_name(both,'PER')" id="11" lcat="np" lemma="den" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="den" sense="den" spectype="deeleigen" word="den"/>
+          </node>
+        </node>
+      </node>
+      <node begin="5" cat="np" end="8" id="12" rel="dp">
+        <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="zetel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zetel" sense="zetel" word="zetel"/>
+        <node begin="6" cat="pp" end="8" id="14" rel="mod">
+          <node begin="6" end="7" frame="preposition(te,[],nodet)" his="normal" his_1="normal" id="15" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="te"/>
+          <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="16" lcat="np" lemma="D." naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="D." sense="D." word="D."/>
+        </node>
+      </node>
+      <node begin="10" cat="sv1" end="16" id="17" rel="dp">
+        <node begin="10" end="11" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="18" infl="sg" lcat="sv1" lemma="veranderen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="verander" sc="transitive" sense="verander" stype="ynquestion" tense="past" word="veranderde" wvorm="pv"/>
+        <node begin="11" case="nom" def="def" end="12" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="19" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="12" end="13" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="20" lcat="np" lemma="niets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="niets" sense="niets" special="meas_mod" status="vol" vwtype="onbep" word="niets"/>
+        <node begin="13" cat="pp" end="16" id="21" rel="mod">
+          <node begin="13" end="14" frame="preposition(in,[])" his="normal" his_1="normal" id="22" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="14" cat="np" end="16" id="23" rel="obj1">
+            <node begin="14" buiging="met-e" end="15" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="24" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="deze"/>
+            <node begin="15" end="16" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="regeling" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="regeling" sense="regeling" word="regeling"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="26" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="38-1">Zoolang de bisschop Myriel den zetel te D. bekleedde , veranderde hij niets in deze regeling .</sentence>
+  <comments>
+    <comment>Q#38-1|Zoolang de bisschop Myriel den zetel te D. bekleedde , veranderde hij niets in deze regeling .|1|4|7.219130315370005</comment>
+  </comments>
+</alpino_ds>

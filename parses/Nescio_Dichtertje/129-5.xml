@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:58" cats="2" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="2" rel="--">
+      <node begin="0" cat="du" end="2" id="3" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" case="both" def="indef" end="2" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="nucl" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" stype="whquestion" vwtype="vb" wh="ywh" word="wat"/>
+      </node>
+      <node begin="2" cat="sv1" end="14" id="6" rel="dp">
+        <node begin="2" end="3" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="7" infl="sg" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="ynquestion" tense="past" word="zou" wvorm="pv"/>
+        <node begin="3" cat="np" end="5" id="8" index="1" rel="su">
+          <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="dichteres" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="dichteres" sense="dichteres" word="dichteres"/>
+        </node>
+        <node begin="3" cat="inf" end="14" id="11" rel="vc">
+          <node begin="3" end="5" id="12" index="1" rel="su"/>
+          <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="13" lcat="np" lemma="je" naamval="obl" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pr,pron,obl,red,2v,getal)" pt="vnw" rel="obj1" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pr" wh="nwh" word="je"/>
+          <node begin="6" end="7" frame="sentence_adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+          <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="15" infl="inf" lcat="inf" lemma="verlangen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="verlang" sc="transitive" sense="verlang" word="verlangen" wvorm="inf"/>
+          <node begin="7" cat="ap" end="14" id="16" rel="mod">
+            <node aform="compar" begin="7" buiging="zonder" end="8" frame="adjective(er(adv))" graad="comp" his="normal" his_1="normal" id="17" infl="no_e" lcat="ap" lemma="goed" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="hd" root="goed" sense="goed" vform="adj" word="beter"/>
+            <node begin="10" cat="cp" end="14" id="18" rel="obcomp">
+              <node begin="10" conjtype="onder" end="11" frame="comparative(dan)" his="normal" his_1="normal" id="19" lcat="comparative" lemma="dan" pos="comparative" postag="VG(onder)" pt="vg" rel="cmp" root="dan" sense="dan" word="dan"/>
+              <node begin="11" cat="ti" end="14" id="20" rel="body">
+                <node begin="12" end="13" frame="complementizer(te)" his="normal" his_1="normal" id="21" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+                <node begin="11" cat="inf" end="14" id="22" rel="body">
+                  <node begin="11" end="12" frame="adverb" his="w_dia" id="23" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zóó"/>
+                  <node begin="13" buiging="zonder" end="14" frame="verb(unacc,inf,intransitive)" his="normal" his_1="normal" id="24" infl="inf" lcat="inf" lemma="vallen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="val" sc="intransitive" sense="val" word="vallen" wvorm="inf"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(vraag)" his="robust_skip" id="25" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="129-5">En wat zou een dichteres je ook beter verlangen , dan zóó te vallen ?</sentence>
+  <comments>
+    <comment>Q#129-5|En wat zou een dichteres je ook beter verlangen , dan zóó te vallen ?|1|2|-1.1734629970799995</comment>
+  </comments>
+</alpino_ds>

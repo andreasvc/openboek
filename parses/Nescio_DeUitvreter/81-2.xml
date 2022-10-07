@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" cat="conj" end="15" id="1" rel="--">
+      <node begin="0" cat="smain" end="9" id="2" rel="cnj">
+        <node begin="0" cat="np" end="2" id="3" rel="su">
+          <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="rivier" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="rivier" sense="rivier" word="rivier"/>
+        </node>
+        <node begin="2" end="3" frame="verb(unacc,sg_heeft,copula)" his="normal" his_1="normal" id="6" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+        <node begin="3" cat="pp" end="8" id="7" rel="mod">
+          <node begin="3" end="4" frame="preposition(sedert,[])" his="normal" his_1="normal" id="8" lcat="pp" lemma="sedert" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="sedert" sense="sedert" vztype="init" word="sedert"/>
+          <node begin="4" cat="np" end="8" id="9" rel="obj1">
+            <node begin="4" cat="pp" end="7" id="10" rel="ld">
+              <node begin="4" end="5" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="11" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+              <node begin="5" cat="np" end="7" id="12" rel="obj1">
+                <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="13" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+                <node begin="6" end="7" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="14" lcat="np" lemma="Westen" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Westen" sense="Westen" word="Westen"/>
+              </node>
+            </node>
+            <node begin="7" buiging="zonder" end="8" frame="v_noun(ld_pp)" getal-n="zonder-n" his="normal" his_1="normal" id="15" lcat="np" lemma="blijven" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="blijf" sc="ld_pp" sense="blijf" special="v_noun" word="blijven" wvorm="inf"/>
+          </node>
+        </node>
+        <node begin="8" end="9" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="16" lcat="np" lemma="stroomen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="stroomen" sense="stroomen" word="stroomen"/>
+      </node>
+      <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="17" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="10" cat="smain" end="15" id="18" rel="cnj">
+        <node begin="10" cat="np" end="12" id="19" index="1" rel="su">
+          <node begin="10" end="11" frame="determiner(de)" his="normal" his_1="normal" id="20" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="11" end="12" frame="noun(both,both,both)" gen="both" getal="mv" graad="basis" his="noun" id="21" lcat="np" lemma="menschen" ntype="soort" num="both" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="menschen" sense="menschen" word="menschen"/>
+        </node>
+        <node begin="12" end="13" frame="verb(unacc,pl,aux_psp_zijn)" his="normal" his_1="normal" id="22" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="present" word="zijn" wvorm="pv"/>
+        <node begin="10" cat="inf" end="15" id="23" rel="vc">
+          <node begin="10" end="12" id="24" index="1" rel="su"/>
+          <node begin="13" buiging="zonder" end="14" frame="verb(unacc,inf,aux(inf))" his="normal" his_1="normal" id="25" infl="inf" lcat="inf" lemma="blijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" word="blijven" wvorm="inf"/>
+          <node begin="10" cat="inf" end="15" id="26" rel="vc">
+            <node begin="10" end="12" id="27" index="1" rel="su"/>
+            <node begin="14" buiging="zonder" end="15" frame="verb(hebben,inf,ninv(intransitive,part_intransitive(voort)))" his="normal" his_1="part-V" id="28" infl="inf" lcat="inf" lemma="voort_tobben" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="tob_voort" sc="part_intransitive(voort)" sense="tob_voort" word="voorttobben" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="81-2">De rivier is sedert naar het Westen blijven stroomen en de menschen zijn blijven voorttobben .</sentence>
+  <comments>
+    <comment>Q#81-2|De rivier is sedert naar het Westen blijven stroomen en de menschen zijn blijven voorttobben .|1|1|0.23666171700000427</comment>
+  </comments>
+</alpino_ds>

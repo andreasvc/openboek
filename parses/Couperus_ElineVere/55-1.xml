@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="1" cat="whq" end="4" id="2" rel="--">
+      <node begin="1" case="both" def="indef" end="2" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="Wat"/>
+      <node begin="1" cat="sv1" end="4" id="4" rel="body">
+        <node begin="1" end="2" id="5" index="1" rel="obj1"/>
+        <node begin="2" end="3" frame="verb(hebben,sg_heeft,transitive_ndev)" his="normal" his_1="normal" id="6" infl="sg_heeft" lcat="sv1" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="whquestion" tense="present" word="heeft" wvorm="pv"/>
+        <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="8" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="55-1">- Wat heeft ze ?</sentence>
+  <comments>
+    <comment>Q#55-1|- Wat heeft ze ?|1|1|-1.188345769350001</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" cat="conj" end="14" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="cnj">
+        <node begin="0" cat="np" end="2" id="3" index="1" rel="su">
+          <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node begin="1" end="2" frame="noun(de,count,bare_meas)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="man" naamval="stan" ntype="soort" num="bare_meas" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="man" sense="man" word="man"/>
+        </node>
+        <node begin="2" end="3" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" tense="past" word="was" wvorm="pv"/>
+        <node begin="0" cat="ppart" end="4" id="7" rel="vc">
+          <node begin="0" end="2" id="8" index="1" rel="su"/>
+          <node begin="3" buiging="zonder" end="4" frame="verb('hebben/zijn',psp,intransitive)" his="normal" his_1="normal" id="9" infl="psp" lcat="ppart" lemma="verliezen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="verlies" sc="intransitive" sense="verlies" word="verloren" wvorm="vd"/>
+        </node>
+      </node>
+      <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="10" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="14" id="11" rel="cnj">
+        <node begin="0" end="2" id="12" index="1" rel="su"/>
+        <node begin="5" end="6" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" word="zou" wvorm="pv"/>
+        <node begin="0" cat="inf" end="14" id="14" rel="vc">
+          <node begin="0" end="2" id="15" index="1" rel="su"/>
+          <node begin="0" cat="ppart" end="13" id="16" rel="vc">
+            <node begin="0" end="2" id="17" index="1" rel="obj1"/>
+            <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="18" lcat="advp" lemma="eerlang" pos="adv" postag="BW()" pt="bw" rel="mod" root="eerlang" sense="eerlang" word="eerlang"/>
+            <node begin="7" cat="pp" end="12" id="19" rel="mod">
+              <node begin="7" end="8" frame="preposition(te,[],nodet)" his="normal" his_1="normal" id="20" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="te"/>
+              <node begin="8" cat="np" end="12" id="21" rel="obj1">
+                <node begin="8" end="9" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="22" lcat="np" lemma="Aix" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Aix" sense="Aix" word="Aix"/>
+                <node begin="9" cat="pp" end="12" id="23" rel="mod">
+                  <node begin="9" end="10" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="24" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+                  <node begin="10" cat="np" end="12" id="25" rel="obj1">
+                    <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="26" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+                    <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="medeplichtige" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="medeplichtige" sense="medeplichtige" word="medeplichtige"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node begin="12" buiging="zonder" end="13" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="28" infl="psp" lcat="ppart" lemma="vonnissen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="vonnis" sc="transitive" sense="vonnis" word="gevonnist" wvorm="vd"/>
+          </node>
+          <node begin="13" buiging="zonder" end="14" frame="verb(unacc,inf,passive)" his="normal" his_1="normal" id="29" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="passive" sense="word" word="worden" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="81-13">De man was verloren en zou eerlang te Aix met zijn medeplichtige gevonnist worden .</sentence>
+  <comments>
+    <comment>Q#81-13|De man was verloren en zou eerlang te Aix met zijn medeplichtige gevonnist worden .|1|1|-1.079820314139999</comment>
+  </comments>
+</alpino_ds>

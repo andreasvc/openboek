@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="2" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(punt_komma)" his="robust_skip" id="1" lcat="--" lemma=";" pos="punct" postag="LET()" pt="let" rel="--" root=";" sense=";" special="punt_komma" word=";"/>
+    <node begin="9" end="10" frame="het_noun" his="robust_skip" id="2" lcat="--" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="noun" postag="LID(bep,stan,evon)" pt="lid" rel="--" root="het" sense="het" special="het" word="het"/>
+    <node begin="10" end="11" frame="verb(hebben,sg3,transitive)" his="robust_skip" id="3" infl="sg3" lcat="--" lemma="verslinden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="--" root="verslind" sc="transitive" sense="verslind" tense="present" word="verslindt" wvorm="pv"/>
+    <node begin="11" end="12" frame="punct(punt_komma)" his="robust_skip" id="4" lcat="--" lemma=";" pos="punct" postag="LET()" pt="let" rel="--" root=";" sense=";" special="punt_komma" word=";"/>
+    <node begin="0" cat="du" end="18" id="5" rel="--">
+      <node begin="0" cat="smain" end="8" id="6" rel="dp">
+        <node begin="0" cat="np" end="2" id="7" rel="su">
+          <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="decap" his_1_1="normal" id="8" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="Het"/>
+          <node begin="1" end="2" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="schavot" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="schavot" sense="schavot" word="schavot"/>
+        </node>
+        <node begin="2" end="3" frame="verb(unacc,sg_heeft,copula)" his="normal" his_1="normal" id="10" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+        <node begin="3" cat="np" end="8" id="11" rel="predc">
+          <node begin="3" end="4" frame="determiner(de)" his="normal" his_1="normal" id="12" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="medeplichtige" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="medeplichtige" sense="medeplichtige" word="medeplichtige"/>
+          <node begin="5" cat="pp" end="8" id="14" rel="mod">
+            <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="15" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="6" cat="np" end="8" id="16" rel="obj1">
+              <node begin="6" end="7" frame="determiner(den)" his="normal" his_1="variant" id="17" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+              <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="beul" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="beul" sense="beul" word="beul"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="12" cat="conj" end="18" id="19" rel="dp">
+        <node begin="12" cat="smain" end="15" id="20" rel="cnj">
+          <node begin="12" end="13" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="21" index="1" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+          <node begin="13" end="14" frame="verb(hebben,sg,transitive)" his="normal" his_1="normal" id="22" infl="sg" lcat="smain" lemma="eten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="eet" sc="transitive" sense="eet" tense="present" word="eet" wvorm="pv"/>
+          <node begin="14" end="15" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="23" lcat="np" lemma="vleesch" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="vleesch" sense="vleesch" word="vleesch"/>
+        </node>
+        <node begin="15" conjtype="neven" end="16" frame="conj(en)" his="normal" his_1="normal" id="24" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="12" cat="smain" end="18" id="25" rel="cnj">
+          <node begin="12" end="13" id="26" index="1" rel="su"/>
+          <node begin="16" end="17" frame="verb(hebben,sg3,transitive)" his="normal" his_1="normal" id="27" infl="sg3" lcat="smain" lemma="drinken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="drink" sc="transitive" sense="drink" tense="present" word="drinkt" wvorm="pv"/>
+          <node begin="17" end="18" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="bloed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="bloed" sense="bloed" word="bloed"/>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="robust_skip" id="29" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="90-12">Het schavot is de medeplichtige van den beul ; het verslindt ; het eet vleesch en drinkt bloed .</sentence>
+  <comments>
+    <comment>Q#90-12|Het schavot is de medeplichtige van den beul ; het verslindt ; het eet vleesch en drinkt bloed .|1|4|9.123415993430001</comment>
+  </comments>
+</alpino_ds>

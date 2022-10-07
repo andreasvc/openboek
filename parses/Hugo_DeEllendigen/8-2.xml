@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="3" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" case="both" def="def" end="1" frame="pronoun(nwh,thi,sg,de,both,def)" gen="de" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="ieder" naamval="stan" num="sg" pdtype="det" per="thi" pos="pron" positie="vrij" postag="VNW(onbep,det,stan,vrij,zonder)" pt="vnw" rel="hd" rnum="sg" root="ieder" sense="ieder" vwtype="onbep" wh="nwh" word="Ieder"/>
+        <node begin="1" cat="pp" end="3" id="4" rel="mod">
+          <node begin="1" end="2" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="5" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,fir,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="6" lcat="np" lemma="ons" naamval="obl" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,mv)" pt="vnw" rel="obj1" rnum="pl" root="ons" sense="ons" status="vol" vwtype="pr" wh="nwh" word="ons"/>
+        </node>
+      </node>
+      <node begin="3" end="4" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="7" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" word="kan" wvorm="pv"/>
+      <node begin="0" cat="inf" end="9" id="8" rel="vc">
+        <node begin="0" end="3" id="9" index="1" rel="su"/>
+        <node begin="5" cat="np" end="7" id="10" rel="obj1">
+          <node begin="5" buiging="zonder" end="6" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="11" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+          <node begin="6" end="7" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="voordeel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="voordeel" sense="voordeel" word="voordeel"/>
+        </node>
+        <node begin="4" cat="pp" end="8" id="13" rel="pc">
+          <node begin="4" end="5" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="14" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="obj1" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="hier"/>
+          <node begin="7" end="8" frame="preposition(met,[mee],extracted_np)" his="normal" his_1="normal" id="15" lcat="pp" lemma="met" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="met" sc="extracted_np" sense="met" vztype="fin" word="mee"/>
+        </node>
+        <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf(no_e),np_pc_pp(met))" his="normal" his_1="normal" id="16" infl="inf(no_e)" lcat="inf" lemma="doen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="doe" sc="np_pc_pp(met)" sense="doe-met" word="doen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="skip" id="18" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="8-2">Ieder van ons kan hier zijn voordeel mee doen . &quot;</sentence>
+  <comments>
+    <comment>Q#8-2|Ieder van ons kan hier zijn voordeel mee doen . &quot;|1|1|5.059618370459999</comment>
+  </comments>
+</alpino_ds>

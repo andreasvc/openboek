@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="3" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="1" end="2" frame="waar_adverb(over)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="pp" lemma="waarover" pos="pp" postag="BW()" pt="bw" rel="--" root="waarover" sense="waarover" special="waar" stype="whquestion" word="Waarover"/>
+    <node begin="2" end="3" frame="punct(vraag)" his="normal" his_1="normal" id="3" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="118-1">- Waarover ?</sentence>
+  <comments>
+    <comment>Q#118-1|- Waarover ?|1|1|0.24930629997</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:03" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="15" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="15" id="4" rel="nucl">
+        <node begin="1" cat="np" end="3" id="5" rel="su">
+          <node begin="1" end="2" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="2" end="3" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="dim" his="noun" id="7" lcat="np" lemma="dichtertje" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="dichtertje" sense="dichtertje" word="dichtertje"/>
+        </node>
+        <node begin="3" end="4" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="denken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="denk" sc="tr_sbar" sense="denk" stype="declarative" tense="past" word="dacht" wvorm="pv"/>
+        <node begin="5" cat="cp" end="15" id="9" rel="vc">
+          <node begin="5" conjtype="onder" end="6" frame="complementizer(dat)" his="normal" his_1="normal" id="10" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="6" cat="ssub" end="15" id="11" rel="body">
+            <node begin="6" case="both" def="def" end="7" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="12" index="1" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+            <node begin="10" end="11" frame="verb('hebben/zijn',sg_hebt,aux(inf))" his="normal" his_1="normal" id="13" infl="sg_hebt" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" tense="present" word="kunt" wvorm="pv"/>
+            <node begin="6" cat="inf" end="15" id="14" rel="vc">
+              <node begin="6" end="7" id="15" index="1" rel="su"/>
+              <node begin="9" end="10" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="wiel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="predc" rnum="sg" root="wiel" sense="wiel" word="wiel"/>
+              <node begin="11" buiging="zonder" end="12" frame="verb(zijn,inf,so_copula)" his="normal" his_1="normal" id="17" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="so_copula" sense="ben" word="wezen" wvorm="inf"/>
+              <node begin="7" cat="np" end="15" id="18" rel="obj2">
+                <node begin="8" end="9" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="19" lcat="np" lemma="zoo&apos;n" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zoo&apos;n" sense="zoo&apos;n" word="zoo&apos;n"/>
+                <node begin="7" cat="ap" end="15" id="20" rel="mod">
+                  <node aform="compar" begin="7" buiging="zonder" end="8" frame="adjective(er(adv))" graad="comp" his="normal" his_1="normal" id="21" infl="no_e" lcat="ap" lemma="goed" pos="adj" positie="prenom" postag="ADJ(prenom,comp,zonder)" pt="adj" rel="hd" root="goed" sense="goed" vform="adj" word="beter"/>
+                  <node begin="12" cat="cp" end="15" id="22" rel="obcomp">
+                    <node begin="12" conjtype="onder" end="13" frame="comparative(dan)" his="normal" his_1="normal" id="23" lcat="comparative" lemma="dan" pos="comparative" postag="VG(onder)" pt="vg" rel="cmp" root="dan" sense="dan" word="dan"/>
+                    <node begin="13" cat="np" end="15" id="24" rel="body">
+                      <node begin="13" end="14" frame="determiner(een)" his="normal" his_1="normal" id="25" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                      <node begin="14" end="15" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="dim" his="noun" id="26" lcat="np" lemma="dichtertje" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="dichtertje" sense="dichtertje" word="dichtertje"/>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="27" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="18-6">En &apos;t dichtertje dacht , dat je beter zoo&apos;n wiel kunt wezen dan een dichtertje .</sentence>
+  <comments>
+    <comment>Q#18-6|En &apos;t dichtertje dacht , dat je beter zoo&apos;n wiel kunt wezen dan een dichtertje .|1|1|-8.31423337632</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:43" cats="3" skips="2" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" end="1" frame="dip_sbar_adverb" his="robust_skip" id="1" lcat="--" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="--" root="zo" sc="dip_sbar" sense="zo" word="Zoo"/>
+    <node begin="6" end="7" frame="determiner(den)" his="robust_skip" id="2" infl="den" lcat="--" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="--" root="de" sense="de" word="den"/>
+    <node begin="8" end="9" frame="punct(komma)" his="robust_skip" id="3" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="15" id="4" rel="--">
+      <node begin="1" cat="sv1" end="6" id="5" rel="dp">
+        <node begin="1" end="2" frame="verb(hebben,past(sg),part_transitive(aan))" his="normal" his_1="normal" id="6" infl="sg" lcat="sv1" lemma="aan_raken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="raak_aan" sc="part_transitive(aan)" sense="raak_aan" stype="ynquestion" tense="past" word="raakte" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="7" rel="su">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="8" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="3" end="4" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="9" lcat="np" lemma="eene" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="eene" sense="eene" word="eene"/>
+        </node>
+        <node begin="4" end="5" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="dag" sense="dag" special="tmp" word="dag"/>
+        <node begin="5" end="6" frame="particle(aan)" his="normal" his_1="normal" id="11" lcat="part" lemma="aan" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="aan" sense="aan" vztype="fin" word="aan"/>
+      </node>
+      <node aform="compar" begin="7" buiging="met-e" end="8" frame="nominalized_compar_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="ander" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="dp" rnum="pl" root="ander" sense="ander" special="a_noun" word="anderen"/>
+      <node begin="9" cat="np" end="15" id="13" rel="dp">
+        <node begin="9" end="10" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="14" lcat="np" lemma="zooals" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="zooals" sense="zooals" word="zooals"/>
+        <node begin="10" cat="rel" end="15" id="15" rel="mod">
+          <node begin="10" case="no_obl" end="11" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="16" index="1" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+          <node begin="10" cat="ssub" end="15" id="17" rel="body">
+            <node begin="10" end="11" id="18" index="1" rel="su"/>
+            <node begin="11" cat="pp" end="13" id="19" rel="mod">
+              <node begin="11" end="12" frame="preposition(in,[])" his="normal" his_1="normal" id="20" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+              <node begin="12" end="13" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="decap" his_1="not_begin" id="21" lcat="np" lemma="juni" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="juni" sense="juni" special="tmp" word="Juni"/>
+            </node>
+            <node begin="13" end="14" frame="sentence_adverb" his="normal" his_1="normal" id="22" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+            <node begin="14" end="15" frame="verb(unacc,sg_heeft,intransitive)" his="normal" his_1="normal" id="23" infl="sg_heeft" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="intransitive" sense="ben" tense="present" word="is" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="robust_skip" id="24" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="20-12">Zoo raakte de eene dag aan den anderen , zooals dat in Juni altijd is .</sentence>
+  <comments>
+    <comment>Q#20-12|Zoo raakte de eene dag aan den anderen , zooals dat in Juni altijd is .|1|5|5.301700695949999</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,933 @@
+filename	sentno	begin	end	gender	number	mentions
+Verne_ReisOmDeWereld	0	0	2	m	sg	JULES VERNE
+Verne_ReisOmDeWereld	1	3	5	n	sg	DE WERELD, wereld, de wereld, dit, de wereld, de wereld, de wereld, haar, de wereld, de wereld, de wereld, de wereld, de wereld, de wereld, wereld, de wereld, de wereld, de wereld, de wereld, de wereld
+Verne_ReisOmDeWereld	1	0	8	n	sg	DE REIS OM DE WERELD IN 80 DAGEN, De reis om de wereld in tachtig dagen, de reis, een reis om de wereld, Een reis om de wereld, de reis, de reis om de wereld in tachtig dagen, de reis, mijne reis, De reis om de wereld, Een reis om de wereld in tachtig dagen, zij, de quaestie, deze onderneming, dit plan, zijne onderneming, een reis om de wereld, een reis om de wereld, die
+Verne_ReisOmDeWereld	2	1	5	n	sg	DE 30e FRANSCHE UITGAVE
+Verne_ReisOmDeWereld	3	0	2	m	sg	GERARD KELLER
+Verne_ReisOmDeWereld	5	1	3	m	sg	Phileas Fogg, den een, meester, Phileas Fogg esq, een der zonderlingste en meest bekende leden van de Reform-club te Londen, hij, zijn, zich, Phileas Fogg, een raadselachtig persoon, hij, een hoogst wellevend man, een der schoonste gentlemen uit de aanzienlijkste kringen, hij, zijn, zijn hoofd, zijne, Engelschman van geboorte, hij, hem, Phileas Fogg, Hij, Zijn, hij, Hij, Hij, Hij, Phileas Fogg, een geheimzinnig man onder de leden van dien aanzienlijken kring, hij, hij, zijne, hij, crediteur, deze Phileas Fogg, hij, Fogg, de laatste, hij, deze gentleman, Hij, hem, zijn, hij, hij, zijn, hij, hij, hij, zijne, hij, Hij, zijn, Phileas Fogg, hem, zijn, hem, Hij, zijne, zijn, hij, hij, hij, Fogg, hij, hem, zich, zich, zijn, Phileas Fogg, Hij, zijn, hem, Zijn, hij, Hij, zijn, zijne, Hij, zijn, hij, zijne, hij, hij, zijne, den heer des huizes, Phileas Fogg, zijn, hem, hij, zijn, hem, hij, Phileas Fogg, zijn, zijn, Fogg, zijne, zijn, zich, zijn, hij, Phileas Fogg, uw, mijnheer, u, de heer Phileas Fogg, u, mij, Ik, mijne, mijnheer, Fogg, mijnheer, mijn, Phileas Fogg, zijn, zijn, zijn, zijn meester, die, mijn nieuwe meester, Phileas Fogg, zijn aanstaanden meester, een man van omstreeks veertig jaar met een edel , schoon gelaat, Hij, hij, zijne, die gentleman, Phileas Fogg, de nauwgezetheid in persoon, zijne, zijne, Phileas Fogg, een van die mathematisch nauwkeurige mannen, Hij, hij, Hij, zich, hem, Hij, de minst gejaagde man ter wereld, hij, hij, Hij, hij, Phileas Fogg, zijn meester, Phileas Fogg esq, Een man, die, die, die, zijn, zijn meester, Phileas Fogg, Phileas Fogg, hij, zich, de stelselmatige Engelschman, zich, zijn meester, den heer Fogg, zijne, die, mijnheer Fogg, Een huiselijk en ordelijk man, Een echte automaat, Phileas Fogg, Phileas Fogg, zijn, zijn, zijn, zijn, zijn, hij, Phileas Fogg, hij, zijn, hem, zijn, hij, de gentleman, zich, zijne, Phileas Fogg, hij, Phileas Fogg, hij, zich, Phileas Fogg's, Hij, die, Phileas Fogg, hem, Phileas Fogg, zijn, zijn, Fogg, zij, Phileas Fogg, u, hij, mijnheer Fogg, Phileas Fogg, Phileas Fogg, Phileas Fogg, Phileas Fogg, die, zijn, zijn, ge, mijnheer Fogg, u, Fogg, Ik, ik, zijn medespeler, Phileas Fogg, gij, mijnheer Fogg, Fogg, zich, zijn, hij, Ik, Ik, gij, Fogg, mijnheer Fogg, Ik, Phileas Fogg, Ik, ik, Fogg, ik, Fogg, hij, ik, ik, Phileas Fogg, Hij, zijn, zijn, hij, hij, zijne, Fogg, hij, zijn, Ik, de kalme gentleman, hij, Phileas Fogg, zijn, Phileas Fogg, zijn, hij, zijne, zijne, mijnheer Fogg, zich, zijne, de bewoner van Saville Row, Phileas Fogg, zijn, Fogg, Ik, Fogg, Fogg, Ik, Fogg, ik, mijnheer, zijn meester, de heer Fogg, mijn, Fogg, een gek, een gentleman, die, die gentleman, die, hij, zich, zijn meester, Fogg, Fogg, hij, Hij, Passepartout, hij, mijnheer, Fogg, zijn, Fogg, zijn, Phileas Fogg, zijn, Zijn meester, Phileas Fogg, Fogg, hij, hij, ik, ik, hij, Zijn meester, Fogg, zijn, Fogg, hij, zich, hij, zijn, Mijne, hij, ik, mijne, mijne, mijnheer Fogg, uw, Phileas Fogg, Gij, ge, Fogg, mijne, Phileas Fogg, zijn, Phileas Fogg, zijn, Fogg, Fogg, Phileas Fogg, hij, zijn, Phileas Fogg, zich, den heer Fogg, zijne, Phileas Fogg, zijn, Fogg's, hij, Phileas Fogg, zijne, den reiziger, zijn, den heer Fogg, hij, Phileas Fogg, hij, zijne, Phileas Fogg, den gentleman, zijne, Phileas Fogg, hem, zijn, hem, Phileas Fogg, Phileas Fogg, hem, hem, zijn, hem, Ik, Phileas Fogg, Phileas Fogg's, zijne, hij, Phileas Fogg
+Verne_ReisOmDeWereld	5	4	5	n	sg	Passepartout, den ander, knecht
+Verne_ReisOmDeWereld	5	5	6	fm	pl	elkander
+Verne_ReisOmDeWereld	6	5	15	n	sg	het huis no. 7 in Saville Row , Burlington Gardens, waarin, zijn huis, zijn huis in Saville Row, zijn huis, zijne woning, het huis, Het huis in Saville Row, zich, des huizes, zijn huis, het huis no. 7 van Saville Row, huis, het huis van Saville Row, het huis, dit huis in Saville Row, dat, het huis, de geheele woning, zijn huis in Saville Row
+Verne_ReisOmDeWereld	6	10	15	n	sg	Saville Row , Burlington Gardens
+Verne_ReisOmDeWereld	6	17	18	m	sg	Sheridan
+Verne_ReisOmDeWereld	6	37	41	n	sg	de Reform-club te Londen, de Reform-club, de club, zijn club, de club, hare, der club, die, hun, de club, der club, de club, zijn, zijn, zijn, der club, zijne, de Reform-club, de Reform-club, de Reform-club, de Reform-club, een groot gebouw in Pall Mall, dat, de Reform-club, de Reform-club, die club, der Reform-club, de Reform club, de Reform-club, de Reform-club, der Reform-club, de Reform-club, de Reform-club, der Reform-club
+Verne_ReisOmDeWereld	6	40	41	n	sg	Londen, Londen, Engelands hoofdstad, Londen, Londen, Londen, der hoofdstad, Londen, Londen, Londen, Londen, de hoofdstad, LONDEN
+Verne_ReisOmDeWereld	6	49	51	n	sg	zijn vermogen
+Verne_ReisOmDeWereld	6	53	55	n	sg	de aandacht
+Verne_ReisOmDeWereld	7	0	4	n	sg	Een der welsprekendste redenaars, Engeland, zich, Engeland, het vereenigd koninkrijk, Engeland, Engeland, het Vereenigde Koninkrijk, Engeland, geheel Engeland, het gansche Vereenigde Koninkrijk, Engeland, het Vereenigde Koninkrijk, Engeland
+Verne_ReisOmDeWereld	7	24	25	fm	sg	men, Men, Men, Men
+Verne_ReisOmDeWereld	7	42	45	n	pl	de aanzienlijkste kringen, aanzienlijken kring
+Verne_ReisOmDeWereld	8	5	6	n	sg	Byron, een Byron met baard en knevel, een kalme Byron, die
+Verne_ReisOmDeWereld	8	14	16	n	pl	zijne voeten
+Verne_ReisOmDeWereld	10	5	7	n	sg	de beurs
+Verne_ReisOmDeWereld	10	9	11	n	sg	de bank
+Verne_ReisOmDeWereld	10	15	19	n	sg	eenig kantoor der City
+Verne_ReisOmDeWereld	10	17	19	n	sg	der City
+Verne_ReisOmDeWereld	11	1	3	n	pl	de bassins
+Verne_ReisOmDeWereld	11	5	9	n	pl	de dokken te Londen
+Verne_ReisOmDeWereld	11	11	13	n	sg	eenig schip, dat
+Verne_ReisOmDeWereld	13	0	2	n	sg	Zijn naam
+Verne_ReisOmDeWereld	13	7	11	n	sg	een gezelschap van advocaten
+Verne_ReisOmDeWereld	13	10	11	fm	pl	advocaten
+Verne_ReisOmDeWereld	13	14	15	n	sg	Temple-bar
+Verne_ReisOmDeWereld	13	18	19	n	sg	Lincolns-inn
+Verne_ReisOmDeWereld	14	5	9	n	sg	de Court of Chancery
+Verne_ReisOmDeWereld	14	12	13	n	sg	Queens-bench
+Verne_ReisOmDeWereld	14	16	18	n	sg	de Rekenkamer
+Verne_ReisOmDeWereld	14	20	23	n	sg	het kerkelijk Hooggerechtshof
+Verne_ReisOmDeWereld	16	5	9	n	sg	het Koninklijk Britsch Instituut
+Verne_ReisOmDeWereld	16	12	15	n	sg	het Londensch Instituut
+Verne_ReisOmDeWereld	16	18	22	n	sg	de Maatschappij van Werklieden
+Verne_ReisOmDeWereld	16	25	28	n	sg	het Russels Instituut
+Verne_ReisOmDeWereld	16	31	36	n	sg	het Westersch Genootschap van Letterkunde
+Verne_ReisOmDeWereld	16	39	43	n	sg	de Vereeniging voor Rechtsgeleerdheid
+Verne_ReisOmDeWereld	16	46	53	n	sg	het Vereenigd Genootschap van Kunsten en Wetenschappen, dat
+Verne_ReisOmDeWereld	16	59	61	f	sg	der Koningin
+Verne_ReisOmDeWereld	17	7	11	n	pl	andere vereenigingen en genootschappen
+Verne_ReisOmDeWereld	17	20	23	n	sg	de maatschappij Armonica
+Verne_ReisOmDeWereld	17	25	28	n	sg	het Entomologisch Genootschap, dat
+Verne_ReisOmDeWereld	17	34	36	n	pl	schadelijke insecten
+Verne_ReisOmDeWereld	19	1	2	fm	sg	zich
+Verne_ReisOmDeWereld	19	11	17	fm	pl	de leden van dien aanzienlijken kring
+Verne_ReisOmDeWereld	19	22	24	n	sg	de verklaring
+Verne_ReisOmDeWereld	19	25	27	n	sg	de omstandigheid
+Verne_ReisOmDeWereld	19	33	36	fm	pl	de gebroeders Baring, de gebroeders Baring, de gebroeders Baring
+Verne_ReisOmDeWereld	19	40	43	n	sg	een open crediet
+Verne_ReisOmDeWereld	20	2	4	n	pl	zijne wissels
+Verne_ReisOmDeWereld	20	10	11	n	sg	zijn
+Verne_ReisOmDeWereld	20	10	12	n	sg	zijn rekening-courant
+Verne_ReisOmDeWereld	24	3	6	n	pl	de best ingelichten
+Verne_ReisOmDeWereld	24	17	18	fm	sg	men
+Verne_ReisOmDeWereld	25	23	30	n	sg	eene goede , nuttige of loffelijke zaak
+Verne_ReisOmDeWereld	25	32	33	m	sg	hij
+Verne_ReisOmDeWereld	27	6	8	n	sg	die stilzwijgendheid
+Verne_ReisOmDeWereld	27	10	12	n	sg	het geheimzinnige, dat
+Verne_ReisOmDeWereld	28	14	19	n	sg	een mathematische herhaling van hetzelfde
+Verne_ReisOmDeWereld	28	21	23	n	sg	de verbeelding
+Verne_ReisOmDeWereld	30	8	10	n	sg	de wereldkaart
+Verne_ReisOmDeWereld	30	11	13	n	sg	zijn hoofd
+Verne_ReisOmDeWereld	31	1	4	n	sg	een afgelegen plekje
+Verne_ReisOmDeWereld	32	16	19	n	pl	de dwalingen weg, die
+Verne_ReisOmDeWereld	32	23	29	n	pl	de praatjes omtrent verloren geraakte reizigers
+Verne_ReisOmDeWereld	32	26	29	fm	pl	verloren geraakte reizigers, hun
+Verne_ReisOmDeWereld	32	32	36	n	sg	de meest waarschijnlijke verklaring
+Verne_ReisOmDeWereld	32	37	39	n	sg	hun lot
+Verne_ReisOmDeWereld	32	40	42	n	pl	zijne woorden
+Verne_ReisOmDeWereld	32	46	48	n	sg	een visioen, dat
+Verne_ReisOmDeWereld	32	54	55	n	pl	zich
+Verne_ReisOmDeWereld	33	8	10	n	sg	zijn geest
+Verne_ReisOmDeWereld	34	0	2	n	sg	Een ding
+Verne_ReisOmDeWereld	35	0	1	fm	pl	Zij, die
+Verne_ReisOmDeWereld	35	3	5	n	sg	de eer
+Verne_ReisOmDeWereld	35	12	13	fm	pl	anderen
+Verne_ReisOmDeWereld	35	19	21	n	sg	den weg, die
+Verne_ReisOmDeWereld	35	23	26	n	sg	den kortsten afstand
+Verne_ReisOmDeWereld	37	1	3	n	sg	dit spel, dat, het spel, Het spel, het spel, het spel
+Verne_ReisOmDeWereld	37	14	16	n	sg	zijn karakter
+Verne_ReisOmDeWereld	37	23	25	n	sg	die winst, ze, de winst
+Verne_ReisOmDeWereld	37	34	36	n	pl	liefdadige doeleinden
+Verne_ReisOmDeWereld	39	5	7	n	sg	een strijd
+Verne_ReisOmDeWereld	39	8	12	n	sg	een worsteling tegen moeielijkheden, eene worsteling, de beweging van een automaat
+Verne_ReisOmDeWereld	39	11	12	n	pl	moeielijkheden, zijn
+Verne_ReisOmDeWereld	39	33	35	n	sg	zijn inborst
+Verne_ReisOmDeWereld	40	5	6	fm	pl	men
+Verne_ReisOmDeWereld	40	14	16	fm	pl	den besten
+Verne_ReisOmDeWereld	41	7	9	n	pl	Saville Row, Saville Row, Saville Row, Saville Row, Saville Row, Saville Row, Saville Row, Saville Row
+Verne_ReisOmDeWereld	42	0	3	n	sg	Zijn huiselijk leven
+Verne_ReisOmDeWereld	43	1	4	fm	sg	een enkelen knecht
+Verne_ReisOmDeWereld	44	8	15	n	pl	dezelfde , met chronometrische juistheid afgepaste uren
+Verne_ReisOmDeWereld	44	17	19	n	sg	dezelfde zaal
+Verne_ReisOmDeWereld	44	21	23	n	sg	dezelfde tafel
+Verne_ReisOmDeWereld	44	25	27	fm	pl	zijne collega's
+Verne_ReisOmDeWereld	45	20	24	n	pl	de goed ingerichte slaapvertrekken, die
+Verne_ReisOmDeWereld	45	32	34	fm	pl	hare leden, wier leden, wij, zijn collega's, die, de leden der Reform-club, hen, zijn collega's, de leden der Reform-club, De een, zijn medeleden van de Reform-club, zij
+Verne_ReisOmDeWereld	46	17	22	n	sg	de zorg voor zijn toilet
+Verne_ReisOmDeWereld	46	20	22	n	sg	zijn toilet, zijn toilet
+Verne_ReisOmDeWereld	47	8	10	n	sg	denzelfden tred
+Verne_ReisOmDeWereld	47	11	16	n	sg	de voorzaal met ingelegden vloer
+Verne_ReisOmDeWereld	47	18	23	n	sg	de galerij om het huis, waarover
+Verne_ReisOmDeWereld	47	25	28	n	sg	een glazen dak, zich, rustende
+Verne_ReisOmDeWereld	47	33	38	n	pl	ionische kolommen van rood porfier
+Verne_ReisOmDeWereld	47	36	38	n	sg	rood porfier
+Verne_ReisOmDeWereld	48	9	11	n	sg	de keuken
+Verne_ReisOmDeWereld	48	12	14	n	sg	de spijskamer
+Verne_ReisOmDeWereld	48	15	17	n	sg	den kelder, den kelder
+Verne_ReisOmDeWereld	48	18	20	n	sg	den vischvijver
+Verne_ReisOmDeWereld	48	21	23	n	sg	het roomhuis
+Verne_ReisOmDeWereld	48	30	32	n	sg	hun voorraad
+Verne_ReisOmDeWereld	48	33	35	n	sg	zijne tafel
+Verne_ReisOmDeWereld	48	39	41	fm	pl	de bedienden, in het zwart gekleede personen met vilten zolen onder hunne schoenen, die, zijn eenigen bediende
+Verne_ReisOmDeWereld	48	59	61	n	pl	de spijzen
+Verne_ReisOmDeWereld	48	63	68	n	sg	het eigen servies der club
+Verne_ReisOmDeWereld	48	70	75	n	sg	het eigen fijn damast tafellaken
+Verne_ReisOmDeWereld	48	77	80	n	pl	de kristallen glazen
+Verne_ReisOmDeWereld	48	81	86	n	sg	eigen model van de club
+Verne_ReisOmDeWereld	48	88	90	n	sg	zijn sherry
+Verne_ReisOmDeWereld	48	91	93	n	sg	zijn portwijn
+Verne_ReisOmDeWereld	48	94	96	n	sg	zijn bordeaux
+Verne_ReisOmDeWereld	48	99	100	n	sg	kaneel
+Verne_ReisOmDeWereld	48	101	103	n	pl	aromatische kruiden
+Verne_ReisOmDeWereld	48	106	110	n	sg	het ijs der club
+Verne_ReisOmDeWereld	48	112	114	n	pl	groote kosten
+Verne_ReisOmDeWereld	48	115	119	n	pl	de amerikaansche meren aangevoerd, dat
+Verne_ReisOmDeWereld	48	121	123	n	pl	zijne dranken
+Verne_ReisOmDeWereld	49	2	4	n	sg	deze wijze
+Verne_ReisOmDeWereld	49	10	12	n	sg	die zonderlingheid, hare
+Verne_ReisOmDeWereld	49	14	17	n	sg	hare goede zijde
+Verne_ReisOmDeWereld	50	14	17	n	sg	bijzonder gemakkelijke inrichting
+Verne_ReisOmDeWereld	51	0	9	n	sg	De nooit wisselende gewoonte van den heer des huizes
+Verne_ReisOmDeWereld	51	11	13	n	sg	de dienst
+Verne_ReisOmDeWereld	52	8	10	n	sg	eene stiptheid
+Verne_ReisOmDeWereld	52	11	13	n	sg	eene regelmatigheid
+Verne_ReisOmDeWereld	53	4	5	fm	pl	wij
+Verne_ReisOmDeWereld	53	16	20	m	sg	zijn knecht James Forster, zijn, deze, zich, hij, diens, James Forster, de ontslagen knecht
+Verne_ReisOmDeWereld	53	21	23	n	sg	zijn dienst
+Verne_ReisOmDeWereld	53	29	31	n	sg	het misdrijf
+Verne_ReisOmDeWereld	53	38	39	n	sg	scheerwater
+Verne_ReisOmDeWereld	53	54	56	fm	sg	diens opvolger
+Verne_ReisOmDeWereld	54	4	6	n	sg	zijn leunstoel
+Verne_ReisOmDeWereld	54	7	9	n	pl	de beenen, elkander
+Verne_ReisOmDeWereld	54	13	18	fm	sg	een soldaat op een parade
+Verne_ReisOmDeWereld	54	16	18	n	sg	een parade
+Verne_ReisOmDeWereld	54	19	25	n	pl	de handen rustende op zijn knieën
+Verne_ReisOmDeWereld	54	23	25	n	pl	zijn knieën
+Verne_ReisOmDeWereld	54	26	28	n	sg	het bovenlichaam
+Verne_ReisOmDeWereld	54	31	33	n	sg	het hoofd
+Verne_ReisOmDeWereld	54	37	39	n	sg	de pendule, een zeer samengesteld uurwerk, dat, de pendule in de slaapkamer van Phileas Fogg
+Verne_ReisOmDeWereld	55	10	13	n	sg	zijne dagelijksche gewoonte
+Verne_ReisOmDeWereld	56	1	3	n	sg	dit oogenblik
+Verne_ReisOmDeWereld	56	8	11	n	sg	zijn klein salon
+Verne_ReisOmDeWereld	57	1	4	m	sg	De nieuwe bediende, Een man van dertig jaar, Gij, een Franschman, John, Jean, de binnenkomende, Jean Passepartout, ik, ik, mijn, mij, Ik, ik, een eerlijke jongen, ik, ik, Ik, ik, ik, mijne, ik, sergeant bij de pompiers te Parijs, Ik, mijne, ik, ik, ik, kamerdienaar in Engeland, ik, ik, ik, mij, mijn, Passepartout, Passepartout, mij, de gentleman, u, u, gij, gij, Passepartout, zijn, Gij, mij, Gij, zij, gij, Passepartout, zijn, hij, zijn, Passepartout, Passepartout, hij, zijn, mijn, Passepartout, zich zelven, hij, zijne, ik, mijn, hij, Passepartout, zijn, Jean, Passepartout, deze, een echte Parijzenaar uit Parijs, hij, hij, hij, hij, zich, Passepartout, Hij, een goede kerel met vriendelijk gelaat, een zachtaardig en gedienstig wezen, Hij, hij, zijne, Zijne, hij, zijne, zijn, den knecht, Passepartout, de man, zijn, zijne, hij, hij, hij, zijn, hem, hij, zijn, Hij, Passepartout, den, Zijn, Passepartout, zijn, hij, hij, hij, Hij, Hij, zich, Passepartout, Hij, Hij, den, hem, hem, hij, hem, zijn, haar, zijn, me, me, Passepartout, zich, Hij, hij, Passepartout, zijn, zijn, Passepartout, zich, zijn, hij, zich zelven, me, mijne, ik, ik, zijn knecht Passepartout, Passepartout, die, hij, Passepartout, Passepartout, hem, Passepartout, Passepartout, u, Passepartout, hem, u, den Franschman, hij, hij, zijn, Passepartout, hij, Passepartout, zijn, u, Gij, mijn, Passepartout, hij, Hij, zijne, me, ik, hij, zijne, hij, den goeden jongen , die sedert vijf jaar den vaderlandschen bodem niet had gedrukt, hij, Passepartout, zijn, zijn, zijn, hij, Hij, Gij, Mijn, mijn, Passepartout, Passepartouts, zijn bediende, Passepartout, Zijn, hem, Passepartont, zijne, Zijn, zijne, zijn bediende, Passepartout, zijn bediende, Passepartout, zich, Passepartout, Ik, mijne, mijn, mijne, uwe
+Verne_ReisOmDeWereld	60	16	18	n	sg	een naam
+Verne_ReisOmDeWereld	60	28	30	n	sg	mijn talent
+Verne_ReisOmDeWereld	62	6	10	fm	sg	oppasser in een paardenspel
+Verne_ReisOmDeWereld	62	8	10	n	sg	een paardenspel
+Verne_ReisOmDeWereld	62	14	16	n	sg	het trapèze
+Verne_ReisOmDeWereld	62	18	19	n	sg	Léotard
+Verne_ReisOmDeWereld	62	23	24	f	sg	Blondin
+Verne_ReisOmDeWereld	62	30	32	n	sg	de gymnastiek
+Verne_ReisOmDeWereld	62	39	41	n	pl	mijne talenten
+Verne_ReisOmDeWereld	62	49	53	fm	pl	de pompiers te Parijs
+Verne_ReisOmDeWereld	62	52	53	n	sg	Parijs, Parijs, Parijs, deze groote hoofdstad, Parijs
+Verne_ReisOmDeWereld	63	3	5	n	pl	mijne papieren
+Verne_ReisOmDeWereld	63	6	8	n	pl	belangrijke brand-rapporten
+Verne_ReisOmDeWereld	64	6	7	n	sg	Frankrijk
+Verne_ReisOmDeWereld	65	41	43	n	sg	de hoop
+Verne_ReisOmDeWereld	67	1	2	fm	sg	Men
+Verne_ReisOmDeWereld	68	2	4	n	pl	goede berichten
+Verne_ReisOmDeWereld	69	2	4	n	pl	mijne voorwaarden
+Verne_ReisOmDeWereld	73	16	18	n	sg	zijn vestjeszak
+Verne_ReisOmDeWereld	73	19	22	n	sg	ontzaglijk zilveren horloge
+Verne_ReisOmDeWereld	78	5	7	n	sg	het verschil
+Verne_ReisOmDeWereld	79	1	3	n	sg	dit oogenblik
+Verne_ReisOmDeWereld	79	23	25	n	sg	mijn dienst
+Verne_ReisOmDeWereld	80	12	14	n	sg	zijn linkerhand
+Verne_ReisOmDeWereld	80	14	16	n	sg	zijn hoed, dien
+Verne_ReisOmDeWereld	80	23	25	n	sg	een automaat
+Verne_ReisOmDeWereld	80	26	28	n	sg	zijn hoofd
+Verne_ReisOmDeWereld	80	31	33	n	sg	een woord
+Verne_ReisOmDeWereld	81	2	4	n	sg	de voordeur, haar
+Verne_ReisOmDeWereld	81	23	25	fm	sg	zijn voorganger, die
+Verne_ReisOmDeWereld	84	2	4	n	sg	de overtuiging, dat
+Verne_ReisOmDeWereld	84	9	11	n	sg	zijn ideaal
+Verne_ReisOmDeWereld	85	2	6	n	sg	mijn woord van eer
+Verne_ReisOmDeWereld	85	5	6	n	sg	eer
+Verne_ReisOmDeWereld	85	17	20	n	sg	zijne eerste verbazing
+Verne_ReisOmDeWereld	85	29	31	n	sg	madame Tussaud, Madame Tussaud, een museum van wassenbeelden, dat
+Verne_ReisOmDeWereld	85	31	32	n	pl	poppen, die, de poppen
+Verne_ReisOmDeWereld	86	4	7	fm	pl	de meeste lezers
+Verne_ReisOmDeWereld	86	16	17	n	pl	wassenbeelden
+Verne_ReisOmDeWereld	86	21	22	fm	pl	Engelschen, die koelbloedige Engelschen, die, de Engelschen, hunne, der Engelschen, zij
+Verne_ReisOmDeWereld	86	32	34	n	sg	de spraak
+Verne_ReisOmDeWereld	86	36	38	fm	pl	wezenlijke menschen
+Verne_ReisOmDeWereld	87	1	4	n	pl	de weinige oogenblikken, die
+Verne_ReisOmDeWereld	88	9	14	n	sg	een edel , schoon gelaat
+Verne_ReisOmDeWereld	88	15	17	n	sg	hooge gestalte, die
+Verne_ReisOmDeWereld	88	20	23	n	sg	eene zekere gezetheid
+Verne_ReisOmDeWereld	88	27	37	n	sg	blond van haar en baard met een effen rimpelloos voorhoofd, rood van kleur en met prachtige tanden
+Verne_ReisOmDeWereld	88	33	37	n	sg	een effen rimpelloos voorhoofd
+Verne_ReisOmDeWereld	88	46	48	n	pl	prachtige tanden
+Verne_ReisOmDeWereld	89	9	13	fm	pl	de beoefenaars der gelaatkunde
+Verne_ReisOmDeWereld	89	14	18	n	sg	de rust der beweging
+Verne_ReisOmDeWereld	89	25	26	fm	pl	allen, die
+Verne_ReisOmDeWereld	90	5	8	n	sg	een helderen blik
+Verne_ReisOmDeWereld	90	9	11	n	pl	onbeweeglijke wenkbrauwen
+Verne_ReisOmDeWereld	90	23	24	fm	pl	men, hun
+Verne_ReisOmDeWereld	90	27	29	n	sg	hun vaderland
+Verne_ReisOmDeWereld	90	32	34	f	sg	Angelica Kauffman, haar
+Verne_ReisOmDeWereld	90	36	40	n	sg	de schier academische figuur
+Verne_ReisOmDeWereld	90	41	43	n	sg	haar penseel
+Verne_ReisOmDeWereld	91	2	5	n	pl	verschillende levenstoestanden gezien
+Verne_ReisOmDeWereld	91	9	14	n	sg	den indruk van een wezen
+Verne_ReisOmDeWereld	91	12	14	n	sg	een wezen
+Verne_ReisOmDeWereld	91	19	21	n	sg	volmaakt evenwicht
+Verne_ReisOmDeWereld	91	27	33	n	sg	een chronometer van Leroy of Earnskow
+Verne_ReisOmDeWereld	91	30	33	m	sg	Leroy of Earnskow
+Verne_ReisOmDeWereld	92	8	9	fm	sg	persoon
+Verne_ReisOmDeWereld	92	19	21	n	pl	zijne handen
+Verne_ReisOmDeWereld	92	22	24	n	pl	zijne voeten
+Verne_ReisOmDeWereld	92	28	30	fm	sg	den mensch
+Verne_ReisOmDeWereld	92	32	34	n	sg	het dier
+Verne_ReisOmDeWereld	92	35	37	n	pl	de onderdeelen, organen
+Verne_ReisOmDeWereld	92	41	43	n	pl	de hartstochten
+Verne_ReisOmDeWereld	92	44	45	n	pl	neigingen
+Verne_ReisOmDeWereld	93	6	9	m	pl	mathematisch nauwkeurige mannen, die, hunne, hunne
+Verne_ReisOmDeWereld	93	21	23	n	pl	hunne schreden
+Verne_ReisOmDeWereld	93	25	27	n	pl	hunne bewegingen
+Verne_ReisOmDeWereld	94	10	13	n	sg	den kortsten weg
+Verne_ReisOmDeWereld	95	7	9	n	sg	het plafond
+Verne_ReisOmDeWereld	95	12	14	n	sg	overtollige beweging
+Verne_ReisOmDeWereld	96	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	96	8	9	n	sg	verwarring
+Verne_ReisOmDeWereld	98	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	98	3	4	n	sg	begrijpen, dat
+Verne_ReisOmDeWereld	98	17	22	n	sg	eenige gemeenschap met de wereld
+Verne_ReisOmDeWereld	99	3	4	fm	sg	men
+Verne_ReisOmDeWereld	99	5	10	n	sg	den omgang met de maatschappij
+Verne_ReisOmDeWereld	99	8	10	n	sg	de maatschappij
+Verne_ReisOmDeWereld	99	14	16	fm	pl	de menschen
+Verne_ReisOmDeWereld	100	30	31	fm	sg	kamerdienaar
+Verne_ReisOmDeWereld	100	38	40	m	sg	een meester
+Verne_ReisOmDeWereld	102	6	8	n	sg	vriendelijk gelaat
+Verne_ReisOmDeWereld	102	10	12	n	pl	uitstekende lippen
+Verne_ReisOmDeWereld	102	34	36	n	pl	bolle gezichten, die
+Verne_ReisOmDeWereld	102	38	39	fm	sg	men
+Verne_ReisOmDeWereld	102	41	46	n	sg	den hals van een vriend
+Verne_ReisOmDeWereld	102	44	46	fm	sg	een vriend
+Verne_ReisOmDeWereld	103	2	4	n	pl	blauwe oogen
+Verne_ReisOmDeWereld	103	9	10	n	pl	wangen, ze
+Verne_ReisOmDeWereld	103	19	21	n	sg	breede borst
+Verne_ReisOmDeWereld	103	22	24	n	sg	krachtige gestalte
+Verne_ReisOmDeWereld	103	25	27	n	pl	breede spieren
+Verne_ReisOmDeWereld	103	29	32	n	sg	eene herculische kracht, die
+Verne_ReisOmDeWereld	103	35	37	n	pl	de lichaamsoefeningen
+Verne_ReisOmDeWereld	103	38	40	n	sg	zijne jeugd
+Verne_ReisOmDeWereld	104	0	3	n	pl	Zijne donkere haren
+Verne_ReisOmDeWereld	105	1	5	n	sg	de beeldhouwers der oudheid
+Verne_ReisOmDeWereld	105	11	15	n	sg	het haar van Minerva
+Verne_ReisOmDeWereld	105	14	15	m	sg	Minerva
+Verne_ReisOmDeWereld	105	32	37	n	pl	drie streken met de kam
+Verne_ReisOmDeWereld	105	35	37	n	sg	de kam
+Verne_ReisOmDeWereld	106	0	8	n	sg	Het spraakzame , openhartige karakter van den knecht
+Verne_ReisOmDeWereld	106	19	20	fm	sg	men
+Verne_ReisOmDeWereld	106	21	23	n	sg	de waarheid, dit
+Verne_ReisOmDeWereld	106	28	29	fm	sg	men
+Verne_ReisOmDeWereld	108	3	5	n	sg	de ondervinding
+Verne_ReisOmDeWereld	109	5	7	fm	sg	onstuimige jeugd
+Verne_ReisOmDeWereld	110	8	11	n	sg	hunne spreekwoordelijke kalmte
+Verne_ReisOmDeWereld	110	22	24	n	sg	zijn fortuin
+Verne_ReisOmDeWereld	111	4	6	n	sg	het lot
+Verne_ReisOmDeWereld	112	3	5	n	sg	zijn anker
+Verne_ReisOmDeWereld	113	3	5	m	pl	tien meesters
+Verne_ReisOmDeWereld	114	2	3	fm	sg	men
+Verne_ReisOmDeWereld	114	8	9	fm	sg	men
+Verne_ReisOmDeWereld	114	9	11	n	pl	de avonturen
+Verne_ReisOmDeWereld	114	14	15	fm	sg	men
+Verne_ReisOmDeWereld	114	24	26	n	sg	den zin
+Verne_ReisOmDeWereld	115	0	3	m	sg	Zijn laatste meester
+Verne_ReisOmDeWereld	115	4	8	m	sg	de jonge lord Longsferry, lid van het Parlement, zijn meester
+Verne_ReisOmDeWereld	115	11	13	n	sg	het Parlement
+Verne_ReisOmDeWereld	115	18	20	n	sg	den nacht
+Verne_ReisOmDeWereld	115	21	25	n	pl	de oester-huizen van Haymarket
+Verne_ReisOmDeWereld	115	24	25	n	sg	Haymarket
+Verne_ReisOmDeWereld	115	30	34	n	pl	de schouders van politie-agenten
+Verne_ReisOmDeWereld	115	33	34	fm	pl	politie-agenten
+Verne_ReisOmDeWereld	116	15	18	n	pl	eenige eerbiedige opmerkingen, die
+Verne_ReisOmDeWereld	116	25	27	n	sg	het gevolg
+Verne_ReisOmDeWereld	117	10	12	fm	sg	een bediende
+Verne_ReisOmDeWereld	118	2	3	n	pl	inlichtingen, de inlichtingen
+Verne_ReisOmDeWereld	119	11	13	n	sg	des nachts
+Verne_ReisOmDeWereld	119	36	38	n	sg	zijn geest
+Verne_ReisOmDeWereld	120	9	11	n	sg	de wijze
+Verne_ReisOmDeWereld	120	13	14	fm	pl	wij
+Verne_ReisOmDeWereld	123	5	7	n	sg	den zolder
+Verne_ReisOmDeWereld	124	13	15	n	sg	den dienst
+Verne_ReisOmDeWereld	126	4	10	n	sg	den indruk van een fraai slakkenhuis, den indruk
+Verne_ReisOmDeWereld	126	7	10	n	sg	een fraai slakkenhuis, maar een slakkenhuis verlicht en verwarmd door gas
+Verne_ReisOmDeWereld	127	5	8	n	sg	de tweede verdieping
+Verne_ReisOmDeWereld	127	8	10	n	sg	de kamer, die, Deze, die kamer
+Verne_ReisOmDeWereld	128	4	6	n	sg	zijn zin
+Verne_ReisOmDeWereld	129	0	2	n	pl	Electrische klokken
+Verne_ReisOmDeWereld	129	3	4	n	pl	spreekbuizen
+Verne_ReisOmDeWereld	129	9	14	n	pl	de kamers van zijn meester
+Verne_ReisOmDeWereld	130	1	3	n	sg	den schoorsteen
+Verne_ReisOmDeWereld	130	4	6	n	sg	eene pendule, die, de pendule
+Verne_ReisOmDeWereld	130	9	12	n	sg	een electrischen draad
+Verne_ReisOmDeWereld	130	17	22	n	sg	de slaapkamer van Phileas Fogg, de slaapkamer
+Verne_ReisOmDeWereld	130	23	26	n	pl	de twee uurwerken
+Verne_ReisOmDeWereld	132	6	8	n	sg	een lijstje, dat
+Verne_ReisOmDeWereld	133	2	11	n	sg	het programma van hetgeen hij dagelijks had te doen, dit programma
+Verne_ReisOmDeWereld	134	35	37	n	sg	den dienst
+Verne_ReisOmDeWereld	134	40	42	n	sg	geroosterd brood
+Verne_ReisOmDeWereld	134	50	51	n	sg	scheerwater
+Verne_ReisOmDeWereld	134	58	60	n	sg	het haar
+Verne_ReisOmDeWereld	136	3	4	n	sg	pleizier
+Verne_ReisOmDeWereld	136	10	13	n	pl	de verschillende punten
+Verne_ReisOmDeWereld	136	16	18	n	sg	zijn geheugen
+Verne_ReisOmDeWereld	137	1	3	n	sg	de garderobe, deze
+Verne_ReisOmDeWereld	138	0	2	n	sg	Elke broek
+Verne_ReisOmDeWereld	138	3	4	n	sg	jas
+Verne_ReisOmDeWereld	138	0	6	n	sg	Elke broek , jas of vest, zij, hunne
+Verne_ReisOmDeWereld	138	5	6	n	sg	vest
+Verne_ReisOmDeWereld	138	7	9	n	sg	een nummer, dat
+Verne_ReisOmDeWereld	138	13	15	n	sg	een register, waarop
+Verne_ReisOmDeWereld	138	22	25	n	pl	de verschillende stukken
+Verne_ReisOmDeWereld	138	40	42	n	sg	hunne beurt
+Verne_ReisOmDeWereld	139	0	2	n	sg	Hetzelfde stelsel
+Verne_ReisOmDeWereld	139	5	7	n	pl	de schoenen
+Verne_ReisOmDeWereld	139	8	9	n	pl	laarzen
+Verne_ReisOmDeWereld	140	17	18	m	sg	Sheridan
+Verne_ReisOmDeWereld	140	13	22	n	sg	den beroemden maar losbandigen Sheridan de tempel der wanorde
+Verne_ReisOmDeWereld	140	28	31	n	pl	de gemakkelijkste meubels, die
+Verne_ReisOmDeWereld	140	34	37	n	pl	eene onbekommerde levenswijze
+Verne_ReisOmDeWereld	141	25	27	n	pl	twee bibliotheken
+Verne_ReisOmDeWereld	141	28	30	n	sg	zijne beschikking
+Verne_ReisOmDeWereld	141	37	38	n	sg	smaak, de andere van wetenschap
+Verne_ReisOmDeWereld	141	42	43	n	sg	wetenschap
+Verne_ReisOmDeWereld	142	4	9	n	sg	eene brandkast van gemiddelde grootte, die
+Verne_ReisOmDeWereld	142	13	15	fm	pl	de dieven
+Verne_ReisOmDeWereld	142	17	19	n	pl	de vlammen
+Verne_ReisOmDeWereld	143	0	1	n	pl	Wapens
+Verne_ReisOmDeWereld	143	10	12	n	sg	den oorlog
+Verne_ReisOmDeWereld	143	13	15	n	sg	de jacht
+Verne_ReisOmDeWereld	144	3	5	fm	sg	de bewoner
+Verne_ReisOmDeWereld	145	6	9	n	pl	de geringste bijzonderheden
+Verne_ReisOmDeWereld	145	17	19	n	pl	de handen, de handen van Passepartout
+Verne_ReisOmDeWereld	145	20	23	n	sg	zijn breed gelaat
+Verne_ReisOmDeWereld	145	42	47	n	sg	een kolfje naar mijne hand
+Verne_ReisOmDeWereld	145	45	47	n	sg	mijne hand
+Verne_ReisOmDeWereld	146	0	1	fm	pl	Wij
+Verne_ReisOmDeWereld	149	8	10	n	sg	een mechaniek
+Verne_ReisOmDeWereld	151	0	2	n	sg	Een gesprek, dat
+Verne_ReisOmDeWereld	152	21	23	n	sg	zijn rechtervoet, zijn rechter voet
+Verne_ReisOmDeWereld	152	24	26	n	sg	zijn linker, zijn linker
+Verne_ReisOmDeWereld	152	53	55	n	sg	Pall Mall
+Verne_ReisOmDeWereld	153	5	7	n	sg	de eetzaal, waarvan
+Verne_ReisOmDeWereld	153	9	12	n	pl	de negen ramen
+Verne_ReisOmDeWereld	153	14	19	n	sg	een fraaien tuin met boomen, die
+Verne_ReisOmDeWereld	153	22	25	n	sg	eene gele herfsttint
+Verne_ReisOmDeWereld	154	4	6	n	sg	de tafel
+Verne_ReisOmDeWereld	154	9	11	n	sg	zijn couvert
+Verne_ReisOmDeWereld	154	15	17	n	sg	zijn ontbijt, het ontbijt
+Verne_ReisOmDeWereld	154	19	21	n	sg	een bijgerecht
+Verne_ReisOmDeWereld	154	22	24	n	sg	gekookte visch
+Verne_ReisOmDeWereld	154	26	28	n	sg	reading sauce
+Verne_ReisOmDeWereld	154	30	31	n	sg	biefstuk
+Verne_ReisOmDeWereld	154	30	33	n	sg	biefstuk met champignons
+Verne_ReisOmDeWereld	154	32	33	n	pl	champignons
+Verne_ReisOmDeWereld	154	34	41	n	sg	een gebak gevuld met rabarberstelen en kruisbessen
+Verne_ReisOmDeWereld	154	42	45	n	sg	een stukje Chesterkaas
+Verne_ReisOmDeWereld	154	48	50	n	sg	dat alles
+Verne_ReisOmDeWereld	154	52	55	n	pl	eenige kopjes thee
+Verne_ReisOmDeWereld	154	58	59	n	sg	China, China
+Verne_ReisOmDeWereld	155	13	16	n	sg	de groote zaal, eene prachtige kamer , versierd met schilderijen in rijke lijsten, de groote zaal
+Verne_ReisOmDeWereld	155	23	27	n	pl	schilderijen in rijke lijsten
+Verne_ReisOmDeWereld	155	25	27	n	pl	rijke lijsten
+Verne_ReisOmDeWereld	156	0	2	fm	sg	Een bediende
+Verne_ReisOmDeWereld	156	4	7	n	sg	de onopengesneden Times, ze, deze lectuur, De Times
+Verne_ReisOmDeWereld	156	9	11	n	sg	zijne plaats
+Verne_ReisOmDeWereld	156	19	23	n	sg	een vastheid van hand, die
+Verne_ReisOmDeWereld	156	29	32	n	sg	dit moeielijk werk
+Verne_ReisOmDeWereld	157	12	15	n	sg	de Daily Telegraph, die, de Daily Telegraph, de Daily Telegraph, dit blad
+Verne_ReisOmDeWereld	157	22	24	n	sg	het diner, Dit diner
+Verne_ReisOmDeWereld	158	17	20	n	sg	royal british sauce
+Verne_ReisOmDeWereld	159	5	7	m	sg	de gentleman
+Verne_ReisOmDeWereld	159	19	22	n	sg	den Morning Chronicle, De Morning Chronicle, de Morning Chronicle, de Morning Chronicle
+Verne_ReisOmDeWereld	160	5	11	fm	pl	de verschillende habitués van de Reform-club, Dit, Phileas Fogg's gewone medespelers in het whistspel
+Verne_ReisOmDeWereld	160	16	18	n	sg	den haard
+Verne_ReisOmDeWereld	160	20	23	n	sg	een lekker vuur
+Verne_ReisOmDeWereld	161	7	9	n	sg	het whistspel
+Verne_ReisOmDeWereld	161	10	14	m	sg	de ingenieur Andrew Stuart, Andrew Stuart, Andrew Stuart, Diens collega Andrew Stuart, Stuart, Ik, Andrew Stuart, Ik, Andrew Stuart, ik, Andrew Stuart, Gij, mijnheer Stuart, de ongeloovige Stuart, hij, Ik, Andrew Stuart, die, Andrew Stuart, Andrew Stuart, mijnheer Stuart, Ik, u, me, Stuart, ik, Andrew Stuart, die, zich, zijn, Andrew Stuart, hij, ik, Stuart, ik, ik, Andrew Stuart, ik, Stuart, Stuart, U, mijnheer Stuart, Andrew Stuart
+Verne_ReisOmDeWereld	161	15	19	m	pl	de bankiers John Sullivan, John Sullivan, John Sullivan, Sullivan
+Verne_ReisOmDeWereld	161	20	22	m	sg	Samuel Fallentin, Fallentin, Fallentin, Fallentin
+Verne_ReisOmDeWereld	161	23	27	m	sg	de brouwer Thomas Flanagan, Thomas Flanagan, Flanagan, mijnheer, Thomas Flanagan, Flanagan
+Verne_ReisOmDeWereld	161	28	30	m	sg	Gauthier Ralph, een van de directeuren der engelsche bank, Ralph, Ik, Gauthier Ralph, Gauthier Ralph, Ralph, de onder-directeur, Gauthier Ralph, Gauthier Ralph, een van de onderdirecteuren der bank, zich, De heer Gauthier Ralph, Diens, zijn, Ralph, Gauthier Ralph, Ik, mijnheer Ralph, gij, Ralph, Ralph Gauthier
+Verne_ReisOmDeWereld	161	35	38	n	sg	der engelsche bank, de bank, haar, der engelsche bank, deze uitmuntende instelling, de engelsche bank, zich, de instelling, de engelsche bank, de bank, der bank, de engelsche bank, engelsche bank
+Verne_ReisOmDeWereld	161	51	52	n	sg	wier
+Verne_ReisOmDeWereld	161	53	54	fm	sg	men
+Verne_ReisOmDeWereld	161	54	60	fm	pl	de voornaamste industrieele en financieele beroemdheden
+Verne_ReisOmDeWereld	163	12	14	n	sg	den diefstal, zulk een diefstal, de diefstal, de diefstal, de diefstal aan de engelsche bank, een belangrijke diefstal, Een prachtige diefstal
+Verne_ReisOmDeWereld	164	12	14	n	sg	haar geld
+Verne_ReisOmDeWereld	165	13	15	m	sg	den dief, dien heer, den dief, die, iemand, die, een gentleman, den dief, zijn, hij, die, de dief, den dief, die, een handig man, hij, hij, den dief, dief Bank, den dief der banknoten, Zijn, zijn, den man, de dief, zich, hij, deze dief
+Verne_ReisOmDeWereld	166	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	166	6	7	fm	pl	politie, hun
+Verne_ReisOmDeWereld	166	3	9	fm	pl	handige inspecteurs van politie naar Amerika
+Verne_ReisOmDeWereld	166	8	9	n	sg	Amerika
+Verne_ReisOmDeWereld	166	11	13	n	sg	de voornaamste
+Verne_ReisOmDeWereld	166	11	16	n	pl	de voornaamste havens van Europa
+Verne_ReisOmDeWereld	166	15	16	n	sg	Europa
+Verne_ReisOmDeWereld	167	1	2	fm	sg	Men
+Verne_ReisOmDeWereld	167	4	9	n	sg	het signalement van den dief, het signalement van dien heer, dat, het signalement, dat, het signalement, dat
+Verne_ReisOmDeWereld	170	6	14	n	sg	vijf en vijftig duizend pond sterling aan bankpapier
+Verne_ReisOmDeWereld	170	13	14	n	sg	bankpapier
+Verne_ReisOmDeWereld	172	7	8	n	pl	zaken
+Verne_ReisOmDeWereld	172	9	11	n	sg	de beurs
+Verne_ReisOmDeWereld	174	12	14	n	sg	wiens hoofd
+Verne_ReisOmDeWereld	174	19	20	n	pl	couranten
+Verne_ReisOmDeWereld	174	17	24	n	sg	een stapel couranten welke voor hem lagen
+Verne_ReisOmDeWereld	175	8	10	n	sg	zijn groet
+Verne_ReisOmDeWereld	176	3	4	fm	sg	men
+Verne_ReisOmDeWereld	176	7	14	n	pl	de verschillende dagbladen van het Vereenigde Koninkrijk
+Verne_ReisOmDeWereld	176	17	18	n	pl	gedachten
+Verne_ReisOmDeWereld	176	0	19	n	sg	De zaak waarover men sprak en waarover de verschillende dagbladen van het Vereenigde Koninkrijk zoo ijverig van gedachten wisselden, de zaak, de zaak van Phileas Fogg
+Verne_ReisOmDeWereld	177	0	3	n	pl	Een lias banknoten, de banknoten, De lias banknoten, der banknoten
+Verne_ReisOmDeWereld	177	4	14	n	sg	de aanzienlijke som van vijf en vijftig duizend pond sterling, de som
+Verne_ReisOmDeWereld	177	19	28	n	sg	het tafeltje van den eersten boekhouder der engelsche bank
+Verne_ReisOmDeWereld	177	22	28	m	sg	den eersten boekhouder der engelsche bank, hem, dien
+Verne_ReisOmDeWereld	178	6	7	n	sg	dat
+Verne_ReisOmDeWereld	178	29	31	n	sg	dat oogenblik
+Verne_ReisOmDeWereld	178	31	33	fm	sg	de kassier, den kassier, de kassier
+Verne_ReisOmDeWereld	178	36	38	n	sg	een quitantie
+Verne_ReisOmDeWereld	178	42	43	fm	sg	men, Men
+Verne_ReisOmDeWereld	179	27	32	n	sg	de waardigheid van het publiek
+Verne_ReisOmDeWereld	179	30	32	fm	sg	het publiek
+Verne_ReisOmDeWereld	181	0	2	n	sg	Het goud
+Verne_ReisOmDeWereld	181	3	5	n	sg	het zilver
+Verne_ReisOmDeWereld	181	10	11	n	sg	ieders, de eerlijkheid van elken voorbijganger
+Verne_ReisOmDeWereld	181	10	12	n	pl	ieders blikken
+Verne_ReisOmDeWereld	181	19	21	n	sg	den eerstkomende
+Verne_ReisOmDeWereld	182	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	183	0	1	m	sg	Iemand, die, hij, hij, zich, Hij, zijn
+Verne_ReisOmDeWereld	183	5	8	n	pl	de engelsche zeden
+Verne_ReisOmDeWereld	184	8	11	n	sg	een gouden staaf, die, deze staaf, haar, haar, zij
+Verne_ReisOmDeWereld	184	22	27	n	sg	een tafeltje van den kassier
+Verne_ReisOmDeWereld	184	30	32	n	sg	de zaal
+Verne_ReisOmDeWereld	185	11	13	m	sg	zijn buurman, deze
+Verne_ReisOmDeWereld	185	16	18	fm	pl	een anderen
+Verne_ReisOmDeWereld	185	29	32	n	sg	de donkeren gang
+Verne_ReisOmDeWereld	186	8	10	n	sg	deze wijze
+Verne_ReisOmDeWereld	187	9	12	n	sg	de prachtige pendule
+Verne_ReisOmDeWereld	187	13	15	n	sg	den schoorsteenmantel
+Verne_ReisOmDeWereld	187	28	33	n	sg	vijf en vijftig duizend pond
+Verne_ReisOmDeWereld	188	10	11	fm	pl	politieagenten, detectives, zij, hun, die inspecteurs
+Verne_ReisOmDeWereld	188	21	25	n	pl	de voornaamste havens gezonden
+Verne_ReisOmDeWereld	188	27	28	n	sg	Liverpool
+Verne_ReisOmDeWereld	188	29	30	n	sg	Glasgow
+Verne_ReisOmDeWereld	188	31	32	n	sg	Havre
+Verne_ReisOmDeWereld	188	33	34	n	sg	Suez, Suez, Suez, SUEZ, Suez, Suez, Suez, Suez, deze stad, Suez, Suez, de stad, Suez, Suez, Suez
+Verne_ReisOmDeWereld	188	35	36	n	sg	Brindisi, Brindisi, Brindisi, Brindisi, Brindisi, Brindisi, dat
+Verne_ReisOmDeWereld	188	37	38	n	sg	New-York, New-York, New-York
+Verne_ReisOmDeWereld	188	50	57	n	sg	hun eene premie van twee duizend pond
+Verne_ReisOmDeWereld	188	70	72	n	sg	zijn bezit
+Verne_ReisOmDeWereld	188	62	74	n	pl	vijf percent van de som welke nog in zijn bezit werd gevonden
+Verne_ReisOmDeWereld	189	10	12	n	sg	het onderzoek, dat, het onderzoek
+Verne_ReisOmDeWereld	189	26	29	n	sg	de meeste nauwlettendheid
+Verne_ReisOmDeWereld	189	29	31	fm	pl	alle reizigers, die
+Verne_ReisOmDeWereld	190	2	3	fm	sg	men
+Verne_ReisOmDeWereld	190	5	8	n	sg	de Morning Chronide
+Verne_ReisOmDeWereld	190	10	11	n	sg	reden, reden
+Verne_ReisOmDeWereld	190	29	33	n	pl	der dievengenootschappen in Engeland
+Verne_ReisOmDeWereld	191	5	8	m	sg	een welbekend heer, die, dien heer
+Verne_ReisOmDeWereld	191	16	18	n	sg	een voornaam
+Verne_ReisOmDeWereld	191	22	27	n	sg	de zaal der uitbetalingen gezien
+Verne_ReisOmDeWereld	192	1	4	n	sg	de ingestelde enquête
+Verne_ReisOmDeWereld	192	5	6	fm	sg	men
+Verne_ReisOmDeWereld	192	20	26	fm	pl	alle detectives in het geheele Rijk
+Verne_ReisOmDeWereld	192	23	26	m	sg	het geheele Rijk
+Verne_ReisOmDeWereld	193	0	2	fm	pl	Eenige optimisten
+Verne_ReisOmDeWereld	193	12	14	n	sg	dien grond
+Verne_ReisOmDeWereld	194	1	2	fm	sg	men
+Verne_ReisOmDeWereld	194	6	8	n	sg	deze gebeurtenis
+Verne_ReisOmDeWereld	194	8	18	n	sg	het onderwerp van alle gesprekken in Londen en geheel Engeland, hetzelfde onderwerp
+Verne_ReisOmDeWereld	195	0	1	fm	sg	Men, men
+Verne_ReisOmDeWereld	195	9	12	n	sg	eenigen hartstocht partij
+Verne_ReisOmDeWereld	195	18	22	n	sg	de politie der hoofdstad, de politie, politie
+Verne_ReisOmDeWereld	195	15	27	n	sg	de waarschijnlijkheid dat de politie der hoofdstad in hare pogingen zou slagen
+Verne_ReisOmDeWereld	196	23	27	fm	pl	de onderdirecteuren der bank
+Verne_ReisOmDeWereld	197	7	13	n	sg	den goeden uitslag van het onderzoek
+Verne_ReisOmDeWereld	197	16	17	n	sg	oordeel, dat
+Verne_ReisOmDeWereld	197	19	22	n	sg	de uitgeloofde premie
+Verne_ReisOmDeWereld	197	28	36	n	pl	den ijver en het doorzicht van de politie
+Verne_ReisOmDeWereld	198	10	12	n	sg	zijn vertrouwen
+Verne_ReisOmDeWereld	199	0	2	n	sg	De strijd
+Verne_ReisOmDeWereld	199	7	19	n	sg	de whisttafel tusschen de heeren Stuart , Flanagan , Fallentin en Fogg
+Verne_ReisOmDeWereld	199	10	19	fm	pl	de heeren Stuart , Flanagan , Fallentin en Fogg, de spelers, wij, heeren, wij, wij, zijn collega's
+Verne_ReisOmDeWereld	200	10	12	n	sg	de robbers, den robber, dezen robber
+Verne_ReisOmDeWereld	200	13	16	n	sg	het afgebroken gesprek, zijn, Het gesprek
+Verne_ReisOmDeWereld	200	18	21	n	sg	zijn volle kracht
+Verne_ReisOmDeWereld	201	12	14	n	pl	de kansen
+Verne_ReisOmDeWereld	202	18	20	n	sg	een schuilplaats
+Verne_ReisOmDeWereld	208	6	8	n	sg	de stilte
+Verne_ReisOmDeWereld	212	4	9	n	sg	dezelfde meening als mijnheer Fogg
+Verne_ReisOmDeWereld	212	17	18	fm	sg	men
+Verne_ReisOmDeWereld	213	4	6	n	sg	het geval
+Verne_ReisOmDeWereld	213	12	14	n	pl	de nasporingen
+Verne_ReisOmDeWereld	217	11	15	n	sg	een zeer aardige manier
+Verne_ReisOmDeWereld	218	1	2	fm	sg	men
+Verne_ReisOmDeWereld	220	13	16	n	sg	de sectie Rothal-Allahabad
+Verne_ReisOmDeWereld	220	17	20	n	sg	den Great-Indian Peninsular-spoorweg
+Verne_ReisOmDeWereld	220	28	31	n	sg	de volgende berekening
+Verne_ReisOmDeWereld	224	5	7	n	sg	den Mont-Cenis
+Verne_ReisOmDeWereld	225	3	4	n	sg	spoorweg
+Verne_ReisOmDeWereld	225	5	6	n	sg	mailbooten, mailboot, mailboot, mailboot
+Verne_ReisOmDeWereld	226	5	6	n	sg	Bombay, Bombay, Bombay ( Engelsch Indië, Bombay, Bombay
+Verne_ReisOmDeWereld	227	5	6	n	sg	Calcutta, Calcutta
+Verne_ReisOmDeWereld	228	5	9	n	sg	Hongkong ( China ), Hongkong
+Verne_ReisOmDeWereld	229	7	10	n	sg	Yokohama ( Japan, Yokohama
+Verne_ReisOmDeWereld	229	9	10	n	sg	Japan
+Verne_ReisOmDeWereld	229	19	20	n	sg	San-Francisco, San-Francisco
+Verne_ReisOmDeWereld	229	41	42	n	sg	spoorweg
+Verne_ReisOmDeWereld	232	13	14	n	sg	onoplettendheid
+Verne_ReisOmDeWereld	232	14	17	n	sg	een hooge kaart
+Verne_ReisOmDeWereld	232	24	27	n	sg	het slechte weer
+Verne_ReisOmDeWereld	232	28	29	n	sg	tegenwind
+Verne_ReisOmDeWereld	232	30	31	n	sg	schipbreuk
+Verne_ReisOmDeWereld	232	32	33	n	sg	derailleeren
+Verne_ReisOmDeWereld	233	16	18	n	sg	het gesprek
+Verne_ReisOmDeWereld	234	3	5	fm	pl	de Hindoes
+Verne_ReisOmDeWereld	234	6	8	fm	pl	de Indianen, zij
+Verne_ReisOmDeWereld	234	8	10	n	pl	de rails
+Verne_ReisOmDeWereld	234	20	22	n	sg	den trein
+Verne_ReisOmDeWereld	234	24	26	n	pl	de waggons
+Verne_ReisOmDeWereld	234	28	30	fm	pl	de reizigers
+Verne_ReisOmDeWereld	235	12	14	n	sg	zijn spel
+Verne_ReisOmDeWereld	235	17	19	n	pl	twee troeven
+Verne_ReisOmDeWereld	235	20	22	n	sg	zijn hand
+Verne_ReisOmDeWereld	236	12	14	n	pl	de kaarten, de kaarten, de kaarten
+Verne_ReisOmDeWereld	237	11	13	n	sg	de practijk, de practijk
+Verne_ReisOmDeWereld	242	1	3	n	sg	De hemel
+Verne_ReisOmDeWereld	242	17	21	n	pl	vier duizend pond sterling
+Verne_ReisOmDeWereld	242	22	23	n	sg	dat, een reis
+Verne_ReisOmDeWereld	242	27	29	n	pl	zulke voorwaarden, ze
+Verne_ReisOmDeWereld	250	10	11	fm	sg	uw
+Verne_ReisOmDeWereld	250	10	12	n	pl	uw kosten
+Verne_ReisOmDeWereld	251	17	22	n	sg	de hardnekkigheid van zijn medespeler
+Verne_ReisOmDeWereld	254	6	8	n	sg	bevende hand, ze
+Verne_ReisOmDeWereld	254	13	15	n	sg	tafel nederleggende
+Verne_ReisOmDeWereld	254	29	32	n	pl	vier duizend pond
+Verne_ReisOmDeWereld	261	3	6	n	pl	twintig duizend pond, ze, Twintig duizend pond, Twintig duizend pond, die, twintig duizend pond, de twintig duizend pond, die som, zijn twintig duizend pond, de helft van zijn vermogen, den inzet, twintig duizend pond sterling, de twintig duizend pond sterling
+Verne_ReisOmDeWereld	264	8	11	n	sg	een onvoorzien oponthoud, Onvoorziene dingen
+Verne_ReisOmDeWereld	266	12	16	n	sg	het minimum van tijd, Een goed besteed minimum
+Verne_ReisOmDeWereld	266	18	19	fm	sg	men
+Verne_ReisOmDeWereld	268	8	9	fm	sg	men
+Verne_ReisOmDeWereld	268	13	15	n	sg	den spoorweg
+Verne_ReisOmDeWereld	268	16	18	n	sg	de mailboot, de mailboot
+Verne_ReisOmDeWereld	268	23	25	n	sg	den spoorweg
+Verne_ReisOmDeWereld	271	1	4	n	sg	Een goed Engelschman
+Verne_ReisOmDeWereld	271	9	10	n	sg	sprake, sprake
+Verne_ReisOmDeWereld	271	13	19	n	sg	eene gewichtige zaak als eene weddenschap
+Verne_ReisOmDeWereld	271	17	19	n	sg	eene weddenschap
+Verne_ReisOmDeWereld	272	4	5	n	sg	ieder, die
+Verne_ReisOmDeWereld	273	1	2	fm	pl	gij, Wij, de heeren Stuart , Fallentin , Sullivan , Flanagan en Ralph, elkander, u, zijne tegenpartij, zij, Men, zijn vijf collega's van de Reform-club, Mijne heeren, u, Wij, mijne heeren
+Verne_ReisOmDeWereld	276	1	5	n	sg	De trein naar Dover
+Verne_ReisOmDeWereld	276	4	5	n	sg	Dover, Dover, Dover
+Verne_ReisOmDeWereld	280	8	10	n	sg	een zak-almanak
+Verne_ReisOmDeWereld	280	29	36	n	sg	deze zaal zelve van de Reform club
+Verne_ReisOmDeWereld	280	64	66	n	sg	rechtmatig toebehooren
+Verne_ReisOmDeWereld	281	1	6	n	sg	een wissel voor die som
+Verne_ReisOmDeWereld	282	2	7	n	sg	een proces-verbaal van de weddenschap
+Verne_ReisOmDeWereld	282	5	7	n	sg	de weddenschap, der weddenschap
+Verne_ReisOmDeWereld	282	11	14	fm	pl	de zes belanghebbenden
+Verne_ReisOmDeWereld	283	4	6	n	sg	dit alles
+Verne_ReisOmDeWereld	284	39	49	n	sg	dit moeielijke , om niet te zeggen onuitvoerbare , plan, zijn plan, het plan, de zaak
+Verne_ReisOmDeWereld	285	15	20	n	sg	de waarde van den inzet
+Verne_ReisOmDeWereld	285	26	28	n	sg	eenig bezwaar
+Verne_ReisOmDeWereld	287	12	14	n	pl	zijn toebereidselen
+Verne_ReisOmDeWereld	292	7	10	n	sg	de hoogste mate
+Verne_ReisOmDeWereld	293	12	14	n	pl	twintig guineas
+Verne_ReisOmDeWereld	293	15	17	n	sg	het whisten
+Verne_ReisOmDeWereld	295	3	5	n	pl	zijne bezigheden
+Verne_ReisOmDeWereld	295	20	21	n	sg	onnauwkeurigheid
+Verne_ReisOmDeWereld	295	24	25	n	sg	dit, ongewone uur
+Verne_ReisOmDeWereld	296	1	3	n	sg	zijne gewoonte
+Verne_ReisOmDeWereld	297	5	7	n	sg	zijn kamer
+Verne_ReisOmDeWereld	304	14	18	n	pl	de lijst van werkzaamheden, die
+Verne_ReisOmDeWereld	304	17	18	n	pl	werkzaamheden
+Verne_ReisOmDeWereld	304	26	28	n	sg	de hand
+Verne_ReisOmDeWereld	306	4	5	fm	pl	wij, wij, Wij, wij, wij, Men, Men, de menschen, men
+Verne_ReisOmDeWereld	306	8	9	n	sg	Calais, Calais
+Verne_ReisOmDeWereld	307	0	4	n	sg	Een soort van grijns, een soort van studbook
+Verne_ReisOmDeWereld	307	3	4	n	sg	grijns
+Verne_ReisOmDeWereld	307	7	12	n	sg	het gezicht van den Franschman, het gezicht bij de haven van Port-Saïd
+Verne_ReisOmDeWereld	311	3	5	n	pl	de oogleden
+Verne_ReisOmDeWereld	311	6	7	n	pl	wenkbrauwen
+Verne_ReisOmDeWereld	311	9	11	n	pl	de armen
+Verne_ReisOmDeWereld	311	13	15	n	sg	het lijf
+Verne_ReisOmDeWereld	311	16	18	n	sg	het lichaam
+Verne_ReisOmDeWereld	311	19	20	fm	pl	elkander
+Verne_ReisOmDeWereld	311	23	29	n	sg	het uitgedrukte beeld der stomme verbazing
+Verne_ReisOmDeWereld	315	2	4	n	pl	de koffers
+Verne_ReisOmDeWereld	315	10	12	n	sg	zijn hoofd
+Verne_ReisOmDeWereld	316	5	7	n	sg	een reiszak
+Verne_ReisOmDeWereld	317	2	5	n	pl	twee wollen hemden
+Verne_ReisOmDeWereld	317	6	9	n	pl	drie paar kousen
+Verne_ReisOmDeWereld	317	17	19	n	sg	het overige
+Verne_ReisOmDeWereld	318	2	4	n	sg	mijn overjas
+Verne_ReisOmDeWereld	318	5	7	n	sg	mijn reisplaid
+Verne_ReisOmDeWereld	319	1	3	n	pl	goede schoenen
+Verne_ReisOmDeWereld	323	2	6	n	sg	de kamer van Fogg
+Verne_ReisOmDeWereld	323	14	16	n	sg	een stoel
+Verne_ReisOmDeWereld	325	3	5	n	pl	zijne toebereidselen
+Verne_ReisOmDeWereld	330	10	13	n	sg	den vaderlandschen bodem
+Verne_ReisOmDeWereld	334	5	8	n	sg	het eenvoudig valies, dat, het valies, het valies, het valies, het valies met banknooten
+Verne_ReisOmDeWereld	334	12	14	n	sg	zijn goed
+Verne_ReisOmDeWereld	334	27	28	n	sg	verwarring
+Verne_ReisOmDeWereld	334	28	30	n	sg	zijn kamer
+Verne_ReisOmDeWereld	334	33	35	n	sg	de deur
+Verne_ReisOmDeWereld	337	1	3	n	sg	den arm
+Verne_ReisOmDeWereld	337	5	11	n	sg	Bradshaw's continental railway-steam-transit and general guide, die
+Verne_ReisOmDeWereld	338	15	18	n	pl	een lias banknoten, die
+Verne_ReisOmDeWereld	338	22	26	n	pl	alle landen ter wereld
+Verne_ReisOmDeWereld	341	1	3	n	sg	Mijn jas
+Verne_ReisOmDeWereld	341	1	6	n	pl	Mijn jas en mijn plaid, ze
+Verne_ReisOmDeWereld	341	4	6	n	sg	mijn plaid
+Verne_ReisOmDeWereld	344	2	4	n	sg	zijn valies
+Verne_ReisOmDeWereld	346	9	11	n	pl	Passepartouts handen
+Verne_ReisOmDeWereld	346	20	21	n	sg	goud
+Verne_ReisOmDeWereld	346	24	26	n	sg	het gewicht
+Verne_ReisOmDeWereld	347	9	11	n	sg	de huisdeur
+Verne_ReisOmDeWereld	347	13	15	n	sg	het nachtslot
+Verne_ReisOmDeWereld	348	0	1	n	pl	Rijtuigen
+Verne_ReisOmDeWereld	349	3	5	fm	sg	zijn bediende
+Verne_ReisOmDeWereld	349	6	8	n	sg	een cab, de cab
+Verne_ReisOmDeWereld	349	14	18	n	sg	het station van Charing-Cross, het station
+Verne_ReisOmDeWereld	349	17	18	n	sg	Charing-Cross
+Verne_ReisOmDeWereld	349	22	27	n	pl	de takken van den Ooster-spoorweg
+Verne_ReisOmDeWereld	349	25	27	n	sg	den Ooster-spoorweg
+Verne_ReisOmDeWereld	350	9	14	n	sg	het hek van het station
+Verne_ReisOmDeWereld	352	6	8	fm	sg	den koetsier
+Verne_ReisOmDeWereld	353	1	3	n	sg	hetzelfde oogenblik
+Verne_ReisOmDeWereld	353	4	7	f	sg	eene arme vrouw, Zij, Haar, hare, Zij, zich, haar, goede vrouw, u
+Verne_ReisOmDeWereld	353	4	10	fm	pl	eene arme vrouw met een kind
+Verne_ReisOmDeWereld	353	8	10	fm	sg	een kind
+Verne_ReisOmDeWereld	354	2	3	n	sg	barrevoets
+Verne_ReisOmDeWereld	355	0	2	n	sg	Haar hoofddeksel, een verflenste hoed
+Verne_ReisOmDeWereld	355	8	11	n	sg	een armzalige veer
+Verne_ReisOmDeWereld	355	13	17	n	pl	eene shawl in flarden
+Verne_ReisOmDeWereld	355	18	21	n	sg	hare gescheurde plunje
+Verne_ReisOmDeWereld	356	8	10	n	sg	een aalmoes
+Verne_ReisOmDeWereld	357	3	6	n	pl	de twintig guinea's, die
+Verne_ReisOmDeWereld	357	10	12	n	sg	de whisttafel
+Verne_ReisOmDeWereld	360	2	4	n	pl	zijne oogen
+Verne_ReisOmDeWereld	361	5	7	n	sg	zijne achting
+Verne_ReisOmDeWereld	362	7	9	n	sg	de wachtkamer
+Verne_ReisOmDeWereld	363	4	10	n	pl	twee kaartjes eerste klasse voor Parijs
+Verne_ReisOmDeWereld	365	13	16	n	pl	de verschillende visa
+Verne_ReisOmDeWereld	365	23	25	n	sg	mijne terugkomst
+Verne_ReisOmDeWereld	367	3	7	n	sg	uw eer van gentleman
+Verne_ReisOmDeWereld	373	12	14	n	sg	denzelfden waggon
+Verne_ReisOmDeWereld	374	4	5	fm	sg	men
+Verne_ReisOmDeWereld	374	5	8	n	sg	een schel fluitje
+Verne_ReisOmDeWereld	374	9	11	n	sg	de trein, zich, de trein
+Verne_ReisOmDeWereld	376	2	5	n	sg	een fijne motregen
+Verne_ReisOmDeWereld	377	4	6	n	sg	zijn hoek
+Verne_ReisOmDeWereld	378	11	12	n	sg	banknooten
+Verne_ReisOmDeWereld	379	4	5	n	sg	Sydenham
+Verne_ReisOmDeWereld	379	12	16	n	sg	een kreet van wanhoop
+Verne_ReisOmDeWereld	381	5	7	n	sg	mijne gejaagdheid
+Verne_ReisOmDeWereld	383	2	7	n	sg	de gaskraan in mijne kamer, die
+Verne_ReisOmDeWereld	383	5	7	n	sg	mijne kamer
+Verne_ReisOmDeWereld	384	14	16	n	sg	uwe rekening
+Verne_ReisOmDeWereld	386	1	4	n	sg	een nieuw efect
+Verne_ReisOmDeWereld	386	5	8	n	sg	de Londensche Beurs
+Verne_ReisOmDeWereld	387	11	13	n	sg	zijn vertrek
+Verne_ReisOmDeWereld	387	13	16	n	sg	zulk een opzien
+Verne_ReisOmDeWereld	388	2	6	n	sg	het verhaal der weddenschap, zich, die beweging
+Verne_ReisOmDeWereld	388	7	9	n	sg	ware gisting
+Verne_ReisOmDeWereld	388	24	26	n	pl	de dagbladen
+Verne_ReisOmDeWereld	388	27	28	n	pl	correspondentiën
+Verne_ReisOmDeWereld	388	29	32	fm	sg	het londensche publiek
+Verne_ReisOmDeWereld	389	23	26	n	sg	eene nieuwe Alabama-quaestie
+Verne_ReisOmDeWereld	390	3	8	n	sg	de partij van Phileas Fogg
+Verne_ReisOmDeWereld	390	10	12	fm	sg	de ander, deze, de meerderheid, hem
+Verne_ReisOmDeWereld	391	11	12	n	sg	theorie
+Verne_ReisOmDeWereld	391	14	15	n	sg	papier
+Verne_ReisOmDeWereld	391	17	21	n	sg	dat minimum van tijd
+Verne_ReisOmDeWereld	391	23	27	n	pl	de middelen van aansluiting, die
+Verne_ReisOmDeWereld	392	3	5	n	sg	de Standard
+Verne_ReisOmDeWereld	392	6	8	n	sg	de Eveningstar
+Verne_ReisOmDeWereld	392	0	16	n	pl	De Times , de Standard , de Eveningstar , de Morning Chronicle en twintig andere bladen, die
+Verne_ReisOmDeWereld	392	13	16	n	pl	twintig andere bladen
+Verne_ReisOmDeWereld	393	10	12	n	sg	zijne meening
+Verne_ReisOmDeWereld	394	25	28	n	sg	zulk eene weddenschap, die, deze quaestie
+Verne_ReisOmDeWereld	394	26	28	n	sg	eene weddenschap
+Verne_ReisOmDeWereld	394	33	38	n	sg	een verzwakking van Fogg's geestvermogens
+Verne_ReisOmDeWereld	394	36	38	n	pl	Fogg's geestvermogens
+Verne_ReisOmDeWereld	395	0	6	n	pl	Zeer heftige , maar logische artikels
+Verne_ReisOmDeWereld	396	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	396	9	10	n	sg	aardrijkskunde
+Verne_ReisOmDeWereld	397	15	17	n	pl	de kolommen
+Verne_ReisOmDeWereld	398	5	10	fm	pl	eenige vermetelen , hoofdzakelijk vrouwen
+Verne_ReisOmDeWereld	398	9	10	fm	pl	vrouwen
+Verne_ReisOmDeWereld	398	12	14	n	sg	zijne hand
+Verne_ReisOmDeWereld	398	17	21	n	sg	de Illustrated Londen News
+Verne_ReisOmDeWereld	398	21	22	n	sg	zijn
+Verne_ReisOmDeWereld	398	21	23	n	sg	zijn portret
+Verne_ReisOmDeWereld	398	25	27	n	sg	de photografie, die
+Verne_ReisOmDeWereld	398	29	34	n	pl	de archieven van de Reform-club
+Verne_ReisOmDeWereld	399	0	2	fm	pl	Eenige heeren, Dit, de lezers van de Daily Telegraph
+Verne_ReisOmDeWereld	400	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	400	5	7	n	pl	buitengewoner dingen
+Verne_ReisOmDeWereld	402	1	2	fm	sg	men
+Verne_ReisOmDeWereld	403	9	16	n	sg	het maandschrift van het Koninklijk Aardrijkskundig genootschap
+Verne_ReisOmDeWereld	403	16	18	n	sg	een artikel, dat, dit artikel, Dit artikel, het artikel van het Maandschrift van het Aardrijkskundig Genootschap
+Verne_ReisOmDeWereld	403	22	24	n	pl	verschillende oogpunten
+Verne_ReisOmDeWereld	404	6	11	n	sg	het nadeel van den reiziger
+Verne_ReisOmDeWereld	404	13	15	n	pl	de hinderpalen, die, die
+Verne_ReisOmDeWereld	404	24	26	n	sg	de natuur
+Verne_ReisOmDeWereld	404	27	32	n	sg	de verwezenlijking van zijn plan
+Verne_ReisOmDeWereld	405	9	12	n	sg	een wonderdadigen samenloop, een samenloop, die, die
+Verne_ReisOmDeWereld	405	14	20	n	pl	de uren van vertrek en aankomst
+Verne_ReisOmDeWereld	406	8	9	n	sg	Europa
+Verne_ReisOmDeWereld	406	11	12	fm	sg	men, men
+Verne_ReisOmDeWereld	406	23	28	n	sg	de stipte aankomst der treinen
+Verne_ReisOmDeWereld	406	26	28	n	pl	der treinen
+Verne_ReisOmDeWereld	406	31	32	fm	sg	men
+Verne_ReisOmDeWereld	406	39	44	n	sg	het eene eind van Indië
+Verne_ReisOmDeWereld	406	43	44	n	sg	Indië, Engelsch Indië, Indië, Indië
+Verne_ReisOmDeWereld	406	45	47	n	sg	het andere
+Verne_ReisOmDeWereld	406	53	56	n	pl	de Vereenigde Staten
+Verne_ReisOmDeWereld	406	58	59	fm	sg	men
+Verne_ReisOmDeWereld	406	63	69	n	pl	de elementen van zulk een vraagstuk
+Verne_ReisOmDeWereld	406	66	69	n	sg	zulk een vraagstuk
+Verne_ReisOmDeWereld	407	3	5	n	pl	de ongelukken, die, dat alles
+Verne_ReisOmDeWereld	407	8	10	n	pl	de machines
+Verne_ReisOmDeWereld	407	13	15	n	sg	het derailleeren
+Verne_ReisOmDeWereld	407	16	18	n	pl	de botsingen
+Verne_ReisOmDeWereld	407	19	22	n	sg	het slechte weder
+Verne_ReisOmDeWereld	407	23	27	n	sg	de ophooping van sneeuw
+Verne_ReisOmDeWereld	407	26	27	n	sg	sneeuw
+Verne_ReisOmDeWereld	408	4	6	n	sg	den winter
+Verne_ReisOmDeWereld	408	7	9	n	pl	de mailbooten, de beste Transatlantische booten
+Verne_ReisOmDeWereld	408	12	13	n	pl	stormen
+Verne_ReisOmDeWereld	408	14	16	n	sg	zware mist
+Verne_ReisOmDeWereld	409	11	13	n	sg	een oponthoud
+Verne_ReisOmDeWereld	410	8	13	n	sg	de geheele keten van aansluiting
+Verne_ReisOmDeWereld	410	12	13	n	sg	aansluiting
+Verne_ReisOmDeWereld	411	10	12	n	sg	éen mailboot
+Verne_ReisOmDeWereld	411	26	29	n	sg	dit kleine oponthoud
+Verne_ReisOmDeWereld	413	0	3	n	pl	Bijna alle bladen
+Verne_ReisOmDeWereld	413	8	10	n	pl	de acties
+Verne_ReisOmDeWereld	414	5	10	n	sg	het vertrek van den gentleman
+Verne_ReisOmDeWereld	414	13	15	n	pl	groote zaken
+Verne_ReisOmDeWereld	414	17	18	fm	pl	hen, die
+Verne_ReisOmDeWereld	415	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	415	2	6	n	sg	de buitensporigheid der Engelschen, dat gebied
+Verne_ReisOmDeWereld	416	11	16	fm	pl	de spelers op het hunne
+Verne_ReisOmDeWereld	416	15	16	fm	sg	hunne
+Verne_ReisOmDeWereld	417	2	8	n	sg	een eigenschap van het engelsche karakter
+Verne_ReisOmDeWereld	417	5	8	n	sg	het engelsche karakter
+Verne_ReisOmDeWereld	418	5	9	fm	pl	verschillende leden der Reform-club
+Verne_ReisOmDeWereld	418	9	11	n	pl	aanzienlijke weddenschappen
+Verne_ReisOmDeWereld	418	14	17	fm	sg	het groote publiek
+Verne_ReisOmDeWereld	419	4	6	n	sg	een wedrenpaard
+Verne_ReisOmDeWereld	420	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	420	4	6	n	sg	een beurs-effect, dat
+Verne_ReisOmDeWereld	421	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	421	5	7	n	sg	Phileas Fogg's, Phileas Fogg's, ze, zij, ze
+Verne_ReisOmDeWereld	421	12	14	n	pl	ontzaglijke zaken
+Verne_ReisOmDeWereld	422	4	6	n	sg	zijn vertrek
+Verne_ReisOmDeWereld	422	18	20	n	pl	de aanbiedingen
+Verne_ReisOmDeWereld	422	20	22	n	sg	de overhand
+Verne_ReisOmDeWereld	424	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	424	4	5	n	pl	stapels
+Verne_ReisOmDeWereld	425	14	15	fm	sg	men
+Verne_ReisOmDeWereld	426	1	3	m	sg	éen aanhanger, de lamme lord Albemarle, Deze achtenswaardige gentleman, zijn, zijn, hem, hij
+Verne_ReisOmDeWereld	427	5	7	n	sg	zijn stoel
+Verne_ReisOmDeWereld	427	10	13	n	sg	zijn geheele fortuin
+Verne_ReisOmDeWereld	427	34	38	n	pl	vijf duizend pond sterling
+Verne_ReisOmDeWereld	428	1	2	fm	sg	men
+Verne_ReisOmDeWereld	428	3	5	n	sg	de dwaasheid
+Verne_ReisOmDeWereld	428	6	8	n	sg	het nuttelooze
+Verne_ReisOmDeWereld	428	13	15	n	pl	de oogen
+Verne_ReisOmDeWereld	428	32	34	m	sg	een Engelschman
+Verne_ReisOmDeWereld	429	0	5	fm	pl	De voorstanders van Phileas Fogg
+Verne_ReisOmDeWereld	429	11	12	fm	sg	iedereen
+Verne_ReisOmDeWereld	429	22	23	fm	sg	men
+Verne_ReisOmDeWereld	429	40	42	n	sg	zijn vertrek
+Verne_ReisOmDeWereld	429	53	54	fm	sg	men
+Verne_ReisOmDeWereld	430	13	20	fm	sg	de directeur van politie in de hoofdstad, Rowan, directeur van politie, hoofddirectie Scotlandplace, De algemeen geachte gentleman, den directeur der londensche politie
+Verne_ReisOmDeWereld	430	20	22	n	sg	een telegram, den, dit telegram, zich, Het telegram omtrent Phileas Fogg
+Verne_ReisOmDeWereld	433	2	5	n	sg	bevel tot inhechtenisneming
+Verne_ReisOmDeWereld	433	4	5	n	sg	inhechtenisneming
+Verne_ReisOmDeWereld	437	0	3	n	sg	Zijn photographisch portret, dat
+Verne_ReisOmDeWereld	437	6	7	fm	pl	die, zijn medeleden
+Verne_ReisOmDeWereld	437	13	15	n	sg	het archief
+Verne_ReisOmDeWereld	438	12	15	n	sg	het ingestelde onderzoek
+Verne_ReisOmDeWereld	439	0	1	fm	sg	Men, zich
+Verne_ReisOmDeWereld	439	4	10	n	sg	het geheimzinnige van Phileas Fogg's leven
+Verne_ReisOmDeWereld	439	11	13	n	sg	zijne afzondering
+Verne_ReisOmDeWereld	439	14	15	m	sg	zijn
+Verne_ReisOmDeWereld	439	14	17	m	sg	zijn plotseling vertrek
+Verne_ReisOmDeWereld	439	21	25	n	sg	boven allen twijfel verheven, dat
+Verne_ReisOmDeWereld	439	27	29	fm	sg	deze persoon
+Verne_ReisOmDeWereld	439	31	32	n	sg	voorwendsel
+Verne_ReisOmDeWereld	439	44	47	n	sg	eene onzinnige weddenschap
+Verne_ReisOmDeWereld	439	55	58	fm	pl	de engelsche politieagenten, de agent Fix, De ander, een klein mager man, die, zijne, zijne, zijne, hij, hij, hij, Die man, Fix, Hij, hem, hij, hij, Fix, De detective, die, hem, hij, hij, mijnheer Fix, u, Fix, gij, ge, uw, Fix, Ik, mijn, mij, u, Fix, de agent, Mijnheer Fix, gij, gij, gij, ge, ge, inspecteur van politie, ik, Fix, Fix, zijne, hij, hij, Fix
+Verne_ReisOmDeWereld	439	59	61	n	sg	het spoor
+Verne_ReisOmDeWereld	441	4	7	n	sg	een rechtmatig ongeduld
+Verne_ReisOmDeWereld	443	5	6	fm	sg	men
+Verne_ReisOmDeWereld	443	11	14	n	sg	de mailboot Mongolia, eene schroefboot, De Mongolia, een der snelste schepen van de Compagnie, der Mongolia, der Mongolia, de boot, Zij, zulk een snelloopende boot, de Mongolia, deze mailboot, zij, de Mongolia, De mailboot, zij, Zij, zij
+Verne_ReisOmDeWereld	443	15	20	n	sg	de P. & O. Company
+Verne_ReisOmDeWereld	444	3	5	n	sg	de reis
+Verne_ReisOmDeWereld	444	11	15	n	sg	het kanaal van Suez
+Verne_ReisOmDeWereld	445	7	9	n	sg	de Compagnie
+Verne_ReisOmDeWereld	445	11	14	n	sg	de reglementaire snelheid
+Verne_ReisOmDeWereld	446	0	2	fm	pl	Twee heeren, deze twee heeren
+Verne_ReisOmDeWereld	446	4	8	n	sg	de aankomst der Mongolia, de aankomst der Mongolia
+Verne_ReisOmDeWereld	446	12	14	fm	pl	de inboorlingen
+Verne_ReisOmDeWereld	446	12	16	fm	pl	de inboorlingen en vreemdelingen, die
+Verne_ReisOmDeWereld	446	15	16	fm	pl	vreemdelingen
+Verne_ReisOmDeWereld	446	36	41	n	sg	het reuzenwerk van de Lesseps
+Verne_ReisOmDeWereld	446	41	44	n	sg	eene schoone toekomst
+Verne_ReisOmDeWereld	447	0	5	fm	sg	Een van deze twee heeren
+Verne_ReisOmDeWereld	447	6	17	fm	sg	de consulaire agent van het Vereenigde Koninkrijk , te Suez gevestigd, die, gij, mijnheer de consul, de consul, Ik, ik, Mijnheer de consul, Ik, de consul, ik, ik, Mijnheer de consul, Gij, de consul
+Verne_ReisOmDeWereld	447	28	31	n	pl	het Britsche Gouvernement, het Gouvernement, zij
+Verne_ReisOmDeWereld	447	22	40	n	sg	spijt van alle ongunstige voorstellingen van het Britsche Gouvernement en van de sombere beschouwingen van den ingenieur Stephenson
+Verne_ReisOmDeWereld	447	33	40	n	pl	de sombere beschouwingen van den ingenieur Stephenson
+Verne_ReisOmDeWereld	447	37	40	m	sg	den ingenieur Stephenson
+Verne_ReisOmDeWereld	447	44	46	n	pl	de schepen
+Verne_ReisOmDeWereld	447	50	52	n	sg	deze wijze
+Verne_ReisOmDeWereld	447	52	59	n	sg	den ouden weg van Engeland naar Indië
+Verne_ReisOmDeWereld	447	60	65	n	sg	de Kaap de Goede Hoop
+Verne_ReisOmDeWereld	448	13	15	n	sg	zenuwachtig gelaat
+Verne_ReisOmDeWereld	448	18	20	n	pl	zijne wenkbrauwen
+Verne_ReisOmDeWereld	449	1	4	n	pl	zijne lange wimpers
+Verne_ReisOmDeWereld	449	5	6	fm	sg	men
+Verne_ReisOmDeWereld	449	6	9	n	pl	zijne levendige oogen
+Verne_ReisOmDeWereld	449	14	16	n	sg	de kracht, die
+Verne_ReisOmDeWereld	450	1	3	n	sg	dit oogenblik
+Verne_ReisOmDeWereld	450	5	9	n	pl	duidelijke blijken van ongeduld
+Verne_ReisOmDeWereld	450	10	12	n	sg	den dag
+Verne_ReisOmDeWereld	450	23	25	n	sg	dezelfde plaats
+Verne_ReisOmDeWereld	452	2	9	fm	sg	een van die detectives of engelsche politie-agenten, welke
+Verne_ReisOmDeWereld	452	7	9	fm	pl	engelsche politie-agenten
+Verne_ReisOmDeWereld	452	12	15	n	pl	de verschillende havens
+Verne_ReisOmDeWereld	453	10	13	fm	pl	al de reizigers, die
+Verne_ReisOmDeWereld	453	15	19	n	sg	den weg over Suez
+Verne_ReisOmDeWereld	453	24	27	fm	sg	een van hen, diens, hem
+Verne_ReisOmDeWereld	453	26	27	fm	pl	hen
+Verne_ReisOmDeWereld	454	1	3	n	sg	dat geval
+Verne_ReisOmDeWereld	454	5	7	n	sg	diens spoor
+Verne_ReisOmDeWereld	454	12	14	n	sg	het bezit
+Verne_ReisOmDeWereld	454	17	23	n	sg	eene volmacht om hem te arresteeren
+Verne_ReisOmDeWereld	455	9	12	n	sg	der londensche politie
+Verne_ReisOmDeWereld	455	12	14	n	sg	het signalement
+Verne_ReisOmDeWereld	455	16	19	fm	sg	den vermoedelijken dief, den heer, dien, uw man, hij
+Verne_ReisOmDeWereld	456	8	9	fm	sg	men
+Verne_ReisOmDeWereld	456	10	16	n	sg	het betaalkantoor van de engelsche bank
+Verne_ReisOmDeWereld	457	9	12	n	sg	de aanzienlijke premie
+Verne_ReisOmDeWereld	457	25	30	n	sg	een licht te verklaren ongeduld
+Verne_ReisOmDeWereld	460	10	14	n	sg	de haven van Port-Saïd
+Verne_ReisOmDeWereld	460	13	14	n	sg	Port-Saïd
+Verne_ReisOmDeWereld	461	8	15	n	sg	den prijs van vijf en twintig pond, die
+Verne_ReisOmDeWereld	461	33	36	n	sg	den bepaalden tijd
+Verne_ReisOmDeWereld	463	8	12	n	sg	de post naar Indië
+Verne_ReisOmDeWereld	464	2	3	n	sg	geduld
+Verne_ReisOmDeWereld	465	10	12	fm	pl	die menschen, ze, ze, die heeren
+Verne_ReisOmDeWereld	465	13	14	fm	sg	men, men
+Verne_ReisOmDeWereld	466	6	8	n	sg	de reuk, een bijzonder zintuig, dat
+Verne_ReisOmDeWereld	466	14	16	n	sg	het gehoor
+Verne_ReisOmDeWereld	466	17	19	n	sg	het gezicht
+Verne_ReisOmDeWereld	467	3	5	n	sg	mijn leven
+Verne_ReisOmDeWereld	467	5	9	fm	pl	verscheidene van die heeren
+Verne_ReisOmDeWereld	467	17	18	n	sg	boord
+Verne_ReisOmDeWereld	470	1	6	n	sg	Vijf en vijftig duizend pond
+Verne_ReisOmDeWereld	471	0	2	n	pl	Zulke buitenkansjes
+Verne_ReisOmDeWereld	471	3	4	fm	pl	wij
+Verne_ReisOmDeWereld	472	0	3	fm	sg	De dieven beteekenen, Men, zich
+Verne_ReisOmDeWereld	473	0	4	n	sg	Het ras der Sheppards
+Verne_ReisOmDeWereld	473	2	4	n	pl	der Sheppards
+Verne_ReisOmDeWereld	474	5	7	n	pl	eenige shillings
+Verne_ReisOmDeWereld	475	20	22	n	sg	harte wensch
+Verne_ReisOmDeWereld	475	33	35	n	pl	de omstandigheden
+Verne_ReisOmDeWereld	476	19	22	m	sg	een eerlijk man
+Verne_ReisOmDeWereld	477	16	19	fm	pl	de groote dieven
+Verne_ReisOmDeWereld	477	22	24	fm	pl	eerlijke lui
+Verne_ReisOmDeWereld	478	6	7	fm	pl	hen, die, zij
+Verne_ReisOmDeWereld	478	9	11	n	sg	een schurkengezicht
+Verne_ReisOmDeWereld	479	0	3	n	pl	De eerlijke gezichten
+Verne_ReisOmDeWereld	479	7	8	fm	sg	men
+Verne_ReisOmDeWereld	480	0	3	n	sg	Een moeielijk werk
+Verne_ReisOmDeWereld	481	0	1	fm	sg	Men
+Verne_ReisOmDeWereld	482	7	8	fm	pl	wandelaars
+Verne_ReisOmDeWereld	482	9	11	n	sg	de kade
+Verne_ReisOmDeWereld	483	4	8	fm	pl	zeelieden van verschillenden landaard
+Verne_ReisOmDeWereld	483	9	10	fm	pl	kooplieden
+Verne_ReisOmDeWereld	483	11	12	fm	pl	makelaars
+Verne_ReisOmDeWereld	483	13	14	fm	pl	kruiers
+Verne_ReisOmDeWereld	483	15	16	fm	pl	fellahs
+Verne_ReisOmDeWereld	486	0	2	n	pl	Eenige minaretten
+Verne_ReisOmDeWereld	486	11	14	n	pl	de bleeke zonnestralen
+Verne_ReisOmDeWereld	487	0	6	n	sg	Een havenhoofd van twee mijlen lengte, zich
+Verne_ReisOmDeWereld	487	11	18	n	sg	een arm van de reede van Suez
+Verne_ReisOmDeWereld	487	14	18	n	sg	de reede van Suez
+Verne_ReisOmDeWereld	488	0	2	n	pl	Vele visschersbooten
+Verne_ReisOmDeWereld	488	0	4	n	pl	Vele visschersbooten en kustvaarders
+Verne_ReisOmDeWereld	488	3	4	fm	pl	kustvaarders
+Verne_ReisOmDeWereld	488	6	11	n	pl	de golven der Roode Zee
+Verne_ReisOmDeWereld	488	8	11	n	sg	der Roode Zee, de Roode Zee
+Verne_ReisOmDeWereld	488	14	16	fm	pl	eenige daarvan, hun
+Verne_ReisOmDeWereld	488	17	18	fm	sg	men
+Verne_ReisOmDeWereld	488	19	22	n	sg	hun sierlijken bouw, het model der oude galei
+Verne_ReisOmDeWereld	488	25	28	n	sg	der oude galei
+Verne_ReisOmDeWereld	489	1	3	n	sg	deze menigte
+Verne_ReisOmDeWereld	489	9	11	n	sg	de gewoonte
+Verne_ReisOmDeWereld	489	12	14	n	sg	zijne betrekking
+Verne_ReisOmDeWereld	491	14	16	n	sg	de klok
+Verne_ReisOmDeWereld	495	4	5	n	pl	kolen
+Verne_ReisOmDeWereld	496	3	4	n	sg	Aden
+Verne_ReisOmDeWereld	496	6	12	n	sg	het uiteinde van de Roode Zee
+Verne_ReisOmDeWereld	496	23	24	fm	sg	men
+Verne_ReisOmDeWereld	496	24	28	n	sg	een voorraad van brandstoffen
+Verne_ReisOmDeWereld	496	27	28	n	pl	brandstoffen

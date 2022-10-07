@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="sv1" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg" lcat="sv1" lemma="weten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="weet" sc="intransitive" sense="weet" stype="ynquestion" tense="present" word="Weet" wvorm="pv"/>
+      <node begin="1" case="both" def="def" end="2" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="3" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+      <node begin="2" end="3" frame="tmp_adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+      <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+    </node>
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="6" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="skip" id="7" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="6" end="7" frame="punct(hellip)" his="skip" id="8" lcat="--" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+  </node>
+  <sentence sentid="28-4">Weet je dan niet ? &quot; ....</sentence>
+  <comments>
+    <comment>Q#28-4|Weet je dan niet ? &quot; ....|1|1|-2.6977509306100007</comment>
+  </comments>
+</alpino_ds>

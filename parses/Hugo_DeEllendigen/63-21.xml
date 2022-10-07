@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="12" id="2" rel="--">
+      <node begin="0" cat="np" end="2" id="3" rel="su">
+        <node begin="0" buiging="met-e" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="Deze"/>
+        <node begin="1" end="2" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="onderwijzer" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="onderwijzer" sense="onderwijzer" word="onderwijzers"/>
+      </node>
+      <node begin="2" end="3" frame="verb(zijn,pl,ld_pp)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="gaan" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ga" sc="ld_pp" sense="ga" stype="declarative" tense="present" word="gaan" wvorm="pv"/>
+      <node begin="3" cat="pp" end="12" id="7" rel="ld">
+        <node begin="3" end="4" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="8" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+        <node begin="4" cat="np" end="12" id="9" rel="obj1">
+          <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="5" end="6" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="jaar_markt" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="jaar_markt" sense="jaar_markt" word="jaarmarkten"/>
+          <node begin="7" cat="rel" end="12" id="12" rel="mod">
+            <node begin="7" end="8" frame="er_wh_loc_adverb" getal="getal" his="normal" his_1="normal" id="13" index="1" lcat="advp" lemma="waar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(vb,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="rhd" root="waar" sense="waar" special="er_loc" status="vol" vwtype="vb" wh="ywh" word="waar"/>
+            <node begin="7" cat="ssub" end="12" id="14" rel="body">
+              <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="15" index="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+              <node begin="7" cat="ppart" end="11" id="16" rel="vc">
+                <node begin="7" end="8" id="17" index="1" rel="mod"/>
+                <node begin="8" end="9" id="18" index="2" rel="su"/>
+                <node begin="9" case="dat_acc" def="def" end="10" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="19" lcat="np" lemma="hen" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,obl,vol,3p,mv)" pt="vnw" rel="obj1" rnum="pl" root="hen" sense="hen" status="vol" vwtype="pers" wh="nwh" word="hen"/>
+                <node begin="10" buiging="zonder" end="11" frame="verb(hebben,psp,transitive_ndev_ndev)" his="normal" his_1="normal" id="20" infl="psp" lcat="ppart" lemma="zien" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" word="gezien" wvorm="vd"/>
+              </node>
+              <node begin="11" end="12" frame="verb(hebben,sg1,aux_psp_hebben)" his="normal" his_1="normal" id="21" infl="sg1" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="present" word="heb" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="63-21">Deze onderwijzers gaan naar de jaarmarkten , waar ik hen gezien heb .</sentence>
+  <comments>
+    <comment>Q#63-21|Deze onderwijzers gaan naar de jaarmarkten , waar ik hen gezien heb .|1|1|-10.614201706970006</comment>
+  </comments>
+</alpino_ds>

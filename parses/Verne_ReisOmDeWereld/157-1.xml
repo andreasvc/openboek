@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="18" id="2" rel="--">
+      <node begin="0" cat="cp" end="5" id="3" rel="mod">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="Toen"/>
+        <node begin="1" cat="ssub" end="5" id="5" rel="body">
+          <node begin="1" cat="mwu" end="3" his="normal" his_1="names_dictionary" id="6" mwu_root="Phileas Fogg" mwu_sense="Phileas Fogg" rel="su">
+            <node begin="1" end="2" frame="proper_name(sg,'PER')" id="7" lcat="np" lemma="Phileas" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Phileas" sense="Phileas" spectype="deeleigen" word="Phileas"/>
+            <node begin="2" end="3" frame="proper_name(sg,'PER')" id="8" lcat="np" lemma="Fogg" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Fogg" sense="Fogg" spectype="deeleigen" word="Fogg"/>
+          </node>
+          <node begin="3" end="4" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="9" lcat="np" lemma="Londen" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Londen" sense="Londen" word="Londen"/>
+          <node begin="4" end="5" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="10" infl="sg" lcat="ssub" lemma="verlaten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="verlaat" sc="transitive" sense="verlaat" tense="past" word="verliet" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="6" end="7" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="denken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="denk" sc="tr_sbar" sense="denk" stype="declarative" tense="past" word="dacht" wvorm="pv"/>
+      <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+      <node begin="8" cat="advp" end="10" his="normal" his_1="normal" id="13" rel="mod">
+        <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(adv))" graad="basis" id="14" infl="no_e" lcat="ap" lemma="zeker" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="zeker" sense="zeker" vform="adj" word="zeker"/>
+        <node begin="9" end="10" frame="adverb" id="15" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+      </node>
+      <node begin="10" cat="cp" end="18" id="16" rel="vc">
+        <node begin="10" conjtype="onder" end="11" frame="complementizer(dat)" his="normal" his_1="normal" id="17" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="11" cat="ssub" end="18" id="18" rel="body">
+          <node begin="11" cat="np" end="13" id="19" index="1" rel="su">
+            <node begin="11" buiging="zonder" end="12" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="20" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+            <node begin="12" end="13" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="vertrek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="vertrek" sense="vertrek" word="vertrek"/>
+          </node>
+          <node begin="16" end="17" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="22" infl="sg" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" word="zou" wvorm="pv"/>
+          <node begin="11" cat="inf" end="18" id="23" rel="vc">
+            <node begin="11" end="13" id="24" index="1" rel="su"/>
+            <node begin="13" cat="np" end="16" id="25" rel="obj1">
+              <node begin="13" cat="mwu" end="15" his="normal" his_1="normal" id="26" mwu_root="zulk" mwu_sense="zulk" rel="det">
+                <node begin="13" end="14" frame="determiner(een)" id="27" infl="een" lcat="detp" lemma="zulk" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="mwp" root="zulk" sense="zulk" word="zulk"/>
+                <node begin="14" end="15" frame="determiner(een)" id="28" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="mwp" root="een" sense="een" word="een"/>
+              </node>
+              <node begin="15" end="16" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="29" lcat="np" lemma="opzien" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="opzien" sense="opzien" word="opzien"/>
+            </node>
+            <node begin="17" buiging="zonder" end="18" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="30" infl="inf" lcat="inf" lemma="baren" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="baar" sc="transitive" sense="baar" word="baren" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="31" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="157-1">Toen Phileas Fogg Londen verliet , dacht hij zeker niet dat zijn vertrek zulk een opzien zou baren .</sentence>
+  <comments>
+    <comment>Q#157-1|Toen Phileas Fogg Londen verliet , dacht hij zeker niet dat zijn vertrek zulk een opzien zou baren .|1|1|-12.669364707190002</comment>
+  </comments>
+</alpino_ds>

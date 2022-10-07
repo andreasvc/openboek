@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:16" cats="1" skips="0" />
+  <node begin="0" cat="top" end="4" id="0" rel="top">
+    <node begin="0" cat="smain" end="3" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="2" index="1" lcat="np" lemma="Bonger" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bonger" sense="Bonger" word="Bonger"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),aux(inf))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="blijven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" stype="declarative" tense="past" word="bleef" wvorm="pv"/>
+      <node begin="0" cat="inf" end="3" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" buiging="zonder" end="3" frame="verb(hebben,inf(no_e),intransitive)" his="normal" his_1="normal" id="6" infl="inf(no_e)" lcat="inf" lemma="staan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="sta" sc="intransitive" sense="sta" word="staan" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="3" end="4" frame="punct(punt)" his="normal" his_1="normal" id="7" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="183-1">Bonger bleef staan .</sentence>
+  <comments>
+    <comment>Q#183-1|Bonger bleef staan .|1|1|-0.3152013546000014</comment>
+  </comments>
+</alpino_ds>

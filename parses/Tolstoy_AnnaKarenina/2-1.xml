@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="1" />
+  <node begin="0" cat="top" end="4" id="0" rel="top">
+    <node begin="0" cat="pp" end="3" id="1" rel="--">
+      <node begin="0" end="1" frame="preposition(naar,[toe])" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="Naar"/>
+      <node begin="1" cat="np" end="3" id="3" rel="obj1">
+        <node begin="1" end="2" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="4" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+        <node begin="2" end="3" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="Russisch" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Russisch" sense="Russisch" word="Russisch"/>
+      </node>
+    </node>
+    <node begin="3" end="4" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="robust_skip" id="6" lcat="--" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="--" root="van" sense="van" vztype="init" word="van"/>
+  </node>
+  <sentence sentid="2-1">Naar het Russisch van</sentence>
+  <comments>
+    <comment>Q#2-1|Naar het Russisch van|1|2|-0.8664557596599999</comment>
+  </comments>
+</alpino_ds>

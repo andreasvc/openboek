@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(dubb_punt)" his="normal" his_1="normal" id="2" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="skip" id="3" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="17" id="5" rel="--">
+      <node begin="0" cat="conj" end="9" id="6" rel="dp">
+        <node begin="0" cat="smain" end="5" id="7" rel="cnj">
+          <node begin="0" cat="np" end="2" id="8" index="1" rel="su">
+            <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+            <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="markies" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="markies" sense="markies" word="markies"/>
+          </node>
+          <node begin="2" end="3" frame="verb(hebben,past(sg),part_transitive(om))" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="om_keren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="keer_om" sc="part_transitive(om)" sense="keer_om" tense="past" word="keerde" wvorm="pv"/>
+          <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,thi,both,de,dat_acc,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="12" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="zich" sense="zich" special="wkpro" status="red" vwtype="refl" wh="nwh" word="zich"/>
+          <node begin="4" end="5" frame="particle(om)" his="normal" his_1="normal" id="13" lcat="part" lemma="om" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="om" sense="om" vztype="fin" word="om"/>
+        </node>
+        <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="0" cat="smain" end="9" id="15" rel="cnj">
+          <node begin="0" end="2" id="16" index="1" rel="su"/>
+          <node begin="7" end="8" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="17" infl="sg" lcat="smain" lemma="antwoorden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="antwoord" sc="intransitive" sense="antwoord" tense="past" word="antwoordde" wvorm="pv"/>
+          <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="18" infl="no_e" lcat="ap" lemma="droog" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="droog" sense="droog" vform="adj" word="droog"/>
+        </node>
+      </node>
+      <node begin="11" cat="du" end="17" id="19" rel="dp">
+        <node begin="11" end="12" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="20" lcat="advp" lemma="monseigneur" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="monseigneur" sense="monseigneur" word="Monseigneur"/>
+        <node begin="13" cat="smain" end="17" id="21" rel="nucl">
+          <node begin="13" case="nom" def="def" end="14" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="22" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="14" end="15" frame="verb(hebben,sg1,transitive_ndev)" his="normal" his_1="normal" id="23" infl="sg1" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="present" word="heb" wvorm="pv"/>
+          <node begin="15" cat="np" end="17" id="24" rel="obj1">
+            <node begin="15" buiging="zonder" end="16" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="25" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+            <node begin="16" end="17" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="arm" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="arm" sense="arm" word="armen"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="normal" his_1="normal" id="27" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="18" end="19" frame="punct(aanhaal_both)" his="skip" id="28" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="70-5">De markies keerde zich om , en antwoordde droog : &quot; Monseigneur , ik heb mijn armen . &quot;</sentence>
+  <comments>
+    <comment>Q#70-5|De markies keerde zich om , en antwoordde droog : &quot; Monseigneur , ik heb mijn armen . &quot;|1|1|1.360023881400011</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="0" cat="smain" end="16" id="1" rel="--">
+      <node begin="0" end="1" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="Daar"/>
+      <node begin="1" end="2" frame="verb(hebben,past(pl),intransitive)" his="normal" his_1="normal" id="3" infl="pl" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="zit" sc="intransitive" sense="zit" stype="declarative" tense="past" word="zaten" wvorm="pv"/>
+      <node begin="2" cat="conj" end="16" id="4" rel="su">
+        <node begin="2" cat="np" end="4" id="5" rel="cnj">
+          <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="6" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="vader" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vader" sense="vader" word="vader"/>
+        </node>
+        <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="8" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="5" cat="np" end="7" id="9" rel="cnj">
+          <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="6" buiging="met-e" end="7" frame="noun(both,count,both)" gen="both" getal="ev" getal-n="zonder-n" his="normal" his_1="normal" id="11" lcat="np" lemma="zijne" naamval="stan" num="both" pdtype="det" persoon="3m" pos="noun" positie="nom" postag="VNW(bez,det,stan,vol,3m,ev,nom,met-e,zonder-n)" pt="vnw" rel="hd" rnum="sg" root="zijne" sense="zijne" status="vol" vwtype="bez" word="zijne"/>
+        </node>
+        <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="8" cat="np" end="10" id="13" rel="cnj">
+          <node begin="8" buiging="zonder" end="9" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="14" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+          <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="moeder" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="moeder" sense="moeder" word="moeder"/>
+        </node>
+        <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="16" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="11" cat="np" end="13" id="17" rel="cnj">
+          <node begin="11" end="12" frame="determiner(een)" his="normal" his_1="normal" id="18" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="grootmoeder" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="grootmoeder" sense="grootmoeder" word="grootmoeder"/>
+        </node>
+        <node begin="13" conjtype="neven" end="14" frame="conj(en)" his="normal" his_1="normal" id="20" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="14" cat="np" end="16" id="21" rel="cnj">
+          <node begin="14" end="15" frame="determiner(een)" his="normal" his_1="normal" id="22" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="15" end="16" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="tante" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tante" sense="tante" word="tante"/>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="39-2">Daar zaten haar vader en de zijne en haar moeder en een grootmoeder en een tante .</sentence>
+  <comments>
+    <comment>Q#39-2|Daar zaten haar vader en de zijne en haar moeder en een grootmoeder en een tante .|1|1|-6.175980502799994</comment>
+  </comments>
+</alpino_ds>

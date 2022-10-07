@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="21" id="3" rel="--">
+      <node begin="0" cat="conj" end="9" id="4" index="1" rel="su">
+        <node begin="0" conjtype="neven" end="1" frame="left_conj(noch)" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="vg" lemma="noch" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="noch" sense="noch" special="left" word="Noch"/>
+        <node begin="1" cat="np" end="3" id="6" rel="cnj">
+          <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="2" end="3" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="bassin" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="bassin" sense="bassin" word="bassins"/>
+        </node>
+        <node begin="4" conjtype="neven" end="5" frame="conj(noch)" his="normal" his_1="normal" id="9" lcat="vg" lemma="noch" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="noch" sense="noch" word="noch"/>
+        <node begin="5" cat="np" end="9" id="10" rel="cnj">
+          <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="6" end="7" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="dok" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="dok" sense="dok" word="dokken"/>
+          <node begin="7" cat="pp" end="9" id="13" rel="mod">
+            <node begin="7" end="8" frame="preposition(te,[],nodet)" his="normal" his_1="normal" id="14" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="te"/>
+            <node begin="8" end="9" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="15" lcat="np" lemma="Londen" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Londen" sense="Londen" word="Londen"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" end="10" frame="verb(hebben,past(pl),aux_psp_hebben)" his="normal" his_1="normal" id="16" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" word="hadden" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="21" id="17" rel="vc">
+        <node begin="0" end="9" id="18" index="1" rel="su"/>
+        <node begin="10" end="11" frame="tmp_adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="ooit" pos="adv" postag="BW()" pt="bw" rel="mod" root="ooit" sense="ooit" special="tmp" word="ooit"/>
+        <node begin="13" buiging="zonder" end="14" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="20" infl="psp" lcat="ppart" lemma="bevatten" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="bevat" sc="transitive" sense="bevat" word="bevat" wvorm="vd"/>
+        <node begin="11" cat="np" end="21" id="21" rel="obj1">
+          <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="ig" id="22" infl="no_e" lcat="ap" lemma="eenig" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="eenig" sense="eenig" vform="adj" word="eenig"/>
+          <node begin="12" end="13" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="schip" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="schip" sense="schip" word="schip"/>
+          <node begin="15" cat="rel" end="21" id="24" rel="mod">
+            <node begin="15" case="no_obl" end="16" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="25" index="2" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+            <node begin="15" cat="ssub" end="21" id="26" rel="body">
+              <node begin="15" end="16" id="27" index="2" rel="su"/>
+              <node begin="16" cat="mwu" end="18" his="normal" his_1="names_dictionary" id="28" mwu_root="Phileas Fogg" mwu_sense="Phileas Fogg" rel="obj1">
+                <node begin="16" end="17" frame="proper_name(sg,'PER')" id="29" lcat="np" lemma="Phileas" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Phileas" sense="Phileas" spectype="deeleigen" word="Phileas"/>
+                <node begin="17" end="18" frame="proper_name(sg,'PER')" id="30" lcat="np" lemma="Fogg" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Fogg" sense="Fogg" spectype="deeleigen" word="Fogg"/>
+              </node>
+              <node begin="18" cat="pp" end="20" id="31" rel="mod">
+                <node begin="18" end="19" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="32" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+                <node begin="19" end="20" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="33" lcat="np" lemma="reeder" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="reeder" sense="reeder" word="reeder"/>
+              </node>
+              <node begin="20" end="21" frame="verb(hebben,past(sg),transitive_ndev)" his="normal" his_1="normal" id="34" infl="sg" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="transitive_ndev" sense="heb" tense="past" word="had" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="normal" his_1="normal" id="35" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="8-5">Noch de bassins , noch de dokken te Londen hadden ooit eenig schip bevat , dat Phileas Fogg tot reeder had .</sentence>
+  <comments>
+    <comment>Q#8-5|Noch de bassins , noch de dokken te Londen hadden ooit eenig schip bevat , dat Phileas Fogg tot reeder had .|1|1|0.1555072306799995</comment>
+  </comments>
+</alpino_ds>

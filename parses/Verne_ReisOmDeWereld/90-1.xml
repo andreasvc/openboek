@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="4" id="2" rel="--">
+      <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="2" end="3" frame="verb(hebben,modal_not_u,intransitive)" his="normal" his_1="normal" id="4" infl="modal_not_u" lcat="smain" lemma="willen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="wil" sc="intransitive" sense="wil" stype="declarative" tense="present" word="wil" wvorm="pv"/>
+      <node aform="base" begin="3" end="4" frame="adjective(pred(adv))" his="normal" his_1="normal" id="5" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="6" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="7" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="90-1">&quot; Ik wil wel . &quot;</sentence>
+  <comments>
+    <comment>Q#90-1|&quot; Ik wil wel . &quot;|1|1|-4.778294366440001</comment>
+  </comments>
+</alpino_ds>

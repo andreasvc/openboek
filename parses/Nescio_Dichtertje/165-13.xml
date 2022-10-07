@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:15" cats="1" skips="0" />
+  <node begin="0" cat="top" end="3" id="0" rel="top">
+    <node begin="0" cat="mwu(half acht,half acht)" end="2" his="normal" his_1="decap" his_1_1="temporal_expression" id="1" rel="--">
+      <node begin="0" buiging="zonder" end="1" frame="tmp_np" graad="basis" id="2" lcat="np" lemma="half" pos="noun" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mwp" root="half" sense="half" special="tmp" word="Half"/>
+      <node begin="1" end="2" frame="tmp_np" id="3" lcat="np" lemma="acht" numtype="hoofd" pos="noun" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="mwp" root="acht" sense="acht" special="tmp" word="acht"/>
+    </node>
+    <node begin="2" end="3" frame="punct(punt)" his="normal" his_1="normal" id="4" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="165-13">Half acht .</sentence>
+  <comments>
+    <comment>Q#165-13|Half acht .|1|1|0.09212468087999984</comment>
+  </comments>
+</alpino_ds>

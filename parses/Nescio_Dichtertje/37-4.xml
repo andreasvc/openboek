@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(nonadv),subject_sbar)" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="2" infl="no_e" lcat="ap" lemma="jammer" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="jammer" sc="subject_sbar" sense="jammer" vform="adj" word="Jammer"/>
+      <node begin="1" cat="cp" end="5" id="3" rel="dp">
+        <node begin="1" conjtype="onder" end="2" frame="complementizer(dat)" his="normal" his_1="normal" id="4" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="2" cat="ssub" end="5" id="5" rel="body">
+          <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="6" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+          <node begin="3" end="4" frame="loc_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="buiten" pos="adv" postag="VZ(fin)" pt="vz" rel="ld" root="buiten" sense="buiten" special="loc" vztype="fin" word="buiten"/>
+          <node begin="4" end="5" frame="verb(hebben,past(sg),ld_adv)" his="normal" his_1="normal" id="8" infl="sg" lcat="ssub" lemma="wonen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="woon" sc="ld_adv" sense="woon" tense="past" word="woonde" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="37-4">Jammer dat -ie buiten woonde .</sentence>
+  <comments>
+    <comment>Q#37-4|Jammer dat -ie buiten woonde .|1|1|1.1024806918800003</comment>
+  </comments>
+</alpino_ds>

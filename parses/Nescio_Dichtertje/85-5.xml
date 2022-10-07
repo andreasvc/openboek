@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:22" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="ap" end="3" id="2" rel="--">
+      <node begin="1" end="2" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="Hier"/>
+      <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="4" infl="no_e" lcat="ap" lemma="moe" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="moe" sense="moe" vform="adj" word="moe"/>
+    </node>
+    <node begin="3" end="4" frame="punct(punt)" his="normal" his_1="normal" id="5" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="6" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="85-5">&quot; Hier moe . &quot;</sentence>
+  <comments>
+    <comment>Q#85-5|&quot; Hier moe . &quot;|1|1|-0.0033103799199999586</comment>
+  </comments>
+</alpino_ds>

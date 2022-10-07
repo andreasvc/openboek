@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="smain" end="6" id="4" rel="dp">
+        <node begin="1" end="2" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="past" word="kon" wvorm="pv"/>
+        <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+        <node begin="0" cat="inf" end="6" id="7" rel="vc">
+          <node begin="0" end="1" frame="proper_name(sg)" genus="genus" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="8" lcat="np" lemma="Springen" naamval="stan" neclass="MISC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,genus,stan)" pt="n" rel="predc" rnum="sg" root="Springen" sense="Springen" word="Springen"/>
+          <node begin="2" end="3" id="9" index="1" rel="su"/>
+          <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="10" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+          <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+          <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,pred_np)" his="normal" his_1="normal" id="12" infl="inf" lcat="inf" lemma="noemen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="noem" sc="pred_np" sense="noem" word="noemen" wvorm="inf"/>
+        </node>
+      </node>
+      <node begin="7" cat="du" end="16" id="13" rel="dp">
+        <node begin="7" cat="sv1" end="11" id="14" rel="sat">
+          <node begin="7" end="8" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="15" infl="sg" lcat="sv1" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" word="had" wvorm="pv"/>
+          <node begin="8" cat="np" end="10" id="16" index="2" rel="su">
+            <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="17" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="9" end="10" frame="noun(de,count,bare_meas)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="man" naamval="stan" ntype="soort" num="bare_meas" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="man" sense="man" word="man"/>
+          </node>
+          <node begin="8" cat="ppart" end="11" id="19" rel="vc">
+            <node begin="8" end="10" id="20" index="2" rel="su"/>
+            <node begin="10" buiging="zonder" end="11" frame="verb(hebben,psp,intransitive)" his="normal" his_1="normal" id="21" infl="psp" lcat="ppart" lemma="zeggen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zeg" sc="intransitive" sense="zeg" word="gezegd" wvorm="vd"/>
+          </node>
+        </node>
+        <node begin="12" cat="smain" end="16" id="22" rel="nucl">
+          <node begin="12" case="nom" def="def" end="13" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="23" index="3" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="13" end="14" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="24" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+          <node begin="12" cat="ppart" end="16" id="25" rel="vc">
+            <node begin="12" end="13" id="26" index="3" rel="su"/>
+            <node begin="14" end="15" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="27" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+            <node begin="15" buiging="zonder" end="16" frame="verb(zijn,psp,ninv(intransitive,part_intransitive(af)))" his="normal" his_1="part-V" id="28" infl="psp" lcat="ppart" lemma="af_stappen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="stap_af" sc="part_intransitive(af)" sense="stap_af" word="afgestapt" wvorm="vd"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="80-4">Springen kon je het niet noemen , had de man gezegd , hij was er afgestapt .</sentence>
+  <comments>
+    <comment>Q#80-4|Springen kon je het niet noemen , had de man gezegd , hij was er afgestapt .|1|1|-11.807678138949997</comment>
+  </comments>
+</alpino_ds>

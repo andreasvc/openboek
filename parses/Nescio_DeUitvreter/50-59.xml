@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:14" cats="0" skips="3" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" conjtype="onder" end="1" frame="complementizer(als)" his="robust_skip" id="1" lcat="--" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="--" root="als" sc="als" sense="als" word="Als"/>
+    <node begin="1" end="2" frame="reflexive(je,both)" getal="ev" his="robust_skip" id="2" lcat="--" lemma="je" naamval="nomin" num="both" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" refl="refl" rel="--" root="je" sense="je" status="red" vwtype="pers" word="je"/>
+    <node begin="2" end="3" frame="verb(hebben,sg3,transitive)" his="robust_skip" id="3" infl="sg3" lcat="--" lemma="blieven" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="--" root="blief" sc="transitive" sense="blief" tense="present" word="blieft" wvorm="pv"/>
+    <node begin="3" end="4" frame="punct(punt)" his="robust_skip" id="4" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="robust_skip" id="5" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="50-59">Als je blieft . &quot;</sentence>
+  <comments>
+    <comment>Q#50-59|Als je blieft . &quot;|1|3|1.0079168583999998</comment>
+  </comments>
+</alpino_ds>

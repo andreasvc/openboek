@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="13" id="4" rel="--">
+      <node begin="1" cat="du" end="8" id="5" rel="dp">
+        <node begin="1" cat="smain" end="5" id="6" rel="nucl">
+          <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="7" infl="no_e" lcat="ap" lemma="theoretisch" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="theoretisch" sense="theoretisch" vform="adj" word="Theoretisch"/>
+          <node begin="2" end="3" frame="verb(hebben,sg_hebt,part_intransitive(gelijk))" his="normal" his_1="normal" id="8" infl="sg_hebt" lcat="smain" lemma="gelijk_hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb_gelijk" sc="part_intransitive(gelijk)" sense="heb_gelijk" stype="declarative" tense="present" word="hebt" wvorm="pv"/>
+          <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="9" lcat="np" lemma="ge" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2b" pos="pron" postag="VNW(pers,pron,nomin,vol,2b,getal)" pt="vnw" rel="su" rnum="sg" root="ge" sense="ge" status="vol" vwtype="pers" wh="nwh" word="ge"/>
+          <node begin="4" buiging="zonder" end="5" frame="particle(gelijk)" graad="basis" his="normal" his_1="normal" id="10" lcat="part" lemma="gelijk" pos="part" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="svp" root="gelijk" sense="gelijk" word="gelijk"/>
+        </node>
+        <node begin="6" cat="np" end="8" id="11" rel="sat">
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="mijnheer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="mijnheer" sense="mijnheer" word="mijnheer"/>
+          <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="13" lcat="np" lemma="Fogg" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="app" rnum="sg" root="Fogg" sense="Fogg" word="Fogg"/>
+        </node>
+      </node>
+      <node begin="9" cat="du" end="13" id="14" rel="dp">
+        <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="dp" root="maar" sense="maar" word="maar"/>
+        <node begin="10" cat="pp" end="13" id="16" rel="dp">
+          <node begin="10" end="11" frame="preposition(in,[])" his="normal" his_1="normal" id="17" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="11" cat="np" end="13" id="18" rel="obj1">
+            <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="practijk" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="practijk" sense="practijk" word="practijk"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(hellip)" his="normal" his_1="normal" id="21" lcat="punct" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="22" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="82-1">&quot; Theoretisch hebt ge gelijk , mijnheer Fogg , maar in de practijk .... &quot;</sentence>
+  <comments>
+    <comment>Q#82-1|&quot; Theoretisch hebt ge gelijk , mijnheer Fogg , maar in de practijk .... &quot;|1|1|0.35891295438999915</comment>
+  </comments>
+</alpino_ds>

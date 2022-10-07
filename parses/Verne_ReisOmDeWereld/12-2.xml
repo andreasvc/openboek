@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="16" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="leven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="leef" sc="ld_pp" sense="leef" stype="declarative" tense="past" word="leefde" wvorm="pv"/>
+      <node aform="base" begin="2" end="3" frame="adjective(pred(both))" his="normal" his_1="normal" id="5" infl="pred" lcat="ap" lemma="alleen" pos="adj" postag="BW()" pt="bw" rel="mod" root="alleen" sense="alleen" vform="adj" word="alleen"/>
+      <node begin="3" cat="pp" end="16" id="6" rel="ld">
+        <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="7" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="4" cat="np" end="16" id="8" rel="obj1">
+          <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="9" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+          <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="huis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="huis" sense="huis" word="huis"/>
+          <node begin="6" cat="pp" end="9" id="11" rel="mod">
+            <node begin="6" end="7" frame="preposition(in,[])" his="normal" his_1="normal" id="12" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="7" cat="mwu" end="9" his="name" his_1="not_begin" id="13" mwu_root="Saville Row" mwu_sense="Saville Row" rel="obj1">
+              <node begin="7" end="8" frame="proper_name(both,'LOC')" id="14" lcat="np" lemma="Saville" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Saville" sense="Saville" spectype="deeleigen" word="Saville"/>
+              <node begin="8" end="9" frame="proper_name(both,'LOC')" id="15" lcat="np" lemma="Row" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Row" sense="Row" spectype="deeleigen" word="Row"/>
+            </node>
+          </node>
+          <node begin="10" cat="whrel" end="16" id="16" rel="mod">
+            <node begin="10" end="11" frame="er_wh_loc_adverb" getal="getal" his="normal" his_1="normal" id="17" index="1" lcat="advp" lemma="waar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(vb,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="rhd" root="waar" sense="waar" special="er_loc" status="vol" vwtype="vb" wh="ywh" word="waar"/>
+            <node begin="10" cat="ssub" end="16" id="18" rel="body">
+              <node begin="10" end="11" id="19" index="1" rel="mod"/>
+              <node begin="11" case="both" def="indef" end="12" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal="ev" his="normal" his_1="normal" id="20" lcat="np" lemma="niemand" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="su" rnum="sg" root="niemand" sense="niemand" special="strpro" status="vol" vwtype="onbep" wh="nwh" word="niemand"/>
+              <node begin="12" end="13" frame="tmp_adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="ooit" pos="adv" postag="BW()" pt="bw" rel="mod" root="ooit" sense="ooit" special="tmp" word="ooit"/>
+              <node begin="13" cat="pp" end="15" id="22" rel="ld">
+                <node begin="13" end="14" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="23" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+                <node begin="14" case="dat_acc" def="def" end="15" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="24" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+              </node>
+              <node begin="15" end="16" frame="verb(zijn,past(sg),ninv(ld_pp,part_ld_pp(door)))" his="normal" his_1="part-V" id="25" infl="sg" lcat="ssub" lemma="door_dringen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="dring_door" sc="part_ld_pp(door)" sense="dring_door" tense="past" word="doordrong" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="26" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="12-2">Hij leefde alleen in zijn huis in Saville Row , waar niemand ooit tot hem doordrong .</sentence>
+  <comments>
+    <comment>Q#12-2|Hij leefde alleen in zijn huis in Saville Row , waar niemand ooit tot hem doordrong .|1|1|-7.3558716221000005</comment>
+  </comments>
+</alpino_ds>

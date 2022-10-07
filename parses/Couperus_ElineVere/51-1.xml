@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="sv1" end="16" id="5" rel="--">
+      <node begin="1" end="2" frame="verb(hebben,sg1,transitive)" his="normal" his_1="decap" his_1_1="normal" id="6" infl="sg1" lcat="sv1" lemma="dienen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="dien" sc="transitive" sense="dien" stype="imparative" tense="present" word="Dien" wvorm="pv"/>
+      <node begin="3" cat="conj" end="16" id="7" rel="obj1">
+        <node begin="3" cat="conj" end="7" id="8" rel="cnj">
+          <node begin="3" cat="np" end="5" id="9" rel="cnj">
+            <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" index="1" infl="e" lcat="ap" lemma="wit" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="wit" sense="wit" vform="adj" word="witte"/>
+            <node begin="4" end="5" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="laken" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="laken" sense="laken" word="lakens"/>
+          </node>
+          <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="3" cat="np" end="7" id="13" rel="cnj">
+            <node begin="3" end="4" id="14" index="1" rel="mod"/>
+            <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="15" lcat="np" lemma="tulle" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" root="tulle" sense="tulle" word="tulle"/>
+          </node>
+        </node>
+        <node begin="8" cat="np" end="10" id="16" rel="cnj">
+          <node begin="8" buiging="met-e" end="9" frame="determiner(alle,nwh,mod,pro,nparg)" his="normal" his_1="normal" id="17" infl="alle" lcat="detp" lemma="alle" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,met-e,agr)" pt="vnw" rel="det" root="alle" sense="alle" vwtype="onbep" wh="nwh" word="alle"/>
+          <node begin="9" end="10" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="18" lcat="np" lemma="tulle" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" root="tulle" sense="tulle" word="tulle"/>
+        </node>
+        <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="19" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="11" cat="np" end="16" id="20" rel="cnj">
+          <node begin="11" end="12" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="gaas" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="gaas" sense="gaas" word="gaas"/>
+          <node begin="13" cat="rel" end="16" id="22" rel="mod">
+            <node begin="13" case="no_obl" end="14" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="23" index="2" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+            <node begin="13" cat="ssub" end="16" id="24" rel="body">
+              <node begin="13" end="14" id="25" index="2" rel="su"/>
+              <node begin="14" end="15" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="26" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+              <node begin="15" end="16" frame="verb(unacc,sg_heeft,intransitive)" his="normal" his_1="normal" id="27" infl="sg_heeft" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="intransitive" sense="ben" tense="present" word="is" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(uitroep)" his="normal" his_1="normal" id="28" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="51-1">- Dien , witte lakens en tulle , alle tulle en gaas , dat er is !</sentence>
+  <comments>
+    <comment>Q#51-1|- Dien , witte lakens en tulle , alle tulle en gaas , dat er is !|1|1|1.591841759519998</comment>
+  </comments>
+</alpino_ds>

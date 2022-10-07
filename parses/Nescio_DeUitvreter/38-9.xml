@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:06" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="du" end="8" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="whq" end="8" id="3" rel="nucl">
+        <node begin="1" end="2" frame="waar_adverb(om)" his="normal" his_1="normal" id="4" index="1" lcat="pp" lemma="waarom" pos="pp" postag="BW()" pt="bw" rel="whd" root="waarom" sense="waarom" special="waar" word="waarom"/>
+        <node begin="1" cat="sv1" end="8" id="5" rel="body">
+          <node begin="2" end="3" frame="verb(hebben,pl,aux_psp_hebben)" his="normal" his_1="normal" id="6" infl="pl" lcat="sv1" lemma="hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="whquestion" tense="present" word="hebben" wvorm="pv"/>
+          <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="7" index="2" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node begin="1" cat="ppart" end="8" id="8" rel="vc">
+            <node begin="1" end="2" id="9" index="1" rel="mod"/>
+            <node begin="3" end="4" id="10" index="2" rel="su"/>
+            <node begin="4" end="5" frame="tmp_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+            <node begin="5" cat="np" end="7" id="12" rel="obj1">
+              <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="13" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="6" end="7" frame="proper_name(sg,'LOC')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="14" lcat="np" lemma="Overtoom" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Overtoom" sense="Overtoom" word="Overtoom"/>
+            </node>
+            <node begin="7" buiging="zonder" end="8" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="15" infl="psp" lcat="ppart" lemma="dempen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="demp" sc="transitive" sense="demp" word="gedempt" wvorm="vd"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(vraag)" his="normal" his_1="normal" id="16" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="38-9">En waarom hebben ze dan de Overtoom gedempt ?</sentence>
+  <comments>
+    <comment>Q#38-9|En waarom hebben ze dan de Overtoom gedempt ?|1|1|-5.595362698750002</comment>
+  </comments>
+</alpino_ds>

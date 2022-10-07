@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:15" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="8" id="3" rel="--">
+      <node begin="1" cat="du" end="3" id="4" rel="dp">
+        <node begin="1" end="2" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="dag" sense="dag" special="tmp" word="Dag"/>
+        <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="moe" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="moe" sense="moe" vform="adj" word="moe"/>
+      </node>
+      <node begin="4" cat="smain" end="8" id="7" rel="dp">
+        <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="5" end="6" frame="verb(unacc,sg1,ld_adv)" his="normal" his_1="normal" id="9" infl="sg1" lcat="smain" lemma="komen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kom" sc="ld_adv" sense="kom" stype="declarative" tense="present" word="kom" wvorm="pv"/>
+        <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="direct" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="direct" sense="direct" vform="adj" word="direct"/>
+        <node begin="7" end="8" frame="loc_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="beneden" pos="adv" postag="VZ(fin)" pt="vz" rel="ld" root="beneden" sense="beneden" special="loc" vztype="fin" word="beneden"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="12" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="165-14">&quot; Dag moe , ik kom direct beneden &quot; .</sentence>
+  <comments>
+    <comment>Q#165-14|&quot; Dag moe , ik kom direct beneden &quot; .|1|1|-0.8044295941400015</comment>
+  </comments>
+</alpino_ds>

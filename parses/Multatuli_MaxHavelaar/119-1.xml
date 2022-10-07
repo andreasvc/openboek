@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" cat="ppart" end="3" id="2" rel="dp">
+        <node begin="0" end="1" frame="wh_adjective" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="mod" root="hoe" sense="hoe" wh="ywh" word="Hoe"/>
+        <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="4" infl="no_e" lcat="ppart" lemma="gezwind" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="gezwind" sense="gezwind" vform="psp" word="gezwind" wvorm="vd"/>
+        <node begin="2" end="3" frame="post_wh_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="post_wh" word="ook"/>
+      </node>
+      <node begin="3" cat="np" end="5" id="6" rel="dp">
+        <node begin="3" buiging="zonder" end="4" frame="determiner(het)" getal="mv" his="normal" his_1="normal" id="7" infl="het" lcat="detp" lemma="ons" naamval="stan" npagr="evon" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,mv,prenom,zonder,evon)" pt="vnw" rel="det" root="ons" sense="ons" status="vol" vwtype="bez" word="ons"/>
+        <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="8" lcat="np" lemma="onttogen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="onttogen" sense="onttogen" word="onttogen"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="skip" id="9" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="119-1">Hoe gezwind ook ons onttogen ,</sentence>
+  <comments>
+    <comment>Q#119-1|Hoe gezwind ook ons onttogen ,|1|1|4.71709858797</comment>
+  </comments>
+</alpino_ds>

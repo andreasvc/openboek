@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:10" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="smain" end="5" id="1" rel="--">
+      <node begin="1" end="2" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="2" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="3" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="0" cat="ppart" end="5" id="4" rel="vc">
+        <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="Dat"/>
+        <node begin="2" end="3" id="6" index="1" rel="su"/>
+        <node aform="base" begin="3" end="4" frame="adjective(pred(adv))" his="normal" his_1="normal" id="7" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+        <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="8" infl="psp" lcat="ppart" lemma="denken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="denk" sc="transitive" sense="denk" word="gedacht" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="43-5">Dat had ik wel gedacht .</sentence>
+  <comments>
+    <comment>Q#43-5|Dat had ik wel gedacht .|1|1|-11.653632412950001</comment>
+  </comments>
+</alpino_ds>

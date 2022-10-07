@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="cp" end="9" id="1" rel="--">
+      <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="cp" lemma="omdat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="omdat" sense="omdat" word="Omdat"/>
+      <node begin="1" cat="ssub" end="9" id="3" rel="body">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="men"/>
+        <node begin="4" end="5" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="5" infl="modal_not_u" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" tense="present" word="kan" wvorm="pv"/>
+        <node begin="1" cat="inf" end="9" id="6" rel="vc">
+          <node begin="1" end="2" id="7" index="1" rel="su"/>
+          <node begin="2" cat="np" end="4" id="8" rel="ld">
+            <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="wereld" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wereld" sense="wereld" word="wereld"/>
+          </node>
+          <node begin="5" buiging="zonder" end="6" frame="verb(zijn,inf,ninv(ld_transitive,part_ld_transitive(om)))" his="normal" his_1="part-V" id="11" infl="inf" lcat="inf" lemma="om_reizen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="reis_om" sc="part_ld_transitive(om)" sense="reis_om" word="omreizen" wvorm="inf"/>
+          <node begin="6" cat="pp" end="9" id="12" rel="mod">
+            <node begin="6" end="7" frame="preposition(in,[])" his="normal" his_1="normal" id="13" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="7" cat="np" end="9" id="14" rel="obj1">
+              <node begin="7" end="8" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="15" infl="pl_num" lcat="detp" lemma="drie" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="drie" sense="drie" special="hoofd" word="drie"/>
+              <node begin="8" end="9" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="maand" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="maand" sense="maand" special="tmp" word="maanden"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(hellip)" his="normal" his_1="normal" id="17" lcat="punct" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="skip" id="18" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="63-2">Omdat men de wereld kan omreizen in drie maanden .... &quot;</sentence>
+  <comments>
+    <comment>Q#63-2|Omdat men de wereld kan omreizen in drie maanden .... &quot;|1|1|-4.34328643118</comment>
+  </comments>
+</alpino_ds>

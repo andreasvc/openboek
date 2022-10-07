@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="whq" end="16" id="5" rel="--">
+      <node begin="1" cat="np" end="3" id="6" index="1" rel="whd">
+        <node begin="1" end="2" frame="wh_adjective(odet_adv)" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="ap" lemma="hoeveel" naamval="stan" numtype="hoofd" pos="adj" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="hoeveel" sense="hoeveel" wh="ywh" word="Hoeveel"/>
+        <node begin="2" end="3" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="bed" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="bed" sense="bed" word="bedden"/>
+      </node>
+      <node begin="1" cat="sv1" end="16" id="9" rel="body">
+        <node begin="4" end="5" frame="verb(hebben,sg3,tr_sbar)" his="normal" his_1="normal" id="10" infl="sg3" lcat="sv1" lemma="denken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="denk" sc="tr_sbar" sense="denk" stype="whquestion" tense="present" word="denkt" wvorm="pv"/>
+        <node begin="5" cat="np" end="8" id="11" rel="su">
+          <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="12" lcat="np" lemma="ge" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2b" pos="pron" postag="VNW(pers,pron,nomin,vol,2b,getal)" pt="vnw" rel="hd" rnum="sg" root="ge" sense="ge" status="vol" vwtype="pers" wh="nwh" word="ge"/>
+          <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="mijnheer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="app" rnum="sg" root="mijnheer" sense="mijnheer" word="mijnheer"/>
+        </node>
+        <node begin="1" cat="cp" end="16" id="14" rel="vc">
+          <node begin="9" conjtype="onder" end="10" frame="complementizer(dat)" his="normal" his_1="normal" id="15" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="1" cat="ssub" end="16" id="16" rel="body">
+            <node begin="1" end="3" id="17" index="1" rel="su"/>
+            <node begin="14" end="15" frame="verb('hebben/zijn',pl,aux(inf))" his="normal" his_1="normal" id="18" infl="pl" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" tense="present" word="kunnen" wvorm="pv"/>
+            <node begin="1" cat="inf" end="16" id="19" rel="vc">
+              <node begin="1" end="3" id="20" index="1" rel="su"/>
+              <node begin="10" cat="pp" end="14" id="21" rel="ld">
+                <node begin="10" end="11" frame="modal_adverb" his="normal" his_1="normal" id="22" lcat="advp" lemma="alleen" pos="adv" postag="BW()" pt="bw" rel="mod" root="alleen" sc="modal" sense="alleen" word="alleen"/>
+                <node begin="11" end="12" frame="preposition(in,[])" his="normal" his_1="normal" id="23" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                <node begin="12" cat="np" end="14" id="24" rel="obj1">
+                  <node begin="12" buiging="met-e" end="13" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="25" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="deze"/>
+                  <node begin="13" end="14" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="zaal" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zaal" sense="zaal" word="zaal"/>
+                </node>
+              </node>
+              <node begin="15" buiging="zonder" end="16" frame="verb(hebben,inf(no_e),ld_pp)" his="normal" his_1="normal" id="27" infl="inf(no_e)" lcat="inf" lemma="staan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="sta" sc="ld_pp" sense="sta" word="staan" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(vraag)" his="normal" his_1="normal" id="28" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="17" end="18" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="29" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="30-1">&quot; Hoeveel bedden , denkt ge , mijnheer , dat alleen in deze zaal kunnen staan ? &quot;</sentence>
+  <comments>
+    <comment>Q#30-1|&quot; Hoeveel bedden , denkt ge , mijnheer , dat alleen in deze zaal kunnen staan ? &quot;|1|1|-5.297621882340001</comment>
+  </comments>
+</alpino_ds>

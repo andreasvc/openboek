@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="7" end="8" frame="punct(vraag)" his="normal" his_1="normal" id="2" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="du" end="11" id="4" rel="--">
+      <node begin="1" cat="sv1" end="7" id="5" rel="nucl">
+        <node begin="1" end="2" frame="verb(hebben,sg,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="6" infl="sg" lcat="sv1" lemma="moeten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="moet" sc="intransitive" sense="moet" stype="ynquestion" tense="present" word="Moet" wvorm="pv"/>
+        <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(locadv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="ver" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="ver" sense="ver" vform="adj" word="ver"/>
+        <node begin="4" cat="pp" end="7" id="9" rel="mod">
+          <node begin="4" end="5" frame="preposition(door,[heen])" his="normal" his_1="normal" id="10" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+          <node begin="5" cat="np" end="7" id="11" rel="obj1">
+            <node begin="5" buiging="zonder" end="6" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="12" infl="het" lcat="detp" lemma="dat" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dat" sense="dat" vwtype="aanw" wh="nwh" word="dat"/>
+            <node begin="6" end="7" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="weer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="weer" sense="weer" word="weer"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" cat="sv1" end="11" id="14" rel="tag">
+        <node begin="9" end="10" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="15" infl="sg" lcat="sv1" lemma="vragen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vraag" sc="sbar" sense="vraag" tense="past" word="vroeg" wvorm="pv"/>
+        <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="45-1">&quot; Moet je ver door dat weer ? &quot; vroeg ik .</sentence>
+  <comments>
+    <comment>Q#45-1|&quot; Moet je ver door dat weer ? &quot; vroeg ik .|1|1|-5.63780766385</comment>
+  </comments>
+</alpino_ds>

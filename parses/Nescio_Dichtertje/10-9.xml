@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T12:57" cats="3" skips="1" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="robust_skip" id="1" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" case="nom" def="def" end="10" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="robust_skip" id="2" lcat="--" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="--" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="du" end="7" id="4" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+        <node begin="1" cat="cp" end="7" id="6" rel="nucl">
+          <node begin="1" conjtype="onder" end="2" frame="complementizer(als)" his="normal" his_1="normal" id="7" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+          <node begin="2" cat="ssub" end="7" id="8" rel="body">
+            <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="9" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+            <node begin="3" cat="np" end="6" id="10" rel="obj1">
+              <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="11" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+              <node begin="4" end="5" frame="number(rang)" his="normal" his_1="number_rang" id="12" lcat="ap" lemma="vijfentwintig" naamval="stan" numtype="rang" pos="num" positie="prenom" postag="TW(rang,prenom,stan)" pt="tw" rel="mod" root="vijfentwintig" sense="vijfentwintig" special="rang" word="vijfentwintigste"/>
+              <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="13" lcat="np" lemma="meisje" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="meisje" sense="meisje" word="meisje"/>
+            </node>
+            <node begin="6" end="7" frame="verb(hebben,past(sg),transitive_ndev_ndev)" his="normal" his_1="normal" id="14" infl="sg" lcat="ssub" lemma="zien" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" tense="past" word="zag" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" end="9" frame="verb(hebben,past(pl),intransitive)" his="normal" his_1="normal" id="15" infl="pl" lcat="sv1" lemma="voelen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="dp" root="voel" sc="intransitive" sense="voel" stype="topic_drop" tense="past" word="voelden" wvorm="pv"/>
+      <node begin="10" cat="du" end="16" id="16" rel="dp">
+        <node begin="10" end="11" frame="adverb" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zo" his_1_1_2="zoo" his_1_2="normal" id="17" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="dp" root="zo" sense="zo" word="zoo"/>
+        <node begin="11" cat="np" end="16" id="18" rel="dp">
+          <node begin="11" end="12" frame="iets_noun" getal="ev" his="normal" his_1="normal" id="19" lcat="np" lemma="iets" naamval="stan" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="iets" sc="iets" sense="iets" status="vol" vwtype="onbep" word="iets"/>
+          <node aform="base" begin="12" buiging="met-s" end="13" frame="post_adjective(no_e)" graad="basis" his="normal" his_1="Adj-s" id="20" iets="true" infl="no_e" lcat="ap" lemma="raar" pos="adj" positie="postnom" postag="ADJ(postnom,basis,met-s)" pt="adj" rel="mod" root="raar" sense="raar" special="iets" vform="adj" word="raars"/>
+          <node begin="13" cat="pp" end="16" id="21" rel="mod">
+            <node begin="13" end="14" frame="preposition(in,[])" his="normal" his_1="normal" id="22" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="14" cat="np" end="16" id="23" rel="obj1">
+              <node begin="14" buiging="zonder" end="15" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="24" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+              <node begin="15" end="16" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="hersens" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="hersens" sense="hersens" word="hersens"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="26" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="10-9">Maar als ie &apos;t vijfentwintigste meisje zag , voelden -ie zoo iets raars in z&apos;n hersens .</sentence>
+  <comments>
+    <comment>Q#10-9|Maar als ie &apos;t vijfentwintigste meisje zag , voelden -ie zoo iets raars in z&apos;n hersens .|1|4|7.08587284346</comment>
+  </comments>
+</alpino_ds>

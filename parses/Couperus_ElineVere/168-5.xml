@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="16" id="3" rel="--">
+      <node begin="0" cat="np" end="9" id="4" rel="su">
+        <node begin="0" end="1" frame="determiner(een)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="Een"/>
+        <node aform="base" begin="1" buiging="met-e" end="2" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="6" infl="e" lcat="ap" lemma="laag" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="laag" sense="laag" vform="adj" word="lage"/>
+        <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="divan" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="divan" sense="divan" word="divan"/>
+        <node begin="4" cat="ppart" end="9" id="8" rel="mod">
+          <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="9" infl="no_e" lcat="ppart" lemma="overdekt" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="overdekt" sense="overdekt" vform="psp" word="overdekt" wvorm="vd"/>
+          <node begin="5" cat="pp" end="9" id="10" rel="mod">
+            <node begin="5" end="6" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="11" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+            <node begin="6" cat="np" end="9" id="12" rel="obj1">
+              <node begin="6" end="7" frame="determiner(een)" his="normal" his_1="normal" id="13" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="14" infl="e" lcat="ap" lemma="Perzisch" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="Perzisch" sense="Perzisch" vform="adj" word="Perzische"/>
+              <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="stof" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="stof" sense="stof" word="stof"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="10" end="11" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="16" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="11" cat="np" end="16" id="17" rel="predc">
+        <node begin="11" end="12" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="18" lcat="np" lemma="overlommerd" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="overlommerd" sense="overlommerd" word="overlommerd"/>
+        <node begin="12" cat="pp" end="16" id="19" rel="mod">
+          <node begin="12" end="13" frame="preposition(door,[heen])" his="normal" his_1="normal" id="20" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+          <node begin="13" cat="np" end="16" id="21" rel="obj1">
+            <node begin="13" end="14" frame="determiner(een)" his="normal" his_1="normal" id="22" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="14" buiging="met-e" end="15" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="ige" id="23" infl="e" lcat="ap" lemma="volbladig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="volbladig" sense="volbladig" vform="adj" word="volbladige"/>
+            <node begin="15" end="16" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="24" lcat="np" lemma="aralia" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="aralia" sense="aralia" word="aralia"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="168-5">Een lage divan , overdekt met een Perzische stof , was overlommerd door een volbladige aralia .</sentence>
+  <comments>
+    <comment>Q#168-5|Een lage divan , overdekt met een Perzische stof , was overlommerd door een volbladige aralia .|1|1|-2.067752840200002</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="16" id="5" rel="--">
+      <node begin="3" cat="sv1" end="8" id="6" rel="tag">
+        <node begin="3" end="4" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="7" infl="sg" lcat="sv1" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" tense="past" word="zei" wvorm="pv"/>
+        <node begin="4" end="5" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="8" lcat="np" lemma="Lewin" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Lewin" sense="Lewin" word="Lewin"/>
+        <node begin="6" cat="ppres" end="8" id="9" rel="predm">
+          <node aform="base" begin="6" end="7" frame="adjective(both(tmpadv))" his="normal" his_1="normal" id="10" infl="both" lcat="ap" lemma="even" pos="adj" postag="BW()" pt="bw" rel="mod" root="even" sense="even" vform="adj" word="even"/>
+          <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(end(padv))" his="normal" his_1="normal" id="11" infl="no_e" lcat="ppres" lemma="nadenkend" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="hd" root="nadenkend" sense="nadenkend" vform="gerund" word="nadenkend" wvorm="od"/>
+        </node>
+      </node>
+      <node begin="1" cat="du" end="16" id="12" rel="nucl">
+        <node begin="1" end="2" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="13" lcat="advp" lemma="neen" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="neen" sense="neen" word="Neen"/>
+        <node begin="9" cat="smain" end="16" id="14" rel="nucl">
+          <node begin="9" case="nom" def="def" end="10" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="15" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="10" end="11" frame="verb('hebben/zijn',sg,modifier(aux(inf)))" his="normal" his_1="normal" id="16" infl="sg" lcat="smain" lemma="moeten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" stype="declarative" tense="present" word="moet" wvorm="pv"/>
+          <node begin="9" cat="inf" end="16" id="17" rel="vc">
+            <node begin="9" end="10" id="18" index="1" rel="su"/>
+            <node begin="11" end="12" frame="adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="eerst" pos="adv" postag="BW()" pt="bw" rel="mod" root="eerst" sense="eerst" word="eerst"/>
+            <node begin="12" end="13" frame="adverb" his="normal" his_1="normal" id="20" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+            <node begin="13" cat="np" end="15" id="21" rel="obj1">
+              <node begin="13" end="14" frame="determiner(een)" his="normal" his_1="normal" id="22" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node begin="14" end="15" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="bezoek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="bezoek" sense="bezoek" special="tmp" word="bezoek"/>
+            </node>
+            <node begin="15" buiging="zonder" end="16" frame="verb(hebben,inf,ninv(transitive,part_transitive(af)))" his="normal" his_1="part-V" id="24" infl="inf" lcat="inf" lemma="af_leggen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="leg_af" sc="part_transitive(af)" sense="leg_af" word="afleggen" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="17" end="18" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="26" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="149-1">&quot; Neen , zei Lewin , even nadenkend , ik moet eerst nog een bezoek afleggen . &quot;</sentence>
+  <comments>
+    <comment>Q#149-1|&quot; Neen , zei Lewin , even nadenkend , ik moet eerst nog een bezoek afleggen . &quot;|1|1|-10.063368651839998</comment>
+  </comments>
+</alpino_ds>

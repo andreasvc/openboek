@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:31" cats="2" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="2" rel="--">
+      <node begin="0" cat="du" end="10" id="3" rel="dp">
+        <node begin="0" end="1" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="advp" lemma="neen" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="neen" sense="neen" word="Neen"/>
+        <node begin="1" cat="smain" end="10" id="5" rel="nucl">
+          <node begin="1" end="2" frame="noun(both,count,pl)" gen="both" getal="mv" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="plan" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="plan" sense="plan" word="plannen"/>
+          <node begin="2" end="3" frame="verb(hebben,past(sg),nonp_pred_np_ndev)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="nonp_pred_np_ndev" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+          <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="8" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+          <node begin="4" cat="conj" end="10" id="9" rel="predc">
+            <node begin="4" cat="ap" end="6" id="10" rel="cnj">
+              <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+              <node aform="compar" begin="5" buiging="zonder" end="6" frame="adjective(meer)" graad="comp" his="normal" his_1="normal" id="12" infl="meer" lcat="ap" lemma="veel" naamval="stan" pdtype="grad" pos="adj" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="hd" root="meer" sense="meer" vform="adj" vwtype="onbep" word="meer"/>
+            </node>
+            <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="8" cat="ap" end="10" id="14" rel="cnj">
+              <node begin="8" end="9" frame="intensifier" his="normal" his_1="normal" id="15" lcat="advp" lemma="te" pos="adv" postag="BW()" pt="bw" rel="mod" root="te" sense="te" special="intensifier" word="te"/>
+              <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(pred(nonadv))" graad="basis" his="normal" his_1="normal" id="16" infl="pred" lcat="ap" lemma="sappel" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="sappel" sense="sappel" vform="adj" word="sappel"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="10" cat="smain" end="16" id="17" rel="dp">
+        <node begin="11" end="12" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="18" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" word="zou" wvorm="pv"/>
+        <node begin="12" case="nom" def="def" end="13" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="19" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+        <node begin="10" cat="inf" end="16" id="20" rel="vc">
+          <node begin="10" buiging="zonder" end="11" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="maken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="maak" sc="transitive" sense="maak" word="maken" wvorm="inf"/>
+          <node begin="12" end="13" id="22" index="1" rel="su"/>
+          <node begin="13" case="dat_acc" def="def" end="14" frame="pronoun(nwh,thi,both,de,dat_acc,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="23" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="zich" sense="zich" special="wkpro" status="red" vwtype="refl" wh="nwh" word="zich"/>
+          <node begin="14" cat="advp" end="16" id="24" rel="mod">
+            <node begin="14" end="15" frame="adverb" his="normal" his_1="normal" id="25" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+            <node begin="15" buiging="zonder" end="16" frame="postadv_adverb" graad="comp" his="normal" his_1="normal" id="26" lcat="advp" lemma="veel" naamval="stan" pdtype="grad" pos="adv" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="mod" root="veel" sense="veel" special="postadv" vwtype="onbep" word="meer"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="27" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="76-1">Neen plannen had -ie niet meer , en te sappel maken zou ie zich niet meer .</sentence>
+  <comments>
+    <comment>Q#76-1|Neen plannen had -ie niet meer , en te sappel maken zou ie zich niet meer .|1|2|11.589724950749982</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:11" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="tmp_adverb" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="advp" lemma="toen" pos="adv" postag="BW()" pt="bw" rel="mod" root="toen" sense="toen" special="tmp" word="Toen"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),part_transitive(uit))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="uit_rekken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="rek_uit" sc="part_transitive(uit)" sense="rek_uit" stype="declarative" tense="past" word="rekte" wvorm="pv"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,thi,both,de,dat_acc,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="5" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="zich" sense="zich" special="wkpro" status="red" vwtype="refl" wh="nwh" word="zich"/>
+      <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="aal" id="6" infl="no_e" lcat="ap" lemma="heelemaal" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="heelemaal" sense="heelemaal" vform="adj" word="heelemaal"/>
+      <node begin="5" end="6" frame="particle(uit)" his="normal" his_1="normal" id="7" lcat="part" lemma="uit" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="uit" sense="uit" vztype="fin" word="uit"/>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="8" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="73-12">Toen rekte ze zich heelemaal uit .</sentence>
+  <comments>
+    <comment>Q#73-12|Toen rekte ze zich heelemaal uit .|1|1|-5.83333603896</comment>
+  </comments>
+</alpino_ds>

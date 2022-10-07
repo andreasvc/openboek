@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(hebben,sg1,part_np_pc_pp(over,voor))" his="normal" his_1="normal" id="3" infl="sg1" lcat="smain" lemma="over_hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb_over" sc="part_np_pc_pp(over,voor)" sense="heb_over-voor" stype="declarative" tense="present" word="heb" wvorm="pv"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="4" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="obj1" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="gaarne" pos="adv" postag="BW()" pt="bw" rel="mod" root="gaarne" sense="gaarne" word="gaarne"/>
+      <node begin="3" cat="pp" end="6" id="6" rel="pc">
+        <node begin="3" end="4" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="7" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="5" end="6" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="voor" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="voor" sense="voor" vztype="fin" word="voor"/>
+      </node>
+      <node begin="6" end="7" frame="particle(over)" his="normal" his_1="normal" id="9" lcat="part" lemma="over" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="over" sense="over" vztype="fin" word="over"/>
+    </node>
+    <node begin="7" end="8" frame="punct(hellip)" his="normal" his_1="normal" id="10" lcat="punct" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="skip" id="11" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="96-2">Ik heb ze er gaarne voor over .... &quot;</sentence>
+  <comments>
+    <comment>Q#96-2|Ik heb ze er gaarne voor over .... &quot;|1|1|-8.741290241100002</comment>
+  </comments>
+</alpino_ds>

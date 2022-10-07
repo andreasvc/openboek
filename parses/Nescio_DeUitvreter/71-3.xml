@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="cp" end="13" id="1" rel="--">
+      <node begin="0" conjtype="onder" end="1" frame="complementizer(of)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="cp" lemma="of" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="of" sc="of" sense="of" word="Of"/>
+      <node begin="1" cat="ssub" end="13" id="3" rel="body">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="4" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+        <node begin="2" cat="mwu" end="4" his="normal" his_1="normal" id="5" rel="svp">
+          <node begin="2" end="3" frame="fixed_part([van,plan])" id="6" lcat="fixed" lemma="van" pos="fixed" postag="VZ(init)" pt="vz" rel="mwp" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="3" end="4" frame="fixed_part([van,plan])" genus="onz" getal="ev" graad="basis" id="7" lcat="fixed" lemma="plan" naamval="stan" ntype="soort" pos="fixed" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" root="plan" sense="plan" word="plan"/>
+        </node>
+        <node begin="4" end="5" frame="verb(unacc,past(sg),fixed([[van,plan],vp],no_passive))" his="normal" his_1="normal" id="8" infl="sg" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="fixed([[van,plan],vp],no_passive)" sense="van-plan-ben" tense="past" word="was" wvorm="pv"/>
+        <node begin="1" cat="ti" end="13" id="9" rel="vc">
+          <node begin="11" end="12" frame="complementizer(te)" his="normal" his_1="normal" id="10" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="1" cat="inf" end="13" id="11" rel="body">
+            <node begin="1" end="2" id="12" index="1" rel="su"/>
+            <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+            <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="weer" pos="adv" postag="BW()" pt="bw" rel="mod" root="weer" sense="weer" word="weer"/>
+            <node begin="7" cat="du" end="9" id="15" rel="predm">
+              <node begin="7" end="8" frame="eenmaal_adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="dp" root="eens" sense="eens" special="eenmaal" word="eens"/>
+              <node begin="8" end="9" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="17" lcat="np" lemma="zoo&apos;n" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="zoo&apos;n" sense="zoo&apos;n" word="zoo&apos;n"/>
+            </node>
+            <node begin="9" cat="np" end="11" id="18" rel="predc">
+              <node aform="base" begin="9" buiging="met-e" end="10" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="19" infl="e" lcat="ap" lemma="woest" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="woest" sense="woest" vform="adj" word="woeste"/>
+              <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="werker" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="werker" sense="werker" word="werker"/>
+            </node>
+            <node begin="12" buiging="zonder" end="13" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="worden" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(vraag)" his="normal" his_1="normal" id="22" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="71-3">Of ie van plan was nog weer eens zoo&apos;n woeste werker te worden ?</sentence>
+  <comments>
+    <comment>Q#71-3|Of ie van plan was nog weer eens zoo&apos;n woeste werker te worden ?|1|1|-0.1448471093000023</comment>
+  </comments>
+</alpino_ds>

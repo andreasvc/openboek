@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="12" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="dp">
+        <node begin="0" cat="np" end="6" id="4" rel="su">
+          <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node aform="base" begin="1" buiging="met-e" end="2" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="6" infl="e" lcat="ap" lemma="wit" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="wit" sense="wit" vform="adj" word="witte"/>
+          <node begin="2" end="3" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="gloed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="gloed" sense="gloed" word="gloed"/>
+          <node begin="3" cat="pp" end="6" id="8" rel="mod">
+            <node begin="3" end="4" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="9" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="4" cat="np" end="6" id="10" rel="obj1">
+              <node begin="4" end="5" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="11" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+              <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="licht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="licht" sense="licht" word="licht"/>
+            </node>
+          </node>
+        </node>
+        <node begin="6" end="7" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="weifelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="weifel" sc="intransitive" sense="weifel" stype="declarative" tense="past" word="weifelde" wvorm="pv"/>
+      </node>
+      <node begin="8" cat="smain" end="12" id="14" rel="dp">
+        <node begin="8" cat="np" end="10" id="15" rel="su">
+          <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="16" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="deur" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="deur" sense="deur" word="deuren"/>
+        </node>
+        <node begin="10" end="11" frame="verb(hebben,past(pl),intransitive)" his="normal" his_1="normal" id="18" infl="pl" lcat="smain" lemma="schuiven" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="schuif" sc="intransitive" sense="schuif" stype="declarative" tense="past" word="schoven" wvorm="pv"/>
+        <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="19" infl="no_e" lcat="ap" lemma="dicht" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="dicht" sense="dicht" vform="adj" word="dicht"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="35-1">De witte gloed van het licht weifelde , de deuren schoven dicht .</sentence>
+  <comments>
+    <comment>Q#35-1|De witte gloed van het licht weifelde , de deuren schoven dicht .|1|1|3.3592507232300077</comment>
+  </comments>
+</alpino_ds>

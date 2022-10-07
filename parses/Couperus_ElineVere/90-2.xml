@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="1" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="0" cat="du" end="8" id="2" rel="--">
+      <node begin="0" cat="whq" end="4" id="3" rel="nucl">
+        <node begin="0" case="both" def="indef" end="1" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="Wat"/>
+        <node begin="0" cat="sv1" end="4" id="5" rel="body">
+          <node begin="0" end="1" id="6" index="1" rel="su"/>
+          <node begin="1" end="2" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="7" infl="sg" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="whquestion" tense="past" word="was" wvorm="pv"/>
+          <node begin="2" cat="mwu" end="4" his="normal" his_1="het Asuper" his_1_1="normal" id="8" mwu_root="mooi" mwu_sense="mooi" rel="predc">
+            <node aform="super" begin="2" end="3" frame="adjective(het_st(adv))" id="9" infl="pred" lcat="ap" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="adj" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" vform="adj" word="het"/>
+            <node aform="super" begin="3" buiging="zonder" end="4" frame="adjective(het_st(adv))" graad="sup" id="10" infl="pred" lcat="ap" lemma="mooist" pos="adj" positie="vrij" postag="ADJ(vrij,sup,zonder)" pt="adj" rel="mwp" root="mooist" sense="mooist" vform="adj" word="mooist"/>
+          </node>
+        </node>
+      </node>
+      <node begin="5" cat="sv1" end="8" id="11" rel="tag">
+        <node begin="5" end="6" frame="verb(hebben,past(pl),sbar)" his="normal" his_1="normal" id="12" infl="pl" lcat="sv1" lemma="roepen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="roep" sc="sbar" sense="roep" tense="past" word="riepen" wvorm="pv"/>
+        <node begin="6" cat="np" end="8" his="normal" his_1="normal" id="13" rel="su">
+          <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" getal="mv" id="14" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,vol,3p,mv)" pt="vnw" rel="hd" rnum="pl" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+          <node begin="7" buiging="met-e" end="8" frame="predm_adverb" getal-n="mv-n" id="15" lcat="advp" lemma="allen" naamval="stan" pdtype="det" pos="adv" positie="nom" postag="VNW(onbep,det,stan,nom,met-e,mv-n)" pt="vnw" rel="mod" root="allen" sense="allen" special="predm" vwtype="onbep" word="allen"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="16" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="90-2">Wat was het mooist ? riepen zij allen .</sentence>
+  <comments>
+    <comment>Q#90-2|Wat was het mooist ? riepen zij allen .|1|1|-0.07377845348000114</comment>
+  </comments>
+</alpino_ds>

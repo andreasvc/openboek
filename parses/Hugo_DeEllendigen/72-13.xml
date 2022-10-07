@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="sv1" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg3,sbar)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg3" lcat="sv1" lemma="zien" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="zie" sc="sbar" sense="zie" stype="topic_drop" tense="present" word="Ziet" wvorm="pv"/>
+      <node begin="1" cat="whsub" end="6" id="3" rel="vc">
+        <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="4" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+        <node begin="1" cat="ssub" end="6" id="5" rel="body">
+          <node begin="1" end="2" id="6" index="1" rel="mod"/>
+          <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="men"/>
+          <node begin="3" cat="pp" end="5" id="8" rel="mod">
+            <node begin="3" end="4" frame="preposition(rondom,[heen])" his="normal" his_1="normal" id="9" lcat="pp" lemma="rondom" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="rondom" sense="rondom" vztype="init" word="rondom"/>
+            <node begin="4" case="both" def="def" end="5" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="10" lcat="np" lemma="u" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2b" pos="pron" postag="VNW(pers,pron,nomin,vol,2b,getal)" pt="vnw" rel="obj1" rnum="sg" root="u" sense="u" status="vol" vwtype="pers" wh="nwh" word="u"/>
+          </node>
+          <node begin="5" end="6" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="11" infl="sg3" lcat="ssub" lemma="lijden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="lijd" sc="intransitive" sense="lijd" tense="present" word="lijdt" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(uitroep)" his="normal" his_1="normal" id="12" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="7" end="8" frame="punct(aanhaal_both)" his="skip" id="13" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="72-13">Ziet hoe men rondom u lijdt ! &quot;</sentence>
+  <comments>
+    <comment>Q#72-13|Ziet hoe men rondom u lijdt ! &quot;|1|1|1.182850591179998</comment>
+  </comments>
+</alpino_ds>

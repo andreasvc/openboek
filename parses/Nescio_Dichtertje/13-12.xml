@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:01" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="smain" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="Dat"/>
+      <node begin="1" end="2" frame="verb(hebben,pl,pred_np)" his="normal" his_1="normal" id="3" infl="pl" lcat="smain" lemma="noemen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="noem" sc="pred_np" sense="noem" stype="declarative" tense="present" word="noemen" wvorm="pv"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="4" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      <node begin="3" buiging="zonder" end="4" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="5" lcat="np" lemma="vallen" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="predc" rnum="sg" root="val" sc="intransitive" sense="val" special="v_noun" word="vallen" wvorm="inf"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="6" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="13-12">Dat noemen ze vallen .</sentence>
+  <comments>
+    <comment>Q#13-12|Dat noemen ze vallen .|1|1|0.16936813881999901</comment>
+  </comments>
+</alpino_ds>

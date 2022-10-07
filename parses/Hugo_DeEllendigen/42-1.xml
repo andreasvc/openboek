@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="15" id="2" rel="--">
+      <node begin="0" cat="np" end="2" id="3" rel="su">
+        <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="bisschop" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bisschop" sense="bisschop" word="bisschop"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,past(sg),ld_pp)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="ld_pp" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="3" cat="np" end="6" id="7" rel="mod">
+        <node begin="3" end="4" frame="modal_adverb(noun_prep)" his="normal" his_1="normal" id="8" lcat="advp" lemma="ongeveer" pos="adv" postag="BW()" pt="bw" rel="mod" root="ongeveer" sc="noun_prep" sense="ongeveer" word="ongeveer"/>
+        <node begin="4" end="5" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="9" infl="pl_num" lcat="detp" lemma="drie" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="drie" sense="drie" special="hoofd" word="drie"/>
+        <node begin="5" end="6" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="maand" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="maand" sense="maand" special="tmp" word="maanden"/>
+      </node>
+      <node begin="6" cat="pp" end="8" id="11" rel="ld">
+        <node begin="6" end="7" frame="preposition(te,[],nodet)" his="normal" his_1="normal" id="12" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="te"/>
+        <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="13" lcat="np" lemma="D." naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="D." sense="D." word="D."/>
+      </node>
+      <node begin="9" cat="cp" end="15" id="14" rel="mod">
+        <node begin="9" conjtype="onder" end="10" frame="complementizer" his="normal" his_1="normal" id="15" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="toen"/>
+        <node begin="10" cat="ssub" end="15" id="16" rel="body">
+          <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="17" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="11" cat="pp" end="13" id="18" rel="mod">
+            <node begin="11" end="12" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="19" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+            <node begin="12" buiging="zonder" end="13" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="20" lcat="np" lemma="zekeren" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="obj1" rnum="sg" root="zeker" sc="intransitive" sense="zeker" special="v_noun" word="zekeren" wvorm="inf"/>
+          </node>
+          <node begin="13" end="14" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mod" rnum="sg" root="dag" sense="dag" special="tmp" word="dag"/>
+          <node begin="14" end="15" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zei" his_1_1_2="zeide" his_1_2="normal" id="22" infl="sg" lcat="ssub" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="intransitive" sense="zeg" tense="past" word="zeide" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(dubb_punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+  </node>
+  <sentence sentid="42-1">De bisschop was ongeveer drie maanden te D. , toen hij op zekeren dag zeide :</sentence>
+  <comments>
+    <comment>Q#42-1|De bisschop was ongeveer drie maanden te D. , toen hij op zekeren dag zeide :|1|1|1.5870026142000109</comment>
+  </comments>
+</alpino_ds>

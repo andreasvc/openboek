@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="smain" end="11" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="Zij"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="blijven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="blijf" sc="copula" sense="blijf" stype="declarative" tense="past" word="bleef" wvorm="pv"/>
+      <node begin="2" cat="cp" end="11" id="4" rel="predc">
+        <node begin="2" end="3" frame="complementizer(als)" his="normal" his_1="normal" id="5" lcat="cp" lemma="als" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="als" sc="als" sense="als" vztype="init" word="als"/>
+        <node begin="3" cat="np" end="11" id="6" rel="body">
+          <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="7" infl="e" lcat="ap" lemma="intiem" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="intiem" sense="intiem" vform="adj" word="intieme"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="8" lcat="np" lemma="huis_vriendin" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="huis_vriendin" sense="huis_vriendin" word="huisvriendin"/>
+          <node begin="5" cat="pp" end="11" id="9" rel="mod">
+            <node begin="5" end="6" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="10" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+            <node begin="6" cat="conj" end="11" id="11" rel="obj1">
+              <node begin="6" cat="mwu" end="8" his="normal" his_1="names_dictionary" id="12" mwu_root="Van Raat" mwu_sense="Van Raat" rel="cnj">
+                <node begin="6" end="7" frame="proper_name(sg,'PER')" id="13" lcat="np" lemma="Van" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Van" sense="Van" spectype="deeleigen" word="Van"/>
+                <node begin="7" end="8" frame="proper_name(sg,'PER')" id="14" lcat="np" lemma="Raat" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Raat" sense="Raat" spectype="deeleigen" word="Raat"/>
+              </node>
+              <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+              <node begin="9" cat="mwu" end="11" his="name" his_1="not_begin" id="16" mwu_root="Betsy soupeeren" mwu_sense="Betsy soupeeren" rel="cnj">
+                <node begin="9" end="10" frame="proper_name(both)" id="17" lcat="np" lemma="Betsy" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Betsy" sense="Betsy" spectype="deeleigen" word="Betsy"/>
+                <node begin="10" end="11" frame="proper_name(both)" id="18" lcat="np" lemma="soupeeren" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="soupeeren" sense="soupeeren" spectype="deeleigen" word="soupeeren"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="87-3">Zij bleef als intieme huisvriendin met Van Raat en Betsy soupeeren .</sentence>
+  <comments>
+    <comment>Q#87-3|Zij bleef als intieme huisvriendin met Van Raat en Betsy soupeeren .|1|1|-1.4723420412200026</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:43" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="1" end="2" frame="verb('hebben/zijn',past(sg),modifier(aux(inf)))" his="normal" his_1="normal" id="2" infl="sg" lcat="smain" lemma="moeten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" stype="declarative" tense="past" word="moest" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="3" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+      <node begin="0" cat="inf" end="8" id="4" rel="vc">
+        <node begin="0" buiging="zonder" end="1" frame="verb(hebben,inf,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="inf" lcat="inf" lemma="spuwen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="spuw" sc="intransitive" sense="spuw" word="Spuwen" wvorm="inf"/>
+        <node begin="2" end="3" id="6" index="1" rel="su"/>
+        <node begin="3" cat="cp" end="8" id="7" rel="mod">
+          <node begin="3" conjtype="onder" end="4" frame="complementizer(als)" his="normal" his_1="normal" id="8" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+          <node begin="4" cat="ssub" end="8" id="9" rel="body">
+            <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="10" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+            <node begin="5" cat="pp" end="7" id="11" rel="pc">
+              <node begin="5" end="6" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="12" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+              <node begin="6" end="7" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="13" lcat="pp" lemma="aan" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="aan" sense="aan" vztype="fin" word="aan"/>
+            </node>
+            <node begin="7" end="8" frame="verb(hebben,past(sg),pc_pp(aan))" his="normal" his_1="normal" id="14" infl="sg" lcat="ssub" lemma="denken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="denk" sc="pc_pp(aan)" sense="denk-aan" tense="past" word="dacht" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="21-13">Spuwen moest ie als ie er aan dacht .</sentence>
+  <comments>
+    <comment>Q#21-13|Spuwen moest ie als ie er aan dacht .|1|1|-1.629509591250002</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="smain" end="11" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="obj1">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="Z&apos;n"/>
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="wandelstok" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wandelstok" sense="wandelstok" word="wandelstok"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,sg,part_transitive(neer))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="neer_zetten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zet_neer" sc="part_transitive(neer)" sense="zet_neer" stype="declarative" tense="present" word="zet" wvorm="pv"/>
+      <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="6" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+      <node begin="4" cat="np" end="10" id="7" rel="mod">
+        <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="8" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="9" infl="no_e" lcat="ap" lemma="heel" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="heel" sense="heel" vform="adj" word="heel"/>
+        <node begin="6" end="7" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="eind" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="eind" sense="eind" special="tmp" word="eind"/>
+        <node begin="7" cat="pp" end="10" id="11" rel="mod">
+          <node begin="7" end="8" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="12" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="8" cat="np" end="10" id="13" rel="obj1">
+            <node begin="8" buiging="zonder" end="9" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="14" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+            <node begin="9" end="10" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="lichaam" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="lichaam" sense="lichaam" word="lichaam"/>
+          </node>
+        </node>
+      </node>
+      <node begin="10" end="11" frame="particle(neer)" his="normal" his_1="normal" id="16" lcat="part" lemma="neer" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="neer" sense="neer" vztype="fin" word="neer"/>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="79-4">Z&apos;n wandelstok zet -ie een heel eind van z&apos;n lichaam neer .</sentence>
+  <comments>
+    <comment>Q#79-4|Z&apos;n wandelstok zet -ie een heel eind van z&apos;n lichaam neer .|1|1|-2.4888268212399987</comment>
+  </comments>
+</alpino_ds>

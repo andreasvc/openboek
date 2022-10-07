@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="0" cat="du" end="15" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="15" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="5" id="5" rel="cnj">
+          <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="toen" pos="adv" postag="BW()" pt="bw" rel="mod" root="toen" sense="toen" special="tmp" word="toen"/>
+          <node begin="2" end="3" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="krijgen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="krijg" sc="transitive" sense="krijg" stype="declarative" tense="past" word="kreeg" wvorm="pv"/>
+          <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="8" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+          <node begin="4" case="dat_acc" def="def" end="5" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="fem" getal="getal" his="normal" his_1="normal" id="9" lcat="np" lemma="haar" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,getal,fem)" pt="vnw" rel="obj1" rnum="sg" root="haar" sense="haar" status="vol" vwtype="pers" wh="nwh" word="haar"/>
+        </node>
+        <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="10" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="6" cat="smain" end="15" id="11" rel="cnj">
+          <node begin="6" cat="np" end="8" id="12" rel="su">
+            <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="13" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="tante" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tante" sense="tante" word="tante"/>
+          </node>
+          <node begin="8" end="9" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" stype="declarative" tense="past" word="zei" wvorm="pv"/>
+          <node aform="compar" begin="9" buiging="zonder" end="10" frame="adjective(er(tmpadv))" graad="comp" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="mod" root="laat" sense="laat" vform="adj" word="later"/>
+          <node begin="11" cat="np" end="15" id="17" rel="vc">
+            <node begin="11" cat="mwu(wat een,wat een)" end="13" his="normal" his_1="normal" id="18" rel="det">
+              <node begin="11" end="12" frame="determiner(pron,wh)" getal="ev" id="19" infl="pron" lcat="detp" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="mwp" root="wat" sense="wat" status="vol" vwtype="vb" wh="wh" word="wat"/>
+              <node begin="12" end="13" frame="determiner(pron,wh)" getal="ev" id="20" infl="pron" lcat="detp" lemma="een" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="mwp" root="een" sense="een" status="vol" vwtype="vb" wh="wh" word="een"/>
+            </node>
+            <node aform="base" begin="13" buiging="met-e" end="14" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="21" infl="e" lcat="ap" lemma="net" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="net" sense="net" vform="adj" word="nette"/>
+            <node begin="14" end="15" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="jongen" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="jongen" sense="jongen" stype="whquestion" word="jongen"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="23" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="39-4">En toen kreeg ie haar en de tante zei later &quot; wat een nette jongen &quot; .</sentence>
+  <comments>
+    <comment>Q#39-4|En toen kreeg ie haar en de tante zei later &quot; wat een nette jongen &quot; .|1|1|-3.203111395540001</comment>
+  </comments>
+</alpino_ds>

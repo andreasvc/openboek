@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="het" lcat="detp" lemma="dat" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dat" sense="dat" vwtype="aanw" wh="nwh" word="Dat"/>
+        <node begin="1" buiging="zonder" end="2" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="4" lcat="np" lemma="roepen" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="roep" sc="intransitive" sense="roep" special="v_noun" word="roepen" wvorm="inf"/>
+      </node>
+      <node begin="2" end="3" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="past" word="kon" wvorm="pv"/>
+      <node begin="0" cat="inf" end="6" id="6" rel="vc">
+        <node begin="0" end="2" id="7" index="1" rel="su"/>
+        <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj2" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+        <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,so_np)" his="normal" his_1="normal" id="10" infl="inf" lcat="inf" lemma="gelden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="geld" sc="so_np" sense="geld" word="gelden" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="115-3">Dat roepen kon hem niet gelden .</sentence>
+  <comments>
+    <comment>Q#115-3|Dat roepen kon hem niet gelden .|1|1|-0.96827668776</comment>
+  </comments>
+</alpino_ds>

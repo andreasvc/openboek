@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(hellip)" his="normal" his_1="normal" id="1" lcat="punct" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" cat="np" end="3" id="3" rel="dp">
+        <node begin="0" end="1" frame="modal_adverb" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="advp" lemma="alleen" pos="adv" postag="BW()" pt="bw" rel="mod" root="alleen" sc="modal" sense="alleen" word="Alleen"/>
+        <node begin="1" end="2" frame="determiner(een)" his="normal" his_1="normal" id="5" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node begin="2" end="3" frame="mod_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="6" lcat="np" lemma="beet" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="beet_DIM" sense="beet_DIM" special="mod" word="beetje"/>
+      </node>
+      <node begin="4" cat="ap" end="7" id="7" rel="dp">
+        <node begin="4" cat="np" end="6" id="8" rel="mod">
+          <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="5" end="6" frame="mod_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="10" lcat="np" lemma="beet" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="beet_DIM" sense="beet_DIM" special="mod" word="beetje"/>
+        </node>
+        <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="lui" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="lui" sense="lui" vform="adj" word="lui"/>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(hellip)" his="normal" his_1="normal" id="12" lcat="punct" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+  </node>
+  <sentence sentid="102-2">Alleen een beetje .... een beetje lui ....</sentence>
+  <comments>
+    <comment>Q#102-2|Alleen een beetje .... een beetje lui ....|1|1|-0.20153439960999994</comment>
+  </comments>
+</alpino_ds>

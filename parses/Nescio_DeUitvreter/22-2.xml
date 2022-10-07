@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:46" cats="1" skips="0" />
+  <node begin="0" cat="top" end="38" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="16" end="17" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="22" end="23" frame="punct(komma)" his="normal" his_1="normal" id="5" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="26" end="27" frame="punct(komma)" his="normal" his_1="normal" id="6" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="28" end="29" frame="punct(komma)" his="normal" his_1="normal" id="7" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="37" id="8" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="9" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="37" id="10" rel="nucl">
+        <node begin="1" cat="smain" end="6" id="11" rel="cnj">
+          <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+          <node begin="2" end="3" frame="verb(zijn,past(sg),intransitive)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="intransitive" sense="begin" stype="declarative" tense="past" word="begon" wvorm="pv"/>
+          <node begin="3" cat="np" end="5" id="14" rel="su">
+            <node begin="3" end="4" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="marteling" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="marteling" sense="marteling" word="marteling"/>
+          </node>
+          <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="weer" pos="adv" postag="BW()" pt="bw" rel="mod" root="weer" sense="weer" word="weer"/>
+        </node>
+        <node begin="7" cat="smain" end="11" id="18" rel="cnj">
+          <node begin="7" end="8" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="werk" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="su" rnum="pl" root="werk" sense="werk" word="werken"/>
+          <node begin="9" end="10" frame="verb(hebben,pl,intransitive)" his="normal" his_1="normal" id="20" infl="pl" lcat="smain" lemma="werken" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="werk" sc="intransitive" sense="werk" stype="declarative" tense="present" word="werken" wvorm="pv"/>
+          <node begin="10" end="11" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mod" rnum="sg" root="dag" sense="dag" special="tmp" word="dag"/>
+        </node>
+        <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="22" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="12" cat="smain" end="37" id="23" rel="cnj">
+          <node begin="12" cat="conj" end="28" id="24" rel="su">
+            <node begin="12" end="13" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="nacht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="nacht" sense="nacht" special="tmp" word="nacht"/>
+            <node begin="14" cat="np" end="16" id="26" rel="cnj">
+              <node begin="14" end="15" frame="tmp_adverb" his="normal" his_1="normal" id="27" lcat="advp" lemma="daags" pos="adv" postag="BW()" pt="bw" rel="mod" root="daags" sense="daags" special="tmp" word="daags"/>
+              <node begin="15" buiging="zonder" end="16" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="28" lcat="np" lemma="schilderen" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="schilder" sc="intransitive" sense="schilder" special="v_noun" word="schilderen" wvorm="inf"/>
+            </node>
+            <node begin="17" cat="np" end="22" id="29" rel="cnj">
+              <node begin="17" cat="mwu" end="19" his="normal" his_1="normal" id="30" rel="mod">
+                <node begin="17" end="18" frame="tmp_adverb" id="31" lcat="advp" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="adv" postag="LID(bep,gen,evmo)" pt="lid" rel="mwp" root="&apos;s" sense="&apos;s" special="tmp" word="&apos;s"/>
+                <node begin="18" end="19" frame="tmp_adverb" getal="ev" graad="basis" id="32" lcat="advp" lemma="nacht" naamval="gen" ntype="soort" pos="adv" postag="N(soort,ev,basis,gen)" pt="n" rel="mwp" root="nachts" sense="nachts" special="tmp" word="nachts"/>
+              </node>
+              <node begin="19" cat="pp" end="21" id="33" rel="pc">
+                <node begin="19" end="20" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="34" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+                <node begin="20" end="21" frame="preposition(over,[heen])" his="normal" his_1="normal" id="35" lcat="pp" lemma="over" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="over" sense="over" vztype="fin" word="over"/>
+              </node>
+              <node begin="21" buiging="zonder" end="22" frame="v_noun(pc_pp(over))" getal-n="zonder-n" his="normal" his_1="normal" id="36" lcat="np" lemma="piekeren" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="pieker" sc="pc_pp(over)" sense="pieker-over" special="v_noun" word="piekeren" wvorm="inf"/>
+            </node>
+            <node begin="23" cat="np" end="26" id="37" rel="cnj">
+              <node begin="23" cat="pp" end="25" id="38" rel="pc">
+                <node begin="23" end="24" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="39" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+                <node begin="24" end="25" frame="preposition(bij,[vandaan])" his="normal" his_1="normal" id="40" lcat="pp" lemma="bij" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="bij" sense="bij" vztype="fin" word="bij"/>
+              </node>
+              <node begin="25" buiging="zonder" end="26" frame="v_noun(pc_pp(bij))" getal-n="zonder-n" his="normal" his_1="normal" id="41" lcat="np" lemma="blijven" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="blijf" sc="pc_pp(bij)" sense="blijf-bij" special="v_noun" word="blijven" wvorm="inf"/>
+            </node>
+            <node begin="27" buiging="zonder" end="28" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="part-V" id="42" lcat="np" lemma="door_werken" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="cnj" rnum="sg" root="werk_door" sc="intransitive" sense="werk_door" special="v_noun" word="doorwerken" wvorm="inf"/>
+          </node>
+          <node begin="29" end="30" frame="verb(hebben,pl,sbar)" his="normal" his_1="normal" id="43" infl="pl" lcat="smain" lemma="zorgen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="zorg" sc="sbar" sense="zorg" stype="declarative" tense="present" word="zorgen" wvorm="pv"/>
+          <node begin="30" cat="cp" end="37" id="44" rel="vc">
+            <node begin="30" conjtype="onder" end="31" frame="complementizer(dat)" his="normal" his_1="normal" id="45" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+            <node begin="31" cat="ssub" end="37" id="46" rel="body">
+              <node begin="31" case="both" def="def" end="32" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="47" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+              <node begin="32" cat="np" end="34" id="48" rel="obj1">
+                <node begin="32" end="33" frame="determiner(de)" his="normal" his_1="normal" id="49" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node begin="33" end="34" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="50" lcat="np" lemma="ding" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="ding" sense="ding" word="dingen"/>
+              </node>
+              <node begin="34" end="35" frame="tmp_adverb" his="normal" his_1="normal" id="51" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+              <node aform="base" begin="35" buiging="zonder" end="36" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="52" infl="no_e" lcat="ap" lemma="goed" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="goed" sense="goed" vform="adj" word="goed"/>
+              <node begin="36" end="37" frame="verb(hebben,past(sg),ninv(transitive,part_transitive(vast)))" his="normal" his_1="part-V" id="53" infl="sg" lcat="ssub" lemma="vast_houden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="houd_vast" sc="part_transitive(vast)" sense="houd_vast" tense="past" word="vasthield" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="37" end="38" frame="punct(punt)" his="normal" his_1="normal" id="54" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="22-2">En dan begon de marteling weer , werken , werken dag en nacht , daags schilderen , &apos;s nachts er over piekeren , er bij blijven , doorwerken , zorgen dat je de dingen nu goed vasthield .</sentence>
+  <comments>
+    <comment>Q#22-2|En dan begon de marteling weer , werken , werken dag en nacht , daags schilderen , &apos;s nachts er over piekeren , er bij blijven , doorwerken , zorgen dat je de dingen nu goed vasthield .|1|1|-11.68170101585</comment>
+  </comments>
+</alpino_ds>

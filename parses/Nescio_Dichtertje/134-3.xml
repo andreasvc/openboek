@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:59" cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="17" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="17" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="10" id="5" rel="dp">
+          <node begin="1" cat="np" end="3" id="6" rel="su">
+            <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="2" end="3" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="heuvel" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="heuvel" sense="heuvel" word="heuvels"/>
+          </node>
+          <node begin="3" end="4" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="9" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="waren" wvorm="pv"/>
+          <node begin="4" cat="conj" end="10" id="10" rel="predc">
+            <node begin="4" cat="ap" end="6" id="11" rel="cnj">
+              <node begin="4" end="5" frame="intensifier" his="normal" his_1="normal" id="12" lcat="advp" lemma="te" pos="adv" postag="BW()" pt="bw" rel="mod" root="te" sense="te" special="intensifier" word="te"/>
+              <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="13" infl="no_e" lcat="ap" lemma="laag" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="laag" sense="laag" vform="adj" word="laag"/>
+            </node>
+            <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="7" cat="ap" end="10" id="15" rel="cnj">
+              <node begin="7" end="8" frame="adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+              <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="17" infl="no_e" lcat="ap" lemma="steil" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="steil" sense="steil" vform="adj" word="steil"/>
+              <node begin="9" end="10" frame="postadj_adverb" his="normal" his_1="normal" id="18" lcat="advp" lemma="genoeg" pos="adv" postag="BW()" pt="bw" rel="mod" root="genoeg" sense="genoeg" special="postadj" word="genoeg"/>
+            </node>
+          </node>
+        </node>
+        <node begin="11" cat="whq" end="17" id="19" rel="dp">
+          <node begin="11" end="12" frame="wh_adjective" his="normal" his_1="normal" id="20" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+          <node begin="11" cat="sv1" end="17" id="21" rel="body">
+            <node begin="12" end="13" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="22" infl="sg" lcat="sv1" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="whquestion" tense="past" word="kon" wvorm="pv"/>
+            <node begin="13" case="both" def="def" end="14" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="23" index="2" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+            <node begin="11" cat="inf" end="17" id="24" rel="vc">
+              <node begin="11" end="12" id="25" index="1" rel="mod"/>
+              <node begin="13" end="14" id="26" index="2" rel="su"/>
+              <node begin="14" end="15" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="27" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+              <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="28" infl="no_e" lcat="ap" lemma="moe" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="moe" sense="moe" vform="adj" word="moe"/>
+              <node begin="16" buiging="zonder" end="17" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="29" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="worden" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(vraag)" his="normal" his_1="normal" id="30" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="134-3">En de heuvels waren te laag en niet steil genoeg , hoe kon je daar moe worden ?</sentence>
+  <comments>
+    <comment>Q#134-3|En de heuvels waren te laag en niet steil genoeg , hoe kon je daar moe worden ?|1|1|-10.353843980599999</comment>
+  </comments>
+</alpino_ds>

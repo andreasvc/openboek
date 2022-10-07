@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:11" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(vraag)" his="normal" his_1="normal" id="2" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="6" end="7" frame="punct(vraag)" his="normal" his_1="normal" id="3" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="7" end="8" frame="punct(aanhaal_both)" his="skip" id="4" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="du" end="13" id="5" rel="--">
+      <node begin="1" cat="pp" end="3" id="6" rel="dp">
+        <node begin="1" end="2" frame="preposition(om,[heen])" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="pp" lemma="om" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="om" sense="om" vztype="init" word="Om"/>
+        <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+      </node>
+      <node begin="4" cat="conj" end="13" id="9" rel="dp">
+        <node begin="4" cat="np" end="6" id="10" rel="cnj">
+          <node begin="4" buiging="zonder" end="5" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+          <node begin="5" end="6" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="12" lcat="np" lemma="engert" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="engert" sense="engert" word="engert"/>
+        </node>
+        <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="9" cat="sv1" end="13" id="14" rel="cnj">
+          <node begin="9" end="10" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="15" infl="sg" lcat="sv1" lemma="houden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="houd" sc="intransitive" sense="houd" tense="past" word="hield" wvorm="pv"/>
+          <node begin="10" cat="np" end="12" id="16" rel="su">
+            <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="17" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+            <node begin="11" end="12" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="hoofd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="hoofd" sense="hoofd" word="hoofd"/>
+          </node>
+          <node begin="12" end="13" frame="adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="achterover" pos="adv" postag="BW()" pt="bw" rel="mod" root="achterover" sense="achterover" word="achterover"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="24-13">&quot; Om mij ? die engert ? &quot; en hield haar hoofd achterover .</sentence>
+  <comments>
+    <comment>Q#24-13|&quot; Om mij ? die engert ? &quot; en hield haar hoofd achterover .|1|1|4.114728672600002</comment>
+  </comments>
+</alpino_ds>

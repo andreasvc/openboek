@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:30" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),part_np_ld_pp(af,van))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="af_trekken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="trek_af" sc="part_np_ld_pp(af,van)" sense="trek_af" stype="declarative" tense="past" word="trok" wvorm="pv"/>
+      <node begin="3" cat="np" end="5" id="4" rel="obj1">
+        <node begin="3" buiging="zonder" end="4" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="5" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+        <node begin="4" end="5" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="hand" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="hand" sense="hand" word="handen"/>
+      </node>
+      <node begin="2" cat="pp" end="6" id="7" rel="ld">
+        <node begin="2" end="3" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="8" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="9" lcat="pp" lemma="van" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="van" sense="van" vztype="fin" word="van"/>
+      </node>
+      <node begin="6" end="7" frame="particle(af)" his="normal" his_1="normal" id="10" lcat="part" lemma="af" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="af" sense="af" vztype="fin" word="af"/>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="73-20">Hij trok er zijn handen van af .</sentence>
+  <comments>
+    <comment>Q#73-20|Hij trok er zijn handen van af .|1|1|-6.486579344949999</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="du" end="11" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="sv1" end="11" id="3" rel="nucl">
+        <node begin="1" end="2" frame="verb(hebben,sg1,transitive)" his="normal" his_1="normal" id="4" infl="sg1" lcat="sv1" lemma="beminnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="bemin" sc="transitive" sense="bemin" stype="ynquestion" tense="present" word="bemin" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+        <node begin="4" end="5" frame="tmp_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+        <node begin="5" end="6" frame="sentence_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="misschien" pos="adv" postag="BW()" pt="bw" rel="mod" root="misschien" sense="misschien" special="sentence" word="misschien"/>
+        <node begin="6" cat="advp" end="8" id="9" rel="mod">
+          <node begin="6" end="7" frame="modal_adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sc="modal" sense="nog" word="nog"/>
+          <node begin="7" end="8" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+        </node>
+        <node begin="8" cat="ap" end="11" id="12" rel="mod">
+          <node begin="8" cat="mwu" end="10" his="normal" his_1="normal" id="13" mwu_root="meer dan" mwu_sense="meer dan" rel="mod">
+            <node begin="8" buiging="zonder" end="9" frame="intensifier" graad="comp" id="14" lcat="advp" lemma="meer" naamval="stan" pdtype="grad" pos="adv" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="mwp" root="meer" sense="meer" special="intensifier" vwtype="onbep" word="meer"/>
+            <node begin="9" conjtype="onder" end="10" frame="intensifier" id="15" lcat="advp" lemma="dan" pos="adv" postag="VG(onder)" pt="vg" rel="mwp" root="dan" sense="dan" special="intensifier" word="dan"/>
+          </node>
+          <node aform="compar" begin="10" buiging="zonder" end="11" frame="adjective(er(tmpadv))" graad="comp" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="vroeg" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="hd" root="vroeg" sense="vroeg" vform="adj" word="vroeger"/>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(uitroep)" his="normal" his_1="normal" id="17" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="113-9">En bemin ik hem nu misschien nog niet meer dan vroeger !</sentence>
+  <comments>
+    <comment>Q#113-9|En bemin ik hem nu misschien nog niet meer dan vroeger !|1|1|-0.6642638746199985</comment>
+  </comments>
+</alpino_ds>

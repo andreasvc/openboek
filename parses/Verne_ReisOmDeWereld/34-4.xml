@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="13" id="2" rel="--">
+      <node begin="0" cat="pp" end="7" id="3" rel="mod">
+        <node begin="0" end="1" frame="preposition(na,[])" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="pp" lemma="na" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="na" sense="na" vztype="init" word="Na"/>
+        <node begin="1" cat="np" end="7" id="5" rel="obj1">
+          <node begin="1" buiging="met-e" end="2" frame="noun(both,count,both)" gen="both" getal="ev" getal-n="zonder-n" his="normal" his_1="normal" id="6" lcat="np" lemma="zijne" naamval="stan" num="both" pdtype="det" persoon="3m" pos="noun" positie="nom" postag="VNW(bez,det,stan,vol,3m,ev,nom,met-e,zonder-n)" pt="vnw" rel="hd" rnum="sg" root="zijne" sense="zijne" status="vol" vwtype="bez" word="zijne"/>
+          <node begin="2" cat="np" end="7" id="7" rel="mod">
+            <node begin="2" cat="ap" end="6" id="8" rel="mod">
+              <node begin="2" cat="mwu" end="5" his="normal" his_1="normal" id="9" mwu_root="min of meer" mwu_sense="min of meer" rel="mod">
+                <node begin="2" end="3" frame="adverb" id="10" lcat="advp" lemma="min" pos="adv" postag="BW()" pt="bw" rel="mwp" root="min" sense="min" word="min"/>
+                <node begin="3" conjtype="neven" end="4" frame="adverb" id="11" lcat="advp" lemma="of" pos="adv" postag="VG(neven)" pt="vg" rel="mwp" root="of" sense="of" word="of"/>
+                <node begin="4" buiging="zonder" end="5" frame="adverb" graad="comp" id="12" lcat="advp" lemma="meer" naamval="stan" pdtype="grad" pos="adv" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="mwp" root="meer" sense="meer" vwtype="onbep" word="meer"/>
+              </node>
+              <node aform="base" begin="5" buiging="met-e" end="6" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="13" infl="e" lcat="ap" lemma="onstuimig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="hd" root="onstuimig" sense="onstuimig" vform="adj" word="onstuimige"/>
+            </node>
+            <node begin="6" end="7" frame="tmp_noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="jeugd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="jeugd" sense="jeugd" special="tmp" word="jeugd"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" end="9" frame="verb(hebben,past(sg),pc_pp(naar))" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="verlangen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="verlang" sc="pc_pp(naar)" sense="verlang-naar" stype="declarative" tense="past" word="verlangde" wvorm="pv"/>
+      <node begin="9" case="nom" def="def" end="10" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+      <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="bovenal" pos="adv" postag="BW()" pt="bw" rel="mod" root="bovenal" sense="bovenal" word="bovenal"/>
+      <node begin="11" cat="pp" end="13" id="18" rel="pc">
+        <node begin="11" end="12" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="19" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+        <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="rust" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="rust" sense="rust" word="rust"/>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="34-4">Na zijne min of meer onstuimige jeugd , verlangde hij bovenal naar rust .</sentence>
+  <comments>
+    <comment>Q#34-4|Na zijne min of meer onstuimige jeugd , verlangde hij bovenal naar rust .|1|1|-1.3936813881500019</comment>
+  </comments>
+</alpino_ds>

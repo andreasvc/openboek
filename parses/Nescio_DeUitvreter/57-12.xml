@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:18" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="15" id="2" rel="--">
+      <node begin="0" cat="smain" end="10" id="3" rel="nucl">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(sentadv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="no_e" lcat="ap" lemma="eigenlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="eigenlijk" sense="eigenlijk" vform="adj" word="Eigenlijk"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="drinken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="drink" sc="transitive" sense="drink" stype="declarative" tense="past" word="dronk" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="3" cat="np" end="7" id="7" rel="obj1">
+          <node begin="3" cat="detp" end="5" id="8" rel="det">
+            <node begin="3" buiging="zonder" end="4" frame="pre_det_quant(al)" his="normal" his_1="normal" id="9" infl="al" lcat="detp" lemma="al" naamval="stan" pdtype="det" pos="det" positie="vrij" postag="VNW(onbep,det,stan,vrij,zonder)" pt="vnw" rel="mod" root="al" sense="al" special="pre_det_quant" vwtype="onbep" word="al"/>
+            <node begin="4" buiging="zonder" end="5" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="hd" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+          </node>
+          <node begin="5" buiging="met-e" end="6" frame="adj_number(pl_num)" getal="mv" graad="basis" his="normal" his_1="normal" id="11" infl="pl_num" lcat="detp" lemma="ettelijk" naamval="stan" pdtype="grad" pos="det" positie="prenom" postag="VNW(onbep,grad,stan,prenom,met-e,mv,basis)" pt="vnw" rel="det" root="ettelijk" sense="ettelijk" special="adj_number" vwtype="onbep" word="ettelijke"/>
+          <node begin="6" end="7" frame="tmp_noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="12" lcat="np" lemma="pot" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="pot_DIM" sense="pot_DIM" special="tmp" word="potjes"/>
+        </node>
+        <node begin="7" cat="pp" end="10" id="13" rel="mod">
+          <node begin="7" end="8" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="14" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="8" case="both" def="indef" end="9" frame="pronoun(nwh,thi,sg,both,both,indef,strpro)" gen="both" his="normal" his_1="normal" id="15" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="obj1" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+          <node begin="9" end="10" frame="particle(na)" his="normal" his_1="normal" id="16" lcat="part" lemma="na" pos="part" postag="VZ(fin)" pt="vz" rel="hdf" root="na" sense="na" vztype="fin" word="na"/>
+        </node>
+      </node>
+      <node begin="11" cat="cp" end="15" id="17" rel="sat">
+        <node begin="11" conjtype="onder" end="12" frame="complementizer(dat)" his="normal" his_1="normal" id="18" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="12" cat="ssub" end="15" id="19" rel="body">
+          <node begin="12" case="nom" def="def" end="13" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="20" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="13" buiging="zonder" end="14" frame="verb(hebben,inf(no_e),intransitive)" his="normal" his_1="normal" id="21" infl="inf(no_e)" lcat="inf" lemma="staan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="vc" root="sta" sc="intransitive" sense="sta" word="staan" wvorm="inf"/>
+          <node begin="14" end="15" frame="verb(hebben,past(sg),aci_no_obj)" his="normal" his_1="normal" id="22" infl="sg" lcat="ssub" lemma="laten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="laat" sc="aci_no_obj" sense="laat" tense="past" word="liet" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="57-12">Eigenlijk dronk hij al die ettelijke potjes op een na , dat ik staan liet .</sentence>
+  <comments>
+    <comment>Q#57-12|Eigenlijk dronk hij al die ettelijke potjes op een na , dat ik staan liet .|1|1|-7.457692345849997</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="15" end="16" frame="punct(komma)" his="normal" his_1="normal" id="5" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="17" id="6" rel="--">
+      <node begin="1" conjtype="neven" end="2" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="2" cat="smain" end="17" id="8" rel="nucl">
+        <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="9" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="dat"/>
+        <node begin="3" end="4" frame="verb(unacc,sg_heeft,so_copula)" his="normal" his_1="normal" id="10" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="so_copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+        <node begin="4" cat="conj" end="15" id="11" rel="obj2">
+          <node begin="4" end="5" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="12" lcat="np" lemma="Marie" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="Marie" sense="Marie" word="Marie"/>
+          <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="7" cat="np" end="15" id="14" rel="cnj">
+            <node begin="7" buiging="zonder" end="8" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+            <node aform="compar" begin="8" buiging="met-e" end="9" frame="adjective(ere)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="16" infl="e" lcat="np" lemma="ander" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="sg" root="ander" sense="ander" vform="adj" word="andere"/>
+            <node begin="10" cat="du" end="15" id="17" rel="mod">
+              <node begin="10" end="11" frame="tag" his="normal" his_1="normal" id="18" lcat="advp" lemma="o" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="o" sense="o" word="o"/>
+              <node begin="12" cat="smain" end="15" id="19" rel="nucl">
+                <node begin="12" end="13" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="20" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="dat"/>
+                <node begin="13" end="14" frame="verb(unacc,sg_heeft,copula)" his="normal" his_1="normal" id="21" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+                <node begin="14" end="15" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="22" lcat="np" lemma="Lili" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="Lili" sense="Lili" word="Lili"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node aform="base" begin="16" buiging="zonder" end="17" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="23" infl="no_e" lcat="ap" lemma="onherkenbaar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="onherkenbaar" sense="onherkenbaar" vform="adj" word="onherkenbaar"/>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(uitroep)" his="normal" his_1="normal" id="24" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="33-3">- En dat is Marie , en die andere , o , dat is Lili , onherkenbaar !</sentence>
+  <comments>
+    <comment>Q#33-3|- En dat is Marie , en die andere , o , dat is Lili , onherkenbaar !|1|1|-1.9847738251400038</comment>
+  </comments>
+</alpino_ds>

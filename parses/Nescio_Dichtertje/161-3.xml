@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:13" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="mwu(Dag Dora , au revoir camarade,Dag Dora , au revoir camarade)" end="7" his="name" his_1="begin" id="2" rel="--">
+      <node begin="1" end="2" frame="proper_name(both)" id="3" lcat="np" lemma="Dag" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Dag" sense="Dag" spectype="deeleigen" word="Dag"/>
+      <node begin="2" end="3" frame="proper_name(both)" id="4" lcat="np" lemma="Dora" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Dora" sense="Dora" spectype="deeleigen" word="Dora"/>
+      <node begin="3" end="4" frame="proper_name(both)" id="5" lcat="np" lemma="," neclass="MISC" num="both" pos="name" postag="LET()" pt="let" rel="mwp" rnum="sg" root="," sense="," word=","/>
+      <node begin="4" end="5" frame="proper_name(both)" id="6" lcat="np" lemma="au" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="au" sense="au" spectype="deeleigen" word="au"/>
+      <node begin="5" end="6" frame="proper_name(both)" id="7" lcat="np" lemma="revoir" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="revoir" sense="revoir" spectype="deeleigen" word="revoir"/>
+      <node begin="6" end="7" frame="proper_name(both)" id="8" lcat="np" lemma="camarade" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="camarade" sense="camarade" spectype="deeleigen" word="camarade"/>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="10" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="161-3">&quot; Dag Dora , au revoir camarade . &quot;</sentence>
+  <comments>
+    <comment>Q#161-3|&quot; Dag Dora , au revoir camarade . &quot;|1|1|2.2319808127200003</comment>
+  </comments>
+</alpino_ds>

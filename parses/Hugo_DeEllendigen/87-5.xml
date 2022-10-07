@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="8" id="2" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg1,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg1" lcat="sv1" lemma="bidden" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="cnj" root="bid" sc="intransitive" sense="bid" tense="present" word="Bid" wvorm="pv"/>
+      <node begin="2" end="3" frame="verb(hebben,sg1,intransitive)" his="normal" his_1="normal" id="4" infl="sg1" lcat="sv1" lemma="geloven" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="cnj" root="geloof" sc="intransitive" sense="geloof" tense="present" word="geloof" wvorm="pv"/>
+      <node begin="3" conjtype="neven" end="4" frame="conj(en)" his="normal" his_1="normal" id="5" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="4" cat="sv1" end="8" id="6" rel="cnj">
+        <node begin="4" end="5" frame="verb(zijn,sg1,part_ld_transitive(in))" his="normal" his_1="normal" id="7" infl="sg1" lcat="sv1" lemma="in_gaan" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ga_in" sc="part_ld_transitive(in)" sense="ga_in" tense="present" word="ga" wvorm="pv"/>
+        <node begin="5" cat="np" end="7" id="8" rel="ld">
+          <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="9" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node begin="6" end="7" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="leven" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="leven" sense="leven" special="tmp" word="leven"/>
+        </node>
+        <node begin="7" end="8" frame="particle(in)" his="normal" his_1="normal" id="11" lcat="part" lemma="in" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="in" sense="in" vztype="fin" word="in"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(uitroep)" his="normal" his_1="normal" id="12" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="87-5">Bid , geloof en ga het leven in !</sentence>
+  <comments>
+    <comment>Q#87-5|Bid , geloof en ga het leven in !|1|1|4.113478672450004</comment>
+  </comments>
+</alpino_ds>

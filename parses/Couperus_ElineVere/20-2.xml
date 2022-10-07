@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="21" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="16" end="17" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="20" id="4" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="5" infl="no_e" lcat="ap" lemma="vlug" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vlug" sense="vlug" vform="adj" word="Vlug"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),np_ld_pp)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="draperen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="drapeer" sc="np_ld_pp" sense="drapeer" stype="declarative" tense="past" word="drapeerde" wvorm="pv"/>
+      <node begin="2" end="3" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="7" lcat="np" lemma="Paul" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Paul" sense="Paul" word="Paul"/>
+      <node begin="3" buiging="met-e" end="4" frame="predm_adverb" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="8" lcat="advp" lemma="beide" naamval="stan" pdtype="grad" pos="adv" positie="nom" postag="VNW(onbep,grad,stan,nom,met-e,zonder-n,basis)" pt="vnw" rel="predm" root="beide" sense="beide" special="predm" vwtype="onbep" word="beide"/>
+      <node begin="4" cat="np" end="16" id="9" rel="obj1">
+        <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="10" lcat="np" lemma="meisje" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="meisje" sense="meisje" word="meisje"/>
+        <node begin="5" cat="pp" end="16" id="11" rel="mod">
+          <node begin="5" end="6" frame="preposition(in,[])" his="normal" his_1="normal" id="12" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="6" cat="np" end="16" id="13" rel="obj1">
+            <node aform="base" begin="6" buiging="met-e" end="7" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="14" infl="e" lcat="ap" lemma="kleurig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="kleurig" sense="kleurig" vform="adj" word="kleurige"/>
+            <node begin="7" end="8" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="15" lcat="np" lemma="châles" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="châles" sense="châles" word="châles"/>
+            <node begin="9" cat="smain" end="16" id="16" rel="mod">
+              <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="sluier" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="sluier" sense="sluier" word="sluiers"/>
+              <node begin="11" end="12" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="18" infl="sg" lcat="smain" lemma="strengelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="strengel" sc="transitive" sense="strengel" stype="declarative" tense="past" word="strengelde" wvorm="pv"/>
+              <node begin="12" cat="np" end="16" id="19" rel="su">
+                <node begin="12" buiging="zonder" end="13" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="20" lcat="np" lemma="snoeren" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="snoer" sc="intransitive" sense="snoer" special="v_noun" word="snoeren" wvorm="inf"/>
+                <node begin="13" cat="pp" end="16" id="21" rel="mod">
+                  <node begin="13" end="14" frame="preposition(om,[heen])" his="normal" his_1="normal" id="22" lcat="pp" lemma="om" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="om" sense="om" vztype="init" word="om"/>
+                  <node begin="14" cat="np" end="16" id="23" rel="obj1">
+                    <node begin="14" buiging="zonder" end="15" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="24" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+                    <node aform="base" begin="15" buiging="met-e" end="16" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="arm" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="hd" rnum="pl" root="arm" sense="arm" special="a_noun" word="armen"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="17" cat="pp" end="20" id="26" rel="ld">
+        <node begin="17" end="18" frame="preposition(in,[])" his="normal" his_1="normal" id="27" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="18" cat="np" end="20" id="28" rel="obj1">
+          <node begin="18" buiging="zonder" end="19" frame="determiner(pron)" getal="ev" his="normal" his_1="variant" id="29" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="heur"/>
+          <node begin="19" end="20" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="30" lcat="np" lemma="haar" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="haar" sense="haar" word="haren"/>
+        </node>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(punt)" his="normal" his_1="normal" id="31" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="20-2">Vlug drapeerde Paul beide meisje in kleurige châles , sluiers , strengelde snoeren om haar armen , in heur haren .</sentence>
+  <comments>
+    <comment>Q#20-2|Vlug drapeerde Paul beide meisje in kleurige châles , sluiers , strengelde snoeren om haar armen , in heur haren .|1|1|12.626465881490011</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="het" lcat="detp" lemma="dat" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dat" sense="dat" vwtype="aanw" wh="nwh" word="Dat"/>
+        <node begin="1" end="2" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="boek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="boek" sense="boek" word="boek"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="ld_pp" sense="sta" stype="declarative" tense="past" word="stond" wvorm="pv"/>
+      <node begin="3" cat="pp" end="8" id="6" rel="ld">
+        <node begin="3" end="4" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="7" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="4" cat="np" end="8" id="8" rel="obj1">
+          <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="9" lcat="np" lemma="eene" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="eene" sense="eene" word="eene"/>
+          <node begin="5" cat="np" end="8" id="10" rel="mod">
+            <node begin="5" end="6" frame="determiner(der)" his="normal" his_1="normal" id="11" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+            <node aform="super" begin="6" buiging="met-e" end="7" frame="adjective(ste)" graad="sup" his="normal" his_1="normal" id="12" infl="e" lcat="ap" lemma="hoog" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,sup,met-e,stan)" pt="adj" rel="mod" root="hoog" sense="hoog" vform="adj" word="hoogste"/>
+            <node begin="7" end="8" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="plank" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="plank" sense="plank" word="planken"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="66-5">Dat boek stond op eene der hoogste planken .</sentence>
+  <comments>
+    <comment>Q#66-5|Dat boek stond op eene der hoogste planken .|1|1|-1.3833939664600023</comment>
+  </comments>
+</alpino_ds>

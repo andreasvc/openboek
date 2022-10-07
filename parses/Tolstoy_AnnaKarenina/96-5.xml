@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="21" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="2" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="20" id="5" rel="--">
+      <node begin="0" cat="np" end="12" id="6" rel="obj1">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="7" infl="het" lcat="detp" lemma="dat" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dat" sense="dat" vwtype="aanw" wh="nwh" word="Dat"/>
+        <node begin="1" end="2" frame="noun(het,count,sg,app_measure)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="woord" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="woord" sc="app_measure" sense="woord" word="woord"/>
+        <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="9" infl="e" lcat="np" lemma="vreemd" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="app" root="vreemd" sense="vreemd" vform="adj" word="vreemde"/>
+        <node begin="6" cat="rel" end="12" id="10" rel="mod">
+          <node begin="6" case="no_obl" end="7" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="11" index="1" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+          <node begin="6" cat="ssub" end="12" id="12" rel="body">
+            <node begin="6" end="7" id="13" index="1" rel="su"/>
+            <node begin="7" case="dat_acc" def="def" end="8" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="fem" getal="getal" his="normal" his_1="normal" id="14" lcat="np" lemma="haar" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,getal,fem)" pt="vnw" rel="obj2" rnum="sg" root="haar" sense="haar" status="vol" vwtype="pers" wh="nwh" word="haar"/>
+            <node begin="8" end="9" frame="predm_adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="zelf" pos="adv" postag="BW()" pt="bw" rel="predm" root="zelf" sense="zelf" special="predm" word="zelf"/>
+            <node begin="9" cat="mwu" end="11" his="normal" his_1="het Asuper" his_1_1="normal" id="16" mwu_root="verschrikkelijk" mwu_sense="verschrikkelijk" rel="predc">
+              <node aform="super" begin="9" end="10" frame="adjective(het_st(adv))" id="17" infl="pred" lcat="ap" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="adj" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" vform="adj" word="het"/>
+              <node aform="super" begin="10" buiging="zonder" end="11" frame="adjective(het_st(adv))" graad="sup" id="18" infl="pred" lcat="ap" lemma="verschrikkelijkst" pos="adj" positie="vrij" postag="ADJ(vrij,sup,zonder)" pt="adj" rel="mwp" root="verschrikkelijkst" sense="verschrikkelijkst" vform="adj" word="verschrikkelijkst"/>
+            </node>
+            <node begin="11" end="12" frame="verb(hebben,past(sg),so_nonp_copula)" his="normal" his_1="normal" id="19" infl="sg" lcat="ssub" lemma="klinken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="klink" sc="so_nonp_copula" sense="klink" tense="past" word="klonk" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+      <node begin="13" end="14" frame="verb(hebben,past(sg),part_transitive(uit))" his="normal" his_1="normal" id="20" infl="sg" lcat="smain" lemma="uit_brengen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="breng_uit" sc="part_transitive(uit)" sense="breng_uit" stype="declarative" tense="past" word="bracht" wvorm="pv"/>
+      <node begin="14" case="nom" def="def" end="15" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="21" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+      <node begin="15" cat="pp" end="19" id="22" rel="mod">
+        <node begin="15" end="16" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="23" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+        <node begin="16" cat="conj" end="19" id="24" rel="obj1">
+          <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="smart" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="smart" sense="smart" word="smart"/>
+          <node begin="17" conjtype="neven" end="18" frame="conj(en)" his="normal" his_1="normal" id="26" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="18" end="19" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="toorn" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="toorn" sense="toorn" word="toorn"/>
+        </node>
+      </node>
+      <node begin="19" end="20" frame="particle(uit)" his="normal" his_1="normal" id="28" lcat="part" lemma="uit" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="uit" sense="uit" vztype="fin" word="uit"/>
+    </node>
+    <node begin="20" end="21" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="96-5">Dat woord &quot; vreemde &quot; , dat haar zelf het verschrikkelijkst klonk , bracht zij met smart en toorn uit .</sentence>
+  <comments>
+    <comment>Q#96-5|Dat woord &quot; vreemde &quot; , dat haar zelf het verschrikkelijkst klonk , bracht zij met smart en toorn uit .|1|1|-2.3173604338499993</comment>
+  </comments>
+</alpino_ds>

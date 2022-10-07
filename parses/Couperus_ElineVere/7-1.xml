@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="12" id="4" rel="--">
+      <node begin="1" cat="sv1" end="4" id="5" rel="sat">
+        <node begin="1" end="2" frame="verb(hebben,sg,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="6" infl="sg" lcat="sv1" lemma="haasten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="haast" sc="intransitive" sense="haast" tense="present" word="Haast" wvorm="pv"/>
+        <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+        <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="toch" pos="adv" postag="BW()" pt="bw" rel="mod" root="toch" sense="toch" word="toch"/>
+      </node>
+      <node begin="5" cat="smain" end="12" id="9" rel="nucl">
+        <node begin="5" cat="mwu" end="7" his="name" his_1="not_begin" id="10" mwu_root="Paul !" mwu_sense="Paul !" rel="obj1">
+          <node begin="5" end="6" frame="proper_name(sg,'PER')" id="11" lcat="np" lemma="Paul" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Paul" sense="Paul" spectype="deeleigen" word="Paul"/>
+          <node begin="6" end="7" frame="proper_name(sg,'PER')" id="12" lcat="np" lemma="!" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="!" sense="!" spectype="deeleigen" word="!"/>
+        </node>
+        <node begin="7" end="8" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="spreken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="spreek" sc="transitive" sense="spreek" stype="declarative" tense="past" word="sprak" wvorm="pv"/>
+        <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="14" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+        <node begin="10" cat="ppres" end="12" id="15" rel="predm">
+          <node begin="10" end="11" frame="sentence_adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="bijna" pos="adv" postag="BW()" pt="bw" rel="mod" root="bijna" sense="bijna" special="sentence" word="bijna"/>
+          <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(end(both))" his="form_of_suffix" his_1="end" id="17" infl="no_e" lcat="ppres" lemma="smeekend" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="hd" root="smeekend" sense="smeekend" vform="gerund" word="smeekend" wvorm="od"/>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="7-1">- Haast je toch , Paul ! sprak zij , bijna smeekend .</sentence>
+  <comments>
+    <comment>Q#7-1|- Haast je toch , Paul ! sprak zij , bijna smeekend .|1|1|3.3292043214900056</comment>
+  </comments>
+</alpino_ds>

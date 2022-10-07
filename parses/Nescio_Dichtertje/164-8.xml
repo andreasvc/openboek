@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:14" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="smain" end="5" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="Haar"/>
+        <node begin="1" end="2" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="dag" sense="dag" special="tmp" word="dag"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" word="zou" wvorm="pv"/>
+      <node begin="0" cat="inf" end="5" id="6" rel="vc">
+        <node begin="0" end="2" id="7" index="1" rel="su"/>
+        <node begin="3" end="4" frame="sentence_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+        <node begin="4" buiging="zonder" end="5" frame="verb(unacc,inf,intransitive)" his="normal" his_1="normal" id="9" infl="inf" lcat="inf" lemma="komen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="kom" sc="intransitive" sense="kom" word="komen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="164-8">Haar dag zou ook komen .</sentence>
+  <comments>
+    <comment>Q#164-8|Haar dag zou ook komen .|1|1|-3.357258850000001</comment>
+  </comments>
+</alpino_ds>

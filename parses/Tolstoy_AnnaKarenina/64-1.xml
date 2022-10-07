@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="sv1" end="4" id="2" rel="--">
+      <node begin="1" end="2" frame="verb(unacc,sg_heeft,passive)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg_heeft" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="passive" sense="ben" stype="ynquestion" tense="present" word="Is" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+      <node begin="2" cat="ppart" end="4" id="5" rel="vc">
+        <node begin="2" end="3" id="6" index="1" rel="obj1"/>
+        <node begin="3" buiging="zonder" end="4" frame="verb(hebben,psp,ninv(transitive,part_transitive(op)))" his="normal" his_1="part-V" id="7" infl="psp" lcat="ppart" lemma="op_ruimen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="ruim_op" sc="part_transitive(op)" sense="ruim_op" word="opgeruimd" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="8" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="9" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="64-1">&quot; Is zij opgeruimd ? &quot;</sentence>
+  <comments>
+    <comment>Q#64-1|&quot; Is zij opgeruimd ? &quot;|1|1|-2.1392784767300013</comment>
+  </comments>
+</alpino_ds>

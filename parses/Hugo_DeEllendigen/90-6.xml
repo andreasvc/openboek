@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="3" id="2" rel="su">
+        <node begin="0" buiging="met-e" end="1" frame="determiner(alle,nwh,mod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="alle" lcat="detp" lemma="alle" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,met-e,agr)" pt="vnw" rel="det" root="alle" sense="alle" vwtype="onbep" wh="nwh" word="Alle"/>
+        <node aform="base" begin="1" buiging="met-e" end="2" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="4" infl="e" lcat="ap" lemma="maatschappelijk" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="maatschappelijk" sense="maatschappelijk" vform="adj" word="maatschappelijke"/>
+        <node begin="2" end="3" frame="noun(both,both,both)" gen="both" getal="mv" graad="basis" his="noun" id="5" lcat="np" lemma="kwestiën" ntype="soort" num="both" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="kwestiën" sense="kwestiën" word="kwestiën"/>
+      </node>
+      <node begin="3" end="4" frame="verb(hebben,pl,transitive)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="plaatsen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="plaats" sc="transitive" sense="plaats" stype="declarative" tense="present" word="plaatsen" wvorm="pv"/>
+      <node begin="4" cat="pp" end="7" id="7" rel="mod">
+        <node begin="4" end="5" frame="preposition(om,[heen])" his="normal" his_1="normal" id="8" lcat="pp" lemma="om" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="om" sense="om" vztype="init" word="om"/>
+        <node begin="5" cat="np" end="7" id="9" rel="obj1">
+          <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="11" lcat="np" lemma="val_bijl" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="val_bijl" sense="val_bijl" word="valbijl"/>
+        </node>
+      </node>
+      <node begin="7" cat="np" end="9" id="12" rel="obj1">
+        <node begin="7" buiging="zonder" end="8" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="13" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+        <node begin="8" end="9" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="14" lcat="np" lemma="vraagteekens" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vraagteekens" sense="vraagteekens" word="vraagteekens"/>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="90-6">Alle maatschappelijke kwestiën plaatsen om de valbijl haar vraagteekens .</sentence>
+  <comments>
+    <comment>Q#90-6|Alle maatschappelijke kwestiën plaatsen om de valbijl haar vraagteekens .|1|1|-1.1764115647600015</comment>
+  </comments>
+</alpino_ds>

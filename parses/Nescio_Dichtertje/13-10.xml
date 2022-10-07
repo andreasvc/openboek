@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:00" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="np" end="13" id="1" rel="--">
+      <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+      <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="3" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="God" sense="God" word="God"/>
+      <node begin="2" cat="pp" end="13" id="4" rel="mod">
+        <node begin="2" end="3" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="5" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+        <node begin="3" cat="np" end="13" id="6" rel="obj1">
+          <node begin="3" buiging="met-e" case="both" def="indef" end="4" frame="pronoun(nwh,thi,pl,de,both,indef)" gen="de" getal-n="mv-n" his="normal" his_1="normal" id="7" lcat="np" lemma="al" naamval="stan" num="pl" pdtype="det" per="thi" pos="pron" positie="nom" postag="VNW(onbep,det,stan,nom,met-e,mv-n)" pt="vnw" rel="hd" rnum="pl" root="al" sense="al" vwtype="onbep" wh="nwh" word="allen"/>
+          <node begin="4" cat="rel" end="13" id="8" rel="mod">
+            <node begin="4" case="no_obl" end="5" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="9" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="pl" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="4" cat="ssub" end="13" id="10" rel="body">
+              <node begin="4" end="5" id="11" index="1" rel="su"/>
+              <node begin="8" end="9" frame="verb(hebben,pl,transitive_ndev)" his="normal" his_1="normal" id="12" infl="pl" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" tense="present" word="hebben" wvorm="pv"/>
+              <node begin="5" cat="np" end="13" id="13" rel="obj1">
+                <node begin="5" buiging="zonder" end="6" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="14" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+                <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="keus" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="keus" sense="keus" word="keus"/>
+                <node begin="6" cat="ap" end="13" id="16" rel="mod">
+                  <node aform="compar" begin="6" buiging="met-e" end="7" frame="adjective(ere)" graad="basis" his="normal" his_1="normal" id="17" infl="e" lcat="ap" lemma="ander" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="hd" root="ander" sense="ander" vform="adj" word="andere"/>
+                  <node begin="9" cat="cp" end="13" id="18" rel="obcomp">
+                    <node begin="9" conjtype="onder" end="10" frame="comparative(dan)" his="normal" his_1="normal" id="19" lcat="comparative" lemma="dan" pos="comparative" postag="VG(onder)" pt="vg" rel="cmp" root="dan" sense="dan" word="dan"/>
+                    <node begin="10" cat="conj" end="13" id="20" rel="body">
+                      <node begin="10" buiging="zonder" end="11" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="werken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="cnj" root="werk" sc="intransitive" sense="werk" word="werken" wvorm="inf"/>
+                      <node begin="11" conjtype="neven" end="12" frame="conj(of)" his="normal" his_1="normal" id="22" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+                      <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="23" infl="inf" lcat="inf" lemma="vervelen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="cnj" root="verveel" sc="intransitive" sense="verveel" word="vervelen" wvorm="inf"/>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="13-10">De God van allen die geen andere keus hebben dan werken of vervelen .</sentence>
+  <comments>
+    <comment>Q#13-10|De God van allen die geen andere keus hebben dan werken of vervelen .|1|1|1.373328863680002</comment>
+  </comments>
+</alpino_ds>

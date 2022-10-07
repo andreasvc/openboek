@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="17" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="cnj">
+        <node begin="0" cat="np" end="2" id="4" rel="su">
+          <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="Zijn"/>
+          <node begin="1" end="2" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="golf" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="golf" sense="golf" word="golven"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(pl),np_ld_pp)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="stuwen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="stuw" sc="np_ld_pp" sense="stuw" stype="declarative" tense="past" word="stuwden" wvorm="pv"/>
+        <node begin="3" cat="np" end="5" id="8" rel="obj1">
+          <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="9" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="zon_licht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="zon_licht" sense="zon_licht" word="zonlicht"/>
+        </node>
+        <node begin="5" cat="pp" end="7" id="11" rel="ld">
+          <node begin="5" end="6" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="12" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="zee" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="zee" sense="zee" word="zee"/>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(maar)" his="normal" his_1="normal" id="14" lcat="vg" lemma="maar" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="maar" sense="maar" word="maar"/>
+      <node begin="9" cat="smain" end="17" id="15" rel="cnj">
+        <node begin="9" cat="conj" end="14" id="16" rel="su">
+          <node begin="9" cat="np" end="11" id="17" rel="cnj">
+            <node begin="9" end="10" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="18" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="10" end="11" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+          </node>
+          <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="20" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="12" cat="np" end="14" id="21" rel="cnj">
+            <node begin="12" end="13" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="22" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="13" end="14" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="licht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="licht" sense="licht" word="licht"/>
+          </node>
+        </node>
+        <node begin="14" end="15" frame="verb(unacc,past(pl),intransitive)" his="normal" his_1="normal" id="24" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="intransitive" sense="ben" stype="declarative" tense="past" word="waren" wvorm="pv"/>
+        <node begin="15" cat="pp" end="17" id="25" rel="mod">
+          <node begin="15" end="16" frame="preposition(zonder,[])" his="normal" his_1="normal" id="26" lcat="pp" lemma="zonder" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="zonder" sense="zonder" vztype="init" word="zonder"/>
+          <node begin="16" end="17" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="einde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="einde" sense="einde" special="tmp" word="einde"/>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="normal" his_1="normal" id="28" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="156-2">Zijn golven stuwden &apos;t zonlicht naar zee , maar het water en het licht waren zonder einde .</sentence>
+  <comments>
+    <comment>Q#156-2|Zijn golven stuwden &apos;t zonlicht naar zee , maar het water en het licht waren zonder einde .|1|1|-4.845429861720002</comment>
+  </comments>
+</alpino_ds>

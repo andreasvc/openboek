@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="21" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="21" id="5" rel="nucl">
+        <node begin="1" cat="ppart" end="16" id="6" rel="cnj">
+          <node begin="1" cat="mwu('s avonds,'s avonds)" end="3" his="normal" his_1="normal" id="7" rel="mod">
+            <node begin="1" end="2" frame="tmp_adverb" id="8" lcat="advp" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="adv" postag="LID(bep,gen,evmo)" pt="lid" rel="mwp" root="&apos;s" sense="&apos;s" special="tmp" word="&apos;s"/>
+            <node begin="2" end="3" frame="tmp_adverb" getal="ev" graad="basis" id="9" lcat="advp" lemma="avond" naamval="gen" ntype="soort" pos="adv" postag="N(soort,ev,basis,gen)" pt="n" rel="mwp" root="avonds" sense="avonds" special="tmp" word="avonds"/>
+          </node>
+          <node begin="4" cat="pp" end="8" id="10" rel="mod">
+            <node begin="4" end="5" frame="modal_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="alleen" pos="adv" postag="BW()" pt="bw" rel="mod" root="alleen" sc="modal" sense="alleen" word="alleen"/>
+            <node begin="5" end="6" frame="preposition(onder,[door,vandaan])" his="normal" his_1="normal" id="12" lcat="pp" lemma="onder" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="onder" sense="onder" vztype="init" word="onder"/>
+            <node begin="6" cat="np" end="8" id="13" rel="obj1">
+              <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="14" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="lamp" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="lamp" sense="lamp" word="lamp"/>
+            </node>
+          </node>
+          <node begin="9" cat="pp" end="12" id="16" rel="mod">
+            <node begin="9" end="10" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="17" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+            <node begin="10" cat="np" end="12" id="18" rel="obj1">
+              <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="ev" his="normal" his_1="variant" his_1_1="normal" id="19" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="red" vwtype="bez" word="d&apos;r"/>
+              <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="krant" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="krant" sense="krant" word="krant"/>
+            </node>
+          </node>
+          <node begin="12" buiging="zonder" end="13" frame="verb(hebben,psp,ld_pp)" his="normal" his_1="normal" id="21" infl="psp" lcat="ppart" lemma="staren" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="staar" sc="ld_pp" sense="staar" word="gestaard" wvorm="vd"/>
+          <node begin="13" cat="pp" end="16" id="22" rel="ld">
+            <node begin="13" end="14" frame="preposition(over,[heen])" his="normal" his_1="normal" id="23" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+            <node begin="14" cat="np" end="16" id="24" rel="obj1">
+              <node begin="14" buiging="zonder" end="15" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="25" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+              <node begin="15" end="16" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="bril" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bril" sense="bril" word="bril"/>
+            </node>
+          </node>
+        </node>
+        <node begin="16" conjtype="neven" end="17" frame="conj(en)" his="normal" his_1="normal" id="27" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="17" cat="ppart" end="21" id="28" rel="cnj">
+          <node begin="17" cat="pp" end="20" id="29" rel="pc">
+            <node begin="17" end="18" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="30" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+            <node begin="18" cat="np" end="20" id="31" rel="obj1">
+              <node begin="18" end="19" frame="determiner(de)" his="normal" his_1="normal" id="32" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="19" end="20" frame="proper_name(sg,'LOC')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="33" lcat="np" lemma="Linnaeusstraat" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Linnaeusstraat" sense="Linnaeusstraat" word="Linnaeusstraat"/>
+            </node>
+          </node>
+          <node begin="20" buiging="zonder" end="21" frame="verb(hebben,psp,pc_pp(aan))" his="normal" his_1="normal" id="34" infl="psp" lcat="ppart" lemma="denken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="denk" sc="pc_pp(aan)" sense="denk-aan" word="gedacht" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="normal" his_1="normal" id="35" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="105-8">En &apos;s avonds , alleen onder de lamp , op d&apos;r krant gestaard over haar bril en aan de Linnaeusstraat gedacht .</sentence>
+  <comments>
+    <comment>Q#105-8|En &apos;s avonds , alleen onder de lamp , op d&apos;r krant gestaard over haar bril en aan de Linnaeusstraat gedacht .|1|1|1.9146436152399975</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="20" id="0" rel="top">
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="17" end="18" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="19" id="3" rel="--">
+      <node begin="2" end="3" frame="verb(zijn,past(pl),aux(te_inf))" his="normal" his_1="normal" id="4" infl="pl" lcat="smain" lemma="komen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="kom" sc="aux(te_inf)" sense="kom" stype="declarative" tense="past" word="kwamen" wvorm="pv"/>
+      <node begin="3" cat="conj" end="13" id="5" index="1" rel="su">
+        <node begin="3" end="4" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="6" lcat="np" lemma="Frans" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="Frans" sense="Frans" word="Frans"/>
+        <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="7" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="5" cat="mwu" end="7" his="name" his_1="not_begin" id="8" mwu_root="Jeanne Ferelijn" mwu_sense="Jeanne Ferelijn" rel="cnj">
+          <node begin="5" end="6" frame="proper_name(sg,'PER')" id="9" lcat="np" lemma="Jeanne" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Jeanne" sense="Jeanne" spectype="deeleigen" word="Jeanne"/>
+          <node begin="6" end="7" frame="proper_name(sg,'PER')" id="10" lcat="np" lemma="Ferelijn" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Ferelijn" sense="Ferelijn" spectype="deeleigen" word="Ferelijn"/>
+        </node>
+        <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="11" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="8" cat="np" end="13" id="12" rel="cnj">
+          <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="freule" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="freule" sense="freule" word="freule"/>
+          <node begin="9" cat="mwu" end="13" his="name" his_1="not_begin" id="14" mwu_root="De Woude Van Bergh" mwu_sense="De Woude Van Bergh" rel="app">
+            <node begin="9" end="10" frame="proper_name(both,'LOC')" id="15" lcat="np" lemma="De" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="De" sense="De" spectype="deeleigen" word="De"/>
+            <node begin="10" end="11" frame="proper_name(both,'LOC')" id="16" lcat="np" lemma="Woude" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Woude" sense="Woude" spectype="deeleigen" word="Woude"/>
+            <node begin="11" end="12" frame="proper_name(both,'LOC')" id="17" lcat="np" lemma="Van" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Van" sense="Van" spectype="deeleigen" word="Van"/>
+            <node begin="12" end="13" frame="proper_name(both,'LOC')" id="18" lcat="np" lemma="Bergh" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Bergh" sense="Bergh" spectype="deeleigen" word="Bergh"/>
+          </node>
+        </node>
+      </node>
+      <node begin="0" cat="inf" end="19" id="19" rel="vc">
+        <node begin="0" cat="np" end="2" id="20" rel="mod">
+          <node begin="0" buiging="zonder" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="variant" id="21" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="Dien"/>
+          <node begin="1" end="2" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="middag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="middag" sense="middag" special="tmp" word="middag"/>
+        </node>
+        <node begin="3" end="13" id="23" index="1" rel="su"/>
+        <node begin="14" cat="pp" end="17" id="24" rel="mod">
+          <node begin="14" end="15" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="25" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+          <node begin="15" cat="np" end="17" id="26" rel="obj1">
+            <node begin="15" buiging="zonder" end="16" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="27" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+            <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="w_dia" id="28" lcat="np" lemma="broer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="broer" sense="broer" word="broêr"/>
+          </node>
+        </node>
+        <node begin="18" buiging="zonder" end="19" frame="verb(hebben,inf,intransitive)" his="form_of_suffix" his_1="eren" id="29" infl="inf" lcat="inf" lemma="dineeer" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="dineeer" sc="intransitive" sense="dineeer" word="dineeren" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="19" end="20" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="156-4">Dien middag kwamen Frans en Jeanne Ferelijn en freule De Woude Van Bergh , met haar broêr , dineeren .</sentence>
+  <comments>
+    <comment>Q#156-4|Dien middag kwamen Frans en Jeanne Ferelijn en freule De Woude Van Bergh , met haar broêr , dineeren .|1|1|2.429298526200001</comment>
+  </comments>
+</alpino_ds>

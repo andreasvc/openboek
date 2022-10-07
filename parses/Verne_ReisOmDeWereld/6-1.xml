@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="3" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="robust_skip" id="1" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="18" id="3" rel="--">
+      <node begin="0" cat="rel" end="8" id="4" rel="dp">
+        <node begin="0" end="1" frame="waar_adverb(in)" his="normal" his_1="decap" his_1_1="normal" id="5" index="1" lcat="pp" lemma="waarin" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarin" sense="waarin" special="waar" word="Waarin"/>
+        <node begin="0" cat="ssub" end="8" id="6" rel="body">
+          <node begin="0" end="1" id="7" index="1" rel="mod"/>
+          <node begin="1" cat="conj" end="5" id="8" rel="su">
+            <node begin="1" cat="mwu" end="3" his="normal" his_1="names_dictionary" id="9" mwu_root="Phileas Fogg" mwu_sense="Phileas Fogg" rel="cnj">
+              <node begin="1" end="2" frame="proper_name(sg,'PER')" id="10" lcat="np" lemma="Phileas" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Phileas" sense="Phileas" spectype="deeleigen" word="Phileas"/>
+              <node begin="2" end="3" frame="proper_name(sg,'PER')" id="11" lcat="np" lemma="Fogg" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Fogg" sense="Fogg" spectype="deeleigen" word="Fogg"/>
+            </node>
+            <node begin="3" conjtype="neven" end="4" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="4" end="5" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="13" lcat="np" lemma="Passepartout" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="cnj" rnum="sg" root="Passepartout" sense="Passepartout" word="Passepartout"/>
+          </node>
+          <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="14" lcat="np" lemma="elkander" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,obl,vol,3p,mv)" pt="vnw" rel="obj1" rnum="pl" root="elkander" sense="elkander" status="vol" vwtype="pers" wh="nwh" word="elkander"/>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="ig" id="15" infl="no_e" lcat="ap" lemma="wederkeerig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="wederkeerig" sense="wederkeerig" vform="adj" word="wederkeerig"/>
+          <node begin="7" end="8" frame="verb(hebben,pl,ninv(transitive,part_transitive(aan)))" his="normal" his_1="part-V" id="16" infl="pl" lcat="ssub" lemma="aan_nemen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="neem_aan" sc="part_transitive(aan)" sense="neem_aan" tense="present" word="aannemen" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="den" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="den" sense="den" word="den"/>
+      <node begin="10" cat="np" end="18" id="18" rel="dp">
+        <node begin="10" case="both" def="indef" end="11" frame="pronoun(nwh,thi,sg,both,both,indef,strpro)" gen="both" his="normal" his_1="normal" id="19" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+        <node begin="11" cat="cp" end="18" id="20" rel="mod">
+          <node begin="11" end="12" frame="complementizer(als)" his="normal" his_1="normal" id="21" lcat="cp" lemma="als" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="als" sc="als" sense="als" vztype="init" word="als"/>
+          <node begin="12" cat="np" end="18" id="22" rel="body">
+            <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="meester" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="meester" sense="meester" word="meester"/>
+            <node begin="14" cat="np" end="18" id="24" rel="app">
+              <node begin="14" end="15" frame="determiner(den)" his="normal" his_1="variant" id="25" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+              <node aform="compar" begin="15" buiging="zonder" end="16" frame="nominalized_compar_adjective_sg" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="ander" num="sg" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,zonder,zonder-n)" pt="adj" rel="hd" rnum="sg" root="ander" sense="ander" special="a_noun" word="ander"/>
+              <node begin="16" cat="cp" end="18" id="27" rel="mod">
+                <node begin="16" end="17" frame="complementizer(als)" his="normal" his_1="normal" id="28" lcat="cp" lemma="als" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="als" sc="als" sense="als" vztype="init" word="als"/>
+                <node begin="17" end="18" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="29" lcat="np" lemma="knecht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="body" rnum="sg" root="knecht" sense="knecht" word="knecht"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="robust_skip" id="30" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="6-1">Waarin Phileas Fogg en Passepartout elkander wederkeerig aannemen , den een als meester , den ander als knecht .</sentence>
+  <comments>
+    <comment>Q#6-1|Waarin Phileas Fogg en Passepartout elkander wederkeerig aannemen , den een als meester , den ander als knecht .|1|3|13.128219334150002</comment>
+  </comments>
+</alpino_ds>

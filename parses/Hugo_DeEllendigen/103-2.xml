@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="2" cat="conj" end="6" id="4" rel="predc">
+        <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="5" infl="no_e" lcat="ap" lemma="geletterd" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="cnj" root="geletterd" sense="geletterd" vform="adj" word="geletterd"/>
+        <node begin="3" conjtype="neven" end="4" frame="conj(en)" his="normal" his_1="normal" id="6" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="4" cat="ppart" end="6" id="7" rel="cnj">
+          <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="tamelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="tamelijk" sense="tamelijk" vform="adj" word="tamelijk"/>
+          <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="9" infl="no_e" lcat="ppart" lemma="geleerd" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="geleerd" sense="geleerd" vform="psp" word="geleerd" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="103-2">Hij was geletterd en tamelijk geleerd .</sentence>
+  <comments>
+    <comment>Q#103-2|Hij was geletterd en tamelijk geleerd .|1|1|-1.9764442965300002</comment>
+  </comments>
+</alpino_ds>

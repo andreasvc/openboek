@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="1" />
+  <node begin="0" cat="top" end="24" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="18" end="19" frame="punct(komma)" his="robust_skip" id="2" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="19" end="20" frame="complementizer" his="robust_skip" id="3" lcat="--" lemma="voor" pos="comp" postag="VZ(init)" pt="vz" rel="--" root="voor" sense="voor" vztype="init" word="voor"/>
+    <node begin="0" cat="du" end="22" id="4" rel="--">
+      <node begin="0" cat="smain" end="18" id="5" rel="dp">
+        <node begin="11" end="12" frame="verb(hebben,pl,aux(inf))" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="present" word="zullen" wvorm="pv"/>
+        <node begin="12" case="nom" def="def" end="13" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="7" index="1" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+        <node begin="0" cat="inf" end="18" id="8" rel="vc">
+          <node begin="0" cat="cp" end="11" id="9" rel="mod">
+            <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="10" lcat="cp" lemma="wanneer" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="wanneer" sense="wanneer" word="Wanneer"/>
+            <node begin="1" cat="ssub" end="11" id="11" rel="body">
+              <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="12" index="2" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+              <node begin="7" end="8" frame="verb(unacc,pl,aux(inf))" his="normal" his_1="normal" id="13" infl="pl" lcat="ssub" lemma="blijven" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" tense="present" word="blijven" wvorm="pv"/>
+              <node begin="1" cat="inf" end="11" id="14" rel="vc">
+                <node begin="1" end="2" id="15" index="2" rel="su"/>
+                <node begin="2" end="3" frame="sentence_adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+                <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="al" pos="adv" postag="BW()" pt="bw" rel="mod" root="al" sense="al" word="al"/>
+                <node begin="4" cat="pp" end="7" id="18" rel="ld">
+                  <node begin="4" end="5" frame="preposition(in,[])" his="normal" his_1="normal" id="19" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                  <node begin="5" cat="np" end="7" id="20" rel="obj1">
+                    <node begin="5" end="6" frame="number(hoofd(sg_num))" his="normal" his_1="normal" id="21" infl="sg_num" lcat="detp" lemma="één" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="één" sense="één" special="hoofd" word="één"/>
+                    <node begin="6" end="7" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="huis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="huis" sense="huis" word="huis"/>
+                  </node>
+                </node>
+                <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf,ld_pp)" his="normal" his_1="normal" id="23" infl="inf" lcat="inf" lemma="wonen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="woon" sc="ld_pp" sense="woon" word="wonen" wvorm="inf"/>
+                <node begin="10" end="11" frame="adverb" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zo" his_1_1_2="zoo" his_1_2="normal" id="24" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+              </node>
+            </node>
+          </node>
+          <node begin="12" end="13" id="25" index="1" rel="su"/>
+          <node begin="13" end="14" frame="adverb" his="normal" his_1="normal" id="26" lcat="advp" lemma="toch" pos="adv" postag="BW()" pt="bw" rel="mod" root="toch" sense="toch" word="toch"/>
+          <node begin="14" cat="np" end="17" id="27" rel="predc">
+            <node aform="base" begin="14" buiging="met-e" end="15" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="vreemd" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="hd" rnum="pl" root="vreemd" sense="vreemd" special="a_noun" word="vreemden"/>
+            <node begin="15" cat="pp" end="17" id="29" rel="mod">
+              <node begin="15" end="16" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="30" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+              <node begin="16" case="dat_acc" def="def" end="17" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="31" lcat="np" lemma="elkander" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,obl,vol,3p,mv)" pt="vnw" rel="obj1" rnum="pl" root="elkander" sense="elkander" status="vol" vwtype="pers" wh="nwh" word="elkander"/>
+            </node>
+          </node>
+          <node begin="17" buiging="zonder" end="18" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="32" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="copula" sense="ben" word="zijn" wvorm="inf"/>
+        </node>
+      </node>
+      <node begin="20" cat="du" end="22" id="33" rel="dp">
+        <node begin="20" end="21" frame="sentence_adverb" his="normal" his_1="normal" id="34" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="dp" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+        <node aform="base" begin="21" buiging="met-e" end="22" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="35" lcat="np" lemma="vreemd" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="dp" rnum="pl" root="vreemd" sense="vreemd" special="a_noun" word="vreemden"/>
+      </node>
+    </node>
+    <node begin="22" end="23" frame="punct(uitroep)" his="robust_skip" id="36" lcat="--" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="23" end="24" frame="punct(aanhaal_both)" his="robust_skip" id="37" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="113-6">Wanneer wij ook al in één huis blijven wonen , zoo zullen wij toch vreemden voor elkander zijn , voor altijd vreemden ! &quot;</sentence>
+  <comments>
+    <comment>Q#113-6|Wanneer wij ook al in één huis blijven wonen , zoo zullen wij toch vreemden voor elkander zijn , voor altijd vreemden ! &quot;|1|3|-9.282337932479997</comment>
+  </comments>
+</alpino_ds>

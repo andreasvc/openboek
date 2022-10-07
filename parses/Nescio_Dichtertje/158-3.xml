@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="sv1" end="6" id="2" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg1,transitive)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg1" lcat="sv1" lemma="nemen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="neem" sc="transitive" sense="neem" stype="topic_drop" tense="present" word="Neem" wvorm="pv"/>
+      <node begin="1" cat="np" end="4" id="4" rel="obj1">
+        <node begin="1" case="dat_acc" def="def" end="2" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="hd" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="trouw" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="trouw" sense="trouw" vform="adj" word="trouw"/>
+      </node>
+      <node begin="4" cat="pp" end="6" id="7" rel="mod">
+        <node begin="4" end="5" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+        <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,thi,sg,de,dat_acc,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="9" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,red,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" special="wkpro" status="red" vwtype="pers" wh="nwh" word="&apos;m"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="158-3">Neem hem , trouw met &apos;m .</sentence>
+  <comments>
+    <comment>Q#158-3|Neem hem , trouw met &apos;m .|1|1|2.345383604819998</comment>
+  </comments>
+</alpino_ds>

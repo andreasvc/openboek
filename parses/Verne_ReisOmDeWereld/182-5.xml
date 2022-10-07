@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" cat="np" end="4" id="2" rel="su">
+        <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="Het"/>
+        <node begin="1" end="2" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="ras" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="ras" sense="ras" word="ras"/>
+        <node begin="2" cat="np" end="4" id="5" rel="mod">
+          <node begin="2" end="3" frame="determiner(der)" his="normal" his_1="normal" id="6" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+          <node begin="3" end="4" frame="proper_name(both)" genus="genus" getal="ev" graad="basis" his="name" his_1="not_begin" id="7" lcat="np" lemma="Sheppards" naamval="stan" neclass="MISC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,genus,stan)" pt="n" rel="hd" rnum="sg" root="Sheppards" sense="Sheppards" word="Sheppards"/>
+        </node>
+      </node>
+      <node begin="4" end="5" frame="verb(unacc,sg3,part_intransitive(uit))" his="normal" his_1="normal" id="8" infl="sg3" lcat="smain" lemma="uit_sterven" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="sterf_uit" sc="part_intransitive(uit)" sense="sterf_uit" stype="declarative" tense="present" word="sterft" wvorm="pv"/>
+      <node begin="5" end="6" frame="particle(uit)" his="normal" his_1="normal" id="9" lcat="part" lemma="uit" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="uit" sense="uit" vztype="fin" word="uit"/>
+    </node>
+    <node begin="6" end="7" frame="punct(uitroep)" his="normal" his_1="normal" id="10" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="182-5">Het ras der Sheppards sterft uit !</sentence>
+  <comments>
+    <comment>Q#182-5|Het ras der Sheppards sterft uit !|1|1|-3.6454010853600005</comment>
+  </comments>
+</alpino_ds>

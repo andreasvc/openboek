@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:05" cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="0" cat="du" end="18" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="18" id="3" rel="nucl">
+        <node begin="1" cat="ppres" end="3" id="4" rel="predm">
+          <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="weer" pos="adv" postag="BW()" pt="bw" rel="mod" root="weer" sense="weer" word="weer"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(end(both))" his="normal" his_1="V-d" his_1_1="normal" id="6" infl="no_e" lcat="ppres" lemma="zuchten" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="hd" root="zucht" sense="zucht" vform="gerund" word="zuchtend" wvorm="od"/>
+        </node>
+        <node begin="3" end="4" frame="verb(zijn,past(sg),aux(te_inf))" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="aux(te_inf)" sense="begin" stype="declarative" tense="past" word="begon" wvorm="pv"/>
+        <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" index="1" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="God" sense="God" word="God"/>
+        <node begin="4" cat="ti" end="18" id="9" rel="vc">
+          <node begin="8" end="9" frame="complementizer(te)" his="normal" his_1="normal" id="10" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="4" cat="inf" end="18" id="11" rel="body">
+            <node begin="4" end="5" id="12" index="1" rel="su"/>
+            <node begin="5" end="6" frame="tmp_adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="toen" pos="adv" postag="BW()" pt="bw" rel="mod" root="toen" sense="toen" special="tmp" word="toen"/>
+            <node begin="9" buiging="zonder" end="10" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="lezen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="lees" sc="transitive" sense="lees" word="lezen" wvorm="inf"/>
+            <node begin="6" cat="np" end="18" id="15" rel="obj1">
+              <node begin="6" end="7" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="16" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+              <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="manuscript" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="manuscript" sense="manuscript" word="manuscript"/>
+              <node begin="10" cat="pp" end="18" id="18" rel="mod">
+                <node begin="10" end="11" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="19" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                <node begin="11" cat="np" end="18" id="20" rel="obj1">
+                  <node begin="11" end="12" frame="determiner(een)" his="normal" his_1="normal" id="21" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                  <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="22" infl="no_e" lcat="ap" lemma="dik" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="dik" sense="dik" vform="adj" word="dik"/>
+                  <node begin="13" end="14" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="boek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="boek" sense="boek" word="boek"/>
+                  <node begin="14" cat="pp" end="18" id="24" rel="mod">
+                    <node begin="14" end="15" frame="preposition(over,[heen])" his="normal" his_1="normal" id="25" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+                    <node begin="15" cat="np" end="18" id="26" rel="obj1">
+                      <node begin="15" end="16" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="27" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+                      <node begin="16" end="17" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="28" lcat="np" lemma="Taylor" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="mod" rnum="sg" root="Taylor" sense="Taylor" word="Taylor"/>
+                      <node begin="17" end="18" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="29" lcat="np" lemma="systeem" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="systeem" sense="systeem" word="systeem"/>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="21-6">En weer zuchtend begon God toen &apos;t manuscript te lezen van een dik boek over &apos;t Taylor systeem .</sentence>
+  <comments>
+    <comment>Q#21-6|En weer zuchtend begon God toen &apos;t manuscript te lezen van een dik boek over &apos;t Taylor systeem .|1|1|-2.039603481560001</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="28" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="robust_skip" id="1" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="17" end="18" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="27" id="4" rel="--">
+      <node begin="0" cat="cp" end="6" id="5" rel="dp">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="cp" lemma="hoewel" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="hoewel" sense="hoewel" word="Hoewel"/>
+        <node begin="1" cat="ssub" end="6" id="7" rel="body">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="men"/>
+          <node begin="2" cat="np" end="5" id="9" rel="obj1">
+            <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="10" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="3" cat="mwu" end="5" his="name" his_1="not_begin" id="11" mwu_root="den artisten" mwu_sense="den artisten" rel="hd">
+              <node begin="3" end="4" frame="proper_name(both)" id="12" lcat="np" lemma="den" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="den" sense="den" spectype="deeleigen" word="den"/>
+              <node begin="4" end="5" frame="proper_name(both)" id="13" lcat="np" lemma="artisten" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="artisten" sense="artisten" spectype="deeleigen" word="artisten"/>
+            </node>
+          </node>
+          <node begin="5" end="6" frame="verb(hebben,past(sg),ninv(transitive,part_transitive(aan)))" his="normal" his_1="part-V" id="14" infl="sg" lcat="ssub" lemma="aan_zien" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zie_aan" sc="part_transitive(aan)" sense="zie_aan" tense="past" word="aanzag" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="7" cat="du" end="27" id="15" rel="dp">
+        <node begin="7" cat="cp" end="11" id="16" rel="sat">
+          <node begin="7" conjtype="onder" end="8" frame="complementizer(dat)" his="normal" his_1="normal" id="17" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="8" cat="ssub" end="11" id="18" rel="body">
+            <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="19" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,vol,3p,mv)" pt="vnw" rel="su" rnum="pl" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+            <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(no_e(padv))" graad="basis" his="w_dia" id="20" infl="no_e" lcat="ap" lemma="moe" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="moe" sense="moe" vform="adj" word="moê"/>
+            <node begin="10" end="11" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="21" infl="pl" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" tense="past" word="waren" wvorm="pv"/>
+          </node>
+        </node>
+        <node begin="12" cat="smain" end="27" id="22" rel="nucl">
+          <node begin="18" end="19" frame="verb(unacc,past(sg),passive)" his="normal" his_1="normal" id="23" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="passive" sense="word" stype="declarative" tense="past" word="werd" wvorm="pv"/>
+          <node begin="19" cat="np" end="26" id="24" index="1" rel="su">
+            <node begin="19" end="20" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="25" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="20" end="21" frame="number(rang)" his="normal" his_1="normal" id="26" lcat="ap" lemma="laatste" naamval="stan" numtype="rang" pos="num" positie="prenom" postag="TW(rang,prenom,stan)" pt="tw" rel="mod" root="laatste" sense="laatste" special="rang" word="laatste"/>
+            <node begin="21" end="22" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="tableau" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="tableau" sense="tableau" word="tableau"/>
+            <node begin="22" cat="pp" end="26" id="28" rel="mod">
+              <node begin="22" end="23" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="29" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+              <node begin="23" cat="np" end="26" id="30" rel="obj1">
+                <node begin="23" end="24" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="31" lcat="np" lemma="tal" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tal" sense="tal" word="tal"/>
+                <node begin="24" cat="pp" end="26" id="32" rel="mod">
+                  <node begin="24" end="25" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="33" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                  <node begin="25" end="26" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="34" lcat="np" lemma="toejuichingen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="toejuichingen" sense="toejuichingen" word="toejuichingen"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node begin="12" cat="ppart" end="27" id="35" rel="vc">
+            <node begin="12" cat="cp" end="17" id="36" rel="mod">
+              <node begin="12" conjtype="onder" end="13" frame="complementizer" his="normal" his_1="normal" id="37" lcat="cp" lemma="daar" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="daar" sense="daar" word="daar"/>
+              <node begin="13" cat="ssub" end="17" id="38" rel="body">
+                <node begin="13" case="both" def="indef" end="14" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal="ev" his="normal" his_1="normal" id="39" lcat="np" lemma="niemand" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="su" rnum="sg" root="niemand" sense="niemand" special="strpro" status="vol" vwtype="onbep" wh="nwh" word="niemand"/>
+                <node begin="14" case="dat_acc" def="def" end="15" frame="pronoun(nwh,thi,both,de,dat_acc,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="40" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="zich" sense="zich" special="wkpro" status="red" vwtype="refl" wh="nwh" word="zich"/>
+                <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="lijk" id="41" infl="no_e" lcat="ap" lemma="onbewegelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="onbewegelijk" sense="onbewegelijk" vform="adj" word="onbewegelijk"/>
+                <node begin="16" end="17" frame="verb(hebben,past(sg),nonp_pred_np)" his="normal" his_1="normal" id="42" infl="sg" lcat="ssub" lemma="houden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="houd" sc="nonp_pred_np" sense="houd" tense="past" word="hield" wvorm="pv"/>
+              </node>
+            </node>
+            <node begin="19" end="26" id="43" index="1" rel="obj1"/>
+            <node begin="26" buiging="zonder" end="27" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="44" infl="psp" lcat="ppart" lemma="ontvangen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="ontvang" sc="transitive" sense="ontvang" word="ontvangen" wvorm="vd"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="27" end="28" frame="punct(punt)" his="robust_skip" id="45" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="82-1">Hoewel men het den artisten aanzag , dat zij moê waren , daar niemand zich onbewegelijk hield , werd het laatste tableau met tal van toejuichingen ontvangen .</sentence>
+  <comments>
+    <comment>Q#82-1|Hoewel men het den artisten aanzag , dat zij moê waren , daar niemand zich onbewegelijk hield , werd het laatste tableau met tal van toejuichingen ontvangen .|1|2|-1.461514289349986</comment>
+  </comments>
+</alpino_ds>

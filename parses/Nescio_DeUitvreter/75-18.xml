@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:31" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="du" end="11" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="11" id="3" rel="nucl">
+        <node begin="1" end="2" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="4" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="2" end="3" frame="verb(unacc,past(sg),intransitive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="intransitive" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+        <node begin="3" cat="np" end="5" id="6" rel="su">
+          <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="7" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="4" end="5" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="tijd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tijd" sense="tijd" special="tmp" word="tijd"/>
+        </node>
+        <node begin="5" cat="cp" end="11" id="9" rel="mod">
+          <node begin="5" conjtype="onder" end="6" frame="complementizer" his="normal" his_1="normal" id="10" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="toen"/>
+          <node begin="6" cat="ssub" end="11" id="11" rel="body">
+            <node begin="6" cat="np" end="8" id="12" rel="su">
+              <node begin="6" buiging="zonder" end="7" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="13" infl="het" lcat="detp" lemma="dat" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dat" sense="dat" vwtype="aanw" wh="nwh" word="dat"/>
+              <node begin="7" end="8" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+            </node>
+            <node begin="8" end="9" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="15" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+            <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+            <node begin="10" end="11" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="17" infl="sg" lcat="ssub" lemma="stromen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="stroom" sc="intransitive" sense="stroom" tense="past" word="stroomde" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="75-18">En er was een tijd toen dat water er niet stroomde .</sentence>
+  <comments>
+    <comment>Q#75-18|En er was een tijd toen dat water er niet stroomde .|1|1|-8.3242662195</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(het,nwh,mod,pro,yparg)" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="het" lcat="detp" lemma="hetzelfde" pos="det" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="det" root="hetzelfde" sense="hetzelfde" wh="nwh" word="Hetzelfde"/>
+        <node begin="1" end="2" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="stelsel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="stelsel" sense="stelsel" word="stelsel"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,past(sg),passive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="passive" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="9" id="6" rel="vc">
+        <node begin="0" end="2" id="7" index="1" rel="obj1"/>
+        <node begin="3" buiging="zonder" end="4" frame="verb('hebben/zijn',psp,transitive)" his="normal" his_1="normal" id="8" infl="psp" lcat="ppart" lemma="volgen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="volg" sc="transitive" sense="volg" word="gevolgd" wvorm="vd"/>
+        <node begin="4" cat="pp" end="9" id="9" rel="mod">
+          <node begin="4" end="5" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="10" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+          <node begin="5" cat="conj" end="9" id="11" rel="obj1">
+            <node begin="5" cat="np" end="7" id="12" rel="cnj">
+              <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="13" index="2" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="6" end="7" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="schoen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="schoen" sense="schoen" word="schoenen"/>
+            </node>
+            <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="5" cat="np" end="9" id="16" rel="cnj">
+              <node begin="5" end="6" id="17" index="2" rel="det"/>
+              <node begin="8" end="9" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="laars" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="laars" sense="laars" word="laarzen"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="37-3">Hetzelfde stelsel was gevolgd voor de schoenen en laarzen .</sentence>
+  <comments>
+    <comment>Q#37-3|Hetzelfde stelsel was gevolgd voor de schoenen en laarzen .|1|1|-1.4081942665800022</comment>
+  </comments>
+</alpino_ds>

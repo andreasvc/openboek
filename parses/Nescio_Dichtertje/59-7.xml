@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:58" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="du" end="16" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="7" id="5" rel="dp">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="2" end="3" frame="verb(hebben,past(sg),transitive_ndev_ndev)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="zien" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" stype="declarative" tense="past" word="zag" wvorm="pv"/>
+          <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="fem" getal="getal" his="normal" his_1="normal" id="8" lcat="np" lemma="haar" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,getal,fem)" pt="vnw" rel="obj1" rnum="sg" root="haar" sense="haar" status="vol" vwtype="pers" wh="nwh" word="haar"/>
+          <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(sentadv))" graad="basis" his="normal" his_1="normal" id="9" infl="no_e" lcat="ap" lemma="natuurlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="natuurlijk" sense="natuurlijk" vform="adj" word="natuurlijk"/>
+          <node begin="5" cat="advp" end="7" id="10" rel="mod">
+            <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+            <node begin="6" buiging="zonder" end="7" frame="postadv_adverb" graad="comp" his="normal" his_1="normal" id="12" lcat="advp" lemma="veel" naamval="stan" pdtype="grad" pos="adv" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="mod" root="veel" sense="veel" special="postadv" vwtype="onbep" word="meer"/>
+          </node>
+        </node>
+        <node begin="8" cat="smain" end="16" id="13" rel="dp">
+          <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="14" infl="no_e" lcat="ap" lemma="mogelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="mogelijk" sense="mogelijk" vform="adj" word="mogelijk"/>
+          <node begin="9" end="10" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="wonen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="woon" sc="ld_pp" sense="woon" stype="declarative" tense="past" word="woonde" wvorm="pv"/>
+          <node begin="10" case="both" def="def" end="11" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="aal" id="17" infl="no_e" lcat="ap" lemma="heelemaal" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="heelemaal" sense="heelemaal" vform="adj" word="heelemaal"/>
+          <node begin="12" cat="advp" end="14" his="normal" his_1="normal" id="18" rel="mod">
+            <node begin="12" end="13" frame="adverb" id="19" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+            <node begin="13" end="14" frame="adverb" id="20" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" word="eens"/>
+          </node>
+          <node begin="14" cat="pp" end="16" id="21" rel="ld">
+            <node begin="14" end="15" frame="preposition(in,[])" his="normal" his_1="normal" id="22" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="15" end="16" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="23" lcat="np" lemma="Amsterdam" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Amsterdam" sense="Amsterdam" word="Amsterdam"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="59-7">Maar hij zag haar natuurlijk niet meer , mogelijk woonde ze heelemaal niet eens in Amsterdam .</sentence>
+  <comments>
+    <comment>Q#59-7|Maar hij zag haar natuurlijk niet meer , mogelijk woonde ze heelemaal niet eens in Amsterdam .|1|1|-9.477974612520002</comment>
+  </comments>
+</alpino_ds>

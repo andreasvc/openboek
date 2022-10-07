@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" cat="du" end="14" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="14" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="9" id="4" rel="cnj">
+          <node begin="1" case="both" def="def" end="2" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="5" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node begin="2" end="3" frame="verb(hebben,pl,intransitive)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="zagen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="zaag" sc="intransitive" sense="zaag" stype="declarative" tense="present" word="zagen" wvorm="pv"/>
+          <node begin="3" cat="mwu(wijd en zijd,wijd en zijd)" end="6" his="normal" his_1="normal" id="7" rel="mod">
+            <node begin="3" end="4" frame="adverb" id="8" lcat="advp" lemma="wijd" pos="adv" postag="BW()" pt="bw" rel="mwp" root="wijd" sense="wijd" word="wijd"/>
+            <node begin="4" end="5" frame="adverb" id="9" lcat="advp" lemma="en" pos="adv" postag="BW()" pt="bw" rel="mwp" root="en" sense="en" word="en"/>
+            <node begin="5" end="6" frame="adverb" id="10" lcat="advp" lemma="zijd" pos="adv" postag="BW()" pt="bw" rel="mwp" root="zijd" sense="zijd" word="zijd"/>
+          </node>
+          <node begin="6" cat="pp" end="9" id="11" rel="mod">
+            <node begin="6" end="7" frame="preposition(over,[heen])" his="normal" his_1="normal" id="12" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+            <node begin="7" end="8" frame="noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="alles" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="alles" sense="alles" status="vol" vwtype="onbep" word="alles"/>
+            <node begin="8" end="9" frame="particle(heen)" his="normal" his_1="normal" id="14" lcat="part" lemma="heen" pos="part" postag="VZ(fin)" pt="vz" rel="hdf" root="heen" sense="heen" vztype="fin" word="heen"/>
+          </node>
+        </node>
+        <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="10" cat="smain" end="14" id="16" rel="cnj">
+          <node begin="10" cat="np" end="12" id="17" rel="obj1">
+            <node begin="10" end="11" frame="modal_adverb" his="normal" his_1="normal" id="18" lcat="advp" lemma="alleen" pos="adv" postag="BW()" pt="bw" rel="mod" root="alleen" sc="modal" sense="alleen" word="alleen"/>
+            <node begin="11" case="dat_acc" def="def" end="12" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="19" lcat="np" lemma="elkaar" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="persoon" pos="pron" postag="VNW(recip,pron,obl,vol,persoon,mv)" pt="vnw" rel="hd" rnum="pl" root="elkaar" sense="elkaar" status="vol" vwtype="recip" wh="nwh" word="elkaar"/>
+          </node>
+          <node begin="12" end="13" frame="verb(hebben,past(pl),transitive_ndev_ndev)" his="normal" his_1="normal" id="20" infl="pl" lcat="smain" lemma="zien" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" stype="declarative" tense="past" word="zagen" wvorm="pv"/>
+          <node begin="13" case="both" def="def" end="14" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="21" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="54-2">En ze zagen wijd en zijd over alles heen en alleen elkaar zagen ze .</sentence>
+  <comments>
+    <comment>Q#54-2|En ze zagen wijd en zijd over alles heen en alleen elkaar zagen ze .|1|1|-4.07605567148</comment>
+  </comments>
+</alpino_ds>

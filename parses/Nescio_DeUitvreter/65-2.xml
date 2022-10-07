@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(dubb_punt)" his="normal" his_1="normal" id="1" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="skip" id="2" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="0" cat="du" end="11" id="3" rel="--">
+      <node begin="0" cat="conj" end="7" id="4" rel="nucl">
+        <node begin="0" cat="smain" end="4" id="5" rel="cnj">
+          <node begin="0" end="1" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="6" index="1" lcat="np" lemma="Japi" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="Japi" sense="Japi" word="Japi"/>
+          <node begin="1" end="2" frame="verb(hebben,past(sg),part_intransitive(op))" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="op_kijken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kijk_op" sc="part_intransitive(op)" sense="kijk_op" tense="past" word="keek" wvorm="pv"/>
+          <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="nauwelijks" pos="adv" postag="BW()" pt="bw" rel="mod" root="nauwelijks" sense="nauwelijks" word="nauwelijks"/>
+          <node begin="3" end="4" frame="particle(op)" his="normal" his_1="normal" id="9" lcat="part" lemma="op" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="op" sense="op" vztype="fin" word="op"/>
+        </node>
+        <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="10" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="0" cat="smain" end="7" id="11" rel="cnj">
+          <node begin="0" end="1" id="12" index="1" rel="su"/>
+          <node begin="5" end="6" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="intransitive" sense="zeg" tense="past" word="zei" wvorm="pv"/>
+          <node aform="base" begin="6" end="7" frame="adjective(no_e(adv))" his="normal" his_1="normal" id="14" infl="no_e" lcat="ap" lemma="enkel" pos="adj" postag="BW()" pt="bw" rel="mod" root="enkel" sense="enkel" vform="adj" word="enkel"/>
+        </node>
+      </node>
+      <node begin="9" cat="du" end="11" id="15" rel="sat">
+        <node begin="9" end="10" frame="adverb" his="normal" his_1="decap" his_1_1="normal" id="16" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="dp" root="niet" sense="niet" word="Niet"/>
+        <node begin="10" end="11" frame="predm_adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="allemaal" pos="adv" postag="BW()" pt="bw" rel="dp" root="allemaal" sense="allemaal" special="predm" word="allemaal"/>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="12" end="13" frame="punct(aanhaal_both)" his="skip" id="19" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="65-2">Japi keek nauwelijks op en zei enkel : &quot; Niet allemaal . &quot;</sentence>
+  <comments>
+    <comment>Q#65-2|Japi keek nauwelijks op en zei enkel : &quot; Niet allemaal . &quot;|1|1|1.1626083937999963</comment>
+  </comments>
+</alpino_ds>

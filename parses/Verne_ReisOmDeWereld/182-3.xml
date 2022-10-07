@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="obj1">
+        <node begin="0" buiging="met-e" end="1" frame="determiner(zulke,nwh,nmod,pro,yparg)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="zulke" lcat="detp" lemma="zulk" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="zulk" sense="zulk" vwtype="aanw" wh="nwh" word="Zulke"/>
+        <node begin="1" end="2" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="4" lcat="np" lemma="buitenkans" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="buitenkans_DIM" sense="buitenkans_DIM" word="buitenkansjes"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,pl,transitive_ndev)" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="present" word="hebben" wvorm="pv"/>
+      <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="6" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+      <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+      <node aform="base" begin="5" end="6" frame="adjective(both(osentadv))" his="normal" his_1="normal" id="8" infl="both" lcat="ap" lemma="dikwijls" pos="adj" postag="BW()" pt="bw" rel="mod" root="dikwijls" sense="dikwijls" vform="adj" word="dikwijls"/>
+    </node>
+    <node begin="6" end="7" frame="punct(uitroep)" his="normal" his_1="normal" id="9" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="182-3">Zulke buitenkansjes hebben wij niet dikwijls !</sentence>
+  <comments>
+    <comment>Q#182-3|Zulke buitenkansjes hebben wij niet dikwijls !|1|1|-1.01547372133</comment>
+  </comments>
+</alpino_ds>

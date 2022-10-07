@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:06" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="5" id="3" rel="--">
+      <node begin="1" cat="sv1" end="3" id="4" rel="nucl">
+        <node begin="1" end="2" frame="verb(hebben,sg1,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="sg1" lcat="sv1" lemma="zien" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zie" sc="intransitive" sense="zie" stype="imparative" tense="present" word="Zie" wvorm="pv"/>
+        <node begin="2" end="3" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="6" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="hier"/>
+      </node>
+      <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="burger" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="tag" rnum="sg" root="burger" sense="burger" word="burger"/>
+    </node>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="8" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="37-4">&quot; Zie hier , burger &quot; .</sentence>
+  <comments>
+    <comment>Q#37-4|&quot; Zie hier , burger &quot; .|1|1|0.025371257200000996</comment>
+  </comments>
+</alpino_ds>

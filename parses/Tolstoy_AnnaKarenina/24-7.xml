@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="18" id="2" rel="--">
+      <node begin="0" end="1" frame="er_adverb(bij)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="pp" lemma="daarbij" pos="pp" postag="BW()" pt="bw" rel="mod" root="daarbij" sense="daarbij" special="er" word="Daarbij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),refl_np)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="herinneren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="herinner" sc="refl_np" sense="zich-herinner" stype="declarative" tense="past" word="herinnerde" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+      <node begin="3" end="4" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="6" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+      <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="weer" pos="adv" postag="BW()" pt="bw" rel="mod" root="weer" sense="weer" word="weer"/>
+      <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="levendig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="levendig" sense="levendig" vform="adj" word="levendig"/>
+      <node begin="6" cat="conj" end="18" id="9" rel="obj1">
+        <node begin="6" cat="np" end="11" id="10" rel="cnj">
+          <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="12" infl="e" lcat="ap" lemma="zwart" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="zwart" sense="zwart" vform="adj" word="zwarte"/>
+          <node aform="base" begin="9" buiging="met-e" end="10" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="ige" id="13" infl="e" lcat="ap" lemma="guitachtig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="guitachtig" sense="guitachtig" vform="adj" word="guitachtige"/>
+          <node begin="10" end="11" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="14" lcat="np" lemma="oogen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="oogen" sense="oogen" word="oogen"/>
+        </node>
+        <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="12" cat="np" end="18" id="16" rel="cnj">
+          <node begin="12" end="13" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="17" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(end(both))" his="form_of_suffix" his_1="end" id="18" infl="no_e" lcat="ppres" lemma="betooverend" pos="adj" positie="prenom" postag="WW(od,prenom,zonder)" pt="ww" rel="mod" root="betooverend" sense="betooverend" vform="gerund" word="betooverend" wvorm="od"/>
+          <node begin="14" end="15" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="19" lcat="np" lemma="glim_lach" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="glim_lach_DIM" sense="glim_lach_DIM" word="glimlachje"/>
+          <node begin="15" cat="pp" end="18" id="20" rel="mod">
+            <node begin="15" end="16" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="21" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="16" cat="np" end="18" id="22" rel="obj1">
+              <node aform="base" begin="16" buiging="met-e" end="17" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="le" id="23" infl="e" lcat="ap" lemma="mademoisell" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="mademoisell" sense="mademoisell" vform="adj" word="mademoiselle"/>
+              <node begin="17" end="18" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="24" lcat="np" lemma="Roland" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Roland" sense="Roland" word="Roland"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="24-7">Daarbij herinnerde hij zich weer levendig de zwarte , guitachtige oogen en het betooverend glimlachje van mademoiselle Roland .</sentence>
+  <comments>
+    <comment>Q#24-7|Daarbij herinnerde hij zich weer levendig de zwarte , guitachtige oogen en het betooverend glimlachje van mademoiselle Roland .|1|1|-5.308073187569997</comment>
+  </comments>
+</alpino_ds>

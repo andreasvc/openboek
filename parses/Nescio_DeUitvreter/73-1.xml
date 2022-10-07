@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="8" id="2" rel="--">
+      <node begin="0" cat="smain" end="3" id="3" rel="dp">
+        <node begin="1" end="2" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+        <node begin="0" cat="ppart" end="3" id="5" rel="vc">
+          <node begin="0" buiging="zonder" end="1" frame="verb(hebben,psp,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="6" infl="psp" lcat="ppart" lemma="ploeteren" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="ploeter" sc="intransitive" sense="ploeter" word="Geploeterd" wvorm="vd"/>
+          <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="7" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+        </node>
+        <node begin="2" end="3" id="8" index="1" rel="su"/>
+      </node>
+      <node begin="4" cat="smain" end="8" id="9" rel="dp">
+        <node begin="4" cat="np" end="6" id="10" rel="obj1">
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="misère" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="misère" sense="misère" word="misère"/>
+          <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="12" infl="no_e" lcat="ppart" lemma="zien" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="zien" sense="zien" vform="psp" word="gezien" wvorm="vd"/>
+        </node>
+        <node begin="6" end="7" frame="verb(hebben,past(sg),transitive_ndev)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+        <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="14" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="73-1">Geploeterd had -ie , misère gezien had -ie .</sentence>
+  <comments>
+    <comment>Q#73-1|Geploeterd had -ie , misère gezien had -ie .|1|1|10.892422105200001</comment>
+  </comments>
+</alpino_ds>

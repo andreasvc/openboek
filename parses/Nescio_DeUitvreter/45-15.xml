@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:12" cats="2" skips="1" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="2" end="3" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="2" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="robust_skip" id="4" lcat="--" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="--" root="en" sense="en" word="en"/>
+    <node begin="1" cat="du" end="11" id="5" rel="--">
+      <node begin="1" cat="du" end="6" id="6" rel="dp">
+        <node begin="1" end="2" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="advp" lemma="hallo" pos="tag" postag="TSW()" pt="tsw" rel="nucl" root="hallo" sense="hallo" word="Hallo"/>
+        <node begin="4" cat="sv1" end="6" id="8" rel="tag">
+          <node begin="4" end="5" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="9" infl="sg" lcat="sv1" lemma="roepen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="roep" sc="sbar" sense="roep" tense="past" word="riep" wvorm="pv"/>
+          <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="10" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        </node>
+      </node>
+      <node begin="7" cat="sv1" end="11" id="11" rel="dp">
+        <node begin="7" end="8" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="12" infl="sg" lcat="sv1" lemma="schudden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="schud" sc="intransitive" sense="schud" stype="topic_drop" tense="past" word="schudde" wvorm="pv"/>
+        <node begin="8" cat="pp" end="11" id="13" rel="mod">
+          <node begin="8" end="9" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="14" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+          <node begin="9" cat="np" end="11" id="15" rel="obj1">
+            <node begin="9" buiging="zonder" end="10" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="16" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+            <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="schouder" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="schouder" sense="schouder" word="schouder"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="robust_skip" id="18" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="45-15">&quot; Hallo &quot; , riep ik en schudde aan z&apos;n schouder .</sentence>
+  <comments>
+    <comment>Q#45-15|&quot; Hallo &quot; , riep ik en schudde aan z&apos;n schouder .|1|3|2.4628321007000036</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:13" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="2" end="3" frame="punct(aanhaal_both)" his="skip" id="2" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(aanhaal_both)" his="skip" id="4" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="12" id="5" rel="--">
+      <node begin="1" end="2" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="Hier"/>
+      <node begin="3" end="4" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="intransitive" sense="zeg" stype="declarative" tense="past" word="zei" wvorm="pv"/>
+      <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="8" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+      <node begin="7" cat="sv1" end="12" id="9" rel="mod">
+        <node begin="7" end="8" frame="verb(hebben,modal_not_u,modifier(aux(inf)))" his="normal" his_1="normal" id="10" infl="modal_not_u" lcat="sv1" lemma="willen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" tense="present" word="wil" wvorm="pv"/>
+        <node begin="8" case="both" def="def" end="9" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="11" index="1" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+        <node begin="8" cat="inf" end="12" id="12" rel="vc">
+          <node begin="8" end="9" id="13" index="1" rel="su"/>
+          <node begin="9" cat="np" end="11" id="14" rel="obj1">
+            <node begin="9" buiging="zonder" end="10" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="variant" id="15" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="dien"/>
+            <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="sleutel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="sleutel" sense="sleutel" word="sleutel"/>
+          </node>
+          <node begin="11" buiging="zonder" end="12" frame="verb(hebben,inf,ninv(transitive,part_transitive(mee)))" his="normal" his_1="part-V" id="17" infl="inf" lcat="inf" lemma="mee_nemen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="neem_mee" sc="part_transitive(mee)" sense="neem_mee" word="meenemen" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(vraag)" his="normal" his_1="normal" id="18" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="159-7">&quot; Hier &quot; zei -ie , &quot; wil je dien sleutel meenemen ?</sentence>
+  <comments>
+    <comment>Q#159-7|&quot; Hier &quot; zei -ie , &quot; wil je dien sleutel meenemen ?|1|1|-3.0771841481199993</comment>
+  </comments>
+</alpino_ds>

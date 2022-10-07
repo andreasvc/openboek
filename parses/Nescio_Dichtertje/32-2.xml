@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:11" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="du" end="6" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="6" id="3" rel="nucl">
+        <node begin="1" cat="pp" end="3" id="4" rel="mod">
+          <node begin="1" end="2" frame="preposition(van,[],pc_adv)" his="normal" his_1="normal" id="5" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sc="pc_adv" sense="van" vztype="init" word="van"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="somber" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="obj1" root="somber" sense="somber" vform="adj" word="somber"/>
+        </node>
+        <node begin="3" end="4" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="copula" sense="word" stype="declarative" tense="past" word="werd" wvorm="pv"/>
+        <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="8" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="9" infl="no_e" lcat="ap" lemma="extatisch" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="extatisch" sense="extatisch" vform="adj" word="extatisch"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="32-2">En van somber werd -ie extatisch .</sentence>
+  <comments>
+    <comment>Q#32-2|En van somber werd -ie extatisch .|1|1|4.756825955320002</comment>
+  </comments>
+</alpino_ds>

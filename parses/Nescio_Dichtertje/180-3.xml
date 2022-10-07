@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:16" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="7" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(unacc,sg1,copula)" his="normal" his_1="normal" id="4" infl="sg1" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="ben" wvorm="pv"/>
+      <node begin="2" cat="conj" end="7" id="5" rel="predc">
+        <node begin="2" cat="np" end="4" id="6" rel="cnj">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="8" infl="e" lcat="np" lemma="onwrikbaar" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="sg" root="onwrikbaar" sense="onwrikbaar" vform="adj" word="onwrikbare"/>
+        </node>
+        <node begin="5" cat="np" end="7" id="9" rel="cnj">
+          <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node aform="base" begin="6" buiging="met-e" end="7" frame="adjective(e)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="11" infl="e" lcat="np" lemma="onbarmhartig" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="sg" root="onbarmhartig" sense="onbarmhartig" vform="adj" word="onbarmhartige"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="180-3">Ik ben de onwrikbare , de onbarmhartige .</sentence>
+  <comments>
+    <comment>Q#180-3|Ik ben de onwrikbare , de onbarmhartige .|1|1|-2.6135427051</comment>
+  </comments>
+</alpino_ds>

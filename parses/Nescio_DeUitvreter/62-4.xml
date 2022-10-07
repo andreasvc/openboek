@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:26" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="conj" end="7" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="cnj">
+        <node begin="0" cat="np" end="2" id="3" rel="obj1">
+          <node aform="base" begin="0" buiging="met-e" end="1" frame="adjective(e)" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="e" lcat="ap" lemma="donker" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="donker" sense="donker" vform="adj" word="Donkere"/>
+          <node begin="1" end="2" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="5" lcat="np" lemma="oogen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="oogen" sense="oogen" word="oogen"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),transitive_ndev)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+        <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      </node>
+      <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="8" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="5" cat="du" end="7" id="9" rel="cnj">
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="zwart" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="zwart" sense="zwart" vform="adj" word="zwart"/>
+        <node begin="6" end="7" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="haar" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="dp" rnum="sg" root="haar" sense="haar" word="haar"/>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="62-4">Donkere oogen had ze en zwart haar .</sentence>
+  <comments>
+    <comment>Q#62-4|Donkere oogen had ze en zwart haar .|1|1|5.2340207054999945</comment>
+  </comments>
+</alpino_ds>

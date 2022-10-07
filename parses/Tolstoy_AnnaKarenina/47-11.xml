@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="11" id="2" rel="--">
+      <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="Zij"/>
+      <node begin="2" end="3" frame="verb(hebben,modal_not_u,modifier(aux(inf)))" his="normal" his_1="normal" id="4" infl="modal_not_u" lcat="smain" lemma="willen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" stype="declarative" tense="present" word="wil" wvorm="pv"/>
+      <node begin="1" cat="inf" end="11" id="5" rel="vc">
+        <node begin="1" end="2" id="6" index="1" rel="su"/>
+        <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        <node begin="4" end="5" frame="sentence_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="immers" pos="adv" postag="BW()" pt="bw" rel="mod" root="immers" sense="immers" special="sentence" word="immers"/>
+        <node begin="5" cat="mwu" end="8" his="normal" his_1="normal" id="9" mwu_root="in het geheel" mwu_sense="in het geheel" rel="mod">
+          <node begin="5" end="6" frame="adverb" id="10" lcat="advp" lemma="in" pos="adv" postag="BW()" pt="bw" rel="mwp" root="in" sense="in" word="in"/>
+          <node begin="6" end="7" frame="adverb" id="11" lcat="advp" lemma="het" pos="adv" postag="BW()" pt="bw" rel="mwp" root="het" sense="het" word="het"/>
+          <node begin="7" end="8" frame="adverb" id="12" lcat="advp" lemma="geheel" pos="adv" postag="BW()" pt="bw" rel="mwp" root="geheel" sense="geheel" word="geheel"/>
+        </node>
+        <node begin="8" cat="advp" end="10" id="13" rel="mod">
+          <node begin="8" end="9" frame="adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+          <node begin="9" buiging="zonder" end="10" frame="postadv_adverb" graad="comp" his="normal" his_1="normal" id="15" lcat="advp" lemma="meer" naamval="stan" pdtype="grad" pos="adv" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="mod" root="meer" sense="meer" special="postadv" vwtype="onbep" word="meer"/>
+        </node>
+        <node begin="10" buiging="zonder" end="11" frame="verb(hebben,inf(no_e),transitive_ndev_ndev)" his="normal" his_1="normal" id="16" infl="inf(no_e)" lcat="inf" lemma="zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" word="zien" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(vraag)" his="normal" his_1="normal" id="17" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="12" end="13" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="18" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="47-11">&quot; Zij wil mij immers in het geheel niet meer zien ? &quot;</sentence>
+  <comments>
+    <comment>Q#47-11|&quot; Zij wil mij immers in het geheel niet meer zien ? &quot;|1|1|-8.46243736215</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:01" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="pp" end="15" id="2" rel="--">
+      <node begin="0" end="1" frame="preposition(naar,[toe])" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="Naar"/>
+      <node begin="1" cat="np" end="15" id="4" rel="obj1">
+        <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="5" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node aform="base" begin="2" buiging="met-e" end="3" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="6" infl="e" lcat="ap" lemma="aardig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="aardig" sense="aardig" vform="adj" word="aardige"/>
+        <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="7" infl="e" lcat="ap" lemma="scherp" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="scherp" sense="scherp" vform="adj" word="scherpe"/>
+        <node begin="4" end="5" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="compound" his_1="2" id="8" lcat="np" lemma="achter_kant" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="achter_kant_DIM" sense="achter_kant_DIM" word="achterkantjes"/>
+        <node begin="5" cat="pp" end="8" id="9" rel="mod">
+          <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="10" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="6" cat="np" end="8" id="11" rel="obj1">
+            <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="12" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+            <node begin="7" end="8" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="13" lcat="np" lemma="beenen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="beenen" sense="beenen" word="beenen"/>
+          </node>
+        </node>
+        <node begin="9" cat="pp" end="15" id="14" rel="mod">
+          <node begin="9" buiging="zonder" end="10" frame="modal_adverb(comp_prep)" graad="basis" his="normal" his_1="normal" id="15" lcat="advp" lemma="vlak" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vlak" sc="comp_prep" sense="vlak" word="vlak"/>
+          <node begin="10" end="11" frame="preposition(boven,[uit])" his="normal" his_1="normal" id="16" lcat="pp" lemma="boven" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="boven" sense="boven" vztype="init" word="boven"/>
+          <node begin="11" cat="np" end="15" id="17" rel="obj1">
+            <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node aform="base" begin="12" buiging="met-e" end="13" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="19" infl="e" lcat="ap" lemma="laag" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="laag" sense="laag" vform="adj" word="lage"/>
+            <node aform="base" begin="13" buiging="met-e" end="14" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="20" infl="e" lcat="ap" lemma="wit" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="wit" sense="wit" vform="adj" word="witte"/>
+            <node begin="14" end="15" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="21" lcat="np" lemma="schoen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="schoen_DIM" sense="schoen_DIM" word="schoentjes"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="13-16">Naar de aardige scherpe achterkantjes van haar beenen , vlak boven de lage witte schoentjes .</sentence>
+  <comments>
+    <comment>Q#13-16|Naar de aardige scherpe achterkantjes van haar beenen , vlak boven de lage witte schoentjes .|1|1|-1.865960710679999</comment>
+  </comments>
+</alpino_ds>

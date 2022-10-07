@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="du" end="8" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="smain" end="8" id="3" rel="nucl">
+        <node begin="1" case="both" def="def" end="2" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="4" lcat="np" lemma="ge" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2b" pos="pron" postag="VNW(pers,pron,nomin,vol,2b,getal)" pt="vnw" rel="su" rnum="sg" root="ge" sense="ge" status="vol" vwtype="pers" wh="nwh" word="ge"/>
+        <node begin="2" end="3" frame="verb(unacc,sg3,copula)" his="normal" his_1="normal" id="5" infl="sg3" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="word" sc="copula" sense="word" stype="declarative" tense="present" word="wordt" wvorm="pv"/>
+        <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+        <node begin="4" cat="du" end="6" id="7" rel="predm">
+          <node begin="4" end="5" frame="eenmaal_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="eenmaal" pos="adv" postag="BW()" pt="bw" rel="dp" root="eenmaal" sense="eenmaal" special="eenmaal" word="eenmaal"/>
+          <node begin="5" case="both" def="indef" end="6" frame="pronoun(nwh,thi,sg,both,both,indef,strpro)" gen="both" his="normal" his_1="normal" id="9" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="dp" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+        </node>
+        <node begin="6" cat="np" end="8" id="10" rel="predc">
+          <node begin="6" end="7" frame="determiner(der)" his="normal" his_1="normal" id="11" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+          <node begin="7" buiging="met-e" end="8" frame="noun(both,count,pl)" gen="both" getal="mv" getal-n="mv-n" his="normal" his_1="normal" id="12" lcat="np" lemma="onze" naamval="stan" num="pl" pdtype="det" persoon="1" pos="noun" positie="nom" postag="VNW(bez,det,stan,vol,1,mv,nom,met-e,mv-n)" pt="vnw" rel="hd" rnum="pl" root="onze" sense="onze" status="vol" vwtype="bez" word="onzen"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(uitroep)" his="normal" his_1="normal" id="13" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="169-3">Maar ge wordt nog eenmaal een der onzen !</sentence>
+  <comments>
+    <comment>Q#169-3|Maar ge wordt nog eenmaal een der onzen !|1|1|4.010760720750001</comment>
+  </comments>
+</alpino_ds>

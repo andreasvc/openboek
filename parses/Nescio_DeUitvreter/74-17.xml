@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:31" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="1" end="2" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="2" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="3" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+      <node begin="0" cat="ppart" end="6" id="4" rel="vc">
+        <node begin="0" end="1" frame="proper_name(sg)" genus="genus" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="5" lcat="np" lemma="September" naamval="stan" neclass="MISC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,genus,stan)" pt="n" rel="obj1" rnum="sg" root="September" sense="September" word="September"/>
+        <node begin="2" end="3" id="6" index="1" rel="su"/>
+        <node begin="3" cat="pp" end="5" id="7" rel="ld">
+          <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="8" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="4" end="5" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="9" lcat="np" lemma="Nijmegen" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Nijmegen" sense="Nijmegen" word="Nijmegen"/>
+        </node>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,psp,ninv(np_ld_pp,part_np_ld_pp(door)))" his="normal" his_1="part-V" id="10" infl="psp" lcat="ppart" lemma="door_brengen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="breng_door" sc="part_np_ld_pp(door)" sense="breng_door" word="doorgebracht" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="74-17">September had ie in Nijmegen doorgebracht .</sentence>
+  <comments>
+    <comment>Q#74-17|September had ie in Nijmegen doorgebracht .|1|1|-0.35144218719999876</comment>
+  </comments>
+</alpino_ds>

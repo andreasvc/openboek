@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="du" end="8" id="1" rel="--">
+      <node begin="0" cat="smain" end="7" id="2" rel="dp">
+        <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="Dat"/>
+        <node begin="1" end="2" frame="verb(zijn,sg3,transitive_ndev_ndev)" his="normal" his_1="normal" id="4" infl="sg3" lcat="smain" lemma="gaan" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ga" sc="transitive_ndev_ndev" sense="ga" stype="declarative" tense="present" word="gaat" wvorm="pv"/>
+        <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="waarachtig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="waarachtig" sense="waarachtig" vform="adj" word="waarachtig"/>
+        <node begin="4" cat="pp" end="7" id="7" rel="mod">
+          <node begin="4" end="5" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+          <node begin="5" cat="np" end="7" id="9" rel="obj1">
+            <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(end(both))" his="normal" his_1="V-d" his_1_1="normal" id="10" infl="no_e" lcat="ppres" lemma="koken" pos="adj" positie="prenom" postag="WW(od,prenom,zonder)" pt="ww" rel="mod" root="kook" sense="kook" vform="gerund" word="kokend" wvorm="od"/>
+            <node begin="6" end="7" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+          </node>
+        </node>
+      </node>
+      <node begin="7" end="8" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="12" lcat="np" lemma="wasschen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="wasschen" sense="wasschen" word="wasschen"/>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="robust_skip" id="13" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="160-3">Dat gaat ze waarachtig met kokend water wasschen .</sentence>
+  <comments>
+    <comment>Q#160-3|Dat gaat ze waarachtig met kokend water wasschen .|1|2|4.282553353090006</comment>
+  </comments>
+</alpino_ds>

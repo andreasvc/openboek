@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:14" cats="3" skips="2" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="robust_skip" id="1" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" conjtype="onder" end="7" frame="complementizer(dat)" his="robust_skip" id="2" lcat="--" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="--" root="dat" sc="dat" sense="dat" word="dat"/>
+    <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="robust_skip" id="3" lcat="--" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="--" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+    <node begin="0" cat="du" end="14" id="4" rel="--">
+      <node begin="0" cat="smain" end="5" id="5" rel="dp">
+        <node begin="0" end="1" frame="er_vp_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="Er"/>
+        <node begin="1" end="2" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="8" rel="su">
+          <node begin="2" buiging="zonder" end="3" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="9" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+          <node begin="3" buiging="zonder" end="4" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="10" lcat="np" lemma="denken" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="denk" sc="intransitive" sense="denk" special="v_noun" word="denken" wvorm="inf"/>
+        </node>
+        <node aform="base" begin="4" end="5" frame="adjective(pred(nonadv))" his="normal" his_1="normal" id="11" infl="pred" lcat="ap" lemma="aan" pos="adj" postag="VZ(fin)" pt="vz" rel="predc" root="aan" sense="aan" vform="adj" vztype="fin" word="aan"/>
+      </node>
+      <node begin="8" cat="pp" end="11" id="12" rel="dp">
+        <node begin="8" end="9" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="13" lcat="pp" lemma="uit" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="uit" sense="uit" vztype="init" word="uit"/>
+        <node begin="9" cat="np" end="11" id="14" rel="obj1">
+          <node begin="9" end="10" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="15" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="10" end="11" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="compound" his_1="2" id="16" lcat="np" lemma="copie_boek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="copie_boek" sense="copie_boek" word="copieboek"/>
+        </node>
+      </node>
+      <node begin="11" cat="sv1" end="14" id="17" rel="dp">
+        <node begin="11" end="12" frame="verb('hebben/zijn',past(pl),aux(inf))" his="normal" his_1="normal" id="18" infl="pl" lcat="sv1" lemma="kunnen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="topic_drop" tense="past" word="konden" wvorm="pv"/>
+        <node begin="12" cat="inf" end="14" id="19" rel="vc">
+          <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="20" infl="no_e" lcat="ap" lemma="wijs" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="wijs" sense="wijs" vform="adj" word="wijs"/>
+          <node begin="13" buiging="zonder" end="14" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="worden" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="robust_skip" id="22" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="50-50">Er was geen denken aan , dat ze uit &apos;t copieboek konden wijs worden .</sentence>
+  <comments>
+    <comment>Q#50-50|Er was geen denken aan , dat ze uit &apos;t copieboek konden wijs worden .|1|5|-2.788700046249999</comment>
+  </comments>
+</alpino_ds>

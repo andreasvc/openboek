@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="4" id="2" rel="--">
+      <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="no_e" lcat="ap" lemma="waar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="waar" sense="waar" vform="adj" word="Waar"/>
+      <node begin="2" end="3" frame="verb(unacc,sg_heeft,copula)" his="normal" his_1="normal" id="4" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+      <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+    </node>
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="6" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="7" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="132-1">&quot; Waar is hij ? &quot;</sentence>
+  <comments>
+    <comment>Q#132-1|&quot; Waar is hij ? &quot;|1|1|-1.9760305978900008</comment>
+  </comments>
+</alpino_ds>

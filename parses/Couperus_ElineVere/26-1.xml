@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(uitroep)" his="normal" his_1="normal" id="3" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="14" id="5" rel="--">
+      <node begin="1" cat="du" end="6" id="6" rel="dp">
+        <node begin="1" end="2" frame="adv_tag" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="advp" lemma="kom" pos="tag" postag="BW()" pt="bw" rel="tag" root="kom" sense="kom" word="Kom"/>
+        <node begin="3" cat="inf" end="6" id="8" rel="nucl">
+          <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+          <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+          <node begin="5" buiging="zonder" end="6" frame="verb(zijn,inf,intransitive)" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="beginnen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="begin" sc="intransitive" sense="begin" word="beginnen" wvorm="inf"/>
+        </node>
+      </node>
+      <node begin="7" cat="sv1" end="14" id="12" rel="dp">
+        <node begin="7" end="8" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="13" infl="sg" lcat="sv1" lemma="spreken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="spreek" sc="intransitive" sense="spreek" stype="ynquestion" tense="past" word="sprak" wvorm="pv"/>
+        <node begin="8" cat="np" end="14" id="14" rel="su">
+          <node begin="8" end="9" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="15" lcat="np" lemma="Lili" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Lili" sense="Lili" word="Lili"/>
+          <node begin="10" cat="rel" end="14" id="16" rel="mod">
+            <node begin="10" case="no_obl" end="11" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="17" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="10" cat="ssub" end="14" id="18" rel="body">
+              <node begin="10" end="11" id="19" index="1" rel="su"/>
+              <node begin="11" cat="ap" end="13" id="20" rel="predc">
+                <node begin="11" end="12" frame="adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="zeer" pos="adv" postag="BW()" pt="bw" rel="mod" root="zeer" sense="zeer" word="zeer"/>
+                <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="22" infl="no_e" lcat="ap" lemma="ongemakkelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="ongemakkelijk" sense="ongemakkelijk" vform="adj" word="ongemakkelijk"/>
+              </node>
+              <node begin="13" end="14" frame="verb(hebben,past(sg),nonp_copula)" his="normal" his_1="normal" id="23" infl="sg" lcat="ssub" lemma="liggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="lig" sc="nonp_copula" sense="lig" tense="past" word="lag" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="26-1">- Kom , nu maar beginnen ! sprak Lili , die zeer ongemakkelijk lag .</sentence>
+  <comments>
+    <comment>Q#26-1|- Kom , nu maar beginnen ! sprak Lili , die zeer ongemakkelijk lag .|1|1|1.1162236244400017</comment>
+  </comments>
+</alpino_ds>

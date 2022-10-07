@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:02" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="smain" end="12" id="1" rel="--">
+      <node begin="0" cat="pp" end="4" id="2" rel="mod">
+        <node begin="0" end="1" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="Met"/>
+        <node begin="1" cat="np" end="4" id="4" rel="obj1">
+          <node begin="1" buiging="zonder" end="2" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="5" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+          <node aform="base" begin="2" buiging="met-e" end="3" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="6" infl="e" lcat="ap" lemma="slank" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="slank" sense="slank" vform="adj" word="slanke"/>
+          <node begin="3" end="4" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="vinger" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="vinger" sense="vinger" word="vingers"/>
+        </node>
+      </node>
+      <node begin="4" end="5" frame="verb(zijn,sg3,ld_pp)" his="normal" his_1="normal" id="8" infl="sg3" lcat="smain" lemma="strijken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="strijk" sc="ld_pp" sense="strijk" stype="declarative" tense="present" word="strijkt" wvorm="pv"/>
+      <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="9" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      <node begin="6" cat="pp" end="12" id="10" rel="ld">
+        <node begin="6" end="7" frame="preposition(langs,[heen])" his="normal" his_1="normal" id="11" lcat="pp" lemma="langs" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="langs" sense="langs" vztype="init" word="langs"/>
+        <node begin="7" cat="np" end="12" id="12" rel="obj1">
+          <node begin="7" end="8" frame="determiner(den)" his="normal" his_1="variant" id="13" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="rand" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="rand" sense="rand" word="rand"/>
+          <node begin="9" cat="pp" end="12" id="15" rel="mod">
+            <node begin="9" end="10" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="16" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="10" cat="np" end="12" id="17" rel="obj1">
+              <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="18" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+              <node begin="11" end="12" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="19" lcat="np" lemma="bloese" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bloese" sense="bloese" word="bloese"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="65-15">Met haar slanke vingers strijkt ze langs den rand van haar bloese .</sentence>
+  <comments>
+    <comment>Q#65-15|Met haar slanke vingers strijkt ze langs den rand van haar bloese .|1|1|-6.509720499020004</comment>
+  </comments>
+</alpino_ds>

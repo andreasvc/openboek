@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="7" end="8" frame="punct(komma)" his="robust_skip" id="3" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="9" id="4" rel="--">
+      <node begin="1" cat="du" end="7" id="5" rel="dp">
+        <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="sat" root="nu" sense="nu" special="tmp" word="Nu"/>
+        <node begin="3" cat="sv1" end="7" id="7" rel="nucl">
+          <node begin="3" end="4" frame="verb(zijn,sg1,part_intransitive(uit))" his="normal" his_1="normal" id="8" infl="sg1" lcat="sv1" lemma="uit_gaan" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ga_uit" sc="part_intransitive(uit)" sense="ga_uit" stype="imparative" tense="present" word="ga" wvorm="pv"/>
+          <node begin="4" end="5" frame="tmp_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+          <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+          <node begin="6" end="7" frame="particle(uit)" his="normal" his_1="normal" id="11" lcat="part" lemma="uit" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="uit" sense="uit" vztype="fin" word="uit"/>
+        </node>
+      </node>
+      <node begin="8" end="9" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="12" lcat="np" lemma="Tanischka" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="dp" rnum="sg" root="Tanischka" sense="Tanischka" word="Tanischka"/>
+    </node>
+    <node begin="9" end="10" frame="punct(uitroep)" his="robust_skip" id="13" lcat="--" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="65-2">&quot; Nu , ga dan maar uit , Tanischka !</sentence>
+  <comments>
+    <comment>Q#65-2|&quot; Nu , ga dan maar uit , Tanischka !|1|2|0.8771193174300029</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="43" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(uitroep)" his="normal" his_1="normal" id="1" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="2" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="17" end="18" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="21" end="22" frame="punct(komma)" his="normal" his_1="normal" id="5" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="24" end="25" frame="punct(komma)" his="normal" his_1="normal" id="6" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="31" end="32" frame="punct(komma)" his="normal" his_1="normal" id="7" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="34" end="35" frame="punct(komma)" his="normal" his_1="normal" id="8" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="42" id="9" rel="--">
+      <node begin="0" cat="smain" end="3" id="10" rel="nucl">
+        <node begin="0" end="1" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="11" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="Daar"/>
+        <node begin="1" end="2" frame="verb(unacc,sg_heeft,intransitive)" his="normal" his_1="normal" id="12" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="intransitive" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+      </node>
+      <node begin="5" cat="conj" end="42" id="14" rel="tag">
+        <node begin="5" cat="sv1" end="8" id="15" rel="cnj">
+          <node begin="5" end="6" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="16" infl="sg" lcat="sv1" lemma="antwoorden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="antwoord" sc="sbar" sense="antwoord" tense="past" word="antwoordde" wvorm="pv"/>
+          <node begin="6" cat="np" end="8" id="17" rel="su">
+            <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="portier" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="portier" sense="portier" word="portier"/>
+          </node>
+        </node>
+        <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="20" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="9" cat="sv1" end="42" id="21" rel="cnj">
+          <node begin="9" end="10" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="22" infl="sg" lcat="sv1" lemma="wijzen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="wijs" sc="sbar" sense="wijs" tense="past" word="wees" wvorm="pv"/>
+          <node begin="10" cat="pp" end="17" id="23" rel="mod">
+            <node begin="10" end="11" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="24" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+            <node begin="11" cat="np" end="17" id="25" rel="obj1">
+              <node begin="11" end="12" frame="determiner(een)" his="normal" his_1="normal" id="26" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="27" infl="no_e" lcat="ap" lemma="sterk" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="sterk" sense="sterk" vform="adj" word="sterk"/>
+              <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(ge_no_e(both))" his="normal" his_1="normal" id="28" infl="no_e" lcat="ppart" lemma="gebouwd" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="mod" root="gebouwd" sense="gebouwd" vform="psp" word="gebouwd" wvorm="vd"/>
+              <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="29" infl="no_e" lcat="ap" lemma="breedgeschouderd" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="breedgeschouderd" sense="breedgeschouderd" vform="adj" word="breedgeschouderd"/>
+              <node begin="16" end="17" frame="noun(de,count,bare_meas)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="30" lcat="np" lemma="man" naamval="stan" ntype="soort" num="bare_meas" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="man" sense="man" word="man"/>
+            </node>
+          </node>
+          <node begin="18" cat="pp" end="20" id="31" rel="mod">
+            <node begin="18" end="19" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="32" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+            <node aform="base" begin="19" buiging="met-e" end="20" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="V-den" id="33" lcat="np" lemma="krullen" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="obj1" rnum="pl" root="krul" sense="krul" special="a_noun" word="krullenden"/>
+          </node>
+          <node begin="20" cat="np" end="42" id="34" rel="su">
+            <node begin="20" end="21" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="35" lcat="np" lemma="baard" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="baard" sense="baard" word="baard"/>
+            <node begin="22" cat="rel" end="42" id="36" rel="mod">
+              <node begin="22" case="no_obl" end="23" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="37" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+              <node begin="22" cat="ssub" end="42" id="38" rel="body">
+                <node begin="22" end="23" id="39" index="1" rel="su"/>
+                <node aform="base" begin="23" buiging="zonder" end="24" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="40" infl="no_e" lcat="ap" lemma="juist" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="juist" sense="juist" vform="adj" word="juist"/>
+                <node begin="25" cat="cp" end="37" id="41" rel="mod">
+                  <node begin="25" end="26" frame="complementizer(inf)" his="normal" his_1="normal" id="42" lcat="cp" lemma="zonder" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="zonder" sc="inf" sense="zonder" vztype="init" word="zonder"/>
+                  <node begin="26" cat="ti" end="37" id="43" rel="body">
+                    <node begin="29" end="30" frame="complementizer(te)" his="normal" his_1="normal" id="44" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+                    <node begin="26" cat="inf" end="37" id="45" rel="body">
+                      <node begin="26" cat="np" end="28" id="46" rel="obj1">
+                        <node begin="26" buiging="zonder" end="27" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="47" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+                        <node begin="27" end="28" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="48" lcat="np" lemma="pel_muts" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="pel_muts" sense="pel_muts" word="pelsmuts"/>
+                      </node>
+                      <node begin="28" end="29" frame="particle(af)" his="normal" his_1="normal" id="49" lcat="part" lemma="af" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="af" sense="af" vztype="fin" word="af"/>
+                      <node begin="30" buiging="zonder" end="31" frame="verb(hebben,inf,part_transitive(af))" his="normal" his_1="normal" id="50" infl="inf" lcat="inf" lemma="af_nemen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="neem_af" sc="part_transitive(af)" sense="neem_af" word="nemen" wvorm="inf"/>
+                      <node begin="32" cat="pp" end="37" id="51" rel="mod">
+                        <node begin="32" end="33" frame="preposition(met,[],absolute)" his="normal" his_1="normal" id="52" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sc="absolute" sense="met" vztype="init" word="met"/>
+                        <node begin="33" cat="conj" end="36" id="53" rel="obj1">
+                          <node aform="base" begin="33" buiging="met-e" end="34" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="54" lcat="np" lemma="vlug" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="cnj" rnum="pl" root="vlug" sense="vlug" special="a_noun" word="vluggen"/>
+                          <node aform="base" begin="35" buiging="met-e" end="36" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="55" lcat="np" lemma="veerkrachtig" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="cnj" rnum="pl" root="veerkrachtig" sense="veerkrachtig" special="a_noun" word="veerkrachtigen"/>
+                        </node>
+                        <node begin="36" end="37" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="56" lcat="np" lemma="tred" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="tred" sense="tred" word="tred"/>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+                <node begin="37" cat="np" end="40" id="57" rel="ld">
+                  <node begin="37" end="38" frame="determiner(de)" his="normal" his_1="normal" id="58" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                  <node begin="38" cat="mwu" end="40" his="normal" his_1="english_compound" id="59" mwu_root="steenen_trap" mwu_sense="steenen_trap" rel="hd">
+                    <node begin="38" end="39" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" id="60" lcat="np" lemma="steenen" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="steenen" sense="steenen" word="steenen"/>
+                    <node begin="39" end="40" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" id="61" lcat="np" lemma="trap" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="trap" sense="trap" word="trap"/>
+                  </node>
+                </node>
+                <node begin="40" end="41" frame="particle(op)" his="normal" his_1="normal" id="62" lcat="part" lemma="op" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="op" sense="op" vztype="fin" word="op"/>
+                <node begin="41" end="42" frame="verb(zijn,past(sg),part_ld_transitive(op))" his="normal" his_1="normal" id="63" infl="sg" lcat="ssub" lemma="op_komen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kom_op" sc="part_ld_transitive(op)" sense="kom_op" tense="past" word="kwam" wvorm="pv"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="42" end="43" frame="punct(punt)" his="normal" his_1="normal" id="64" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="133-2">Daar is hij ! &quot; antwoordde de portier en wees naar een sterk gebouwd , breedgeschouderd man , met krullenden baard , die juist , zonder zijn pelsmuts af te nemen , met vluggen , veerkrachtigen tred de steenen trap op kwam .</sentence>
+  <comments>
+    <comment>Q#133-2|Daar is hij ! &quot; antwoordde de portier en wees naar een sterk gebouwd , breedgeschouderd man , met krullenden baard , die juist , zonder zijn pelsmuts af te nemen , met vluggen , veerkrachtigen tred de steenen trap op kwam .|1|1|7.5040661466100005</comment>
+  </comments>
+</alpino_ds>

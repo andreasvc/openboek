@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="20" id="0" rel="top">
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="19" id="2" rel="--">
+      <node begin="0" end="1" frame="sentence_adverb" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="Altijd"/>
+      <node begin="1" end="2" frame="verb(unacc,past(pl),so_nonp_copula)" his="normal" his_1="normal" id="4" infl="pl" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="word" sc="so_nonp_copula" sense="word" stype="declarative" tense="past" word="werden" wvorm="pv"/>
+      <node begin="2" cat="np" end="4" id="5" rel="su">
+        <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="ev" his="normal" his_1="variant" id="6" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijne"/>
+        <node begin="3" end="4" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="wissel" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="wissel" sense="wissel" word="wissels"/>
+      </node>
+      <node begin="4" cat="pp" end="6" id="8" rel="mod">
+        <node begin="4" end="5" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="9" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="5" end="6" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="zicht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="zicht" sense="zicht" word="zicht"/>
+      </node>
+      <node begin="6" cat="conj" end="9" id="11" rel="predc">
+        <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="12" infl="no_e" lcat="ppart" lemma="betaald" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="cnj" root="betaald" sense="betaald" vform="psp" word="betaald" wvorm="vd"/>
+        <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="14" infl="no_e" lcat="ppart" lemma="geboekt" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="cnj" root="geboekt" sense="geboekt" vform="psp" word="geboekt" wvorm="vd"/>
+      </node>
+      <node begin="9" cat="pp" end="12" id="15" rel="mod">
+        <node begin="9" end="10" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="16" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="10" cat="np" end="12" id="17" rel="obj1">
+          <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="18" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+          <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="hyphen" id="19" lcat="np" lemma="rekening_courant" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="rekening_courant" sense="rekening_courant" word="rekening-courant"/>
+        </node>
+      </node>
+      <node begin="13" cat="whrel" end="19" id="20" rel="obj2">
+        <node begin="13" end="14" frame="waar_adverb(op)" his="normal" his_1="normal" id="21" index="1" lcat="pp" lemma="waarop" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarop" sense="waarop" special="waar" word="waarop"/>
+        <node begin="13" cat="ssub" end="19" id="22" rel="body">
+          <node begin="13" end="14" id="23" index="1" rel="mod"/>
+          <node begin="14" case="nom" def="def" end="15" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="24" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="15" end="16" frame="sentence_adverb" his="normal" his_1="normal" id="25" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+          <node begin="16" cat="cp" end="18" id="26" rel="predc">
+            <node begin="16" end="17" frame="complementizer(als)" his="normal" his_1="normal" id="27" lcat="cp" lemma="als" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="als" sc="als" sense="als" vztype="init" word="als"/>
+            <node begin="17" end="18" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="crediteur" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="body" rnum="sg" root="crediteur" sense="crediteur" word="crediteur"/>
+          </node>
+          <node begin="18" end="19" frame="verb(hebben,past(sg),nonp_copula)" his="normal" his_1="normal" id="29" infl="sg" lcat="ssub" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="nonp_copula" sense="sta" tense="past" word="stond" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="19" end="20" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="8-14">Altijd werden zijne wissels op zicht betaald en geboekt op zijn rekening-courant , waarop hij altijd als crediteur stond .</sentence>
+  <comments>
+    <comment>Q#8-14|Altijd werden zijne wissels op zicht betaald en geboekt op zijn rekening-courant , waarop hij altijd als crediteur stond .|1|1|7.392434380510007</comment>
+  </comments>
+</alpino_ds>

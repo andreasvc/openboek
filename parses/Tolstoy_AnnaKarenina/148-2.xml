@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb('hebben/zijn',sg,modifier(aux(inf)))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="moeten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" stype="declarative" tense="present" word="moet" wvorm="pv"/>
+      <node begin="0" cat="inf" end="6" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="6" lcat="np" lemma="je" naamval="obl" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pr,pron,obl,red,2v,getal)" pt="vnw" rel="obj1" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pr" wh="nwh" word="je"/>
+        <node begin="3" cat="ap" end="5" id="7" rel="mod">
+          <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="zeer" pos="adv" postag="BW()" pt="bw" rel="mod" root="zeer" sense="zeer" word="zeer"/>
+          <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="ig" id="9" infl="no_e" lcat="ap" lemma="noodig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="noodig" sense="noodig" vform="adj" word="noodig"/>
+        </node>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="10" infl="inf" lcat="inf" lemma="spreken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="spreek" sc="transitive" sense="spreek" word="spreken" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="7" end="8" frame="punct(aanhaal_both)" his="skip" id="12" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="148-2">Ik moet je zeer noodig spreken . &quot;</sentence>
+  <comments>
+    <comment>Q#148-2|Ik moet je zeer noodig spreken . &quot;|1|1|-5.378791681590002</comment>
+  </comments>
+</alpino_ds>

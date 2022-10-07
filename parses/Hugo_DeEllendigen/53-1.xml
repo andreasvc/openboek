@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="4" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(aanhaal_links)" his="robust_skip" id="1" lcat="--" lemma=",," pos="punct" postag="LET()" pt="let" rel="--" root=",," sense=",," special="aanhaal_links" word=",,"/>
+    <node begin="4" end="5" frame="punct(aanhaal_links)" his="robust_skip" id="2" lcat="--" lemma=",," pos="punct" postag="LET()" pt="let" rel="--" root=",," sense=",," special="aanhaal_links" word=",,"/>
+    <node begin="8" end="9" frame="punct(aanhaal_links)" his="robust_skip" id="3" lcat="--" lemma=",," pos="punct" postag="LET()" pt="let" rel="--" root=",," sense=",," special="aanhaal_links" word=",,"/>
+    <node begin="9" end="10" frame="punct(aanhaal_links)" his="robust_skip" id="4" lcat="--" lemma=",," pos="punct" postag="LET()" pt="let" rel="--" root=",," sense=",," special="aanhaal_links" word=",,"/>
+    <node begin="13" end="14" frame="punct(aanhaal_links)" his="skip" id="5" lcat="--" lemma=",," pos="punct" postag="LET()" pt="let" rel="--" root=",," sense=",," special="aanhaal_links" word=",,"/>
+    <node begin="14" end="15" frame="punct(ligg_streep)" his="skip" id="6" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="0" cat="du" end="18" id="7" rel="--">
+      <node begin="0" cat="pp" end="3" id="8" rel="dp">
+        <node begin="0" end="1" frame="preposition(te,[],nodet)" his="normal" his_1="normal" id="9" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="te"/>
+        <node begin="1" cat="mwu" end="3" his="name" his_1="not_begin" id="10" mwu_root="Draguignan 250" mwu_sense="Draguignan 250" rel="obj1">
+          <node begin="1" end="2" frame="proper_name(both)" id="11" lcat="np" lemma="Draguignan" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Draguignan" sense="Draguignan" spectype="deeleigen" word="Draguignan"/>
+          <node begin="2" end="3" frame="proper_name(both)" id="12" lcat="np" lemma="250" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="250" sense="250" spectype="deeleigen" word="250"/>
+        </node>
+      </node>
+      <node begin="5" cat="np" end="8" id="13" rel="dp">
+        <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="14" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node begin="6" end="7" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="vondeling" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="vondeling" sense="vondeling" word="vondelingen"/>
+        <node begin="7" end="8" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="16" infl="pl_num" lcat="detp" lemma="500" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="app" root="500" sense="500" special="hoofd" word="500"/>
+      </node>
+      <node begin="10" cat="du" end="16" id="17" rel="dp">
+        <node begin="10" cat="np" end="13" id="18" rel="dp">
+          <node begin="10" end="11" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="11" end="12" frame="noun(both,mass,sg)" gen="both" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="20" lcat="np" lemma="wee_zen" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wee_zen" sense="wee_zen" word="weezen"/>
+          <node begin="12" end="13" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="21" infl="pl_num" lcat="detp" lemma="500" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="app" root="500" sense="500" special="hoofd" word="500"/>
+        </node>
+        <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="22" infl="no_e" lcat="ap" lemma="totaal" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="totaal" sense="totaal" vform="adj" word="Totaal"/>
+      </node>
+      <node begin="16" cat="np" end="18" id="23" rel="dp">
+        <node begin="16" end="17" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="24" infl="pl_num" lcat="detp" lemma="3000" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="3000" sense="3000" special="hoofd" word="3000"/>
+        <node begin="17" end="18" frame="meas_mod_noun(de,count,meas)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="frank" naamval="stan" ntype="soort" num="meas" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="pl" root="frank" sense="frank" special="meas_mod" word="fr."/>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="53-1">te Draguignan 250 ,, ,, de vondelingen 500 ,, ,, de weezen 500 ,, - Totaal 3000 fr.</sentence>
+  <comments>
+    <comment>Q#53-1|te Draguignan 250 ,, ,, de vondelingen 500 ,, ,, de weezen 500 ,, - Totaal 3000 fr.|1|4|4.59949530096</comment>
+  </comments>
+</alpino_ds>

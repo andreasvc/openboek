@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="12" id="3" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zei" his_1_1_2="zeide" his_1_2="normal" id="5" infl="sg" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="intransitive" sense="zeg" stype="declarative" tense="past" word="zeide" wvorm="pv"/>
+      <node begin="3" cat="cp" end="10" id="6" rel="mod">
+        <node begin="3" conjtype="onder" end="4" frame="complementizer(als)" his="normal" his_1="normal" id="7" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+        <node begin="4" cat="ssub" end="10" id="8" rel="body">
+          <node begin="4" cat="np" end="6" id="9" rel="su">
+            <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="5" end="6" frame="noun(both,both,both)" gen="both" getal="mv" graad="basis" his="noun" id="11" lcat="np" lemma="heeren" ntype="soort" num="both" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="heeren" sense="heeren" word="heeren"/>
+          </node>
+          <node begin="6" cat="pp" end="9" id="12" rel="ld">
+            <node begin="6" end="7" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="13" lcat="pp" lemma="uit" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="uit" sense="uit" vztype="init" word="uit"/>
+            <node begin="7" cat="np" end="9" id="14" rel="obj1">
+              <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="zitting" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zitting" sense="zitting" word="zitting"/>
+            </node>
+          </node>
+          <node begin="9" end="10" frame="verb(zijn,past(pl),ld_pp)" his="normal" his_1="normal" id="17" infl="pl" lcat="ssub" lemma="komen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="kom" sc="ld_pp" sense="kom" tense="past" word="kwamen" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="11" end="12" frame="tmp_adverb" his="normal" his_1="normal" id="18" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+    </node>
+    <node begin="12" end="13" frame="punct(hellip)" his="normal" his_1="normal" id="19" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+    <node begin="13" end="14" frame="punct(aanhaal_both)" his="skip" id="20" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="131-3">Ik zeide , als de heeren uit de zitting kwamen , dan ... &quot;</sentence>
+  <comments>
+    <comment>Q#131-3|Ik zeide , als de heeren uit de zitting kwamen , dan ... &quot;|1|1|-3.74186904927</comment>
+  </comments>
+</alpino_ds>

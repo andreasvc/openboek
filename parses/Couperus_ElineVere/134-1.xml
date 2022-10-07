@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="8" id="4" rel="--">
+      <node begin="1" cat="du" end="6" id="5" rel="nucl">
+        <node begin="1" end="2" frame="adv_tag" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="kom" pos="tag" postag="BW()" pt="bw" rel="tag" root="kom" sense="kom" word="Kom"/>
+        <node begin="2" cat="smain" end="6" id="7" rel="nucl">
+          <node begin="2" end="3" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="8" lcat="np" lemma="Henk" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Henk" sense="Henk" word="Henk"/>
+          <node begin="4" end="5" frame="verb(hebben,sg,part_intransitive(los))" his="normal" his_1="normal" id="9" infl="sg" lcat="smain" lemma="los_laten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="laat_los" sc="part_intransitive(los)" sense="laat_los" stype="declarative" tense="present" word="laat" wvorm="pv"/>
+          <node begin="5" buiging="zonder" end="6" frame="particle(los)" graad="basis" his="normal" his_1="normal" id="10" lcat="part" lemma="los" pos="part" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="svp" root="los" sense="los" word="los"/>
+        </node>
+      </node>
+      <node begin="7" end="8" frame="tag" his="normal" his_1="normal" id="11" lcat="advp" lemma="hoor" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="hoor" sense="hoor" word="hoor"/>
+    </node>
+    <node begin="8" end="9" frame="punct(uitroep)" his="normal" his_1="normal" id="12" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="134-1">- Kom Henk , laat los , hoor !</sentence>
+  <comments>
+    <comment>Q#134-1|- Kom Henk , laat los , hoor !|1|1|-0.24657125646999914</comment>
+  </comments>
+</alpino_ds>

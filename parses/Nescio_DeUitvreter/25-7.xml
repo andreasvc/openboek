@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:48" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="smain" end="12" id="1" rel="--">
+      <node begin="3" end="4" frame="verb(hebben,past(sg),so_passive)" his="normal" his_1="normal" id="2" infl="sg" lcat="smain" lemma="krijgen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="krijg" sc="so_passive" sense="krijg" stype="declarative" tense="past" word="kreeg" wvorm="pv"/>
+      <node begin="4" end="5" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="3" index="1" lcat="np" lemma="Japi" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="Japi" sense="Japi" word="Japi"/>
+      <node begin="0" cat="ppart" end="12" id="4" rel="vc">
+        <node begin="0" cat="mwu" end="3" his="normal" his_1="decap" his_1_1="normal" id="5" rel="mod">
+          <node begin="0" end="1" frame="sentence_adverb" id="6" lcat="advp" lemma="af" pos="adv" postag="VZ(fin)" pt="vz" rel="mwp" root="af" sense="af" special="sentence" vztype="fin" word="Af"/>
+          <node begin="1" conjtype="neven" end="2" frame="sentence_adverb" id="7" lcat="advp" lemma="en" pos="adv" postag="VG(neven)" pt="vg" rel="mwp" root="en" sense="en" special="sentence" word="en"/>
+          <node begin="2" end="3" frame="sentence_adverb" id="8" lcat="advp" lemma="toe" pos="adv" postag="VZ(fin)" pt="vz" rel="mwp" root="toe" sense="toe" special="sentence" vztype="fin" word="toe"/>
+        </node>
+        <node begin="4" end="5" id="9" index="1" rel="obj2"/>
+        <node begin="5" cat="np" end="8" id="10" rel="mod">
+          <node begin="5" end="6" frame="determiner(een)" his="normal" his_1="normal" id="11" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="12" infl="no_e" lcat="ap" lemma="klein" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="klein" sense="klein" vform="adj" word="klein"/>
+          <node begin="7" end="8" frame="mod_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="13" lcat="np" lemma="beetje" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="beetje" sense="beetje" special="mod" word="beetje"/>
+        </node>
+        <node begin="8" cat="np" end="11" id="14" rel="obj1">
+          <node begin="8" end="9" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="geld" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="geld" sense="geld" word="geld"/>
+          <node begin="9" cat="pp" end="11" id="16" rel="mod">
+            <node begin="9" end="10" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="17" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="10" end="11" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="huis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="huis" sense="huis" word="huis"/>
+          </node>
+        </node>
+        <node begin="11" buiging="zonder" end="12" frame="verb(hebben,psp,np_np)" his="normal" his_1="normal" id="19" infl="psp" lcat="ppart" lemma="sturen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="stuur" sc="np_np" sense="stuur" word="gestuurd" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="25-7">Af en toe kreeg Japi een klein beetje geld van huis gestuurd .</sentence>
+  <comments>
+    <comment>Q#25-7|Af en toe kreeg Japi een klein beetje geld van huis gestuurd .|1|1|-3.5675427770500012</comment>
+  </comments>
+</alpino_ds>

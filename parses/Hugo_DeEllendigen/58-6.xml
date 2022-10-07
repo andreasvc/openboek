@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="6" id="2" rel="--">
+      <node begin="1" end="2" frame="proper_name(both,'ORG')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="3" lcat="np" lemma="Bienvenu" naamval="stan" neclass="ORG" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bienvenu" sense="Bienvenu" word="Bienvenu"/>
+      <node begin="2" end="3" frame="verb(hebben,sg3,part_transitive(goed))" his="normal" his_1="normal" id="4" infl="sg3" lcat="smain" lemma="goed_maken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="maak_goed" sc="part_transitive(goed)" sense="maak_goed" stype="declarative" tense="present" word="maakt" wvorm="pv"/>
+      <node begin="3" end="4" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="5" lcat="np" lemma="Monseigneur" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="Monseigneur" sense="Monseigneur" word="Monseigneur"/>
+      <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="weder" pos="adv" postag="BW()" pt="bw" rel="mod" root="weder" sense="weder" word="weder"/>
+      <node begin="5" buiging="zonder" end="6" frame="particle(goed)" graad="basis" his="normal" his_1="normal" id="7" lcat="part" lemma="goed" pos="part" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="svp" root="goed" sense="goed" word="goed"/>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="8" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="7" end="8" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="9" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="58-6">&quot; Bienvenu maakt Monseigneur weder goed . &quot;</sentence>
+  <comments>
+    <comment>Q#58-6|&quot; Bienvenu maakt Monseigneur weder goed . &quot;|1|1|-0.17008615752999834</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:57" cats="2" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="17" id="3" rel="--">
+      <node begin="0" cat="du" end="8" id="4" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+        <node begin="1" cat="smain" end="8" id="6" rel="nucl">
+          <node begin="1" end="2" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="7" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+          <node begin="2" end="3" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="copula" sense="word" stype="declarative" tense="past" word="werd" wvorm="pv"/>
+          <node begin="3" cat="np" end="8" id="9" rel="predc">
+            <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="10" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="somber" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="somber" sense="somber" vform="adj" word="somber"/>
+            <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="gedicht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="gedicht" sense="gedicht" word="gedicht"/>
+            <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(tmpadv))" graad="basis" his="compound" his_1="2" id="13" infl="no_e" lcat="ap" lemma="zoo_lang" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="zoo_lang" sense="zoo_lang" vform="adj" word="zoolang"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" cat="conj" end="17" id="14" rel="dp">
+        <node begin="8" cat="smain" end="10" id="15" rel="cnj">
+          <node begin="8" end="9" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="16" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+          <node begin="9" end="10" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="17" infl="sg" lcat="smain" lemma="duren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="duur" sc="intransitive" sense="duur" stype="declarative" tense="past" word="duurde" wvorm="pv"/>
+        </node>
+        <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="12" cat="smain" end="17" id="19" rel="cnj">
+          <node begin="12" end="13" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="20" lcat="np" lemma="Amsterdam" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="Amsterdam" sense="Amsterdam" word="Amsterdam"/>
+          <node begin="13" end="14" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="21" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+          <node begin="14" cat="conj" end="17" id="22" rel="predc">
+            <node aform="base" begin="14" buiging="zonder" end="15" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="23" infl="no_e" lcat="ap" lemma="donker" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="cnj" root="donker" sense="donker" vform="adj" word="donker"/>
+            <node begin="15" conjtype="neven" end="16" frame="conj(en)" his="normal" his_1="normal" id="24" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node aform="base" begin="16" buiging="zonder" end="17" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="25" infl="no_e" lcat="ap" lemma="ledig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="cnj" root="ledig" sense="ledig" vform="adj" word="ledig"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="robust_skip" id="26" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="59-5">Maar &apos;t werd een somber gedicht , zoolang &apos;t duurde , en Amsterdam was donker en ledig .</sentence>
+  <comments>
+    <comment>Q#59-5|Maar &apos;t werd een somber gedicht , zoolang &apos;t duurde , en Amsterdam was donker en ledig .|1|2|-0.8613599125000005</comment>
+  </comments>
+</alpino_ds>

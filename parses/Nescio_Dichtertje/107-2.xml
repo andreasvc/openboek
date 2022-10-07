@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:41" cats="2" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="13" id="4" rel="--">
+      <node begin="1" cat="du" end="9" id="5" rel="dp">
+        <node begin="1" cat="du" end="4" id="6" rel="dp">
+          <node begin="1" end="2" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="advp" lemma="hè" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="hè" sense="hè" word="Hè"/>
+          <node begin="3" end="4" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="8" lcat="np" lemma="mensche" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="nucl" rnum="sg" root="mensche" sense="mensche" word="mensche"/>
+        </node>
+        <node begin="5" cat="smain" end="9" id="9" rel="dp">
+          <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="abbreviation" his_1_1="normal" id="10" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="red" vwtype="pers" wh="nwh" word="&apos;k"/>
+          <node begin="6" end="7" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="denken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="denk" sc="transitive" sense="denk" stype="declarative" tense="past" word="dacht" wvorm="pv"/>
+          <node begin="7" cat="np" end="9" id="12" rel="obj1">
+            <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="13" infl="no_e" lcat="ap" lemma="waarachtig" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="waarachtig" sense="waarachtig" vform="adj" word="waarachtig"/>
+            <node begin="8" end="9" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="14" lcat="np" lemma="dattik" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="dattik" sense="dattik" word="dattik"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" cat="smain" end="13" id="15" rel="dp">
+        <node begin="9" cat="np" end="11" id="16" rel="su">
+          <node begin="9" end="10" frame="determiner(de)" his="normal" his_1="normal" id="17" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="tram" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tram" sense="tram" word="tram"/>
+        </node>
+        <node begin="11" end="12" frame="verb(hebben,past(sg),aci_no_obj)" his="normal" his_1="normal" id="19" infl="sg" lcat="smain" lemma="horen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="hoor" sc="aci_no_obj" sense="hoor" stype="declarative" tense="past" word="hoorde" wvorm="pv"/>
+        <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="20" infl="inf" lcat="inf" lemma="bellen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="vc" root="bel" sc="intransitive" sense="bel" word="bellen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="robust_skip" id="21" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="robust_skip" id="22" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="107-2">&quot; Hè , mensche , &apos;k dacht waarachtig dattik de tram hoorde bellen . &quot;</sentence>
+  <comments>
+    <comment>Q#107-2|&quot; Hè , mensche , &apos;k dacht waarachtig dattik de tram hoorde bellen . &quot;|1|2|6.089916823940002</comment>
+  </comments>
+</alpino_ds>

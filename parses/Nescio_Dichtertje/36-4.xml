@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:11" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="13" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="dp">
+        <node begin="0" case="both" def="def" end="1" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="Ze"/>
+        <node begin="1" end="2" frame="verb(hebben,past(pl),transitive)" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="kennen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ken" sc="transitive" sense="ken" stype="declarative" tense="past" word="kenden" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="6" rel="obj1">
+          <node begin="2" end="3" frame="determiner(pron)" getal="mv" his="normal" his_1="normal" id="7" infl="pron" lcat="detp" lemma="elkaar" naamval="gen" pdtype="pron" persoon="persoon" pos="det" postag="VNW(recip,pron,gen,vol,persoon,mv)" pron="true" pt="vnw" rel="det" root="elkaar" sense="elkaar" status="vol" vwtype="recip" word="elkaars"/>
+          <node begin="3" end="4" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="naam" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="naam" sense="naam" word="namen"/>
+        </node>
+      </node>
+      <node begin="5" cat="smain" end="13" id="9" rel="dp">
+        <node begin="5" end="6" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="10" lcat="np" lemma="Amsterdam" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="Amsterdam" sense="Amsterdam" word="Amsterdam"/>
+        <node begin="6" end="7" frame="verb(unacc,sg_heeft,copula)" his="normal" his_1="normal" id="11" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+        <node begin="7" cat="mwu(ten slotte,ten slotte)" end="9" his="normal" his_1="normal" id="12" rel="mod">
+          <node begin="7" end="8" frame="sentence_adverb" id="13" lcat="advp" lemma="te" pos="adv" postag="VZ(versm)" pt="vz" rel="mwp" root="ten" sense="ten" special="sentence" vztype="versm" word="ten"/>
+          <node begin="8" end="9" frame="sentence_adverb" getal="ev" graad="basis" id="14" lcat="advp" lemma="slot" naamval="dat" ntype="soort" pos="adv" postag="N(soort,ev,basis,dat)" pt="n" rel="mwp" root="slotte" sense="slotte" special="sentence" word="slotte"/>
+        </node>
+        <node begin="9" end="10" frame="sentence_adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+        <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+        <node begin="11" cat="np" end="13" id="17" rel="predc">
+          <node begin="11" end="12" frame="determiner(een)" his="normal" his_1="normal" id="18" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="12" end="13" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="dorp" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="dorp" sense="dorp" word="dorp"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="36-4">Ze kenden elkaars namen , Amsterdam is ten slotte ook maar een dorp .</sentence>
+  <comments>
+    <comment>Q#36-4|Ze kenden elkaars namen , Amsterdam is ten slotte ook maar een dorp .|1|1|-6.336945945859999</comment>
+  </comments>
+</alpino_ds>

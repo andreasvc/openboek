@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:15" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(dubb_punt)" his="normal" his_1="normal" id="1" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="skip" id="2" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="0" cat="du" end="15" id="3" rel="--">
+      <node begin="0" cat="whq" end="9" id="4" rel="nucl">
+        <node begin="0" end="1" frame="waar_adverb(om)" his="normal" his_1="decap" his_1_1="normal" id="5" index="1" lcat="pp" lemma="waarom" pos="pp" postag="BW()" pt="bw" rel="whd" root="waarom" sense="waarom" special="waar" word="Waarom"/>
+        <node begin="0" cat="sv1" end="9" id="6" rel="body">
+          <node begin="1" end="2" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="7" infl="sg" lcat="sv1" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" word="had" wvorm="pv"/>
+          <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="8" index="3" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node begin="0" cat="conj" end="9" id="9" rel="vc">
+            <node begin="0" cat="ppart" end="7" id="10" rel="cnj">
+              <node begin="0" end="1" id="11" index="1" rel="mod"/>
+              <node begin="2" end="3" id="12" index="3" rel="su"/>
+              <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+              <node begin="4" cat="np" end="6" id="14" rel="obj1">
+                <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="15" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+                <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="hand" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="hand" sense="hand" word="hand"/>
+              </node>
+              <node begin="6" buiging="zonder" end="7" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="17" infl="psp" lcat="ppart" lemma="pakken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="pak" sc="transitive" sense="pak" word="gepakt" wvorm="vd"/>
+            </node>
+            <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="0" cat="ppart" end="9" id="19" rel="cnj">
+              <node begin="0" end="1" id="20" index="1" rel="mod"/>
+              <node begin="2" end="3" id="21" index="3" rel="su"/>
+              <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,intransitive)" his="normal" his_1="normal" id="22" infl="psp" lcat="ppart" lemma="zeggen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zeg" sc="intransitive" sense="zeg" word="gezegd" wvorm="vd"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="11" cat="smain" end="15" id="23" rel="sat">
+        <node begin="11" case="nom" def="def" end="12" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="24" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="12" end="13" frame="verb(hebben,sg1,pc_pp(van))" his="normal" his_1="normal" id="25" infl="sg1" lcat="smain" lemma="houden" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="houd" sc="pc_pp(van)" sense="houd-van" stype="declarative" tense="present" word="houd" wvorm="pv"/>
+        <node begin="13" cat="pp" end="15" id="26" rel="pc">
+          <node begin="13" end="14" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="27" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="14" case="dat_acc" def="def" end="15" frame="pronoun(nwh,je,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="28" lcat="np" lemma="jou" naamval="obl" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,obl,vol,2v,ev)" pt="vnw" rel="obj1" rnum="sg" root="jou" sense="jou" status="vol" vwtype="pers" wh="nwh" word="jou"/>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(aanhaal_both)" his="skip" id="29" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="167-1">Waarom had ze niet z&apos;n hand gepakt en gezegd : &quot; Ik houd van jou &quot; .</sentence>
+  <comments>
+    <comment>Q#167-1|Waarom had ze niet z&apos;n hand gepakt en gezegd : &quot; Ik houd van jou &quot; .|1|1|-24.42804352041999</comment>
+  </comments>
+</alpino_ds>

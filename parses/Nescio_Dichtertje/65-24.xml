@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:02" cats="2" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="4" id="1" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="2" infl="no_e" lcat="ap" lemma="zoet" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="zoet" sense="zoet" vform="adj" word="Zoet"/>
+      <node begin="1" cat="du" end="4" id="3" rel="dp">
+        <node begin="1" cat="sv1" end="3" id="4" rel="nucl">
+          <node begin="1" end="2" frame="verb(unacc,pl,aux(inf))" his="normal" his_1="normal" id="5" infl="pl" lcat="sv1" lemma="blijven" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" stype="topic_drop" tense="present" word="blijven" wvorm="pv"/>
+          <node begin="2" buiging="zonder" end="3" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="6" infl="inf" lcat="inf" lemma="zitten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="vc" root="zit" sc="intransitive" sense="zit" word="zitten" wvorm="inf"/>
+        </node>
+        <node begin="3" end="4" frame="tag" his="normal" his_1="normal" id="7" lcat="advp" lemma="hoor" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="hoor" sense="hoor" word="hoor"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(uitroep)" his="robust_skip" id="8" lcat="--" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="robust_skip" id="9" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="65-24">Zoet blijven zitten hoor ! &quot;</sentence>
+  <comments>
+    <comment>Q#65-24|Zoet blijven zitten hoor ! &quot;|1|2|3.839611989279998</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:14" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="9" id="2" rel="--">
+      <node begin="0" cat="du" end="6" id="3" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="of" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="of" sc="root" sense="of" word="Of"/>
+        <node begin="1" cat="ap" end="6" id="5" rel="nucl">
+          <node begin="1" end="2" frame="sentence_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="misschien" pos="adv" postag="BW()" pt="bw" rel="mod" root="misschien" sense="misschien" special="sentence" word="misschien"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(locadv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="diep" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="diep" sense="diep" vform="adj" word="diep"/>
+          <node begin="3" cat="pp" end="6" id="8" rel="mod">
+            <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="9" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="4" cat="mwu(zoo'n plas,zoo'n plas)" end="6" his="normal" his_1="english_compound" id="10" rel="obj1">
+              <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" id="11" lcat="np" lemma="zoo&apos;n" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="zoo&apos;n" sense="zoo&apos;n" word="zoo&apos;n"/>
+              <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" id="12" lcat="np" lemma="plas" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="plas" sense="plas" word="plas"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="7" cat="du" end="9" id="13" rel="dp">
+        <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="aal" id="14" infl="no_e" lcat="ap" lemma="heelemaal" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="heelemaal" sense="heelemaal" vform="adj" word="heelemaal"/>
+        <node begin="8" end="9" frame="loc_adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="onderaan" pos="adv" postag="BW()" pt="bw" rel="dp" root="onderaan" sense="onderaan" special="loc" word="onderaan"/>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="16" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="164-6">Of misschien diep in zoo&apos;n plas , heelemaal onderaan .</sentence>
+  <comments>
+    <comment>Q#164-6|Of misschien diep in zoo&apos;n plas , heelemaal onderaan .|1|1|5.7620765574</comment>
+  </comments>
+</alpino_ds>

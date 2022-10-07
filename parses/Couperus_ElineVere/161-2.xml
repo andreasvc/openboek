@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="13" id="3" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="no_e" lcat="ap" lemma="wrevelig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="wrevelig" sense="wrevelig" vform="adj" word="Wrevelig"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),np_ld_dir)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="duwen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="duw" sc="np_ld_dir" sense="duw" stype="declarative" tense="past" word="duwde" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+      <node begin="3" cat="np" end="11" id="7" rel="obj1">
+        <node begin="3" end="4" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="8" lcat="np" lemma="Ben" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Ben" sense="Ben" word="Ben"/>
+        <node begin="5" cat="rel" end="11" id="9" rel="mod">
+          <node begin="5" case="no_obl" end="6" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="10" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+          <node begin="5" cat="ssub" end="11" id="11" rel="body">
+            <node begin="5" end="6" id="12" index="1" rel="su"/>
+            <node begin="6" case="dat_acc" def="def" end="7" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="fem" getal="getal" his="normal" his_1="normal" id="13" lcat="np" lemma="haar" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,getal,fem)" pt="vnw" rel="obj2" rnum="sg" root="haar" sense="haar" status="vol" vwtype="pers" wh="nwh" word="haar"/>
+            <node begin="7" cat="pp" end="10" id="14" rel="ld">
+              <node begin="7" end="8" frame="preposition(in,[])" his="normal" his_1="normal" id="15" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+              <node begin="8" cat="np" end="10" id="16" rel="obj1">
+                <node begin="8" end="9" frame="determiner(den)" his="normal" his_1="variant" id="17" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+                <node begin="9" end="10" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="weg" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="weg" sense="weg" special="tmp" word="weg"/>
+              </node>
+            </node>
+            <node begin="10" end="11" frame="verb(hebben,past(sg),so_np_ld_pp)" his="normal" his_1="normal" id="19" infl="sg" lcat="ssub" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="so_np_ld_pp" sense="sta" tense="past" word="stond" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+      <node begin="12" end="13" frame="dir_adverb" his="normal" his_1="normal" id="20" lcat="advp" lemma="opzij" pos="adv" postag="BW()" pt="bw" rel="ld" root="opzij" sense="opzij" special="dir" word="opzij"/>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="161-2">Wrevelig duwde zij Ben , die haar in den weg stond , opzij .</sentence>
+  <comments>
+    <comment>Q#161-2|Wrevelig duwde zij Ben , die haar in den weg stond , opzij .|1|1|-0.8532269607099976</comment>
+  </comments>
+</alpino_ds>

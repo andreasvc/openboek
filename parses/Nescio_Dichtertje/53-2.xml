@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="5" id="3" rel="nucl">
+        <node begin="1" case="both" def="indef" end="2" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="niemand" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="su" rnum="sg" root="niemand" sense="niemand" special="strpro" status="vol" vwtype="onbep" wh="nwh" word="niemand"/>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),pc_pp(van))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="weten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="weet" sc="pc_pp(van)" sense="weet-van" stype="declarative" tense="past" word="wist" wvorm="pv"/>
+        <node begin="3" cat="pp" end="5" id="6" rel="pc">
+          <node begin="3" end="4" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="7" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+          <node begin="4" end="5" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="van" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="van" sense="van" vztype="fin" word="van"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="53-2">En niemand wist er van .</sentence>
+  <comments>
+    <comment>Q#53-2|En niemand wist er van .|1|1|-4.361049659140002</comment>
+  </comments>
+</alpino_ds>

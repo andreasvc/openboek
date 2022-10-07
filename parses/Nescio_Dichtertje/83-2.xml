@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:19" cats="5" skips="2" />
+  <node begin="0" cat="top" end="20" id="0" rel="top">
+    <node begin="8" end="9" frame="verb(hebben,past(sg),nonp_pred_np_ndev)" his="robust_skip" id="1" infl="sg" lcat="--" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="heb" sc="nonp_pred_np_ndev" sense="heb" tense="past" word="had" wvorm="pv"/>
+    <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="robust_skip" id="2" lcat="--" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="--" root="en" sense="en" word="en"/>
+    <node begin="0" cat="du" end="19" id="3" rel="--">
+      <node begin="0" cat="smain" end="3" id="4" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="Zij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="denken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="denk" sc="tr_sbar" sense="denk" stype="declarative" tense="past" word="dacht" wvorm="pv"/>
+        <node begin="2" end="3" frame="wh_adjective" his="normal" his_1="normal" id="7" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="vc" root="hoe" sense="hoe" stype="whquestion" wh="ywh" word="hoe"/>
+      </node>
+      <node begin="3" case="both" def="indef" end="4" frame="pronoun(nwh,thi,sg,both,both,indef,strpro)" gen="both" his="normal" his_1="normal" id="8" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="dp" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+      <node begin="4" cat="du" end="6" id="9" rel="dp">
+        <node begin="4" end="5" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="lief" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="dp" rnum="pl" root="lief" sense="lief" word="lieven"/>
+        <node begin="5" end="6" frame="noun(de,count,bare_meas)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="man" naamval="stan" ntype="soort" num="bare_meas" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="man" sense="man" word="man"/>
+      </node>
+      <node begin="6" cat="np" end="8" id="12" rel="dp">
+        <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="13" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+        <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="zuster" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zuster" sense="zuster" word="zuster"/>
+      </node>
+      <node begin="10" cat="cp" end="19" id="15" rel="dp">
+        <node begin="10" conjtype="onder" end="11" frame="complementizer(dat)" his="normal" his_1="normal" id="16" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="11" cat="ssub" end="19" id="17" rel="body">
+          <node begin="11" end="12" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="18" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="sup" rnum="sg" root="het" sense="het" special="het" status="red" vwtype="pers" word="&apos;t"/>
+          <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv),subject_vp)" graad="basis" his="normal" his_1="normal" id="19" infl="no_e" lcat="ap" lemma="goed" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="goed" sc="subject_vp" sense="goed" vform="adj" word="goed"/>
+          <node begin="13" end="14" frame="verb(unacc,past(sg),copula_vp)" his="normal" his_1="normal" id="20" infl="sg" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula_vp" sense="ben" tense="past" word="was" wvorm="pv"/>
+          <node begin="14" cat="ti" end="19" id="21" rel="su">
+            <node begin="17" end="18" frame="complementizer(te)" his="normal" his_1="normal" id="22" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="14" cat="inf" end="19" id="23" rel="body">
+              <node begin="14" cat="pp" end="17" id="24" rel="pc">
+                <node begin="14" end="15" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="25" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                <node begin="15" cat="np" end="17" id="26" rel="obj1">
+                  <node begin="15" buiging="zonder" end="16" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="27" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+                  <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="zwager" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zwager" sense="zwager" word="zwager"/>
+                </node>
+              </node>
+              <node begin="18" buiging="zonder" end="19" frame="verb(hebben,inf,pc_pp(van))" his="normal" his_1="normal" id="29" infl="inf" lcat="inf" lemma="houden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="houd" sc="pc_pp(van)" sense="houd-van" word="houden" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="19" end="20" frame="punct(punt)" his="robust_skip" id="30" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="83-2">Zij dacht hoe een lieven man haar zuster had en dat &apos;t goed was van haar zwager te houden .</sentence>
+  <comments>
+    <comment>Q#83-2|Zij dacht hoe een lieven man haar zuster had en dat &apos;t goed was van haar zwager te houden .|1|7|0.6178181114400015</comment>
+  </comments>
+</alpino_ds>

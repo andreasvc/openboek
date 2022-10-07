@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="13" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="smain" end="13" id="4" rel="nucl">
+        <node begin="1" end="2" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="sup" rnum="sg" root="het" sense="het" special="het" status="red" vwtype="pers" word="het"/>
+        <node begin="2" end="3" frame="verb(hebben,sg3,fixed([sbar_subj,[vanzelf]],no_passive))" his="normal" his_1="normal" id="6" infl="sg3" lcat="smain" lemma="spreken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="spreek" sc="fixed([sbar_subj,[vanzelf]],no_passive)" sense="vanzelf-spreek" stype="declarative" tense="present" word="spreekt" wvorm="pv"/>
+        <node begin="3" cat="mwu" end="5" his="normal" his_1="variant" his_1_1="variant21" his_1_1_1="vanzelf" his_1_1_2="van" his_1_1_3="zelf" his_1_2="normal" id="7" mwu_root="vanzelf" mwu_sense="vanzelf" rel="svp">
+          <node begin="3" end="4" frame="fixed_part([vanzelf])" id="8" lcat="fixed" lemma="van" pos="fixed" postag="BW()" pt="bw" rel="mwp" root="van" sense="van" word="van"/>
+          <node begin="4" end="5" frame="fixed_part([vanzelf])" id="9" lcat="fixed" lemma="zelf" pos="fixed" postag="NA()" pt="na" rel="mwp" root="zelf" sense="zelf" word="zelf"/>
+        </node>
+        <node begin="6" cat="cp" end="13" id="10" rel="su">
+          <node begin="6" conjtype="onder" end="7" frame="complementizer(dat)" his="normal" his_1="normal" id="11" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="7" cat="ssub" end="13" id="12" rel="body">
+            <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+            <node begin="8" end="9" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="14" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+            <node begin="9" cat="pp" end="12" id="15" rel="mod">
+              <node begin="9" end="10" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="16" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+              <node begin="10" cat="np" end="12" id="17" rel="obj1">
+                <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="getal" his="normal" his_1="normal" id="18" infl="pron" lcat="detp" lemma="u" naamval="stan" npagr="agr" pdtype="det" persoon="2" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="u" sense="u" status="vol" vwtype="bez" word="uw"/>
+                <node begin="11" end="12" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="kosten" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="kosten" sense="kosten" word="kosten"/>
+              </node>
+            </node>
+            <node begin="12" end="13" frame="verb(hebben,sg1,transitive_ndev)" his="normal" his_1="normal" id="20" infl="sg1" lcat="ssub" lemma="doen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="doe" sc="transitive_ndev" sense="doe" tense="present" word="doe" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="skip" id="22" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="92-2">Maar het spreekt van zelf , dat ik het op uw kosten doe . &quot;</sentence>
+  <comments>
+    <comment>Q#92-2|Maar het spreekt van zelf , dat ik het op uw kosten doe . &quot;|1|1|-5.878296953009999</comment>
+  </comments>
+</alpino_ds>

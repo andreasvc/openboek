@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="2" index="1" lcat="np" lemma="Betsy" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Betsy" sense="Betsy" word="Betsy"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="6" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" buiging="zonder" end="3" frame="verb(zijn,psp,pc_pp(van))" his="normal" his_1="normal" id="6" infl="psp" lcat="ppart" lemma="bevallen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="beval" sc="pc_pp(van)" sense="beval-van" word="bevallen" wvorm="vd"/>
+        <node begin="3" cat="pp" end="6" id="7" rel="pc">
+          <node begin="3" end="4" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="4" cat="np" end="6" id="9" rel="obj1">
+            <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="10" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="zoon" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zoon" sense="zoon" word="zoon"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="150-2">Betsy was bevallen van een zoon .</sentence>
+  <comments>
+    <comment>Q#150-2|Betsy was bevallen van een zoon .|1|1|-5.754685263330002</comment>
+  </comments>
+</alpino_ds>

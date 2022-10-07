@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:29" cats="2" skips="2" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(vraag)" his="robust_skip" id="1" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="8" conjtype="neven" end="9" frame="complementizer(of)" his="robust_skip" id="2" lcat="--" lemma="of" pos="comp" postag="VG(neven)" pt="vg" rel="--" root="of" sc="of" sense="of" word="of"/>
+    <node begin="0" cat="du" end="11" id="3" rel="--">
+      <node begin="0" cat="du" end="7" id="4" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" cat="whrel" end="7" id="6" rel="nucl">
+          <node begin="1" case="both" def="indef" end="2" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="7" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="rhd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="wat"/>
+          <node begin="1" cat="ssub" end="7" id="8" rel="body">
+            <node begin="1" end="2" id="9" index="1" rel="obj1"/>
+            <node begin="2" end="3" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="10" lcat="np" lemma="Japi" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="Japi" sense="Japi" word="Japi"/>
+            <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+            <node begin="4" cat="mwu" end="6" his="normal" his_1="normal" id="12" rel="svp">
+              <node begin="4" end="5" frame="fixed_part([van,plan])" id="13" lcat="fixed" lemma="van" pos="fixed" postag="VZ(init)" pt="vz" rel="mwp" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="5" end="6" frame="fixed_part([van,plan])" genus="onz" getal="ev" graad="basis" id="14" lcat="fixed" lemma="plan" naamval="stan" ntype="soort" pos="fixed" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" root="plan" sense="plan" word="plan"/>
+            </node>
+            <node begin="6" end="7" frame="verb(unacc,past(sg),fixed([[van,plan],acc],no_passive))" his="normal" his_1="normal" id="15" infl="sg" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="fixed([[van,plan],acc],no_passive)" sense="van-plan-ben" tense="past" word="was" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" cat="du" end="11" id="16" rel="dp">
+        <node begin="9" case="nom" def="def" end="10" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="17" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="dp" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="18" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="dp" root="nog" sense="nog" word="nog"/>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="verb(hebben,past(sg),ninv(transitive,part_transitive(uit)))" his="robust_skip" id="19" infl="sg" lcat="--" lemma="uit_vreten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="vreet_uit" sc="part_transitive(uit)" sense="vreet_uit" tense="past" word="uitvrat" wvorm="pv"/>
+    <node begin="12" end="13" frame="punct(vraag)" his="robust_skip" id="20" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="71-1">En wat Japi nu van plan was ? of hij nog uitvrat ?</sentence>
+  <comments>
+    <comment>Q#71-1|En wat Japi nu van plan was ? of hij nog uitvrat ?|1|4|-9.31915939265</comment>
+  </comments>
+</alpino_ds>

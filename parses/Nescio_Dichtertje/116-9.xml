@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:44" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="8" id="2" rel="--">
+      <node begin="0" cat="smain" end="3" id="3" rel="dp">
+        <node begin="0" cat="np" end="2" id="4" rel="su">
+          <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="Haar"/>
+          <node begin="1" end="2" frame="noun(both,both,both)" gen="both" getal="mv" graad="basis" his="noun" id="6" lcat="np" lemma="oogen" ntype="soort" num="both" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="oogen" sense="oogen" word="oogen"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(pl),intransitive)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="schitteren" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="schitter" sc="intransitive" sense="schitter" stype="declarative" tense="past" word="schitterden" wvorm="pv"/>
+      </node>
+      <node begin="4" cat="smain" end="8" id="8" rel="dp">
+        <node begin="5" end="6" frame="verb(unacc,past(pl),ld_pp)" his="normal" his_1="normal" id="9" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="ld_pp" sense="ben" stype="declarative" tense="past" word="waren" wvorm="pv"/>
+        <node begin="6" end="7" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="traan" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="su" rnum="pl" root="traan" sense="traan" word="tranen"/>
+        <node begin="4" cat="pp" end="8" id="11" rel="ld">
+          <node begin="4" end="5" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="12" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+          <node begin="7" end="8" frame="preposition(in,[])" his="normal" his_1="normal" id="13" lcat="pp" lemma="in" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="in" sense="in" vztype="fin" word="in"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="116-9">Haar oogen schitterden , er waren tranen in .</sentence>
+  <comments>
+    <comment>Q#116-9|Haar oogen schitterden , er waren tranen in .|1|1|-0.29486116346000113</comment>
+  </comments>
+</alpino_ds>

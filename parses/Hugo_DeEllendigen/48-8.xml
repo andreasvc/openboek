@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="11" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(hebben,modal_not_u,modifier(aux(inf)))" his="normal" his_1="normal" id="4" infl="modal_not_u" lcat="smain" lemma="willen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" stype="declarative" tense="present" word="wil" wvorm="pv"/>
+      <node begin="0" cat="inf" end="11" id="5" rel="vc">
+        <node begin="0" end="1" id="6" index="1" rel="su"/>
+        <node begin="2" end="3" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="weelde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="weelde" sense="weelde" word="weelde"/>
+        <node begin="3" cat="mwu" end="5" his="normal" his_1="normal" id="8" mwu_root="ten toon" mwu_sense="ten toon" rel="svp">
+          <node begin="3" end="4" frame="fixed_part([ten,toon])" id="9" lcat="fixed" lemma="ten" pos="fixed" postag="VZ(versm)" pt="vz" rel="mwp" root="ten" sense="ten" vztype="versm" word="ten"/>
+          <node begin="4" end="5" frame="fixed_part([ten,toon])" genus="zijd" getal="ev" graad="basis" id="10" lcat="fixed" lemma="toon" naamval="stan" ntype="soort" pos="fixed" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" root="toon" sense="toon" word="toon"/>
+        </node>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,fixed([[ten,toon],acc],norm_passive))" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="spreiden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="spreid" sc="fixed([[ten,toon],acc],norm_passive)" sense="ten-toon-spreid" word="spreiden" wvorm="inf"/>
+        <node begin="7" cat="cp" end="11" id="12" rel="mod">
+          <node begin="7" conjtype="onder" end="8" frame="complementizer(zoals)" his="normal" his_1="normal" id="13" lcat="cp" lemma="gelijk" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="gelijk" sc="zoals" sense="gelijk" word="gelijk"/>
+          <node begin="8" cat="np" end="11" id="14" rel="body">
+            <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node aform="base" begin="9" buiging="met-e" end="10" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="16" infl="e" lcat="ap" lemma="vorig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="vorig" sense="vorig" vform="adj" word="vorige"/>
+            <node begin="10" end="11" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="bisschop" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="bisschop" sense="bisschop" word="bisschoppen"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="48-8">Hij wil weelde ten toon spreiden , gelijk de vorige bisschoppen .</sentence>
+  <comments>
+    <comment>Q#48-8|Hij wil weelde ten toon spreiden , gelijk de vorige bisschoppen .|1|1|-8.568893233670002</comment>
+  </comments>
+</alpino_ds>

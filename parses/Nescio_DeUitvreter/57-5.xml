@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:18" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="cp" end="4" id="1" rel="--">
+      <node begin="0" conjtype="onder" end="1" frame="complementizer(of)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="cp" lemma="of" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="of" sc="of" sense="of" word="Of"/>
+      <node begin="1" cat="ssub" end="4" id="3" rel="body">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,thi,both,de,dat_acc,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="5" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="zich" sense="zich" special="wkpro" status="red" vwtype="refl" wh="nwh" word="zich"/>
+        <node begin="3" end="4" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="6" infl="sg" lcat="ssub" lemma="amuseren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="amuseer" sc="transitive" sense="amuseer" tense="past" word="amuseerde" wvorm="pv"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="7" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="57-5">Of hij zich amuseerde ?</sentence>
+  <comments>
+    <comment>Q#57-5|Of hij zich amuseerde ?|1|1|-2.0330974954999994</comment>
+  </comments>
+</alpino_ds>

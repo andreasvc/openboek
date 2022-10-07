@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="conj" end="5" id="1" rel="--">
+      <node begin="0" cat="ppart" end="2" id="2" rel="cnj">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="no_e" lcat="ap" lemma="vaak" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vaak" sense="vaak" vform="adj" word="Vaak"/>
+        <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="4" infl="no_e" lcat="ppart" lemma="geroemd" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="geroemd" sense="geroemd" vform="psp" word="geroemd" wvorm="vd"/>
+      </node>
+      <node begin="2" conjtype="neven" end="3" frame="conj(en)" his="normal" his_1="normal" id="5" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="3" cat="ppart" end="5" id="6" rel="cnj">
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="hoog" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="hoog" sense="hoog" vform="adj" word="hoog"/>
+        <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="8" infl="both" lcat="ppart" lemma="geprezen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="geprezen" sense="geprezen" vform="psp" word="geprezen" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="9" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="206-1">Vaak geroemd en hoog geprezen ,</sentence>
+  <comments>
+    <comment>Q#206-1|Vaak geroemd en hoog geprezen ,|1|1|0.9136903995199976</comment>
+  </comments>
+</alpino_ds>

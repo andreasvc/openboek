@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:05" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="15" id="4" rel="--">
+      <node begin="0" cat="np" end="2" id="5" rel="su">
+        <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+        <node begin="1" end="2" frame="proper_name(sg)" genus="onz" getal="ev" graad="basis" his="replace_per" his_1="name" his_1_1="begin" id="7" lcat="np" lemma="Dichtertje" naamval="stan" neclass="MISC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Dichtertje" sense="Dichtertje" word="Dichtertje"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="3" cat="ppart" end="15" id="9" rel="predc">
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="fatsoenlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="fatsoenlijk" sense="fatsoenlijk" vform="adj" word="fatsoenlijk"/>
+        <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(ge_no_e(adv),pp(met))" his="normal" his_1="normal" id="11" infl="no_e" lcat="ppart" lemma="trouwen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="trouwen" sc="pp(met)" sense="trouwen-met" vform="psp" word="getrouwd" wvorm="vd"/>
+        <node begin="5" cat="pp" end="15" id="12" rel="pc">
+          <node begin="5" end="6" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="13" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+          <node begin="6" cat="np" end="15" id="14" rel="obj1">
+            <node begin="6" end="7" frame="determiner(een)" his="normal" his_1="normal" id="15" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="lief" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="lief" sense="lief" vform="adj" word="lief"/>
+            <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="17" infl="no_e" lcat="ap" lemma="jong" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="jong" sense="jong" vform="adj" word="jong"/>
+            <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="18" infl="no_e" lcat="ap" lemma="levendig" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="levendig" sense="levendig" vform="adj" word="levendig"/>
+            <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(no_e(sentadv))" graad="basis" his="normal" his_1="normal" id="19" infl="no_e" lcat="ap" lemma="natuurlijk" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="natuurlijk" sense="natuurlijk" vform="adj" word="natuurlijk"/>
+            <node begin="14" end="15" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="20" lcat="np" lemma="vrouw" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="vrouw_DIM" sense="vrouw_DIM" word="vrouwtje"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="24-5">&apos;t Dichtertje was fatsoenlijk getrouwd met een lief , jong , levendig , natuurlijk vrouwtje .</sentence>
+  <comments>
+    <comment>Q#24-5|&apos;t Dichtertje was fatsoenlijk getrouwd met een lief , jong , levendig , natuurlijk vrouwtje .|1|1|-5.492087594480002</comment>
+  </comments>
+</alpino_ds>

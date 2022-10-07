@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="whq" end="11" id="1" rel="--">
+      <node begin="0" case="both" def="indef" end="1" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="Wat"/>
+      <node begin="0" cat="sv1" end="11" id="3" rel="body">
+        <node begin="0" end="1" id="4" index="1" rel="su"/>
+        <node begin="1" end="2" frame="verb(zijn,past(sg),pc_pp(om))" his="normal" his_1="normal" id="5" infl="sg" lcat="sv1" lemma="gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga" sc="pc_pp(om)" sense="ga-om" stype="whquestion" tense="past" word="ging" wvorm="pv"/>
+        <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="toen" pos="adv" postag="BW()" pt="bw" rel="mod" root="toen" sense="toen" special="tmp" word="toen"/>
+        <node begin="2" cat="pp" end="5" id="7" rel="pc">
+          <node begin="2" end="3" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="8" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+          <node begin="4" end="5" frame="preposition(om,[heen])" his="normal" his_1="normal" id="9" lcat="pp" lemma="om" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="om" sense="om" vztype="fin" word="om"/>
+        </node>
+        <node begin="5" cat="pp" end="11" id="10" rel="mod">
+          <node begin="5" end="6" frame="preposition(in,[])" his="normal" his_1="normal" id="11" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="6" cat="np" end="11" id="12" rel="obj1">
+            <node begin="6" end="7" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="13" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="7" end="8" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="binnenste" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="binnenste" sense="binnenste" word="binnenste"/>
+            <node begin="8" cat="pp" end="11" id="15" rel="mod">
+              <node begin="8" end="9" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="16" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="9" cat="mwu" end="11" his="name" his_1="not_begin" id="17" mwu_root="Charles Myriel" mwu_sense="Charles Myriel" rel="obj1">
+                <node begin="9" end="10" frame="proper_name(sg,'PER')" id="18" lcat="np" lemma="Charles" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Charles" sense="Charles" spectype="deeleigen" word="Charles"/>
+                <node begin="10" end="11" frame="proper_name(sg,'PER')" id="19" lcat="np" lemma="Myriel" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Myriel" sense="Myriel" spectype="deeleigen" word="Myriel"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(vraag)" his="normal" his_1="normal" id="20" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="6-11">Wat ging er toen om in het binnenste van Charles Myriel ?</sentence>
+  <comments>
+    <comment>Q#6-11|Wat ging er toen om in het binnenste van Charles Myriel ?|1|1|-3.398965977550001</comment>
+  </comments>
+</alpino_ds>

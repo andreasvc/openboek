@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:11" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="du" end="12" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="12" id="3" rel="nucl">
+        <node begin="1" end="2" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="4" lcat="np" lemma="Dora" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="dp" rnum="sg" root="Dora" sense="Dora" word="Dora"/>
+        <node begin="2" cat="ap" end="12" id="5" rel="dp">
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="vlug" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="vlug" sense="vlug" vform="adj" word="vlug"/>
+          <node begin="3" cat="pp" end="12" id="7" rel="mod">
+            <node begin="3" end="4" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="8" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+            <node begin="4" cat="np" end="12" id="9" rel="obj1">
+              <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="keuken" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="keuken" sense="keuken" word="keuken"/>
+              <node begin="6" cat="oti" end="12" id="12" rel="mod">
+                <node begin="6" end="7" frame="complementizer(om)" his="normal" his_1="normal" id="13" lcat="oti" lemma="om" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="om" sc="om" sense="om" vztype="init" word="om"/>
+                <node begin="7" cat="ti" end="12" id="14" rel="body">
+                  <node begin="10" end="11" frame="complementizer(te)" his="normal" his_1="normal" id="15" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+                  <node begin="7" cat="inf" end="12" id="16" rel="body">
+                    <node begin="7" cat="np" end="9" id="17" rel="obj1">
+                      <node begin="7" end="8" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="18" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+                      <node begin="8" end="9" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="stel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="stel" sense="stel" word="stel"/>
+                    </node>
+                    <node begin="9" end="10" frame="particle(uit)" his="normal" his_1="normal" id="20" lcat="part" lemma="uit" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="uit" sense="uit" vztype="fin" word="uit"/>
+                    <node begin="11" buiging="zonder" end="12" frame="verb('hebben/zijn',inf,part_transitive(uit))" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="uit_draaien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="draai_uit" sc="part_transitive(uit)" sense="draai_uit" word="draaien" wvorm="inf"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="76-4">En Dora vlug naar de keuken om &apos;t stel uit te draaien .</sentence>
+  <comments>
+    <comment>Q#76-4|En Dora vlug naar de keuken om &apos;t stel uit te draaien .|1|1|0.6073171792200015</comment>
+  </comments>
+</alpino_ds>

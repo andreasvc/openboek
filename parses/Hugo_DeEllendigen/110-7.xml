@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="16" id="3" rel="--">
+      <node begin="0" cat="pp" end="3" id="4" rel="mod">
+        <node begin="0" end="1" frame="preposition(in,[])" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="In"/>
+        <node begin="1" cat="np" end="3" id="6" rel="obj1">
+          <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="8" lcat="np" lemma="bid_kamer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bid_kamer" sense="bid_kamer" word="bidkamer"/>
+        </node>
+      </node>
+      <node begin="3" end="4" frame="verb(unacc,past(sg),intransitive)" his="normal" his_1="normal" id="9" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="intransitive" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+      <node begin="4" cat="np" end="11" id="10" rel="su">
+        <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="11" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="12" infl="both" lcat="ppart" lemma="afgesloten" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="mod" root="afgesloten" sense="afgesloten" vform="psp" word="afgesloten" wvorm="vd"/>
+        <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="13" lcat="np" lemma="alkoof" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="alkoof" sense="alkoof" word="alkoof"/>
+        <node begin="8" cat="rel" end="11" id="14" rel="mod">
+          <node begin="8" end="9" frame="waar_adverb(in)" his="normal" his_1="normal" id="15" lcat="pp" lemma="waarin" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarin" sense="waarin" special="waar" word="waarin"/>
+          <node begin="9" cat="np" end="11" id="16" rel="body">
+            <node begin="9" end="10" frame="determiner(een)" his="normal" his_1="normal" id="17" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="10" end="11" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="bed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="bed" sense="bed" word="bed"/>
+          </node>
+        </node>
+      </node>
+      <node begin="12" cat="pp" end="16" id="19" rel="mod">
+        <node begin="12" cat="mwu" end="15" his="normal" his_1="normal" id="20" mwu_root="ten dienste van" mwu_sense="ten dienste van" rel="hd">
+          <node begin="12" end="13" frame="preposition([ten,dienste,van],[])" id="21" lcat="pp" lemma="ten" pos="prep" postag="VZ(init)" pt="vz" rel="mwp" root="ten" sense="ten" vztype="init" word="ten"/>
+          <node begin="13" end="14" frame="preposition([ten,dienste,van],[])" id="22" lcat="pp" lemma="dienste" pos="prep" postag="VZ(init)" pt="vz" rel="mwp" root="dienste" sense="dienste" vztype="init" word="dienste"/>
+          <node begin="14" end="15" frame="preposition([ten,dienste,van],[])" id="23" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="mwp" root="van" sense="van" vztype="init" word="van"/>
+        </node>
+        <node begin="15" end="16" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="compound" his_1="2" id="24" lcat="np" lemma="logeren_gast" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="logeer_gast" sense="logeer_gast" word="logeergasten"/>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="110-7">In de bidkamer was een afgesloten alkoof , waarin een bed , ten dienste van logeergasten .</sentence>
+  <comments>
+    <comment>Q#110-7|In de bidkamer was een afgesloten alkoof , waarin een bed , ten dienste van logeergasten .|1|1|-1.3360933751700008</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:44" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="3" id="2" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="Haar"/>
+        <node begin="1" cat="mwu(groote oogen,groote oogen)" end="3" his="name" his_1="not_begin" id="4" rel="hd">
+          <node begin="1" end="2" frame="proper_name(both,'PER')" id="5" lcat="np" lemma="groote" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="pl" root="groote" sense="groote" spectype="deeleigen" word="groote"/>
+          <node begin="2" end="3" frame="proper_name(both,'PER')" id="6" lcat="np" lemma="oogen" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="pl" root="oogen" sense="oogen" spectype="deeleigen" word="oogen"/>
+        </node>
+      </node>
+      <node begin="3" end="4" frame="verb(zijn,past(pl),part_intransitive(open))" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="open_gaan" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ga_open" sc="part_intransitive(open)" sense="ga_open" stype="declarative" tense="past" word="gingen" wvorm="pv"/>
+      <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="wijd" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="wijd" sense="wijd" vform="adj" word="wijd"/>
+      <node begin="5" buiging="zonder" end="6" frame="particle(open)" graad="basis" his="normal" his_1="normal" id="9" lcat="part" lemma="open" pos="part" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="svp" root="open" sense="open" word="open"/>
+      <node begin="6" cat="pp" end="9" id="10" rel="mod">
+        <node begin="6" end="7" frame="preposition(in,[])" his="normal" his_1="normal" id="11" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="7" cat="np" end="9" id="12" rel="obj1">
+          <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="13" infl="e" lcat="ap" lemma="stil" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="stil" sense="stil" vform="adj" word="stille"/>
+          <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="ontzetting" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="ontzetting" sense="ontzetting" word="ontzetting"/>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="116-5">Haar groote oogen gingen wijd open in stille ontzetting .</sentence>
+  <comments>
+    <comment>Q#116-5|Haar groote oogen gingen wijd open in stille ontzetting .|1|1|-0.7756989505599984</comment>
+  </comments>
+</alpino_ds>

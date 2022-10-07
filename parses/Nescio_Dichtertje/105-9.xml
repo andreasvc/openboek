@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="Zij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="ld_pp" sense="kan" stype="declarative" tense="past" word="kon" wvorm="pv"/>
+      <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+      <node begin="3" cat="pp" end="6" id="5" rel="mod">
+        <node begin="3" end="4" frame="preposition(om,[heen])" his="normal" his_1="normal" id="6" lcat="pp" lemma="om" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="om" sense="om" vztype="init" word="om"/>
+        <node begin="4" cat="mwu(negen uur,negen uur)" end="6" his="normal" his_1="temporal_expression" id="7" rel="obj1">
+          <node begin="4" end="5" frame="tmp_np" id="8" lcat="np" lemma="negen" numtype="hoofd" pos="noun" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="mwp" root="negen" sense="negen" special="tmp" word="negen"/>
+          <node begin="5" end="6" frame="tmp_np" genus="onz" getal="ev" graad="basis" id="9" lcat="np" lemma="uur" naamval="stan" ntype="soort" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" root="uur" sense="uur" special="tmp" word="uur"/>
+        </node>
+      </node>
+      <node begin="6" cat="pp" end="8" id="10" rel="ld">
+        <node begin="6" end="7" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="11" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+        <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="bed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="bed" sense="bed" word="bed"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="105-9">Zij kon niet om negen uur naar bed .</sentence>
+  <comments>
+    <comment>Q#105-9|Zij kon niet om negen uur naar bed .|1|1|-7.967884037940002</comment>
+  </comments>
+</alpino_ds>

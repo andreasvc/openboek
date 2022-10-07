@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="smain" end="4" id="2" rel="--">
+      <node begin="1" cat="np" end="3" id="3" rel="su">
+        <node begin="1" end="2" frame="name_determiner(pron,'PER')" getal="ev" graad="basis" his="name_gen" his_1="begin" id="4" infl="pron" lcat="detp" lemma="Zooals" naamval="gen" neclass="PER" ntype="eigen" pos="det" postag="N(eigen,ev,basis,gen)" pt="n" rel="det" root="Zooals" sense="Zooals" special="name" word="Zooals"/>
+        <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="u" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="u" sense="u" word="u"/>
+      </node>
+      <node begin="3" end="4" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="6" infl="sg3" lcat="smain" lemma="bevelen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="beveel" sc="intransitive" sense="beveel" stype="declarative" tense="present" word="beveelt" wvorm="pv"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="7" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="8" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="108-1">&quot; Zooals u beveelt . &quot;</sentence>
+  <comments>
+    <comment>Q#108-1|&quot; Zooals u beveelt . &quot;|1|1|2.5199433334399988</comment>
+  </comments>
+</alpino_ds>

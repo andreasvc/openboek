@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" cat="np" end="4" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="Zijn"/>
+        <node begin="1" end="2" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="reis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="reis" sense="reis" special="tmp" word="reis"/>
+        <node begin="2" cat="pp" end="4" id="5" rel="mod">
+          <node begin="2" end="3" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="6" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+          <node begin="3" end="4" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="7" lcat="np" lemma="Friesland" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Friesland" sense="Friesland" word="Friesland"/>
+        </node>
+      </node>
+      <node begin="4" end="5" frame="verb(unacc,sg_heeft,aux_psp_zijn)" his="normal" his_1="normal" id="8" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="8" id="9" rel="vc">
+        <node begin="0" end="4" id="10" index="1" rel="su"/>
+        <node begin="5" end="6" frame="sentence_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+        <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_no_e(adv))" his="compound" his_1="2" id="12" infl="no_e" lcat="ppart" lemma="on_op_helderen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="predc" root="on_op_helderen" sense="on_op_helderen" vform="psp" word="onopgehelderd" wvorm="vd"/>
+        <node begin="7" buiging="zonder" end="8" frame="verb(unacc,psp,copula)" his="normal" his_1="normal" id="13" infl="psp" lcat="ppart" lemma="blijven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="blijf" sc="copula" sense="blijf" word="gebleven" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="82-1">Zijn reis naar Friesland is altijd onopgehelderd gebleven .</sentence>
+  <comments>
+    <comment>Q#82-1|Zijn reis naar Friesland is altijd onopgehelderd gebleven .|1|1|-9.540569344200005</comment>
+  </comments>
+</alpino_ds>

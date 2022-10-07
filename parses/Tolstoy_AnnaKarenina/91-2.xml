@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="du" end="4" id="1" rel="--">
+      <node begin="0" cat="du" end="2" id="2" rel="dp">
+        <node begin="0" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="3" infl="de" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(aanw,pron,stan,vol,3,getal)" pt="vnw" rel="dp" rnum="sg" root="die" sense="die" status="vol" vwtype="aanw" wh="nwh" word="Die"/>
+        <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="toch" pos="adv" postag="BW()" pt="bw" rel="dp" root="toch" sense="toch" word="toch"/>
+      </node>
+      <node begin="2" cat="sv1" end="4" id="5" rel="dp">
+        <node begin="2" end="3" frame="verb(unacc,pl,copula)" his="normal" his_1="normal" id="6" infl="pl" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="topic_drop" tense="present" word="zijn" wvorm="pv"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="onschuldig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="onschuldig" sense="onschuldig" vform="adj" word="onschuldig"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(hellip)" his="robust_skip" id="8" lcat="--" lemma="...." pos="punct" postag="LET()" pt="let" rel="--" root="...." sense="...." special="hellip" word="...."/>
+  </node>
+  <sentence sentid="91-2">Die toch zijn onschuldig ....</sentence>
+  <comments>
+    <comment>Q#91-2|Die toch zijn onschuldig ....|1|2|2.42543547313</comment>
+  </comments>
+</alpino_ds>

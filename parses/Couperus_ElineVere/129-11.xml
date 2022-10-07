@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="4" skips="2" />
+  <node begin="0" cat="top" end="30" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="5" end="6" frame="particle(op)" his="robust_skip" id="3" lcat="--" lemma="op" pos="part" postag="VZ(init)" pt="vz" rel="--" root="op" sense="op" vztype="init" word="op"/>
+    <node begin="6" end="7" frame="determiner(den)" his="robust_skip" id="4" infl="den" lcat="--" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="--" root="de" sense="de" word="den"/>
+    <node begin="8" end="9" frame="punct(komma)" his="robust_skip" id="5" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="14" end="15" frame="punct(komma)" his="robust_skip" id="6" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="20" end="21" frame="punct(komma)" his="normal" his_1="normal" id="7" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="29" id="8" rel="--">
+      <node begin="0" cat="conj" end="4" id="9" rel="dp">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="10" infl="no_e" lcat="ap" lemma="langzaam" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="cnj" root="langzaam" sense="langzaam" vform="adj" word="Langzaam"/>
+        <node begin="2" cat="ap" end="4" id="11" rel="cnj">
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="12" infl="no_e" lcat="ap" lemma="langzaam" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="langzaam" sense="langzaam" vform="adj" word="langzaam"/>
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(pred(nonadv))" graad="basis" his="normal" his_1="normal" id="13" infl="pred" lcat="ap" lemma="aan" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="aan" sense="aan" vform="adj" word="aan"/>
+        </node>
+      </node>
+      <node aform="base" begin="7" buiging="met-e" end="8" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="14" lcat="np" lemma="vol" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="dp" rnum="pl" root="vol" sense="vol" special="a_noun" word="vollen"/>
+      <node begin="9" cat="du" end="14" id="15" rel="dp">
+        <node aform="base" begin="9" buiging="met-e" end="10" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="16" lcat="np" lemma="zacht" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="dp" rnum="pl" root="zacht" sense="zacht" special="a_noun" word="zachten"/>
+        <node begin="10" cat="np" end="14" id="17" rel="dp">
+          <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="toon" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="toon" sense="toon" word="toon"/>
+          <node begin="11" cat="np" end="14" id="19" rel="mod">
+            <node begin="11" end="12" frame="determiner(der)" his="normal" his_1="normal" id="20" infl="der" lcat="detp" lemma="zijn" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="zijn" sense="zijn" word="zijner"/>
+            <node aform="base" begin="12" buiging="met-e" end="13" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="21" infl="e" lcat="ap" lemma="zwaar" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="zwaar" sense="zwaar" vform="adj" word="zware"/>
+            <node begin="13" end="14" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="stem" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="stem" sense="stem" word="stem"/>
+          </node>
+        </node>
+      </node>
+      <node begin="15" cat="sv1" end="29" id="23" rel="dp">
+        <node begin="15" end="16" frame="verb(hebben,past(sg),aci)" his="normal" his_1="normal" id="24" infl="sg" lcat="sv1" lemma="laten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="laat" sc="aci" sense="laat" stype="ynquestion" tense="past" word="liet" wvorm="pv"/>
+        <node begin="16" case="nom" def="def" end="17" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="25" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+        <node begin="17" cat="mwu" end="19" his="normal" his_1="english_compound" id="26" index="1" mwu_root="hare_melancholie" mwu_sense="hare_melancholie" rel="obj1">
+          <node begin="17" end="18" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" id="27" lcat="np" lemma="hare" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="hare" sense="hare" word="hare"/>
+          <node begin="18" end="19" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" id="28" lcat="np" lemma="melancholie" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="melancholie" sense="melancholie" word="melancholie"/>
+        </node>
+        <node begin="17" cat="inf" end="20" id="29" rel="vc">
+          <node begin="17" end="19" id="30" index="1" rel="su"/>
+          <node begin="19" buiging="zonder" end="20" frame="verb(hebben,inf,intransitive)" his="compound" his_1="2" id="31" infl="inf" lcat="inf" lemma="weg_wiegelen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="wiegel_weg" sc="intransitive" sense="wiegel_weg" word="wegwiegelen" wvorm="inf"/>
+        </node>
+        <node begin="21" cat="cp" end="29" id="32" rel="mod">
+          <node begin="21" end="22" frame="complementizer(als)" his="normal" his_1="normal" id="33" lcat="cp" lemma="als" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="als" sc="als" sense="als" vztype="init" word="als"/>
+          <node begin="22" cat="np" end="29" id="34" rel="body">
+            <node begin="22" cat="mwu" end="24" his="name" his_1="not_begin" id="35" mwu_root="eene wemeling" mwu_sense="eene wemeling" rel="hd">
+              <node begin="22" end="23" frame="proper_name(both)" id="36" lcat="np" lemma="eene" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="eene" sense="eene" spectype="deeleigen" word="eene"/>
+              <node begin="23" end="24" frame="proper_name(both)" id="37" lcat="np" lemma="wemeling" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="wemeling" sense="wemeling" spectype="deeleigen" word="wemeling"/>
+            </node>
+            <node begin="24" cat="pp" end="29" id="38" rel="mod">
+              <node begin="24" end="25" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="39" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="25" cat="np" end="29" id="40" rel="obj1">
+                <node begin="25" buiging="zonder" end="26" frame="v_noun(intransitive)" getal-n="zonder-n" his="compound" his_1="2" id="41" lcat="np" lemma="roos_bladeren" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="roos_blader" sc="intransitive" sense="roos_blader" special="v_noun" word="rozenbladeren" wvorm="inf"/>
+                <node begin="26" cat="pp" end="29" id="42" rel="mod">
+                  <node begin="26" end="27" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="43" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+                  <node begin="27" cat="np" end="29" id="44" rel="obj1">
+                    <node begin="27" end="28" frame="determiner(een)" his="normal" his_1="normal" id="45" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                    <node begin="28" end="29" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="46" lcat="np" lemma="vliet" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vliet" sense="vliet" word="vliet"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="29" end="30" frame="punct(punt)" his="robust_skip" id="47" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="129-11">Langzaam , langzaam aan , op den vollen , zachten toon zijner zware stem , liet zij hare melancholie wegwiegelen , als eene wemeling van rozenbladeren op een vliet .</sentence>
+  <comments>
+    <comment>Q#129-11|Langzaam , langzaam aan , op den vollen , zachten toon zijner zware stem , liet zij hare melancholie wegwiegelen , als eene wemeling van rozenbladeren op een vliet .|1|6|16.51153034823001</comment>
+  </comments>
+</alpino_ds>

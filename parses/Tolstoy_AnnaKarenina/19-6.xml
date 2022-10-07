@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" cat="du" end="17" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="smain" end="17" id="3" rel="nucl">
+        <node aform="base" begin="1" end="2" frame="adjective(pred(adv))" his="normal" his_1="normal" id="4" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="gevoelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="gevoel" sc="transitive" sense="gevoel" stype="declarative" tense="past" word="gevoelde" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="al" pos="adv" postag="BW()" pt="bw" rel="mod" root="al" sense="al" word="al"/>
+        <node begin="5" cat="np" end="17" id="8" rel="obj1">
+          <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="9" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node aform="base" begin="6" buiging="met-e" end="7" frame="adjective(e)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="np" lemma="netelig" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="sg" root="netelig" sense="netelig" vform="adj" word="netelige"/>
+          <node begin="7" cat="pp" end="17" id="11" rel="mod">
+            <node begin="7" end="8" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="12" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="8" cat="conj" end="17" id="13" rel="obj1">
+              <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+              <node begin="8" cat="np" end="17" id="15" rel="cnj">
+                <node begin="8" buiging="zonder" end="9" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="16" index="1" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+                <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="toestand" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="toestand" sense="toestand" word="toestand"/>
+                <node begin="12" cat="pp" end="17" id="18" index="2" rel="mod">
+                  <node begin="12" end="13" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="19" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+                  <node begin="13" cat="conj" end="17" id="20" rel="obj1">
+                    <node begin="13" cat="np" end="15" id="21" rel="cnj">
+                      <node begin="13" buiging="zonder" end="14" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="22" index="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+                      <node begin="14" end="15" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="vrouw" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vrouw" sense="vrouw" word="vrouw"/>
+                    </node>
+                    <node begin="15" conjtype="neven" end="16" frame="conj(en)" his="normal" his_1="normal" id="24" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+                    <node begin="13" cat="np" end="17" id="25" rel="cnj">
+                      <node begin="13" end="14" id="26" index="3" rel="det"/>
+                      <node begin="16" end="17" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="kind" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="kind" sense="kind" word="kinderen"/>
+                    </node>
+                  </node>
+                </node>
+              </node>
+              <node begin="8" cat="np" end="17" id="28" rel="cnj">
+                <node begin="8" end="9" id="29" index="1" rel="det"/>
+                <node begin="11" end="12" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="30" lcat="np" lemma="medelijden" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="medelijden" sense="medelijden" word="medelijden"/>
+                <node begin="12" end="17" id="31" index="2" rel="mod"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="normal" his_1="normal" id="32" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="19-6">Maar wel gevoelde hij al het netelige van zijn toestand en medelijden met zijn vrouw en kinderen .</sentence>
+  <comments>
+    <comment>Q#19-6|Maar wel gevoelde hij al het netelige van zijn toestand en medelijden met zijn vrouw en kinderen .|1|1|1.4512662439300192</comment>
+  </comments>
+</alpino_ds>

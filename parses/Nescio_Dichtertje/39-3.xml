@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="4" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="Haar"/>
+        <node begin="1" end="2" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="4" infl="pl_num" lcat="detp" lemma="twee" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="twee" sense="twee" special="hoofd" word="twee"/>
+        <node aform="base" begin="2" buiging="met-e" end="3" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="5" infl="e" lcat="ap" lemma="klein" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="klein" sense="klein" vform="adj" word="kleine"/>
+        <node begin="3" end="4" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="6" lcat="np" lemma="zus" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="zus_DIM" sense="zus_DIM" word="zusjes"/>
+      </node>
+      <node begin="4" end="5" frame="verb(unacc,past(pl),passive)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="passive" sense="ben" stype="declarative" tense="past" word="waren" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="9" id="8" rel="vc">
+        <node begin="0" end="4" id="9" index="1" rel="obj1"/>
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="vroeg" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vroeg" sense="vroeg" vform="adj" word="vroeg"/>
+        <node begin="6" cat="pp" end="8" id="11" rel="ld">
+          <node begin="6" end="7" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="12" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+          <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="bed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="bed" sense="bed" word="bed"/>
+        </node>
+        <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,np_ld_pp)" his="normal" his_1="normal" id="14" infl="psp" lcat="ppart" lemma="sturen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="stuur" sc="np_ld_pp" sense="stuur" word="gestuurd" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="39-3">Haar twee kleine zusjes waren vroeg naar bed gestuurd .</sentence>
+  <comments>
+    <comment>Q#39-3|Haar twee kleine zusjes waren vroeg naar bed gestuurd .|1|1|-10.502858648299998</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="15" id="3" rel="--">
+      <node begin="0" cat="smain" end="9" id="4" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="gevoelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="gevoel" sc="sbar" sense="gevoel" stype="declarative" tense="past" word="gevoelde" wvorm="pv"/>
+        <node begin="3" cat="cp" end="9" id="7" rel="vc">
+          <node begin="3" conjtype="onder" end="4" frame="complementizer(dat)" his="normal" his_1="normal" id="8" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="4" cat="ssub" end="9" id="9" rel="body">
+            <node begin="4" cat="np" end="6" id="10" index="1" rel="su">
+              <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="11" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+              <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="ziel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="ziel" sense="ziel" word="ziel"/>
+            </node>
+            <node begin="7" end="8" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="13" infl="sg" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" word="had" wvorm="pv"/>
+            <node begin="4" cat="ppart" end="9" id="14" rel="vc">
+              <node begin="4" end="6" id="15" index="1" rel="su"/>
+              <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="verzoening" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="verzoening" sense="verzoening" word="verzoening"/>
+              <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,transitive_ndev_ndev)" his="normal" his_1="normal" id="17" infl="psp" lcat="ppart" lemma="vinden" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="vind" sc="transitive_ndev_ndev" sense="vind" word="gevonden" wvorm="vd"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="11" cat="smain" end="15" id="19" rel="cnj">
+        <node begin="11" case="nom" def="def" end="12" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="20" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="12" end="13" frame="verb(hebben,past(sg),pc_pp(op))" his="normal" his_1="normal" id="21" infl="sg" lcat="smain" lemma="hopen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="hoop" sc="pc_pp(op)" sense="hoop-op" stype="declarative" tense="past" word="hoopte" wvorm="pv"/>
+        <node begin="13" cat="pp" end="15" id="22" rel="pc">
+          <node begin="13" end="14" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="23" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="14" end="15" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="God" sense="God" word="God"/>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="87-3">Hij gevoelde , dat zijn ziel verzoening had gevonden , en hij hoopte op God .</sentence>
+  <comments>
+    <comment>Q#87-3|Hij gevoelde , dat zijn ziel verzoening had gevonden , en hij hoopte op God .|1|1|-5.441704698779997</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="du" end="13" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="13" id="3" rel="nucl">
+        <node begin="1" case="both" def="def" end="2" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),aci)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="horen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="hoor" sc="aci" sense="hoor" stype="declarative" tense="past" word="hoorde" wvorm="pv"/>
+        <node begin="3" cat="np" end="8" id="6" index="1" rel="obj1">
+          <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="7" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node aform="base" begin="4" buiging="met-e" end="5" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="8" infl="e" lcat="ap" lemma="ver" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="ver" sense="ver" vform="adj" word="verre"/>
+          <node begin="5" buiging="zonder" end="6" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="9" lcat="np" lemma="kraken" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="kraak" sc="intransitive" sense="kraak" special="v_noun" word="kraken" wvorm="inf"/>
+          <node begin="6" cat="pp" end="8" id="10" rel="mod">
+            <node begin="6" end="7" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="11" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="den" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="den" sense="den" word="den"/>
+          </node>
+        </node>
+        <node begin="3" cat="inf" end="10" id="13" rel="vc">
+          <node begin="3" end="8" id="14" index="1" rel="su"/>
+          <node aform="base" begin="8" buiging="met-e" end="9" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="15" lcat="np" lemma="zwaar" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="obj1" rnum="pl" root="zwaar" sense="zwaar" special="a_noun" word="zwaren"/>
+          <node begin="9" buiging="zonder" end="10" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="16" infl="inf" lcat="inf" lemma="wagen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="waag" sc="transitive" sense="waag" word="wagen" wvorm="inf"/>
+        </node>
+        <node begin="10" cat="pp" end="13" id="17" rel="mod">
+          <node begin="10" end="11" frame="preposition(over,[heen])" his="normal" his_1="normal" id="18" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+          <node begin="11" cat="np" end="13" id="19" rel="obj1">
+            <node begin="11" end="12" frame="determiner(den)" his="normal" his_1="variant" id="20" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+            <node begin="12" end="13" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="21" lcat="np" lemma="grind_weg" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="grind_weg" sense="grind_weg" special="tmp" word="grindweg"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="86-7">En ze hoorde &apos;t verre kraken van den zwaren wagen over den grindweg .</sentence>
+  <comments>
+    <comment>Q#86-7|En ze hoorde &apos;t verre kraken van den zwaren wagen over den grindweg .|1|1|-1.5746391846200016</comment>
+  </comments>
+</alpino_ds>

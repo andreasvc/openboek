@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="11" end="12" frame="punct(punt_komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma=";" pos="punct" postag="LET()" pt="let" rel="--" root=";" sense=";" special="punt_komma" word=";"/>
+    <node begin="0" cat="du" end="18" id="2" rel="--">
+      <node begin="0" cat="smain" end="11" id="3" rel="dp">
+        <node begin="0" cat="np" end="3" id="4" rel="su">
+          <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="heer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="heer" sense="heer" word="heer"/>
+          <node begin="2" end="3" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="7" lcat="np" lemma="Myriel" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="app" rnum="sg" root="Myriel" sense="Myriel" word="Myriel"/>
+        </node>
+        <node begin="3" end="4" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" word="was" wvorm="pv"/>
+        <node begin="4" cat="np" end="11" id="9" rel="predc">
+          <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="zoon" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zoon" sense="zoon" word="zoon"/>
+          <node begin="6" cat="pp" end="11" id="12" rel="mod">
+            <node begin="6" end="7" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="13" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="7" cat="np" end="11" id="14" rel="obj1">
+              <node begin="7" end="8" frame="determiner(een)" his="normal" his_1="normal" id="15" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node begin="8" end="9" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="parlement_lid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="parlement_lid" sense="parlement_lid" word="parlementslid"/>
+              <node begin="9" cat="pp" end="11" id="17" rel="mod">
+                <node begin="9" end="10" frame="preposition(te,[],nodet)" his="normal" his_1="normal" id="18" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="te"/>
+                <node begin="10" end="11" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="19" lcat="np" lemma="Aix" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="Aix" sense="Aix" word="Aix"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="12" cat="pp" end="18" id="20" rel="dp">
+        <node begin="12" end="13" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="21" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+        <node begin="13" cat="np" end="17" id="22" rel="obj1">
+          <node begin="13" end="14" frame="determiner(den)" his="normal" his_1="variant" id="23" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node begin="14" end="15" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="adel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="adel" sense="adel" word="adel"/>
+          <node begin="15" cat="np" end="17" id="25" rel="mod">
+            <node begin="15" end="16" frame="determiner(des)" his="normal" his_1="normal" id="26" infl="des" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="det" postag="LID(bep,gen,evmo)" pt="lid" rel="det" root="de" sense="de" word="des"/>
+            <node begin="16" end="17" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="27" lcat="np" lemma="tabbaards" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tabbaards" sense="tabbaards" word="tabbaards"/>
+          </node>
+        </node>
+        <node begin="17" end="18" frame="postp_adverb" his="normal" his_1="normal" id="28" lcat="advp" lemma="dus" pos="adv" postag="BW()" pt="bw" rel="mod" root="dus" sense="dus" special="postp" word="dus"/>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="6-3">De heer Myriel was de zoon van een parlementslid te Aix ; van den adel des tabbaards dus .</sentence>
+  <comments>
+    <comment>Q#6-3|De heer Myriel was de zoon van een parlementslid te Aix ; van den adel des tabbaards dus .|1|1|3.4417538575600086</comment>
+  </comments>
+</alpino_ds>

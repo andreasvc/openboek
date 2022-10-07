@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="30" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="24" end="25" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="28" id="5" rel="--">
+      <node begin="1" cat="oti" end="5" id="6" rel="sat">
+        <node begin="1" end="2" frame="complementizer(om)" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="oti" lemma="om" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="om" sc="om" sense="om" vztype="init" word="Om"/>
+        <node begin="2" cat="ti" end="5" id="8" rel="body">
+          <node begin="3" end="4" frame="complementizer(te)" his="normal" his_1="normal" id="9" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="2" cat="inf" end="5" id="10" rel="body">
+            <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="kort" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="kort" sense="kort" vform="adj" word="kort"/>
+            <node begin="4" buiging="zonder" end="5" frame="verb(zijn,inf(no_e),intransitive)" his="normal" his_1="normal" id="12" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="intransitive" sense="ga" word="gaan" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="6" cat="smain" end="28" id="13" rel="nucl">
+        <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="14" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="7" end="8" frame="verb(unacc,sg1,aux_psp_zijn)" his="normal" his_1="normal" id="15" infl="sg1" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="present" word="ben" wvorm="pv"/>
+        <node begin="6" cat="ppart" end="28" id="16" rel="vc">
+          <node begin="6" end="7" id="17" index="1" rel="su"/>
+          <node begin="11" buiging="zonder" end="12" frame="verb(zijn,psp,pc_pp(tot))" his="normal" his_1="normal" id="18" infl="psp" lcat="ppart" lemma="komen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="kom" sc="pc_pp(tot)" sense="kom-tot" word="gekomen" wvorm="vd"/>
+          <node begin="8" cat="pp" end="28" id="19" rel="pc">
+            <node begin="8" end="9" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="20" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+            <node begin="9" cat="np" end="28" id="21" rel="obj1">
+              <node begin="9" end="10" frame="determiner(de)" his="normal" his_1="normal" id="22" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="10" end="11" frame="noun(de,count,sg,sbar)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="overtuiging" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="overtuiging" sc="sbar" sense="overtuiging" word="overtuiging"/>
+              <node begin="13" cat="cp" end="28" id="24" rel="vc">
+                <node begin="13" conjtype="onder" end="14" frame="complementizer(dat)" his="normal" his_1="normal" id="25" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+                <node begin="14" cat="conj" end="28" id="26" rel="body">
+                  <node begin="14" cat="ssub" end="24" id="27" rel="cnj">
+                    <node begin="14" cat="np" end="16" id="28" rel="su">
+                      <node begin="14" end="15" frame="determiner(de)" his="normal" his_1="normal" id="29" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                      <node begin="15" end="16" frame="proper_name(both,'ORG')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="30" lcat="np" lemma="Semstwo" naamval="stan" neclass="ORG" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Semstwo" sense="Semstwo" word="Semstwo"/>
+                    </node>
+                    <node begin="16" cat="mwu" end="19" his="normal" his_1="normal" id="31" mwu_root="in het geheel" mwu_sense="in het geheel" rel="mod">
+                      <node begin="16" end="17" frame="adverb" id="32" lcat="advp" lemma="in" pos="adv" postag="BW()" pt="bw" rel="mwp" root="in" sense="in" word="in"/>
+                      <node begin="17" end="18" frame="adverb" id="33" lcat="advp" lemma="het" pos="adv" postag="BW()" pt="bw" rel="mwp" root="het" sense="het" word="het"/>
+                      <node begin="18" end="19" frame="adverb" id="34" lcat="advp" lemma="geheel" pos="adv" postag="BW()" pt="bw" rel="mwp" root="geheel" sense="geheel" word="geheel"/>
+                    </node>
+                    <node begin="19" cat="np" end="23" id="35" rel="obj1">
+                      <node begin="19" buiging="zonder" end="20" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="36" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+                      <node begin="20" end="21" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="37" lcat="np" lemma="recht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="recht" sense="recht" word="recht"/>
+                      <node begin="21" cat="pp" end="23" id="38" rel="mod">
+                        <node begin="21" end="22" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="39" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                        <node begin="22" end="23" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="40" lcat="np" lemma="bestaan" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="bestaan" sense="bestaan" word="bestaan"/>
+                      </node>
+                    </node>
+                    <node begin="23" end="24" frame="verb(hebben,sg_heeft,transitive_ndev)" his="normal" his_1="normal" id="41" infl="sg_heeft" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" tense="present" word="heeft" wvorm="pv"/>
+                  </node>
+                  <node begin="25" conjtype="neven" end="26" frame="conj(noch)" his="normal" his_1="normal" id="42" lcat="vg" lemma="noch" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="noch" sense="noch" word="noch"/>
+                  <node begin="26" cat="ssub" end="28" id="43" rel="cnj">
+                    <node begin="26" buiging="zonder" end="27" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="44" lcat="np" lemma="hebben" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="su" rnum="sg" root="heb" sc="intransitive" sense="heb" special="v_noun" word="hebben" wvorm="inf"/>
+                    <node begin="27" end="28" frame="verb(hebben,modal_not_u,intransitive)" his="normal" his_1="normal" id="45" infl="modal_not_u" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="intransitive" sense="kan" tense="present" word="kan" wvorm="pv"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="28" end="29" frame="punct(punt)" his="normal" his_1="normal" id="46" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="29" end="30" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="47" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="144-6">&quot; Om kort te gaan , ik ben tot de overtuiging gekomen , dat de Semstwo in het geheel geen recht van bestaan heeft , noch hebben kan . &quot;</sentence>
+  <comments>
+    <comment>Q#144-6|&quot; Om kort te gaan , ik ben tot de overtuiging gekomen , dat de Semstwo in het geheel geen recht van bestaan heeft , noch hebben kan . &quot;|1|1|-12.467268240579996</comment>
+  </comments>
+</alpino_ds>

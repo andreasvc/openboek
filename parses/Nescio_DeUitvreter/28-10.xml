@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:52" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="6" id="2" rel="obj1">
+        <node begin="0" end="1" frame="determiner(een)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="Een"/>
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="lucht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="lucht" sense="lucht" word="lucht"/>
+        <node begin="2" cat="pp" end="6" id="5" rel="mod">
+          <node begin="2" end="3" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="6" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="3" cat="conj" end="6" id="7" rel="obj1">
+            <node begin="3" end="4" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="zout_water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="cnj" rnum="sg" root="zout_water" sense="zout_water" word="zoutwater"/>
+            <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="9" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="gras" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="cnj" rnum="sg" root="gras" sense="gras" word="gras"/>
+          </node>
+        </node>
+      </node>
+      <node begin="6" end="7" frame="verb(hebben,past(pl),part_transitive(mee))" his="normal" his_1="normal" id="11" infl="pl" lcat="smain" lemma="mee_brengen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="breng_mee" sc="part_transitive(mee)" sense="breng_mee" stype="declarative" tense="past" word="brachten" wvorm="pv"/>
+      <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="12" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      <node begin="8" end="9" frame="particle(mee)" his="normal" his_1="normal" id="13" lcat="part" lemma="mee" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="mee" sense="mee" vztype="fin" word="mee"/>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="28-10">Een lucht van zoutwater en gras brachten ze mee .</sentence>
+  <comments>
+    <comment>Q#28-10|Een lucht van zoutwater en gras brachten ze mee .|1|1|-2.4146555218999994</comment>
+  </comments>
+</alpino_ds>

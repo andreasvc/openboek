@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="whq" end="5" id="1" rel="--">
+      <node begin="0" case="both" def="indef" end="1" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="Wat"/>
+      <node begin="0" cat="sv1" end="5" id="3" rel="body">
+        <node begin="1" end="2" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="4" infl="sg" lcat="sv1" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="whquestion" tense="past" word="kon" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="5" index="2" rel="su">
+          <node begin="2" buiging="zonder" end="3" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="kerel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="kerel" sense="kerel" word="kerel"/>
+        </node>
+        <node begin="0" cat="inf" end="5" id="8" rel="vc">
+          <node begin="0" end="1" id="9" index="1" rel="obj1"/>
+          <node begin="2" end="4" id="10" index="2" rel="su"/>
+          <node begin="4" buiging="zonder" end="5" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="eten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="eet" sc="transitive" sense="eet" word="eten" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(uitroep)" his="normal" his_1="normal" id="12" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="40-27">Wat kon die kerel eten !</sentence>
+  <comments>
+    <comment>Q#40-27|Wat kon die kerel eten !|1|1|-3.9407394490999987</comment>
+  </comments>
+</alpino_ds>

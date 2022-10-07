@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" cat="np" end="5" id="2" rel="su">
+        <node begin="0" end="1" frame="determiner(een)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="Een"/>
+        <node begin="1" end="2" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="4" lcat="np" lemma="minnarij" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="minnarij" sense="minnarij" word="minnarij"/>
+        <node begin="2" cat="pp" end="5" id="5" rel="mod">
+          <node begin="2" end="3" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="6" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+          <node begin="3" cat="np" end="5" id="7" rel="obj1">
+            <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="8" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="gouvernante" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="gouvernante" sense="gouvernante" word="gouvernante"/>
+          </node>
+        </node>
+      </node>
+      <node begin="5" end="6" frame="verb(unacc,sg_heeft,copula)" his="normal" his_1="normal" id="10" infl="sg_heeft" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" word="is" wvorm="pv"/>
+      <node begin="6" cat="np" end="8" id="11" rel="predc">
+        <node begin="6" end="7" frame="iets_noun" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="iets" naamval="stan" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="iets" sc="iets" sense="iets" status="vol" vwtype="onbep" word="iets"/>
+        <node aform="base" begin="7" buiging="met-s" end="8" frame="post_adjective(no_e)" graad="basis" his="normal" his_1="Adj-s" id="13" iets="true" infl="no_e" lcat="ap" lemma="triviaal" pos="adj" positie="postnom" postag="ADJ(postnom,basis,met-s)" pt="adj" rel="mod" root="triviaal" sense="triviaal" special="iets" vform="adj" word="triviaals"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(uitroep)" his="normal" his_1="normal" id="14" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="24-5">Een minnarij met een gouvernante is iets triviaals !</sentence>
+  <comments>
+    <comment>Q#24-5|Een minnarij met een gouvernante is iets triviaals !|1|1|-4.2841242486399995</comment>
+  </comments>
+</alpino_ds>

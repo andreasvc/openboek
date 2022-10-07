@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T15:04" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="13" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="whsub" end="13" id="4" rel="nucl">
+        <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="5" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+        <node begin="1" cat="ssub" end="13" id="6" rel="body">
+          <node begin="2" cat="np" end="4" id="7" index="2" rel="su">
+            <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="8" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="familie" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="familie" sense="familie" word="familie"/>
+          </node>
+          <node begin="5" end="6" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="10" infl="sg" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" word="had" wvorm="pv"/>
+          <node begin="1" cat="ppart" end="13" id="11" rel="vc">
+            <node begin="1" end="2" id="12" index="1" rel="mod"/>
+            <node begin="2" end="4" id="13" index="2" rel="su"/>
+            <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,tr_sbar)" his="normal" his_1="normal" id="14" infl="psp" lcat="ppart" lemma="zeggen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" word="gezegd" wvorm="vd"/>
+            <node begin="7" cat="cp" end="13" id="15" rel="vc">
+              <node begin="7" conjtype="onder" end="8" frame="complementizer(dat)" his="normal" his_1="normal" id="16" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+              <node begin="8" cat="ssub" end="13" id="17" rel="body">
+                <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="18" index="3" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+                <node begin="10" end="11" frame="verb(zijn,past(sg),aux(te_inf))" his="normal" his_1="normal" id="19" infl="sg" lcat="ssub" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="aux(te_inf)" sense="begin" tense="past" word="begon" wvorm="pv"/>
+                <node begin="8" cat="ti" end="13" id="20" rel="vc">
+                  <node begin="11" end="12" frame="complementizer(te)" his="normal" his_1="normal" id="21" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+                  <node begin="8" cat="inf" end="13" id="22" rel="body">
+                    <node begin="8" end="9" id="23" index="3" rel="su"/>
+                    <node aform="compar" begin="9" buiging="zonder" end="10" frame="adjective(er(adv))" graad="comp" his="normal" his_1="normal" id="24" infl="no_e" lcat="ap" lemma="wijs" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="predc" root="wijs" sense="wijs" vform="adj" word="wijzer"/>
+                    <node begin="12" buiging="zonder" end="13" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="25" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="worden" wvorm="inf"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="26" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="148-2">En hoe z&apos;n familie gezegd had , dat -ie wijzer begon te worden .</sentence>
+  <comments>
+    <comment>Q#148-2|En hoe z&apos;n familie gezegd had , dat -ie wijzer begon te worden .|1|1|-3.19786094884</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="smain" end="11" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="2" lcat="np" lemma="Passepartout" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Passepartout" sense="Passepartout" word="Passepartout"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),ld_pp)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="blijven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="blijf" sc="ld_pp" sense="blijf" stype="declarative" tense="past" word="bleef" wvorm="pv"/>
+      <node begin="2" cat="pp" end="11" id="4" rel="ld">
+        <node begin="2" end="3" frame="modal_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="alleen" pos="adv" postag="BW()" pt="bw" rel="mod" root="alleen" sc="modal" sense="alleen" word="alleen"/>
+        <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="6" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="4" cat="np" end="11" id="7" rel="obj1">
+          <node begin="4" end="5" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="8" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="huis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="huis" sense="huis" word="huis"/>
+          <node begin="6" cat="np" end="8" id="10" rel="app">
+            <node begin="6" end="7" frame="post_n_n" his="normal" his_1="abbreviation" his_1_1="normal" id="11" lcat="np" lemma="nummer" pos="noun" postag="SPEC(afk)" pt="spec" rel="hd" root="nummer" sense="nummer" special="post_n_n" spectype="afk" word="no."/>
+            <node begin="7" end="8" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="12" infl="pl_num" lcat="detp" lemma="7" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="app" root="7" sense="7" special="hoofd" word="7"/>
+          </node>
+          <node begin="8" cat="pp" end="11" id="13" rel="mod">
+            <node begin="8" end="9" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="14" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="9" cat="mwu" end="11" his="name" his_1="not_begin" id="15" mwu_root="Saville Row" mwu_sense="Saville Row" rel="obj1">
+              <node begin="9" end="10" frame="proper_name(both,'LOC')" id="16" lcat="np" lemma="Saville" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Saville" sense="Saville" spectype="deeleigen" word="Saville"/>
+              <node begin="10" end="11" frame="proper_name(both,'LOC')" id="17" lcat="np" lemma="Row" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Row" sense="Row" spectype="deeleigen" word="Row"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="26-1">Passepartout bleef alleen in het huis no. 7 van Saville Row .</sentence>
+  <comments>
+    <comment>Q#26-1|Passepartout bleef alleen in het huis no. 7 van Saville Row .|1|1|0.7007113296899983</comment>
+  </comments>
+</alpino_ds>

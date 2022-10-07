@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="du" end="8" id="1" rel="--">
+      <node begin="0" cat="smain" end="7" id="2" rel="dp">
+        <node begin="0" cat="mwu" end="2" his="name" his_1="begin" id="3" mwu_root="Stipan Arkadiewitsch" mwu_sense="Stipan Arkadiewitsch" rel="su">
+          <node begin="0" end="1" frame="proper_name(sg,'PER')" id="4" lcat="np" lemma="Stipan" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Stipan" sense="Stipan" spectype="deeleigen" word="Stipan"/>
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" id="5" lcat="np" lemma="Arkadiewitsch" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Arkadiewitsch" sense="Arkadiewitsch" spectype="deeleigen" word="Arkadiewitsch"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="houden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="houd" sc="transitive" sense="houd" stype="declarative" tense="past" word="hield" wvorm="pv"/>
+        <node begin="3" cat="np" end="7" id="7" rel="obj1">
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(odet_adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="veel" naamval="stan" npagr="agr" pdtype="grad" pos="adj" positie="prenom" postag="VNW(onbep,grad,stan,prenom,zonder,agr,basis)" pt="vnw" rel="det" root="veel" sense="veel" vform="adj" vwtype="onbep" word="veel"/>
+          <node begin="4" cat="pp" end="6" id="9" rel="mod">
+            <node begin="4" end="5" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="10" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="5" case="both" def="indef" end="6" frame="pronoun(nwh,thi,sg,both,both,indef,strpro)" gen="both" his="normal" his_1="normal" id="11" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="obj1" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+          </node>
+          <node aform="base" begin="6" buiging="met-e" end="7" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="12" lcat="np" lemma="geestig" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="hd" rnum="pl" root="geestig" sense="geestig" special="a_noun" word="geestigen"/>
+        </node>
+      </node>
+      <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="zet" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="zet" sense="zet" word="zet"/>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="robust_skip" id="14" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="105-4">Stipan Arkadiewitsch hield veel van een geestigen zet .</sentence>
+  <comments>
+    <comment>Q#105-4|Stipan Arkadiewitsch hield veel van een geestigen zet .|1|2|9.584732780860001</comment>
+  </comments>
+</alpino_ds>

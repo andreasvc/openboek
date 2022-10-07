@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="8" end="9" frame="punct(vraag)" his="normal" his_1="normal" id="2" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="9" end="10" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="du" end="13" id="4" rel="--">
+      <node begin="1" cat="conj" end="8" id="5" rel="nucl">
+        <node begin="1" cat="smain" end="5" id="6" rel="cnj">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="7" index="1" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="Gij"/>
+          <node begin="2" end="3" frame="verb(unacc,sg_hebt,copula)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="bent" his_1_1_2="zijt" his_1_2="normal" id="8" infl="sg_hebt" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" tense="present" word="zijt" wvorm="pv"/>
+          <node begin="3" cat="np" end="5" id="9" rel="predc">
+            <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="10" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="4" end="5" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="11" lcat="np" lemma="Franschman" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Franschman" sense="Franschman" word="Franschman"/>
+          </node>
+        </node>
+        <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="1" cat="smain" end="8" id="13" rel="cnj">
+          <node begin="1" end="2" id="14" index="1" rel="su"/>
+          <node begin="6" end="7" frame="verb(hebben,sg,copula)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="heten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heet" sc="copula" sense="heet" tense="present" word="heet" wvorm="pv"/>
+          <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="16" lcat="np" lemma="John" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="John" sense="John" word="John"/>
+        </node>
+      </node>
+      <node begin="10" cat="sv1" end="13" id="17" rel="tag">
+        <node begin="10" end="11" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="18" infl="sg" lcat="sv1" lemma="vragen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vraag" sc="sbar" sense="vraag" tense="past" word="vroeg" wvorm="pv"/>
+        <node begin="11" cat="mwu" end="13" his="normal" his_1="names_dictionary" id="19" mwu_root="Phileas Fogg" mwu_sense="Phileas Fogg" rel="su">
+          <node begin="11" end="12" frame="proper_name(sg,'PER')" id="20" lcat="np" lemma="Phileas" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Phileas" sense="Phileas" spectype="deeleigen" word="Phileas"/>
+          <node begin="12" end="13" frame="proper_name(sg,'PER')" id="21" lcat="np" lemma="Fogg" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Fogg" sense="Fogg" spectype="deeleigen" word="Fogg"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="18-1">&quot; Gij zijt een Franschman en heet John ? &quot; vroeg Phileas Fogg .</sentence>
+  <comments>
+    <comment>Q#18-1|&quot; Gij zijt een Franschman en heet John ? &quot; vroeg Phileas Fogg .|1|1|-2.5226336743</comment>
+  </comments>
+</alpino_ds>

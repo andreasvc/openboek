@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="23" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="15" end="16" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="22" id="4" rel="--">
+      <node begin="0" cat="smain" end="9" id="5" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="6" index="1" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="Men"/>
+        <node begin="1" end="2" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="normal" id="7" infl="modal_not_u" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="present" word="zal" wvorm="pv"/>
+        <node begin="0" cat="inf" end="9" id="8" rel="vc">
+          <node begin="0" end="1" id="9" index="1" rel="su"/>
+          <node begin="3" buiging="zonder" end="4" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="10" infl="inf" lcat="inf" lemma="begrijpen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="begrijp" sc="transitive" sense="begrijp" word="begrijpen" wvorm="inf"/>
+          <node begin="2" cat="np" end="9" id="11" rel="obj1">
+            <node begin="2" end="3" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="12" lcat="np" lemma="intusschen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="intusschen" sense="intusschen" word="intusschen"/>
+            <node begin="5" cat="rel" end="9" id="13" rel="mod">
+              <node begin="5" case="no_obl" end="6" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="14" index="2" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+              <node begin="5" cat="ssub" end="9" id="15" rel="body">
+                <node begin="5" end="6" id="16" index="2" rel="obj1"/>
+                <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="17" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+                <node aform="base" begin="7" end="8" frame="adjective(pred(both))" his="normal" his_1="normal" id="18" infl="pred" lcat="ap" lemma="alleen" pos="adj" postag="BW()" pt="bw" rel="mod" root="alleen" sense="alleen" vform="adj" word="alleen"/>
+                <node begin="8" end="9" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="19" infl="sg" lcat="ssub" lemma="leven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="leef" sc="transitive" sense="leef" tense="past" word="leefde" wvorm="pv"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="20" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="11" cat="pp" end="22" id="21" rel="cnj">
+        <node begin="11" cat="oti" end="15" id="22" rel="mod">
+          <node begin="11" end="12" frame="complementizer(om)" his="normal" his_1="normal" id="23" lcat="oti" lemma="om" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="om" sc="om" sense="om" vztype="init" word="om"/>
+          <node begin="12" cat="ti" end="15" id="24" rel="body">
+            <node begin="13" end="14" frame="complementizer(te)" his="normal" his_1="normal" id="25" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="12" cat="inf" end="15" id="26" rel="body">
+              <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="zoo" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="zoo" sense="zoo" word="zoo"/>
+              <node begin="14" buiging="zonder" end="15" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="28" infl="inf" lcat="inf" lemma="zeggen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zeg" sc="transitive" sense="zeg" word="zeggen" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+        <node begin="16" end="17" frame="preposition(buiten,[om])" his="normal" his_1="normal" id="29" lcat="pp" lemma="buiten" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="buiten" sense="buiten" vztype="init" word="buiten"/>
+        <node begin="17" cat="np" end="22" id="30" rel="obj1">
+          <node aform="base" begin="17" buiging="met-e" end="18" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="ige" id="31" infl="e" lcat="ap" lemma="eenig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="eenig" sense="eenig" vform="adj" word="eenige"/>
+          <node begin="18" end="19" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="32" lcat="np" lemma="gemeenschap" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="gemeenschap" sense="gemeenschap" word="gemeenschap"/>
+          <node begin="19" cat="pp" end="22" id="33" rel="mod">
+            <node begin="19" end="20" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="34" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+            <node begin="20" cat="np" end="22" id="35" rel="obj1">
+              <node begin="20" end="21" frame="determiner(de)" his="normal" his_1="normal" id="36" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="21" end="22" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="37" lcat="np" lemma="wereld" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wereld" sense="wereld" word="wereld"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="22" end="23" frame="punct(punt)" his="normal" his_1="normal" id="38" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="32-6">Men zal intusschen begrijpen , dat hij alleen leefde en , om zoo te zeggen , buiten eenige gemeenschap met de wereld .</sentence>
+  <comments>
+    <comment>Q#32-6|Men zal intusschen begrijpen , dat hij alleen leefde en , om zoo te zeggen , buiten eenige gemeenschap met de wereld .|1|1|0.3589703138400058</comment>
+  </comments>
+</alpino_ds>

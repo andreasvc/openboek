@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="sv1" end="7" id="3" rel="--">
+      <node begin="1" end="2" frame="verb(hebben,modal_not_u,transitive_ndev_ndev)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="modal_not_u" lcat="sv1" lemma="willen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="wil" sc="transitive_ndev_ndev" sense="wil" stype="ynquestion" tense="present" word="Wil" wvorm="pv"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+      <node begin="3" cat="np" end="5" id="6" rel="obj1">
+        <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="7" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="dim" his="noun" id="8" lcat="np" lemma="grogje" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="grogje" sense="grogje" word="grogje"/>
+      </node>
+      <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="zus" pos="adv" postag="BW()" pt="bw" rel="mod" root="zus" sense="zus" word="zus"/>
+    </node>
+    <node begin="7" end="8" frame="punct(vraag)" his="normal" his_1="normal" id="10" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="123-1">- Wil je een grogje , zus ?</sentence>
+  <comments>
+    <comment>Q#123-1|- Wil je een grogje , zus ?|1|1|-0.10158851117000162</comment>
+  </comments>
+</alpino_ds>

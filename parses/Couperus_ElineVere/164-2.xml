@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="smain" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="2" index="1" lcat="np" lemma="Henk" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Henk" sense="Henk" word="Henk"/>
+      <node begin="1" end="2" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="3" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" word="kan" wvorm="pv"/>
+      <node begin="0" cat="inf" end="4" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" end="3" frame="particle(thuis)" his="normal" his_1="normal" id="6" lcat="part" lemma="thuis" pos="part" postag="BW()" pt="bw" rel="svp" root="thuis" sense="thuis" word="thuis"/>
+        <node begin="3" buiging="zonder" end="4" frame="verb(unacc,inf,part_intransitive(thuis))" his="normal" his_1="normal" id="7" infl="inf" lcat="inf" lemma="thuis_blijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="blijf_thuis" sc="part_intransitive(thuis)" sense="blijf_thuis" word="blijven" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="8" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="164-2">Henk kan thuis blijven .</sentence>
+  <comments>
+    <comment>Q#164-2|Henk kan thuis blijven .|1|1|-5.30431708705</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:30" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="du" end="13" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="13" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="8" id="4" rel="cnj">
+          <node begin="1" end="2" frame="sentence_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+          <node begin="2" end="3" frame="verb(hebben,past(pl),ld_pp)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="zit" sc="ld_pp" sense="zit" stype="declarative" tense="past" word="zaten" wvorm="pv"/>
+          <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="7" index="1" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node begin="4" cat="pp" end="8" id="8" rel="ld">
+            <node begin="4" end="5" frame="preposition(in,[])" his="normal" his_1="normal" id="9" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="5" cat="np" end="8" id="10" rel="obj1">
+              <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="angst" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="angst" sense="angst" word="angst"/>
+              <node begin="6" cat="pp" end="8" id="12" rel="mod">
+                <node begin="6" end="7" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="13" lcat="advp" lemma="ergens" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(onbep,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="obj1" root="ergens" sense="ergens" special="er_loc" status="vol" vwtype="onbep" word="ergens"/>
+                <node begin="7" end="8" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="14" lcat="pp" lemma="voor" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="voor" sense="voor" vztype="fin" word="voor"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="3" cat="smain" end="13" id="16" rel="cnj">
+          <node begin="3" end="4" id="17" index="1" rel="su"/>
+          <node begin="9" end="10" frame="verb(hebben,past(pl),part_transitive(over))" his="normal" his_1="normal" id="18" infl="pl" lcat="smain" lemma="over_hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb_over" sc="part_transitive(over)" sense="heb_over" tense="past" word="hadden" wvorm="pv"/>
+          <node begin="10" end="11" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="verdriet" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="verdriet" sense="verdriet" word="verdriet"/>
+          <node begin="11" end="12" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="20" lcat="advp" lemma="ergens" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(onbep,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="ergens" sense="ergens" special="er_loc" status="vol" vwtype="onbep" word="ergens"/>
+          <node begin="12" end="13" frame="particle(over)" his="normal" his_1="normal" id="21" lcat="part" lemma="over" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="over" sense="over" vztype="fin" word="over"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="74-1">En altijd zaten ze in angst ergens voor en hadden verdriet ergens over .</sentence>
+  <comments>
+    <comment>Q#74-1|En altijd zaten ze in angst ergens voor en hadden verdriet ergens over .|1|1|-7.633497875150001</comment>
+  </comments>
+</alpino_ds>

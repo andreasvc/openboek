@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="11" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb('hebben/zijn',past(sg),modifier(aux(inf)))" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="moeten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" stype="declarative" tense="past" word="moest" wvorm="pv"/>
+      <node begin="0" cat="inf" end="11" id="5" rel="vc">
+        <node begin="0" end="1" id="6" index="1" rel="su"/>
+        <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="7" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+        <node begin="3" buiging="zonder" end="4" frame="verb(hebben,inf(no_e),transitive)" his="normal" his_1="normal" id="8" infl="inf(no_e)" lcat="inf" lemma="ondergaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="onderga" sc="transitive" sense="onderga" word="ondergaan" wvorm="inf"/>
+        <node begin="5" cat="cp" end="11" id="9" rel="mod">
+          <node begin="5" cat="conj" end="8" id="10" rel="cmp">
+            <node begin="5" conjtype="onder" end="6" frame="complementizer" his="normal" his_1="normal" id="11" lcat="cp" lemma="ofschoon" pos="comp" postag="VG(onder)" pt="vg" rel="cnj" root="ofschoon" sense="ofschoon" word="ofschoon"/>
+            <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="7" conjtype="onder" end="8" frame="complementizer" his="normal" his_1="normal" id="13" lcat="cp" lemma="omdat" pos="comp" postag="VG(onder)" pt="vg" rel="cnj" root="omdat" sense="omdat" word="omdat"/>
+          </node>
+          <node begin="8" cat="ssub" end="11" id="14" rel="body">
+            <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+            <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="bisschop" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="bisschop" sense="bisschop" word="bisschop"/>
+            <node begin="10" end="11" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="17" infl="sg" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" tense="past" word="was" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="11-2">Hij moest het ondergaan , ofschoon en omdat hij bisschop was .</sentence>
+  <comments>
+    <comment>Q#11-2|Hij moest het ondergaan , ofschoon en omdat hij bisschop was .|1|1|-6.770816740039997</comment>
+  </comments>
+</alpino_ds>

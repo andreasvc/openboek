@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" cat="du" end="14" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="conj" end="14" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="10" id="4" rel="cnj">
+          <node begin="1" cat="np" end="4" id="5" index="1" rel="su">
+            <node begin="1" buiging="zonder" end="2" frame="modal_adverb" graad="basis" his="normal" his_1="normal" id="6" lcat="advp" lemma="juist" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="juist" sc="modal" sense="juist" word="juist"/>
+            <node begin="2" buiging="zonder" end="3" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="7" infl="het" lcat="detp" lemma="dit" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dit" sense="dit" vwtype="aanw" wh="nwh" word="dit"/>
+            <node begin="3" buiging="zonder" end="4" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="8" lcat="np" lemma="lachen" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="lach" sc="intransitive" sense="lach" special="v_noun" word="lachen" wvorm="inf"/>
+          </node>
+          <node begin="4" end="5" frame="verb(hebben,past(sg),np_pc_pp(aan))" his="normal" his_1="normal" id="9" infl="sg" lcat="smain" lemma="herinneren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="herinner" sc="np_pc_pp(aan)" sense="herinner-aan" tense="past" word="herinnerde" wvorm="pv"/>
+          <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="10" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+          <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="terstond" pos="adv" postag="BW()" pt="bw" rel="mod" root="terstond" sense="terstond" word="terstond"/>
+          <node begin="7" cat="pp" end="10" id="12" rel="pc">
+            <node begin="7" end="8" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="13" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+            <node begin="8" cat="np" end="10" id="14" rel="obj1">
+              <node begin="8" end="9" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="15" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+              <node begin="9" end="10" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="16" lcat="np" lemma="voorgevallene" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="voorgevallene" sense="voorgevallene" word="voorgevallene"/>
+            </node>
+          </node>
+        </node>
+        <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="17" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="1" cat="smain" end="14" id="18" rel="cnj">
+          <node begin="1" end="4" id="19" index="1" rel="su"/>
+          <node begin="11" end="12" frame="verb(hebben,past(sg),ap_pred_np)" his="normal" his_1="normal" id="20" infl="sg" lcat="smain" lemma="stemmen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="stem" sc="ap_pred_np" sense="stem" tense="past" word="stemde" wvorm="pv"/>
+          <node begin="12" case="dat_acc" def="def" end="13" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="21" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+          <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="22" infl="no_e" lcat="ap" lemma="ernstig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="ernstig" sense="ernstig" vform="adj" word="ernstig"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="57-2">Maar juist dit lachen herinnerde hem terstond aan het voorgevallene en stemde hem ernstig .</sentence>
+  <comments>
+    <comment>Q#57-2|Maar juist dit lachen herinnerde hem terstond aan het voorgevallene en stemde hem ernstig .|1|1|2.8811044607000045</comment>
+  </comments>
+</alpino_ds>

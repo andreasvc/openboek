@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T16:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="du" end="8" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="8" id="3" rel="nucl">
+        <node begin="4" end="5" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" word="zou" wvorm="pv"/>
+        <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="1" cat="inf" end="8" id="6" rel="vc">
+          <node begin="1" cat="np" end="4" id="7" rel="mod">
+            <node begin="1" cat="detp" end="3" id="8" rel="det">
+              <node begin="1" buiging="zonder" end="2" frame="pre_det_quant(al)" his="normal" his_1="normal" id="9" infl="al" lcat="detp" lemma="al" naamval="stan" pdtype="det" pos="det" positie="vrij" postag="VNW(onbep,det,stan,vrij,zonder)" pt="vnw" rel="mod" root="al" sense="al" special="pre_det_quant" vwtype="onbep" word="al"/>
+              <node begin="2" buiging="zonder" end="3" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="variant" id="10" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="hd" root="die" sense="die" vwtype="aanw" wh="nwh" word="dien"/>
+            </node>
+            <node begin="3" end="4" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="tijd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tijd" sense="tijd" special="tmp" word="tijd"/>
+          </node>
+          <node begin="5" end="6" id="12" index="1" rel="su"/>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="13" infl="no_e" lcat="ap" lemma="dood" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="dood" sense="dood" vform="adj" word="dood"/>
+          <node begin="7" buiging="zonder" end="8" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="copula" sense="ben" word="zijn" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="61-18">En al dien tijd zou hij dood zijn .</sentence>
+  <comments>
+    <comment>Q#61-18|En al dien tijd zou hij dood zijn .|1|1|-9.496714375949999</comment>
+  </comments>
+</alpino_ds>

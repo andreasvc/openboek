@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:55" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="0" cat="du" end="21" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="21" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="11" id="4" rel="cnj">
+          <node begin="1" cat="pp" end="7" id="5" rel="mod">
+            <node begin="1" end="2" frame="preposition(in,[])" his="normal" his_1="normal" id="6" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="2" cat="np" end="7" id="7" rel="obj1">
+              <node begin="2" end="3" frame="determiner(den)" his="normal" his_1="variant" id="8" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+              <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="hoek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="hoek" sense="hoek" word="hoek"/>
+              <node begin="4" cat="pp" end="7" id="10" rel="mod">
+                <node begin="4" end="5" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="11" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+                <node begin="5" cat="np" end="7" id="12" rel="obj1">
+                  <node begin="5" end="6" frame="determiner(den)" his="normal" his_1="variant" id="13" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+                  <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="grond" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="grond" sense="grond" word="grond"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node begin="7" end="8" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="intransitive" sense="sta" stype="declarative" tense="past" word="stond" wvorm="pv"/>
+          <node begin="8" cat="np" end="11" id="16" rel="su">
+            <node begin="8" buiging="zonder" end="9" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="17" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+            <node begin="9" cat="mwu" end="11" his="normal" his_1="english_compound" id="18" rel="hd">
+              <node begin="9" end="10" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" id="19" lcat="np" lemma="éénvlams" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="mwp" rnum="sg" root="éénvlams" sense="éénvlams" word="éénvlams"/>
+              <node begin="10" end="11" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" id="20" lcat="np" lemma="stel_DIM" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="mwp" rnum="sg" root="stel_DIM" sense="stel_DIM" word="stelletje"/>
+            </node>
+          </node>
+        </node>
+        <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="21" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="12" cat="smain" end="21" id="22" rel="cnj">
+          <node begin="16" end="17" frame="verb(zijn,past(sg),aux(te_inf))" his="normal" his_1="normal" id="23" infl="sg" lcat="smain" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="aux(te_inf)" sense="begin" stype="declarative" tense="past" word="begon" wvorm="pv"/>
+          <node begin="17" cat="np" end="19" id="24" index="1" rel="su">
+            <node begin="17" end="18" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="25" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+            <node begin="18" end="19" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+          </node>
+          <node begin="12" cat="ti" end="21" id="27" rel="vc">
+            <node begin="19" end="20" frame="complementizer(te)" his="normal" his_1="normal" id="28" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="12" cat="inf" end="21" id="29" rel="body">
+              <node begin="12" cat="pp" end="16" id="30" rel="mod">
+                <node begin="12" end="13" frame="preposition(in,[])" his="normal" his_1="normal" id="31" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                <node begin="13" cat="np" end="16" id="32" rel="obj1">
+                  <node begin="13" end="14" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="33" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+                  <node aform="base" begin="14" buiging="met-e" end="15" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="34" infl="e" lcat="ap" lemma="klein" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="klein" sense="klein" vform="adj" word="kleine"/>
+                  <node begin="15" end="16" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="35" lcat="np" lemma="ketel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="ketel_DIM" sense="ketel_DIM" word="keteltje"/>
+                </node>
+              </node>
+              <node begin="17" end="19" id="36" index="1" rel="su"/>
+              <node begin="20" buiging="zonder" end="21" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="37" infl="inf" lcat="inf" lemma="razen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="raas" sc="intransitive" sense="raas" word="razen" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="normal" his_1="normal" id="38" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="33-17">En in den hoek op den grond stond mijn éénvlams stelletje en in &apos;t kleine keteltje begon &apos;t water te razen .</sentence>
+  <comments>
+    <comment>Q#33-17|En in den hoek op den grond stond mijn éénvlams stelletje en in &apos;t kleine keteltje begon &apos;t water te razen .|1|1|2.5940269781499934</comment>
+  </comments>
+</alpino_ds>

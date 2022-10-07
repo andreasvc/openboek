@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="12" id="4" rel="--">
+      <node begin="0" cat="du" end="9" id="5" rel="dp">
+        <node begin="0" end="1" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="ach" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="ach" sense="ach" word="Ach"/>
+        <node begin="2" cat="du" end="9" id="7" rel="nucl">
+          <node begin="2" end="3" frame="tag" his="normal" his_1="normal" id="8" lcat="advp" lemma="ach" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="ach" sense="ach" word="ach"/>
+          <node begin="4" cat="ppart" end="9" id="9" rel="nucl">
+            <node begin="4" end="5" frame="adverb" getal="ev" his="normal" his_1="normal" id="10" lcat="advp" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="adv" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="mod" root="wat" sense="wat" status="vol" vwtype="onbep" word="wat"/>
+            <node begin="5" end="6" frame="tmp_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+            <node begin="6" buiging="zonder" end="7" frame="verb(hebben,psp,sbar)" his="normal" his_1="normal" id="12" infl="psp" lcat="ppart" lemma="doen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="doe" sc="sbar" sense="doe" word="gedaan" wvorm="vd"/>
+            <node begin="8" case="both" def="indef" end="9" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="vc" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" stype="whquestion" vwtype="vb" wh="ywh" word="wat"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" cat="ppart" end="12" id="14" rel="dp">
+        <node begin="9" end="10" frame="tmp_adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+        <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="toch" pos="adv" postag="BW()" pt="bw" rel="mod" root="toch" sense="toch" word="toch"/>
+        <node begin="11" buiging="zonder" end="12" frame="verb(hebben,psp,intransitive)" his="normal" his_1="normal" id="17" infl="psp" lcat="ppart" lemma="doen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="doe" sc="intransitive" sense="doe" word="gedaan" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(vraag)" his="robust_skip" id="18" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="13" end="14" frame="punct(aanhaal_both)" his="robust_skip" id="19" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="24-11">Ach , ach , wat nu gedaan , wat nu toch gedaan ? &quot;</sentence>
+  <comments>
+    <comment>Q#24-11|Ach , ach , wat nu gedaan , wat nu toch gedaan ? &quot;|1|2|2.27692640088</comment>
+  </comments>
+</alpino_ds>

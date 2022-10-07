@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" cat="du" end="17" id="1" rel="--">
+      <node begin="0" cat="smain" end="15" id="2" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),transitive_ndev)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="past" word="had" wvorm="pv"/>
+        <node begin="2" cat="pp" end="5" id="5" rel="mod">
+          <node begin="2" end="3" frame="preposition(in,[])" his="normal" his_1="normal" id="6" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="3" cat="np" end="5" id="7" rel="obj1">
+            <node begin="3" buiging="zonder" end="4" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="8" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+            <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="9" lcat="np" lemma="bid_kamer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bid_kamer" sense="bid_kamer" word="bidkamer"/>
+          </node>
+        </node>
+        <node begin="5" cat="conj" end="15" id="10" rel="obj1">
+          <node begin="5" cat="np" end="10" id="11" rel="cnj">
+            <node begin="5" end="6" frame="number(hoofd(pl_num))" his="normal" his_1="normal" id="12" infl="pl_num" lcat="detp" lemma="twee" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="twee" sense="twee" special="hoofd" word="twee"/>
+            <node begin="6" end="7" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="compound" his_1="2" id="13" lcat="np" lemma="bid_stoel" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="bid_stoel" sense="bid_stoel" word="bidstoelen"/>
+            <node begin="7" cat="pp" end="10" id="14" rel="mod">
+              <node begin="7" end="8" frame="preposition(met,[],absolute)" his="normal" his_1="normal" id="15" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sc="absolute" sense="met" vztype="init" word="met"/>
+              <node begin="8" buiging="zonder" end="9" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="16" lcat="np" lemma="matten" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="obj1" rnum="sg" root="mat" sc="intransitive" sense="mat" special="v_noun" word="matten" wvorm="inf"/>
+              <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="zitting" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="predc" rnum="pl" root="zitting" sense="zitting" word="zittingen"/>
+            </node>
+          </node>
+          <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="11" cat="np" end="15" id="19" rel="cnj">
+            <node begin="11" cat="pp" end="14" id="20" rel="mod">
+              <node begin="11" end="12" frame="preposition(in,[])" his="normal" his_1="normal" id="21" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+              <node begin="12" cat="np" end="14" id="22" rel="obj1">
+                <node begin="12" buiging="zonder" end="13" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="23" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+                <node begin="13" end="14" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="slaap_kamer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="slaap_kamer" sense="slaap_kamer" word="slaapkamer"/>
+              </node>
+            </node>
+            <node begin="14" case="both" def="indef" end="15" frame="pronoun(nwh,thi,sg,both,both,indef,strpro)" gen="both" his="normal" his_1="normal" id="25" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+          </node>
+        </node>
+      </node>
+      <node begin="15" cat="du" end="17" id="26" rel="dp">
+        <node aform="base" begin="15" buiging="met-e" end="16" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="A-n" id="27" lcat="np" lemma="dergelijk" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="dp" rnum="pl" root="dergelijk" sense="dergelijk" special="a_noun" word="dergelijken"/>
+        <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="arm_stoel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="arm_stoel" sense="arm_stoel" word="armstoel"/>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="robust_skip" id="29" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="114-3">Hij had in zijn bidkamer twee bidstoelen met matten zittingen en in zijn slaapkamer een dergelijken armstoel .</sentence>
+  <comments>
+    <comment>Q#114-3|Hij had in zijn bidkamer twee bidstoelen met matten zittingen en in zijn slaapkamer een dergelijken armstoel .|1|2|10.562597355880014</comment>
+  </comments>
+</alpino_ds>

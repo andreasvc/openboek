@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T12:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="du" end="13" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="13" id="3" rel="nucl">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="lijden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="lijd" sc="transitive" sense="lijd" stype="declarative" tense="past" word="leed" wvorm="pv"/>
+        <node begin="3" cat="ap" end="10" id="6" rel="mod">
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="lijk" id="7" infl="no_e" lcat="ap" lemma="ijselijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="ijselijk" sense="ijselijk" vform="adj" word="ijselijk"/>
+          <node begin="4" cat="pp" end="10" id="8" rel="mod">
+            <node begin="4" end="5" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="9" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="5" cat="np" end="10" id="10" rel="obj1">
+              <node begin="5" buiging="zonder" end="6" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+              <node aform="base" begin="6" buiging="met-e" end="7" frame="adjective(ende(padv))" his="normal" his_1="V-de" his_1_1="normal" id="12" infl="e" lcat="ppres" lemma="weten" pos="adj" positie="prenom" postag="WW(od,prenom,met-e)" pt="ww" rel="mod" root="weet" sense="weet" vform="gerund" word="wetende" wvorm="od"/>
+              <node begin="7" cat="mwu(oogen , zooals,oogen , zooals)" end="10" his="name" his_1="not_begin" id="13" rel="hd">
+                <node begin="7" end="8" frame="proper_name(both)" id="14" lcat="np" lemma="oogen" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="oogen" sense="oogen" spectype="deeleigen" word="oogen"/>
+                <node begin="8" end="9" frame="proper_name(both)" id="15" lcat="np" lemma="," neclass="MISC" num="both" pos="name" postag="LET()" pt="let" rel="mwp" rnum="sg" root="," sense="," word=","/>
+                <node begin="9" end="10" frame="proper_name(both)" id="16" lcat="np" lemma="zooals" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="zooals" sense="zooals" spectype="deeleigen" word="zooals"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="10" cat="np" end="13" id="17" rel="obj1">
+          <node begin="10" buiging="zonder" end="11" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="18" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+          <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(both(adv))" graad="basis" his="normal" his_1="normal" id="19" infl="both" lcat="ap" lemma="rechtschapen" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="rechtschapen" sense="rechtschapen" vform="adj" word="rechtschapen"/>
+          <node begin="12" end="13" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="20" lcat="np" lemma="mensch" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="mensch" sense="mensch" word="mensch"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="10-1">En hij leed ijselijk van die wetende oogen , zooals geen rechtschapen mensch .</sentence>
+  <comments>
+    <comment>Q#10-1|En hij leed ijselijk van die wetende oogen , zooals geen rechtschapen mensch .|1|1|-0.4233747525399994</comment>
+  </comments>
+</alpino_ds>

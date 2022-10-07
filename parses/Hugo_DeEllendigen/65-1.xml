@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="conj" end="6" id="1" rel="--">
+      <node begin="0" cat="mwu" end="2" his="special" his_1="decap" his_1_1="names_dictionary" id="2" mwu_root="De Werken" mwu_sense="De Werken" rel="cnj">
+        <node begin="0" end="1" frame="proper_name(sg,'LOC')" id="3" lcat="np" lemma="De" neclass="LOC" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="De" sense="De" spectype="deeleigen" word="DE"/>
+        <node begin="1" end="2" frame="proper_name(sg,'LOC')" id="4" lcat="np" lemma="Werken" neclass="LOC" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Werken" sense="Werken" spectype="deeleigen" word="WERKEN"/>
+      </node>
+      <node begin="2" conjtype="neven" end="3" frame="conj(en)" his="special" his_1="decap" his_1_1="normal" id="5" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="EN"/>
+      <node begin="3" cat="np" end="6" id="6" rel="cnj">
+        <node begin="3" end="4" frame="determiner(de)" his="special" his_1="decap" his_1_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="DE"/>
+        <node begin="4" end="5" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="special" his_1="decap" his_1_1="normal" id="8" lcat="np" lemma="woord" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="woord" sense="woord" word="WOORDEN"/>
+        <node begin="5" end="6" frame="number(hoofd(sg_num))" his="special" his_1="decap" his_1_1="normal" id="9" infl="sg_num" lcat="detp" lemma="één" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="app" root="één" sense="één" special="hoofd" word="ÉÉN"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(uitroep)" his="normal" his_1="normal" id="10" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="65-1">DE WERKEN EN DE WOORDEN ÉÉN !</sentence>
+  <comments>
+    <comment>Q#65-1|DE WERKEN EN DE WOORDEN ÉÉN !|1|1|3.0064420748000003</comment>
+  </comments>
+</alpino_ds>

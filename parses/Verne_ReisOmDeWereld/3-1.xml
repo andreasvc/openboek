@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="pp" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="preposition(naar,[toe])" his="special" his_1="decap" his_1_1="normal" id="2" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="NAAR"/>
+      <node begin="1" cat="np" end="6" id="3" rel="obj1">
+        <node begin="1" end="2" frame="determiner(de)" his="special" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="DE"/>
+        <node begin="2" end="3" frame="number(rang)" his="normal" his_1="normal" id="5" lcat="ap" lemma="30e" naamval="stan" numtype="rang" pos="num" positie="prenom" postag="TW(rang,prenom,stan)" pt="tw" rel="mod" root="30e" sense="30e" special="rang" word="30e"/>
+        <node begin="3" end="4" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="6" lcat="np" lemma="fransche" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="fransche" sense="fransche" word="FRANSCHE"/>
+        <node begin="4" cat="mwu" end="6" his="name" his_1="not_begin" id="7" mwu_root="UITGAVE DOOR" mwu_sense="UITGAVE DOOR" rel="app">
+          <node begin="4" end="5" frame="proper_name(both)" id="8" lcat="np" lemma="UITGAVE" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="UITGAVE" sense="UITGAVE" spectype="deeleigen" word="UITGAVE"/>
+          <node begin="5" end="6" frame="proper_name(both)" id="9" lcat="np" lemma="DOOR" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="DOOR" sense="DOOR" spectype="deeleigen" word="DOOR"/>
+        </node>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="3-1">NAAR DE 30e FRANSCHE UITGAVE DOOR</sentence>
+  <comments>
+    <comment>Q#3-1|NAAR DE 30e FRANSCHE UITGAVE DOOR|1|1|-0.7078846774700005</comment>
+  </comments>
+</alpino_ds>

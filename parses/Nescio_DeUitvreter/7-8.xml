@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git335-sicstus" date="2021-03-05T15:35" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="13" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="cnj">
+        <node begin="0" cat="np" end="2" id="4" index="1" rel="su">
+          <node begin="0" end="1" frame="modal_adverb" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="advp" lemma="alleen" pos="adv" postag="BW()" pt="bw" rel="mod" root="alleen" sc="modal" sense="alleen" word="Alleen"/>
+          <node begin="1" end="2" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="6" lcat="np" lemma="Japi" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Japi" sense="Japi" word="Japi"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),ld_adv)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zit" sc="ld_adv" sense="zit" tense="past" word="zat" wvorm="pv"/>
+        <node begin="3" end="4" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="8" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="ld" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+      </node>
+      <node begin="0" cat="smain" end="9" id="9" rel="cnj">
+        <node begin="0" end="2" id="10" index="1" rel="su"/>
+        <node begin="5" end="6" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="turen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="tuur" sc="ld_pp" sense="tuur" tense="past" word="tuurde" wvorm="pv"/>
+        <node begin="6" cat="pp" end="9" id="12" rel="ld">
+          <node begin="6" end="7" frame="preposition(over,[heen])" his="normal" his_1="normal" id="13" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+          <node begin="7" cat="np" end="9" id="14" rel="obj1">
+            <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="verschansing" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="verschansing" sense="verschansing" word="verschansing"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="17" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="13" id="18" rel="cnj">
+        <node begin="0" end="2" id="19" index="1" rel="su"/>
+        <node begin="10" end="11" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="20" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="copula" sense="word" tense="past" word="werd" wvorm="pv"/>
+        <node begin="11" cat="ap" end="13" id="21" rel="predc">
+          <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="22" infl="no_e" lcat="ap" lemma="deerlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="deerlijk" sense="deerlijk" vform="adj" word="deerlijk"/>
+          <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="23" infl="no_e" lcat="ap" lemma="nat" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="nat" sense="nat" vform="adj" word="nat"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="7-8">Alleen Japi zat daar , tuurde over de verschansing en werd deerlijk nat .</sentence>
+  <comments>
+    <comment>Q#7-8|Alleen Japi zat daar , tuurde over de verschansing en werd deerlijk nat .|1|1|-6.028460062049999</comment>
+  </comments>
+</alpino_ds>

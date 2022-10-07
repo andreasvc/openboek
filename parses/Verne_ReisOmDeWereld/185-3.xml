@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser cats="2" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="4" rel="--">
+      <node begin="0" cat="smain" end="5" id="5" rel="dp">
+        <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="6" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="Het"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),pc_pp(van))" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="wemelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="wemel" sc="pc_pp(van)" sense="wemel-van" stype="declarative" tense="past" word="wemelde" wvorm="pv"/>
+        <node begin="2" end="3" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="8" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="3" cat="pp" end="5" id="9" rel="pc">
+          <node begin="3" end="4" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="10" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="4" end="5" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="zeeman" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="zeeman" sense="zeeman" word="zeelieden"/>
+        </node>
+      </node>
+      <node begin="5" cat="du" end="16" id="12" rel="dp">
+        <node begin="5" cat="pp" end="7" id="13" rel="dp">
+          <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="14" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node aform="base" begin="6" buiging="met-e" end="7" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="V-den" id="15" lcat="np" lemma="verschillen" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="obj1" rnum="pl" root="verschil" sense="verschil" special="a_noun" word="verschillenden"/>
+        </node>
+        <node begin="7" cat="conj" end="16" id="16" rel="dp">
+          <node begin="7" end="8" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="17" lcat="np" lemma="land_aard" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="land_aard" sense="land_aard" word="landaard"/>
+          <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="koopman" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="koopman" sense="koopman" word="kooplieden"/>
+          <node begin="11" end="12" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="makelaar" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="makelaar" sense="makelaar" word="makelaars"/>
+          <node begin="13" end="14" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="kruier" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="kruier" sense="kruier" word="kruiers"/>
+          <node begin="14" conjtype="neven" end="15" frame="conj(en)" his="normal" his_1="normal" id="21" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="15" end="16" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="22" lcat="np" lemma="fellahs" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="fellahs" sense="fellahs" word="fellahs"/>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="23" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="185-3">Het wemelde er van zeelieden van verschillenden landaard , kooplieden , makelaars , kruiers en fellahs .</sentence>
+  <comments>
+    <comment>Q#185-3|Het wemelde er van zeelieden van verschillenden landaard , kooplieden , makelaars , kruiers en fellahs .|1|2|2.7054661635499997</comment>
+  </comments>
+</alpino_ds>

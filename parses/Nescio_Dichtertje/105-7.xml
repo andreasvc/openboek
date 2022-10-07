@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:39" cats="2" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="21" id="2" rel="--">
+      <node begin="0" cat="du" end="2" id="3" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="5" infl="no_e" lcat="ap" lemma="moe" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="nucl" root="moe" sense="moe" vform="adj" word="moe"/>
+      </node>
+      <node begin="2" cat="conj" end="21" id="6" rel="dp">
+        <node begin="2" cat="sv1" end="5" id="7" rel="cnj">
+          <node begin="2" end="3" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="8" index="1" infl="sg" lcat="sv1" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" word="had" wvorm="pv"/>
+          <node begin="3" cat="ppart" end="5" id="9" rel="vc">
+            <node begin="3" end="4" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="10" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" rnum="sg" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+            <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,refl)" his="normal" his_1="normal" id="11" infl="psp" lcat="ppart" lemma="schikken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="schik" sc="refl" sense="zich-schik" word="geschikt" wvorm="vd"/>
+          </node>
+        </node>
+        <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="2" cat="sv1" end="10" id="13" rel="cnj">
+          <node begin="2" end="3" id="14" index="1" rel="hd"/>
+          <node begin="6" cat="ppart" end="10" id="15" rel="vc">
+            <node begin="6" cat="ap" end="9" id="16" rel="mod">
+              <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(odet_adv))" graad="basis" his="normal" his_1="normal" id="17" infl="no_e" lcat="ap" lemma="veel" naamval="stan" npagr="agr" pdtype="grad" pos="adj" positie="prenom" postag="VNW(onbep,grad,stan,prenom,zonder,agr,basis)" pt="vnw" rel="hd" root="veel" sense="veel" vform="adj" vwtype="onbep" word="veel"/>
+              <node begin="6" cat="advp" end="9" id="18" rel="mod">
+                <node begin="6" end="7" frame="zo_mogelijk_zo" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zo" his_1_1_2="zoo" his_1_2="normal" id="19" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="hd" root="zo" sc="zo_mogelijk" sense="zo" word="zoo"/>
+                <node aform="base" begin="8" buiging="zonder" end="9" frame="zo_mogelijk_mogelijk(no_e)" graad="basis" his="normal" his_1="normal" id="20" infl="no_e" lcat="ap" lemma="mogelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="obcomp" root="mogelijk" sc="zo_mogelijk" sense="mogelijk" vform="adj" word="mogelijk"/>
+              </node>
+            </node>
+            <node begin="9" buiging="zonder" end="10" frame="verb(hebben,psp,ninv(intransitive,part_intransitive(mee)))" his="normal" his_1="part-V" id="21" infl="psp" lcat="ppart" lemma="mee_leven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="leef_mee" sc="part_intransitive(mee)" sense="leef_mee" word="meegeleefd" wvorm="vd"/>
+          </node>
+        </node>
+        <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="22" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="2" cat="sv1" end="21" id="23" rel="cnj">
+          <node begin="2" end="3" id="24" index="1" rel="hd"/>
+          <node begin="11" cat="inf" end="21" id="25" rel="vc">
+            <node begin="11" end="12" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="niets" his_1_1_2="nix" his_1_2="normal" id="26" lcat="np" lemma="niets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="niets" sense="niets" special="meas_mod" status="vol" vwtype="onbep" word="nix"/>
+            <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,fixed([vc(merk,inf,intransitive),acc],no_passive))" his="normal" his_1="normal" id="27" infl="inf" lcat="inf" lemma="laten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="laat" sc="fixed([vc(merk,inf,intransitive),acc],no_passive)" sense="laat-merk" word="laten" wvorm="inf"/>
+            <node begin="13" buiging="zonder" end="14" frame="verb(hebben,inf,fixed_dep(intransitive))" his="normal" his_1="normal" id="28" infl="inf" lcat="inf" lemma="merken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="svp" root="merk" sc="fixed_dep(intransitive)" sense="merk" word="merken" wvorm="inf"/>
+            <node begin="15" cat="cp" end="21" id="29" rel="mod">
+              <node begin="15" conjtype="onder" end="16" frame="complementizer(als)" his="normal" his_1="normal" id="30" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+              <node begin="16" cat="ap" end="21" id="31" rel="body">
+                <node begin="16" cat="np" end="20" id="32" rel="obj1">
+                  <node begin="16" end="17" frame="determiner(een)" his="normal" his_1="normal" id="33" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                  <node aform="base" begin="17" buiging="met-e" end="18" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="34" infl="e" lcat="ap" lemma="echt" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="echt" sense="echt" vform="adj" word="echte"/>
+                  <node aform="base" begin="18" buiging="met-e" end="19" frame="adjective(e)" graad="basis" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="goede" his_1_1_2="goeie" his_1_2="normal" id="35" infl="e" lcat="ap" lemma="goed" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="goed" sense="goed" vform="adj" word="goeie"/>
+                  <node begin="19" end="20" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="36" lcat="np" lemma="ouwerwetsche" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="ouwerwetsche" sense="ouwerwetsche" word="ouwerwetsche"/>
+                </node>
+                <node begin="20" end="21" frame="np_adjective" his="normal" his_1="normal" id="37" lcat="ap" lemma="moe" pos="adj" postag="BW()" pt="bw" rel="hd" root="moe" sense="moe" special="np" word="moe"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="robust_skip" id="38" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="105-7">En moe had zich geschikt en zoo veel mogelijk meegeleefd en nix laten merken , als een echte goeie ouwerwetsche moe .</sentence>
+  <comments>
+    <comment>Q#105-7|En moe had zich geschikt en zoo veel mogelijk meegeleefd en nix laten merken , als een echte goeie ouwerwetsche moe .|1|2|6.1490509565999965</comment>
+  </comments>
+</alpino_ds>

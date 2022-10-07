@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.6">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:02" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="11" id="2" rel="--">
+      <node begin="0" cat="du" end="9" id="3" rel="nucl">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+        <node begin="1" cat="smain" end="9" id="5" rel="nucl">
+          <node begin="2" end="3" frame="verb('hebben/zijn',sg,modifier(aux(inf)))" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="moeten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" stype="declarative" tense="present" word="moet" wvorm="pv"/>
+          <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="7" index="1" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+          <node begin="1" cat="inf" end="9" id="8" rel="vc">
+            <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+            <node begin="3" end="4" id="10" index="1" rel="su"/>
+            <node begin="4" end="5" frame="reflexive(je,both)" getal="getal" his="normal" his_1="normal" id="11" lcat="np" lemma="je" naamval="obl" num="both" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pr,pron,obl,red,2v,getal)" pt="vnw" refl="refl" rel="se" rnum="sg" root="je" sense="je" status="red" vwtype="pr" word="je"/>
+            <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+            <node begin="6" cat="ap" end="8" id="13" rel="predc">
+              <node begin="6" end="7" frame="adverb" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zo" his_1_1_2="zoo" his_1_2="normal" id="14" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+              <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="15" infl="no_e" lcat="ap" lemma="vuil" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="vuil" sense="vuil" vform="adj" word="vuil"/>
+            </node>
+            <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf,ap_pred_refl)" his="normal" his_1="normal" id="16" infl="inf" lcat="inf" lemma="maken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="maak" sc="ap_pred_refl" sense="zich-maak" word="maken" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="10" end="11" frame="tag" his="normal" his_1="normal" id="17" lcat="advp" lemma="hoor" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="hoor" sense="hoor" word="hoor"/>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="65-22">Maar dan moet je je niet zoo vuil maken , hoor .</sentence>
+  <comments>
+    <comment>Q#65-22|Maar dan moet je je niet zoo vuil maken , hoor .|1|1|-10.062493811400005</comment>
+  </comments>
+</alpino_ds>
