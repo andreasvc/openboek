@@ -36,6 +36,10 @@ with several layers of linguistic annotations.
 - spelling: manually corrected spelling, based on automatic spelling normalization by
   https://github.com/gertjanvannoord/oudeboeken
   The input is in a format understood by the Alpino parser.
+- tokenized: one sentence per line of space-separated words, prefixed with an
+  sentence identifier of the form parno-sentno. Used as input for Alpino and
+  the spelling normalization tool. Mostly the original text, except for some
+  manual spelling changes applied to Multatuli (y -> ij) and Nescio (eg., datti -> dat -ie).
 - pos: manually corrected POS tags (CGN coarse tags).
 
 ## Corpus
