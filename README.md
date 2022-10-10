@@ -1,6 +1,6 @@
 # The OpenBoek corpus
 
-[OpenBoek](http://andreasvc.github.io/openboek/) is a corpus of public Domain Dutch literature
+[OpenBoek](http://andreasvc.github.io/openboek/) is a corpus of public domain Dutch literature
 with several layers of linguistic annotations.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
@@ -47,7 +47,7 @@ with several layers of linguistic annotations.
 All texts in the corpus are public domain texts from Project Gutenberg, and
 includes classic Dutch texts as well as translated novels. Each fragment is at
 least the first 10,000 words from the text; the total annotated dataset
-contains about 110,000 tokens.
+contains about 103,000 tokens.
 
 |Gutenberg ID|Date|Author|Title|
 |---|---|---|---|
