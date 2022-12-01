@@ -11,11 +11,10 @@ with several layers of linguistic annotations.
 
 - coref: exported files in [CoNLL 2012 format](http://conll.cemantix.org/2012/data.html).
   The coreference column is manually corrected. The POS, parse bit, and NER
-  columns are extracted from the automatically derived parse trees.
+  columns are extracted from automatically derived parse trees.
   Annotations follow the [dutchcoref guidelines](https://github.com/andreasvc/dutchcoref/)
-- parses: parse trees produced by [Alpino](http://www.let.rug.nl/vannoord/alp/Alpino/),
-  one XML file per sentence. Not manually corrected. These are the parse trees for the
-  original, non-normalized spelling.
+- parses: hand-corrected parse trees in the [Alpino](http://www.let.rug.nl/vannoord/alp/Alpino/) XML format, one XML file per sentence.
+  See the releases in this repository for the automatically parsed texts of the full corpus, with and without spelling normalization.
 - features: tab-separated files with entity features: gender and number.
   Each entity is identified by the indices (sentence number, begin/end token)
   of its first mention.
@@ -33,21 +32,28 @@ with several layers of linguistic annotations.
 
   The semantic number is annotated (e.g., "the group" is plural since it could be
   referred to by "they"), regardless of the syntactic number.
-- spelling: manually corrected spelling, based on automatic spelling normalization by
-  https://github.com/gertjanvannoord/oudeboeken
-  The input is in a format understood by the Alpino parser.
+- original: The original texts of the novels, except for some
+  manual spelling changes applied to Multatuli (y -> ij, koffi -> koffie)
+  and Nescio (eg., datti -> dat -ie).
+  To review the changes that have been made, download the original text and
+  compare it with a character-based diff as follows:
+  `git diff --word-diff=color --word-diff-regex=. pg11024.txt original/Multatuli_MaxHavelaar.txt`
 - tokenized: one sentence per line of space-separated words, prefixed with an
   sentence identifier of the form parno-sentno. Used as input for Alpino and
-  the spelling normalization tool. Mostly the original text, except for some
-  manual spelling changes applied to Multatuli (y -> ij) and Nescio (eg., datti -> dat -ie).
+  the spelling normalization tool. 
+- spelling: spelling normalized versions of the tokenized texts.
+  The input is in a format understood by the Alpino parser.
+  The automatically normalized version (silver standard spelling) is given for all texts,
+  based on the output of https://github.com/gertjanvannoord/oudeboeken
+  For a subset, manually corrected versions (gold standard spelling) of these are provided as well.
 - pos: manually corrected POS tags (CGN coarse tags).
 
 ## Corpus
 
-All texts in the corpus are public domain texts from Project Gutenberg, and
-includes classic Dutch texts as well as translated novels. Each fragment is at
-least the first 10,000 words from the text; the total annotated dataset
-contains about 103,000 tokens.
+All texts in the corpus are public domain texts from Project Gutenberg.
+The corpus includes classic Dutch texts as well as translated novels. Each
+fragment is at least the first 10,000 words from the text; the total annotated
+dataset contains about 103,000 tokens.
 
 |Gutenberg ID|Date|Author|Title|
 |---|---|---|---|

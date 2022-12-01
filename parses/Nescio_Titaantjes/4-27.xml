@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alpino_ds version="1.6">
-  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T12:56" cats="1" skips="0" />
+<alpino_ds version="1.3">
   <node begin="0" cat="top" end="7" id="0" rel="top">
     <node begin="0" cat="smain" end="6" id="1" rel="--">
-      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="2" lcat="np" lemma="Bavink" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bavink" sense="Bavink" word="Bavink"/>
-      <node begin="1" end="2" frame="verb(hebben,past(sg),pc_pp(met))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="vrijen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vrij" sc="pc_pp(met)" sense="vrij-met" stype="declarative" tense="past" word="vrijde" wvorm="pv"/>
-      <node begin="2" end="3" frame="sentence_adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="bovendien" pos="adv" postag="BW()" pt="bw" rel="mod" root="bovendien" sense="bovendien" special="sentence" word="bovendien"/>
-      <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+      <node begin="0" end="1" genus="zijd" getal="ev" graad="basis" id="2" lemma="Bavink" naamval="stan" ntype="eigen" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" root="Bavink" word="Bavink"/>
+      <node begin="1" end="2" id="3" lemma="vrijen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vrij" word="vrijde" wvorm="pv"/>
+      <node begin="2" end="3" id="4" lemma="bovendien" pos="adv" postag="BW()" pt="bw" rel="mod" root="bovendien" word="bovendien"/>
+      <node begin="3" end="4" id="5" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" word="nog"/>
       <node begin="4" cat="pp" end="6" id="6" rel="pc">
-        <node begin="4" end="5" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="7" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
-        <node begin="5" end="6" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="8" lcat="np" lemma="Lien" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="Lien" sense="Lien" word="Lien"/>
+        <node begin="4" end="5" id="7" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" vztype="init" word="met"/>
+        <node begin="5" end="6" genus="zijd" getal="ev" graad="basis" id="8" lemma="Lien" naamval="stan" ntype="eigen" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" root="Lien" word="Lien"/>
       </node>
     </node>
-    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="6" end="7" id="9" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." word="."/>
   </node>
-  <sentence sentid="4-27">Bavink vrijde bovendien nog met Lien .</sentence>
-  <comments>
-    <comment>Q#4-27|Bavink vrijde bovendien nog met Lien .|1|1|-1.0812557361200006</comment>
-  </comments>
+  <sentence>Bavink vrijde bovendien nog met Lien .</sentence>
 </alpino_ds>

@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alpino_ds version="1.6">
-  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T14:21" cats="1" skips="0" />
+<alpino_ds version="1.3">
   <node begin="0" cat="top" end="4" id="0" rel="top">
     <node begin="0" cat="smain" end="3" id="1" rel="--">
-      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="2" infl="no_e" lcat="ap" lemma="raar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="raar" sense="raar" vform="adj" word="Raar"/>
-      <node begin="1" end="2" frame="verb(hebben,past(sg),nonp_copula)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="klinken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="klink" sc="nonp_copula" sense="klink" stype="declarative" tense="past" word="klonk" wvorm="pv"/>
-      <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="4" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="dat"/>
+      <node begin="0" buiging="zonder" end="1" graad="basis" id="2" lemma="raar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="raar" word="Raar"/>
+      <node begin="1" end="2" id="3" lemma="klinken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="klink" word="klonk" wvorm="pv"/>
+      <node begin="2" end="3" getal="ev" id="4" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" root="dat" status="vol" vwtype="aanw" word="dat"/>
     </node>
-    <node begin="3" end="4" frame="punct(punt)" his="normal" his_1="normal" id="5" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="3" end="4" id="5" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." word="."/>
   </node>
-  <sentence sentid="84-7">Raar klonk dat .</sentence>
-  <comments>
-    <comment>Q#84-7|Raar klonk dat .|1|1|-1.3504360610800017</comment>
-  </comments>
+  <sentence>Raar klonk dat .</sentence>
 </alpino_ds>

@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alpino_ds version="1.6">
-  <parser build="Alpino-x86_64-linux-glibc2.5-git308-sicstus" date="2021-03-05T13:37" cats="2" skips="0" />
+<alpino_ds version="1.3">
   <node begin="0" cat="top" end="9" id="0" rel="top">
-    <node begin="0" cat="du" end="8" id="1" rel="--">
-      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="2" lcat="np" lemma="Bekker" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="Bekker" sense="Bekker" word="Bekker"/>
-      <node begin="1" cat="sv1" end="8" id="3" rel="dp">
-        <node begin="1" end="2" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="4" infl="sg" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="ynquestion" tense="past" word="zou" wvorm="pv"/>
-        <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" index="1" lcat="np" lemma="den" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="den" sense="den" word="den"/>
-        <node begin="2" cat="inf" end="8" id="6" rel="vc">
-          <node begin="2" end="3" id="7" index="1" rel="su"/>
-          <node aform="base" begin="3" buiging="met-e" end="4" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="V-den" id="8" lcat="np" lemma="volgen" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="obj1" rnum="pl" root="volg" sense="volg" special="a_noun" word="volgenden"/>
-          <node begin="4" end="5" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mod" rnum="sg" root="dag" sense="dag" special="tmp" word="dag"/>
-          <node begin="5" cat="pp" end="7" id="10" rel="mod">
-            <node begin="5" end="6" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="11" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
-            <node begin="6" end="7" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="12" lcat="np" lemma="Duitschland" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Duitschland" sense="Duitschland" word="Duitschland"/>
-          </node>
-          <node begin="7" buiging="zonder" end="8" frame="verb(zijn,inf(no_e),transitive_ndev_ndev)" his="normal" his_1="normal" id="13" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="transitive_ndev_ndev" sense="ga" word="gaan" wvorm="inf"/>
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" end="1" genus="zijd" getal="ev" graad="basis" id="2" index="1" lemma="Bekker" naamval="stan" ntype="eigen" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" root="Bekker" word="Bekker"/>
+      <node begin="1" end="2" id="3" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" word="zou" wvorm="pv"/>
+      <node begin="0" cat="inf" end="8" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" cat="np" end="5" id="6" rel="mod">
+          <node begin="2" end="3" id="7" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" word="den"/>
+          <node begin="3" buiging="met-e" end="4" id="8" lemma="volgen" pos="adj" positie="prenom" postag="WW(od,prenom,met-e)" pt="ww" rel="mod" root="volg" word="volgenden" wvorm="od"/>
+          <node begin="4" end="5" genus="zijd" getal="ev" graad="basis" id="9" lemma="dag" naamval="stan" ntype="soort" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" root="dag" word="dag"/>
         </node>
+        <node begin="5" cat="pp" end="7" id="10" rel="ld">
+          <node begin="5" end="6" id="11" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" vztype="init" word="naar"/>
+          <node begin="6" end="7" genus="onz" getal="ev" graad="basis" id="12" lemma="Duitsland" naamval="stan" ntype="eigen" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" root="Duitsland" word="Duitschland"/>
+        </node>
+        <node begin="7" buiging="zonder" end="8" id="13" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" word="gaan" wvorm="inf"/>
       </node>
     </node>
-    <node begin="8" end="9" frame="punct(punt)" his="robust_skip" id="14" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="8" end="9" id="14" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." word="."/>
   </node>
-  <sentence sentid="41-1">Bekker zou den volgenden dag naar Duitschland gaan .</sentence>
-  <comments>
-    <comment>Q#41-1|Bekker zou den volgenden dag naar Duitschland gaan .|1|2|10.690483904560008</comment>
-  </comments>
+  <sentence>Bekker zou den volgenden dag naar Duitschland gaan .</sentence>
 </alpino_ds>
