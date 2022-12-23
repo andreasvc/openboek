@@ -67,3 +67,20 @@ dataset contains about 103,000 tokens.
 | PG11024 | 1860 | Multatuli          | Max Havelaar                           |
 | PG30933 | 1890 | Arthur Conan Doyle | Sherlock Holmes en de Agra-schat       |
 
+## Reference
+
+If you use this dataset for research, please cite the
+[following paper](https://clinjournal.org/clinj/article/view/157):
+
+```bibtex
+@article{vancranenburgh2022openboek,
+    author={van Cranenburgh, Andreas  and  van Noord, Gertjan},
+    year={2022},
+    title={OpenBoek: A Corpus of Literary Coreference and Entities with an Exploration of Historical Spelling Normalization},
+    journal={Computational Linguistics in the Netherlands Journal},
+    volume={12},
+    month={Dec.},
+    pages={235–251},
+    url={https://clinjournal.org/clinj/article/view/157},
+}
+```
