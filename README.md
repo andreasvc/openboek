@@ -47,6 +47,8 @@ with several layers of linguistic annotations.
   based on the output of https://github.com/gertjanvannoord/oudeboeken
   For a subset, manually corrected versions (gold standard spelling) of these are provided as well.
 - pos: manually corrected POS tags (CGN coarse tags).
+- quotes: manually annotated speakers of direct speech spans; annotated using https://github.com/muzny/quoteannotator/
+  For annotation guidelines and more information, see https://github.com/frenkvdberg/dutchqa
 
 ## Corpus
 
