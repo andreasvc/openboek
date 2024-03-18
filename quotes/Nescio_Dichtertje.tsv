@@ -1,0 +1,305 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s1	""" Hij heeft gezegd , dat hij vol van mij is .
+ Vroeger kon je daar op aan . ""
+"	de_God_van_Nederland	m	_de_God_van_Nederland	none	implicit	97	0	19
+1	s3	""" Der Tüchtigkeit ist die Welt """	de_keizer	m		none	none	323	9	15
+2	s5	""" Heer in den hemel had hij al die meisjes geschapen ?
+ Of was 't een grapje van den duivel , al die wetende oogen ? ""
+"	de_God_van_Nederland	m		none	none	391	0	26
+3	s6	""" Mon âme prend son élan vers l'infini . ""
+"	DICHTERTJE	m		none	none	747	11	20
+4	s7	""" Wie was die meneer ? """	DICHTERTJE	m	den_duivel	m	implicit	919	0	6
+5	s9	""" God """	den_duivel	m	DICHTERTJE	m	implicit	930	0	2
+6	s258	""" Jouw God , de God van je baas en van je schoonvader en van je baas z'n boekhouder en van den gérant van de "" Nieuwe Karseboom "" .
+ De God van je tante , die zei , dat je moest groeten als je langs 't huis van je baas kwam in Delft of Oldenzaal , waar was 't ook weer , ook al zag je niemand , je kon nooit weten wie 't zag .
+ Van je tante , die je zuster altijd liet breien .
+ "" Een vrouw mag niet stilzitten . ""
+ De God van al die menschen , die zullen zeggen : "" Dat had ik van jou niet gedacht , "" als je nog eens probeert te leven en die zullen zeggen : "" Dat had ik altijd wel gedacht , dat kon niet goed gaan , "" als je later in 't werkhuis moet .
+ De God , die niet hebben kan , dat je 's Zaterdagsmiddags vrij bent , de God van meneer Volmer , hoogleeraar in 't boekhouden en de bedrijfsleer , die vindt , dat je veel te veel naar de lucht kijkt .
+ De God van allen die geen andere keus hebben dan werken of vervelen .
+ De God van Nederland , van heel Nederland , van Surhuisterveen en Spekholzerheide , donateur van den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen .
+ Dat noemen ze vallen .
+ Ik ben ook gevallen . """	den_duivel	m	DICHTERTJE	m	implicit	950	0	251
+7	s15	""" De beeldspraak is inderdaad gebrekkig """	DICHTERTJE	m	den_duivel	m	implicit	1202	0	6
+8	s17	""" Nu vallen """	DICHTERTJE	m		none	none	1271	0	3
+9	s18	""" Mon âme prend son élan vers l'infini , """	den_duivel	m	DICHTERTJE	m	implicit	1280	0	9
+10	s19	""" Duivel """	DICHTERTJE	m	den_duivel	m	explicit	1322	0	2
+11	s21	""" mij belazer je niet . ""
+"	DICHTERTJE	m	den_duivel	m	explicit	1328	6	12
+12	s31	""" 't Ideaaltje """	honderde_andere_meisjes	(pl, f)		none	none	1922	5	8
+13	s32	""" Om mij ? die engert ? """	een_lief_jong_levendig_natuurlijk_vrouwtje	f		none	none	2037	0	7
+14	s34	""" De Uren """	DICHTERTJE	m		none	none	2111	0	3
+15	s35	""" Hoe gaan de uren zoo zwaar met loggen tred """	DICHTERTJE	m		none	none	2116	0	10
+16	s36	""" Die Kreuzfahrer """	DICHTERTJE	m		none	none	2128	0	3
+17	s37	""" Dort unten lag die heilge Stadt in ihrer Glorie """	DICHTERTJE	m		none	none	2133	0	10
+18	s38	""" Mijn God , zal dan mijn kwelling nimmer einden ? ""
+"	DICHTERTJE	m	de_God_van_Nederland	m	explicit	2172	0	11
+19	s40	""" Mijn heilig lief """	DICHTERTJE	m		none	none	2227	0	4
+20	s41	""" Nu is de wereld een groot zomerland """	DICHTERTJE	m		none	none	2233	0	8
+21	s264	""" God gooide de poorten des hemels open ,
+ Mijn zoete lief zat op een gouden troon """	DICHTERTJE	m		none	none	2243	0	17
+22	s45	""" als 't een nette burgerjongen was en ze hield van 'm ... .. , maar geen scharrelpartij . ""
+"	Haar_moe	f	een_meisje	f	implicit	2358	6	25
+23	s47	""" wat een nette jongen """	een_tante	f	een_meisje	f	implicit	2646	10	15
+24	s49	""" Wat heb je daar een snoezig taschje . ""
+"	haar_aanstaande_schoonmoeder	f	een_meisje	f	implicit	2699	0	9
+25	s50	""" Uit 't City-magazijn ? ""
+"	haar_aanstaande_schoonmoeder	f	een_meisje	f	implicit	2709	0	5
+26	s51	""" Nee , van Liberty """	een_lief_jong_levendig_natuurlijk_vrouwtje	f	haar_aanstaande_schoonmoeder	f	implicit	2715	0	5
+27	s52	""" Je ziet tegenwoordig heel veel van die taschjes met een klein taschje buitenop . ""
+"	haar_aanstaande_schoonmoeder	f	een_meisje	f	implicit	2722	0	15
+28	s53	""" Nee , die vind ik om de waarheid te zeggen niet zoo aardig . ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f	haar_aanstaande_schoonmoeder	f	implicit	2738	0	15
+29	s54	""" Och , ieder z'n smaak .
+ Onze Riek heeft zoo één en die vind ik ook heel aardig """	haar_aanstaande_schoonmoeder	f	een_meisje	f	implicit	2754	0	19
+30	s55	""" Zal ik 't licht aan laten , Clara ? ""
+"	haar_man	m	Clara	f	anaphoric_pronoun	3505	11	21
+31	s56	""" pardon """	haar_man	m		none	none	3531	6	8
+32	s58	""" Ik vind jou mooi , vind jij mij mooi ? ""
+"	DICHTERTJE	m	Coba	f	none	3788	0	11
+33	s59	""" Ik wil je hebben als ik durf , wil jij mij hebben als je durft ? ""
+"	DICHTERTJE	m		none	none	3800	0	17
+34	s60	""" Even wil ik een levend mensch zijn , even vrij , een Godin , geen dame van 't Museumkwartier , geen dochter van die , zuster van die , vrouw van die , moeder van die , vriendin van Mevr. die .
+ Even , in mijn gedachten .
+ Mijn gedachten gaan naar jou door mijn oogen , mijn gedachten kunnen wijd en zijd gaan , vooruit en achteruit in den tijd , door alle bedeksels gaan mijn gedachten .
+ Niemand kan hen vatten of deeren , naar jou gaan mijn gedachten door mijn oogen . ""
+"	DICHTERTJE	m		none	none	3818	0	96
+35	s61	""" Ik vind je mooi en jij vindt mij ook mooi .
+ Mijn hart zingt in mijn lijf en m'n hersens zingen onder m'n haren .
+ Mooi haar , hé ? ""
+"	DICHTERTJE	m		none	none	4083	0	31
+36	s63	""" Clara """	DICHTERTJE	m		none	none	4266	18	20
+37	s64	""" 'k Ben mal """	lieve_jonge_natuurlijke_vrouwtjes	(pl, f)		none	none	4417	0	4
+38	s66	""" Zoo'n vent , wat verbeeldt zich die wel ?
+ Een man die denkt dat ik verliefd zal worden , omdat ie zich zelf aan een brok haar trekt , bah . ""
+"	een_hoogstaande_vrouw	f		none	none	4579	12	44
+39	s68	""" Maatje , waarom doet u dat ? ""
+"	een_meisje	f	Coba	f	implicit	4933	29	37
+40	s69	""" Wat , Bobi ? ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f	Bobi	f	explicit	4948	6	11
+41	s71	""" Waarom zoent u me ineens ? ""
+"	een_meisje	f	Coba	f	implicit	4954	0	7
+42	s72	""" Maar kindje , maatje zoent je toch wel meer ineens ?
+ Wil Bobi nog een taartje ?
+ Maar dan moet je je niet zoo vuil maken , hoor .
+ Zal mammi 't zelf gaan uitzoeken voor kindje ?
+ Zoet blijven zitten hoor ! ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f	Bobi	f	implicit	4962	0	44
+43	s74	""" Kom Bobi , maak voort , wacht , zal ik je helpen ? ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f	Bobi	f	explicit	5080	0	14
+44	s76	""" Bah , wat een vies kindje . ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f		none	none	5130	0	8
+45	s77	""" Mammi , dat doe je zelf . ""
+"	een_meisje	f		none	none	5139	0	8
+46	s79	""" Wil je meteen weg ? ""
+"	DICHTERTJE	m	_Bobi	none	implicit	5206	0	6
+47	s80	""" Ik moet nog wol koopen om mijn manteltje af te breien .
+ Ik kan nergens de kleur krijgen .
+ 'k Ben in wel vier winkels geweest en toen dacht ik , ik zal maar eerst hier naar toe gaan , want 't werd zoo laat . ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f	_Bobi	none	implicit	5213	0	47
+48	s81	""" Nou vooruit dan maar , heb je betaald ? aanneme ! ""
+"	DICHTERTJE	m	_Bobi	none	implicit	5276	0	12
+49	s82	""" Dag meneer . ""
+"	een_meisje	f	_den_duivel	none	implicit	5312	12	16
+50	s84	""" Maatje , die meneer heeft al dien tijd naar u gekeken . ""
+"	den_duivel	m	_den_duivel_en_Coba	none	implicit	5328	0	13
+51	s85	""" O God , """	DICHTERTJE	m		none	none	5383	0	4
+52	s86	""" als er nu eens een wonder gebeurde , als nu eens in eens van al die vrouwen al de kleeren afvielen ? ""
+"	DICHTERTJE	m		none	none	5391	8	31
+53	s88	""" Dag Dora , ken je me niet meer ? ""
+"	DICHTERTJE	m	Dora	f	explicit	6036	0	10
+54	s89	""" Dag Ee , """	Dora	f	DICHTERTJE	m	explicit	6148	0	4
+55	s90	""" Dora , wat zie je d'r lief uit , is m'n schoonmama thuis en m'n schoonvader ? ""
+"	DICHTERTJE	m	Dora	f	explicit	6161	0	18
+56	s94	""" Daar is Ee . ""
+"	Dora	f	Dora	f	implicit	6209	0	5
+57	s96	""" Hier zusje , daar heb je je speelgoed !
+ Is Em nog op de kostschool ? ""
+"	DICHTERTJE	m	_Dora	none	implicit	6249	0	17
+58	s98	""" Hebben jelui mekaar al behoorlijk goeien dag gezegd ? ""
+"	Haar_moe	f	_Dora	none	implicit	6281	14	24
+59	s99	""" Dag vol licht en hemelgloed , """	Dora	f		none	implicit	6509	14	21
+60	s100	""" Dag Ee """	Dora	f	_Dora	none	explicit	6539	9	12
+61	s101	""" Kind , wat wor je groot , ik hoef je waarachtig niet eens meer op te tillen . ""
+"	DICHTERTJE	m	_Dora	none	implicit	6597	0	19
+62	s104	""" Haar borsten werden immers al groot , wacht maar . ""
+"	DICHTERTJE	m	_Dora	none	implicit	6637	0	11
+63	s105	""" Dora , de melk kookt over , Maartje is naar 't dorp . ""
+"	z'n_schoonvader	m	_Dora	none	implicit	6649	0	14
+64	s106	""" Hoe was hij er ook weer toe gekomen , 't Duitsche rijk te laten stichten ?
+ Die Pruisen ... .. ""
+"	de_God_van_Nederland	m		none	none	7386	19	40
+65	s108	""" Hier moe . ""
+"	Dora	f	z'n_schoonmoeder	f	implicit	7862	0	4
+66	s109	""" Kwart-over tienen . ""
+"	Haar_moe	f	Dora	f	implicit	7891	24	28
+67	s110	""" God , als 't eens waar was , dat U mij lief heeft , """	Dora	f		none	none	8079	0	15
+68	s112	""" Coba wat ben je toch lief . ""
+"	Dora	f	Coba	f	explicit	8195	27	35
+69	s113	""" dertien minuten over half twee . ""
+"	Haar_moe	f	_Dora	none	implicit	8224	20	27
+70	s116	""" Jonge , """	Hein	m	DICHTERTJE	m	implicit	8952	0	3
+71	s118	""" wat ben jij een fijne man geworden . ""
+"	Hein	m	DICHTERTJE	m	implicit	8959	7	16
+72	s120	""" veelbelovend """	meneer_Scharten	m		none	none	9431	38	40
+73	s293	""" Ik kijk van terzij in je groote oogen .
+ En zie een blauw ' en een gouden vonk """	net_verloofde_man	m	net_verloofde_vrouw	f	implicit	9640	0	19
+74	s123	""" Die meneer keek net . ""
+"	net_verloofde_vrouw	f	DICHTERTJE_en_net_verloofde_man	(pl)	implicit	9670	3	9
+75	s124	""" Mijn doode hart is zoo zwaar te dragen """	DICHTERTJE	m		none	none	9778	8	17
+76	s125	""" Een groot dichter worden en dan vallen , Godverdomme . ""
+"	DICHTERTJE	m		none	none	9874	25	36
+77	s129	""" Ik geloof uit Shanghai , is 't niet Shanghai , Eduard ? ""
+"	een_lief_jong_levendig_natuurlijk_vrouwtje	f	DICHTERTJE	m	implicit	10021	24	37
+78	s132	""" Jeisis , de raakdom komt oltjes kaupe . ""
+"	een_tweede_meisje	f		none	none	10429	18	27
+79	s134	""" Hè , mensche , 'k dacht waarachtig dattik de tram hoorde bellen . ""
+"	Haar_moe	f		none	none	10480	0	14
+80	s141	""" Daar heb je Bovenkerk """	Dora	f	Em	f	implicit	10678	12	17
+81	s142	""" Vrij jij met den IJseldijk """	Em	f	Dora	f	implicit	10685	0	6
+82	s145	""" Ouwe kneut . ""
+"	Em	f	Dora	f	implicit	10704	19	23
+83	s147	""" Zou ze in één van m'n schriften hebben gekeken ?
+ Ik laat er toch nooit één zwerven . ""
+"	Dora	f		none	none	10733	0	19
+84	s148	""" Zeg is 't waar , dat je tegenwoordig iederen avond op kantoor zit ? ""
+"	Dora	f	Jasses	none	implicit	11311	0	15
+85	s150	""" Moet dat ? ""
+"	Dora	f	Jasses	none	implicit	11330	0	4
+86	s152	""" Waarom doe je 't dan ? ""
+"	Dora	f	Jasses	none	implicit	11341	0	7
+87	s154	""" Om vooruit te komen in de wereld .
+ 't Wordt je niet cadeau gedaan . ""
+"	DICHTERTJE	m	Dora	f	implicit	11353	0	16
+88	s155	""" Wat zou jij dan willen ? ""
+"	DICHTERTJE	m	Dora	f	implicit	11376	0	7
+89	s156	""" Kijken ... en denken ... en schrijven , """	Dora	f	Jasses	none	implicit	11384	0	9
+90	s157	""" ten minste als je dat kunt . ""
+"	Dora	f	Jasses	none	none	11401	0	8
+91	s159	""" Nix gedaan , Doortje .
+ Je wordt er nix beter van , 't stomste vee is 't beste af .
+ Geloof je niet dat Bovenkerk een gelukkige kerel is ? ""
+"	DICHTERTJE	m	Dora	f	explicit	11415	0	31
+92	s161	""" Hè , schrijven wat je denkt is zoo fijn , zoo roef , roef , je weet zelf niet hoe je 't doet .
+ 't Staat er ineens precies zooals 't er staan moet .
+ En als je 't dan naderhand leest , dan leef je in eens weer je eigen leven van toen en toch weet je niet , of je dat nu zelf bent of een ander . ""
+"	Dora	f	Jasses	none	implicit	11457	0	71
+93	s162	""" dat is een echte , """	DICHTERTJE	m		none	none	11573	5	11
+94	s163	""" God brengt ons op een hoogte , om ons te laten afdalen .
+ De weg over den top is kort , maar de dalen zijn lang .
+ Die op den top is geweest , slijt zijn dagen in verdriet . ""
+"	DICHTERTJE	m	Dora	f	implicit	11598	7	48
+95	s164	""" Ik leef altijd op den top . ""
+"	Dora	f	Jasses	none	implicit	11653	13	21
+96	s165	""" Goed zoo , """	DICHTERTJE	m		none	none	11666	4	8
+97	s168	""" Mooi hè ? ""
+"	Dora	f	Jasses	none	implicit	11682	0	4
+98	s169	""" Aan mijn lijf geen Bovenkerk . ""
+"	Dora	f		none	none	11747	60	67
+99	s174	""" Kijk eens wat leuk """	Dora	f	DICHTERTJE	m	implicit	12581	0	5
+100	s178	""" Weet jij een goeie winkel ? ""
+"	DICHTERTJE	m	Dora	f	implicit	12949	4	11
+101	s179	""" Ik houd van hem .
+ Ik kan niet anders .
+ Ik wil .
+ God sta me bij . ""
+"	Dora	f		none	none	13349	13	32
+102	s180	""" 't Zal wel zoo zijn , """	Dora	f		none	none	13403	22	29
+103	s181	""" Môgge , dames en heeren . ""
+"	DICHTERTJE	m		none	none	13441	0	7
+104	s185	""" hard gewerkt . ""
+"	men	(pl, fm)		none	none	14239	13	17
+105	s187	""" Ja jongen , de ernst des levens . ""
+"	je_tante	f	DICHTERTJE	m	implicit	14295	8	17
+106	s188	""" En wat dan nog ? """	Dora	f		none	none	14361	0	6
+107	s189	""" Kakmadam . ""
+"	een_klein_jongetje	m		none	none	14602	60	63
+108	s190	""" Dora , """	DICHTERTJE	m	Dora	f	explicit	14645	0	3
+109	s193	""" hoe vind je Penning ? ""
+"	DICHTERTJE	m	Dora	f	explicit	14654	9	15
+110	s194	""" Hoe vind je Penning ? ""
+"	DICHTERTJE	m	Dora	f	implicit	14802	0	6
+111	s195	""" Gaat nogal , """	Dora	f	DICHTERTJE	m	implicit	14809	0	4
+112	s196	""" Komende maand trouwt Em . ""
+"	DICHTERTJE	m	Dora	f	implicit	14842	0	6
+113	s198	""" Penning komt om jou """	DICHTERTJE	m	Dora	f	implicit	15123	3	8
+114	s199	""" Luister goed Dora , neem hem .
+ Hij zal je vragen , ik weet 't .
+ Neem hem , trouw met 'm .
+ Verval niet aan de kunst of iets dat er op lijkt . ""
+"	DICHTERTJE	m	Dora	f	explicit	15146	0	36
+115	s201	""" Ik trouw niet """	Dora	f	DICHTERTJE	m	implicit	15303	0	4
+116	s202	""" Hier """	DICHTERTJE	m	Dora	f	implicit	15336	0	2
+117	s204	""" wil je dien sleutel meenemen ?
+ Die is van de straatdeur .
+ Bonger zou tegen tienen bij jelui komen om 'm te halen .
+ Hij zou vannacht hier slapen .
+ Hij moest vandaag van z'n kast af en kan pas morgen op de de nieuwe .
+ 'k Had 'm gezegd dat ik niet zeker wist of ik thuis zou zijn . ""
+"	DICHTERTJE	m	Dora	f	implicit	15342	6	68
+118	s205	""" Ga je dan nog uit ? ""
+"	Dora	f	DICHTERTJE	m	implicit	15405	0	7
+119	s206	""" Ga je dan nog uit ? ""
+"	Dora	f	DICHTERTJE	m	implicit	15438	0	7
+120	s208	""" Misschien . ""
+"	DICHTERTJE	m	Dora	f	implicit	15452	0	3
+121	s210	""" Dag Ee , tot morgenavond bij moe """	Dora	f	DICHTERTJE	m	explicit	15507	0	8
+122	s212	""" Dag Dora , au revoir camarade . ""
+"	DICHTERTJE	m	Dora	f	explicit	15522	0	8
+123	s213	""" Nou dag """	Dora	f	DICHTERTJE	m	implicit	15556	0	3
+124	s214	""" Dag hoor , """	DICHTERTJE	m	Dora	f	implicit	15561	0	4
+125	s216	""" Voelt zich aan zich door zich alleen verbonden . ""
+"	Dora	f		none	none	15827	26	36
+126	s218	""" Makkelijk praten """	Dora	f		none	none	15853	0	3
+127	s219	""" Wat een vulgair stel """	Dora	f		none	none	15885	8	13
+128	s220	""" Der minnen vruchten ic u mildelijck gaf , Maer een ewich zuchten houde ic daer af """	Dora	f		none	none	15892	0	17
+129	s223	""" 't Zal niet zijn . ""
+"	Dora	f		none	none	15975	0	6
+130	s224	""" Dag moe , ik kom direct beneden """	Dora	f	Haar_moe	f	explicit	15992	0	8
+131	s225	""" Ik houd van jou """	Dora	f		none	none	16060	10	15
+132	s227	""" Zou ik gek worden ? ""
+"	Dora	f		none	none	16173	0	6
+133	s228	""" hij had afscheid van haar genomen , er was iets niet in orde , ze moest terug . ""
+"	Dora	f		none	none	16205	10	29
+134	s229	""" Ik heb iets vergeten , over een half uurtje ben ik weer terug . ""
+"	Dora	f	Haar_moe	f	implicit	16237	0	15
+135	s230	""" Ee , waar ben je """	Dora	f		none	none	16338	0	6
+136	s232	""" Ee , wat doe je ? ""
+"	Dora	f	DICHTERTJE	m	explicit	16394	0	7
+137	s233	""" Dora """	DICHTERTJE	m	Dora	f	explicit	16426	4	6
+138	s234	""" Dit is de wraak , zij boet voor een wereld """	DICHTERTJE	m		none	none	16472	13	24
+139	s237	""" Kwart over achten .
+ Consummatum est . ""
+"	den_duivel	m	DICHTERTJE	m	implicit	16525	0	8
+140	s238	""" Consummatum est , ga mee en zie . ""
+"	Heer_in_den_hemel	m	DICHTERTJE	m	implicit	16550	10	19
+141	s239	""" Eduard """	Bonger_en_Graafland	f	DICHTERTJE	m	implicit	16639	0	2
+142	s241	""" Ik ben God """	DICHTERTJE	m	Bonger_en_Graafland	f	implicit	16647	0	4
+143	s243	""" Ik ben meer dan God .
+ Ik ben de onwrikbare , de onbarmhartige .
+ Ik ken geen goed of kwaad .
+ Ik doe wat ik moet .
+ Wat ik doe is goed . ""
+"	DICHTERTJE	m	Bonger_en_Graafland	f	implicit	16656	0	34
+144	s244	""" Ga weg """	DICHTERTJE	m	Bonger_en_Graafland	f	implicit	16704	0	3
+145	s246	""" Zei ik , dat ik God was ?
+ Ik ben 't eeuwige leven .
+ Ik ben de vruchtbaarheid .
+ God heeft me gezonden .
+ Bedek me niet """	DICHTERTJE	m	Bonger_en_Graafland	f	implicit	16721	0	28
+146	s247	""" Bedek me niet .
+ Ik ben de vruchtbaarheid .
+ Breng alle vrouwen hier , alle jonge vrouwen .
+ Alle zeg ik .
+ Ik ken je wel .
+ Jij bent Bonger , die andere is Graafland .
+ Ik ken jelui wel .
+ Leg dat laken op bed .
+ Zij moet er op liggen .
+ Leg haar er op , de eerste , heelemaal naakt .
+ De anderen hoeven niet weg te gaan .
+ Ze moeten zien .
+ Je kunt gaan Bonger , en jij ook , Graafland """	DICHTERTJE	m	Bonger_en_Graafland	f	implicit	16756	0	87
+147	s249	""" Sta stil , doe je arm omlaag """	Bonger	fm	Graafland_en_DICHTERTJE	(pl)	implicit	16853	0	8
+148	s251	""" Ga op dien stoel zitten """	Bonger	fm	Graafland_en_DICHTERTJE	(pl)	implicit	16875	0	6
+149	s252	""" Kleed je aan """	Graafland	fm	Bonger_en_DICHTERTJE	(pl)	implicit	16906	0	4

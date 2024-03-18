@@ -1,0 +1,185 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s96	"- Haast je dan toch , Paul !
+ We komen niet klaar !"	Frédérique_Van_Erlevoort	f	je	m	explicit	46	0	12
+1	s97	- Haast je toch , Paul !	Frédérique_Van_Erlevoort	f	je	m	explicit	251	0	6
+2	s98	Het is al over half negen !	Frédérique_Van_Erlevoort	f	je	m	implicit	264	0	6
+3	s101	- Ja , ja , Freddy , wees maar niet bang , je bent al klaar !	je	m	Frédérique_Van_Erlevoort	f	explicit	271	0	16
+4	s103	- Klaar ?	Marie_en_Lili	(pl, f)	Frédérique_Van_Erlevoort_en_je	(pl)	implicit	304	0	2
+5	s104	- Klaar !	je	m	Frédérique_Van_Erlevoort_en_Marie_en_Lili	(pl)	implicit	334	0	2
+6	s105	"- Weg van dat kruis , Jan en Karel !
+ Geef die lier op , andere Jan !"	je	m	Frédérique_Van_Erlevoort_en_Jan_en_Karel_en_andere_Jan_en_Marie_en_Bet_en_Dien	(pl)	implicit	458	0	17
+7	s10	"- Je vergeet mijn kroon ....
+"	Frédérique_Van_Erlevoort	f	je_en_Bet_en_Dien	(pl)	implicit	549	0	5
+8	s108	"- Die zal ik je opzetten , als je gepozeerd bent .
+ Kom , allons ."	je	m	Frédérique_Van_Erlevoort_en_Bet_en_Dien	(pl)	implicit	555	0	15
+9	s109	- Eerst wit , dan groen , dan rood !	Marie	f	de_vuurwerker	fm	explicit	665	0	9
+10	s111	- Voorzichtig , Freddy , voorzichtig !	je	m	Frédérique_Van_Erlevoort_en_Marie_en_Lili_en_Bet_en_Dien	(pl)	implicit	711	0	6
+11	s12	- Is het zoo goed	Frédérique_Van_Erlevoort	f	je_en_Marie_en_Lili_en_Bet_en_Dien	(pl)	implicit	756	0	4
+12	s14	"- Je bent om te stelen , prachtig ; nu Marie , Lili hier !
+"	je	m	Frédérique_Van_Erlevoort_en_Marie_en_Lili_en_Bet_en_Dien	(pl)	implicit	777	0	14
+13	s15	"- Marie en Lili , wanhopig kijken ! meer wringen je armen , Lili !
+ In wanhoop , meer in wanhoop !
+ Freddy , jij meer smachten , je oogen omhoog , in je mond iets treurigs .
+"	je	m	Frédérique_Van_Erlevoort_en_Marie_en_Lili_en_Bet_en_Dien	(pl)	implicit	834	0	37
+14	s17	"- Zoo ?
+"	Lili_Verstraeten	f	Frédérique_Van_Erlevoort_en_je_en_Marie_en_Bet_en_Dien	(pl)	implicit	872	0	2
+15	s115	"- Ja , zoo !
+ Zoo is het beter ; stil nu , Marie , alles klaar ?"	je	m	Frédérique_Van_Erlevoort_en_Marie_en_Lili_en_Bet_en_Dien	(pl)	implicit	878	0	17
+16	s116	- Klaar !	Marie	f	Frédérique_Van_Erlevoort_en_je_en_Lili_en_Bet_en_Dien	(pl)	implicit	896	0	2
+17	s119	- Kom , nu maar beginnen !	Lili_Verstraeten	f	Frédérique_Van_Erlevoort_en_je_en_Marie_en_Bet_en_Dien	(pl)	implicit	922	0	6
+18	s120	- Bet , breng de lamp weg ; Dien , de deur dicht , en dan beiden hier , elk aan een kant van de porte-brisée !	je	m	Frédérique_Van_Erlevoort_en_Marie_en_Lili_en_Bet_en_Dien	(pl)	implicit	937	0	26
+19	s123	""" La mort de Cléopâtre ! """	Betsy	f	mevrouw_Van_Erlevoort	f	explicit	1090	25	31
+20	s124	- Dat is Freddy !	Betsy	f	mevrouw_Van_Erlevoort	f	explicit	1228	0	4
+21	s125	beeldig , o beeldig !	Betsy	f	mevrouw_Van_Erlevoort	f	explicit	1236	8	12
+22	s128	- En dat is Marie , en die andere , o , dat is Lili , onherkenbaar !	Betsy	f	Betsy	f	implicit	1282	0	17
+23	s127	- Hoe doen ze het !	mevrouw_Van_Erlevoort	f	Betsy	f	implicit	1328	0	5
+24	s130	- Prachtig , tante , prachtig !	Betsy	f	mevrouw_Van_Erlevoort_en_tante	(pl)	implicit	1352	0	6
+25	s132	"- Wat ligt die Freddy stil !
+ En alles zoo rijk en toch niet overladen !
+ Iets als een schilderij van Makart !"	Betsy	f	mevrouw_Van_Erlevoort	f	implicit	1420	0	22
+26	s134	- De freule uw dochter is al heel gauw levensmoê , mevrouw !	de_jonge_De_Woude_Van_Bergh	f	mevrouw_Van_Erlevoort	f	explicit	1451	0	12
+27	s136	- Was het mooi , mama ?	Lili_Verstraeten	f	Frédérique_Van_Erlevoort_en_tante	(pl)	implicit	1569	0	6
+28	s139	- Was het mooi , mevrouw ?	Frédérique_Van_Erlevoort	f	Lili_en_tante	(pl)	implicit	1579	0	6
+29	s141	- Prachtig mooi !	tante	f	Frédérique_Van_Erlevoort_en_Lili	(pl)	implicit	1590	0	3
+30	s142	"- Nog eens !
+ Ik ben nu al half dood !"	Lili_Verstraeten	f	Frédérique_Van_Erlevoort_en_tante_en_je	(pl)	implicit	1602	0	10
+31	s144	- Lili , rust dan toch !	je	m	Frédérique_Van_Erlevoort_en_tante_en_Lili_en_Marie	(pl)	implicit	1653	0	6
+32	s146	"je krijgt nu zoo een vermoeiende poze .
+ Tante , zegt u toch aan Lili , dat ze moet rusten !"	je	m	Frédérique_Van_Erlevoort_en_tante_en_Lili_en_Marie	(pl)	implicit	1675	22	42
+33	s147	- Dien , witte lakens en witte tulle !	Marie	f	je_en_Dien	(pl)	implicit	1718	0	8
+34	s148	- Ik kan niet meer !	je	m	none	none	none	1772	0	5
+35	s149	Ik moet ook alles alleen doen !	je	m	none	none	none	1785	0	6
+36	s150	- Frédérique , help dan toch eens aan den achtergrond !	je	m	Frédérique_Van_Erlevoort_en_Lili	(pl)	implicit	1894	0	10
+37	s152	- Wat een rommel !	Lili_Verstraeten	f	none	none	none	1959	0	4
+38	s155	- Dien , witte lakens en tulle , gauw !	Freddy_Marie_en_Paul	(pl)	Dien	f	explicit	2012	0	9
+39	s156	- Dien , witte lakens en tulle , alle tulle en gaas , dat er is !	je	m	Dien	f	explicit	2064	0	16
+40	s160	"- Jammer , dat Eline niet is gekomen ; ik had op haar gerekend , om de lange pauzes met wat muziek aan te vullen .
+ Ze zingt zoo lief ."	tante	f	Betsy	f	implicit	2122	0	30
+41	s162	"- Ze was waarlijk niet wel , tante .
+ U begrijpt , hoe 't haar spijt , ooms verjaardag niet te kunnen meêvieren ."	Betsy	f	tante	f	explicit	2153	0	23
+42	s43	"- Wat heeft ze ?
+"	tante	f	Betsy	f	implicit	2177	0	4
+43	s44	"- Ach , ik weet niet , ze was zenuwachtig , geloof ik .
+"	Betsy	f	tante	f	implicit	2182	0	13
+44	s45	"- Ze moet heusch niet zoo toegeven aan die buien .
+ Met een beetje energie kom je die nervoziteit wel te boven .
+"	tante	f	Betsy	f	implicit	2196	0	22
+45	s165	- U weet het , tante , het is de ziekte van het jongere geslacht !	Betsy	f	tante	f	explicit	2219	0	15
+46	s167	- A-propos	tante	f	Betsy	f	implicit	2255	0	1
+47	s169	"De meisjes zullen morgenavond zeker te moê zijn om naar de opera te gaan .
+ Zoû je misschien onze loge willen hebben ?"	tante	f	Betsy	f	implicit	2261	0	22
+48	s47	"- Ik heb morgen een dinertje , tante , maar toch wil ik de loge heel gaarne hebben .
+ Alleen de Ferelijns en Emilie en Georges komen , maar de Ferelijns wilden vroeg weggaan , omdat de kleine Dora weêr niet wel is geweest , en dan zoû ik met Emilie en Georges een acte kunnen gaan hooren .
+"	Betsy	f	tante	f	explicit	2289	0	58
+49	s171	"- Nu , dat is dan afgesproken .
+ Ik zal je de kaartjes sturen !"	tante	f	Betsy	f	implicit	2348	0	14
+50	s50	"- Spreek toch eens iemand aan , Henk .
+ Je staat al den heelen tijd in dien hoek .
+ Circuleer eens een beetje ; je ziet er zoo uit , net of je je verveelt ....
+ Je das zit scheef .
+"	tante	f	Henk	m	explicit	2538	0	40
+51	s51	"- Verbeeld je , mijn mof links , mijn hoed rechts , ik in het midden , en daar stond hij , met open mond , naar me te kijken ....
+"	tante	f	een_luidruchtig_troepje	n	implicit	2732	0	30
+52	s175	- Ik kan niets zien !	de_jonge_De_Woude_Van_Bergh	f	mijn	f	implicit	2798	0	5
+53	s176	- Komt u hier op mijn stoel , freule !	mijn	f	de_jonge_De_Woude_Van_Bergh	f	anaphoric_pronoun	2813	0	9
+54	s54	"- Je bent een dot , Toos , heerlijk !
+ Ik kom .
+ Mag ik even passeeren , mevrouw Van der Stoor ; uw dochter redt me uit den nood .
+"	de_jonge_De_Woude_Van_Bergh	f	mijn_en_mevrouw_Van_der_Stoor	(pl)	implicit	2843	0	30
+55	s178	- O , wat mooi !	de_jonge_De_Woude_Van_Bergh	f	mijn_en_mevrouw_Van_der_Stoor	(pl)	implicit	2930	0	5
+56	s180	- Wat is die Lili elegant !	de_jonge_De_Woude_Van_Bergh	f	mijn	f	explicit	3011	0	6
+57	s181	"Maar hoe zoû ze daar zoo hangen !
+ Hoe houd ze het uit !"	de_jonge_De_Woude_Van_Bergh	f	mijn	f	implicit	3023	0	13
+58	s59	- Ze ligt heelemaal in kussens , maar het is toch erg vermoeiend	mijn	f	de_jonge_De_Woude_Van_Bergh	f	implicit	3037	0	12
+59	s182	Je ziet natuurlijk niets van die kussens , freule .	mijn	f	de_jonge_De_Woude_Van_Bergh	f	implicit	3054	0	9
+60	s183	"- Natuurlijk niet !
+ Het is heel mooi , ik heb nooit zoo iets poëtisch gezien ....
+ Zeg eens , Toos , ik dacht dat je meê zoû doen ?"	de_jonge_De_Woude_Van_Bergh	f	mijn	f	explicit	3064	0	29
+61	s184	"- Ja freule , maar alleen in het laatste tableau met Etienne Van Erlevoort .
+ Nu moet ik langzamerhand weg , om mij te gaan verkleeden ."	mijn	f	de_jonge_De_Woude_Van_Bergh	f	implicit	3094	0	26
+62	s187	- Marie kan zich natuurlijk weêr niet ernstig houden !	de_jonge_De_Woude_Van_Bergh	f	none	none	none	3196	0	9
+63	s188	- Blijft u nog soupeeren , met Cateau ?	tante	f	mevrouw_Van_der_Stoor	f	explicit	3374	0	8
+64	s189	- Morgen kom je toch , niet waar , Toos ; morgenmiddag , om twee uur , komt de fotograaf !	Marie	f	mijn	f	explicit	3481	0	20
+65	s191	"- Wat was het mooist ?
+ Wat was het mooist ?"	zij_allen	none	de_artiesten_en_de_jonge_De_Woude_Van_Bergh_en_Van_Raat_en_Betsy	(pl)	implicit	3560	0	10
+66	s195	- Zoo Elly , nog niet naar bed ?	Betsy	f	Eline	f	explicit	3850	0	8
+67	s194	"- Neen ; ik .... heb wat zitten lezen .
+ Heb je je geamuzeerd ?"	Eline	f	Betsy	f	implicit	3859	0	14
+68	s198	"- O zeker , het was alleraardigst .
+ Ik wou alleen , dat Henk niet zoo ondragelijk vervelend was .
+ Hij zegt geen stom woord , en zit met zijn bête gezicht aan zijn horlogeketting te morrelen , tot ze gaan whisten , in de pauzen ."	Betsy	f	Eline	f	implicit	3874	0	46
+69	s202	- Heb je gezegd aan mevrouw Verstraeten , dat ik ongesteld was ?	Eline	f	Betsy	f	implicit	3950	0	12
+70	s199	"- Ja , maar zusje , je weet , als ik 's avonds thuis kom , verlang ik naar mijn bed .
+ Morgen de rest , vindt je niet ?"	Betsy	f	Eline	f	implicit	3963	0	29
+71	s68	"- Ben je heusch ziek , hè , of ....?
+"	Eline	f	Betsy	f	implicit	4091	0	9
+72	s69	"- Neen .
+ Alleen een beetje .... een beetje lui ....
+ Adieu .
+"	Betsy	f	Eline	f	implicit	4101	0	12
+73	s70	"- Slaap lekker .
+"	Eline	f	Betsy	f	implicit	4114	0	3
+74	s205	- Zoo meisje !	Henk	m	Eline	f	implicit	4278	0	3
+75	s207	Heb je je niet erg verveeld , zoo geheel verlaten ?	Henk	m	Eline	f	implicit	4308	0	10
+76	s208	"- Wel een beetje .
+ Misschien jij nog meer ?"	Eline	f	Henk	m	anaphoric_pronoun	4319	0	9
+77	s212	"- Ik ?
+ Wel neen .
+ Integendeel , de tableaux waren heel aardig ."	Henk	m	Eline	f	implicit	4336	0	13
+78	s213	- Is de peuter stil geweest ?	Henk	m	Eline	f	implicit	4364	0	6
+79	s215	"- Ja .
+ Hij is niet wakker geworden .
+ Blijf je nog op ?"	Eline	f	Henk	m	implicit	4371	0	13
+80	s216	"- Even de couranten inzien .
+ Maar waarom ben jij nog niet naar kooi ?"	Henk	m	Eline	f	implicit	4385	0	14
+81	s217	- Ach .... zoo maar ....	Eline	f	Henk	m	implicit	4400	0	5
+82	s77	"- Is er wat , hé ?
+ Hè meisje ?
+ Kom vertel eens , is er wat ?
+"	Henk	m	Eline	f	implicit	4505	0	17
+83	s220	- Nou , maar je kan het mij gerust vertellen , hoor !	Henk	m	Eline	f	implicit	4536	0	12
+84	s78	"- Ach .... ik heb een beetje het land .
+"	Eline	f	Henk	m	implicit	4549	0	9
+85	s79	"- Waarover ?
+"	Henk	m	Eline	f	implicit	4559	0	2
+86	s222	"- Ach .... ik weet niet .
+ Ik ben wat zenuwachtig , al den heelen dag ."	Eline	f	Henk	m	implicit	4570	0	16
+87	s81	"- Jij met je zenuwen !
+ Kom , zusje , wordt nu weêr vroolijk , hé ?
+ Je bent zoo een gezellige meid , als je wat vroolijk bent , je moet je niet aan die buien overgeven ....
+"	Henk	m	Eline	f	explicit	4599	0	38
+88	s83	"- Wil je een grogje , zus ?
+"	Henk	m	Eline	f	explicit	4661	0	7
+89	s85	"- Dank je ....
+ Ja , een slok uit je glas .
+"	Eline	f	Henk	m	implicit	4669	0	11
+90	s86	"- Kom , meisje , vertel eens , daar is wat , er is wat gebeurd met Betsy , of .... kom , anders ben je zoo vertrouwelijk met me .
+"	Henk	m	Eline	f	implicit	4737	0	30
+91	s227	- Neen , Henk , waarlijk ....!	Eline	f	Henk	m	anaphoric_pronoun	5211	0	6
+92	s229	"- Meisje , je zeurt met je doelloos leven , en al dat moois meer .
+ Waar haal je toch die dingen vandaan ?
+ We houden immers allemaal van je ...."	Henk	m	Eline	f	implicit	5229	0	30
+93	s88	"- Een jonge meid .... en dan praten van een doelloos ....
+ Zus , je bent dol !
+"	Henk	m	Eline	f	explicit	5276	0	17
+94	s89	"- Kom Henk , laat los , hoor !
+ Wees nu niet zoo dwaas , Henk , laat los , Henk !
+"	Eline	f	Henk	m	explicit	5390	0	21
+95	s90	"- Die drommelsche meid ....!
+ Verbeeld je , een van mijn fijne schaaltjes .
+ Dat gaat ze waarachtig met kokend water wasschen .
+ Het is ook altijd zoo , als je die lomperts wat toevertrouwt .
+"	Betsy	f	Eline	f	implicit	8741	0	35
+96	s233	"- A-propos , gisteren bij de Verstraetens hoorde ik , dat ze van avond niet naar de opera gingen , om uit te rusten van de tableaux ; tante vroeg , of ik de loge wilde hebben .
+ Heb je lust te gaan ?"	Betsy	f	Eline	f	implicit	8913	0	43
+97	s91	"- Naar de opera ?
+ En je gasten ?
+"	Eline	f	Betsy	f	implicit	8957	0	8
+98	s92	"- Jeanne Ferelijn wilde vroeg weg , omdat haar kind weêr koû heeft gevat , en ik woû Emilie en haar broêr vragen , of ze meêwillen .
+ Henk kan thuis blijven .
+ Je weet , het is een loge van vier .
+"	Betsy	f	Eline	f	implicit	8966	0	42
+99	s93	"- Het is mij wel .
+ Heel goed .
+"	Eline	f	Betsy	f	implicit	9009	0	8
+100	s237	- Kom Ben , ga je meê naar tantes kamer ?	Eline	f	Ben	n	explicit	9129	0	10

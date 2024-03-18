@@ -1,0 +1,474 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s2	""" Kijk , """	Bavink	m	none	none	none	436	0	3
+1	s3	""" daar heb je waarachtig diezelfde kerel . ""
+"	Bavink	m	none	none	none	443	7	15
+2	s4	""" Lekker weertje , meester """	Bavink	m	DE_UITVRETER	m	implicit	497	0	5
+3	s6	""" Nogal """	DE_UITVRETER	m	Bavink	m	implicit	539	0	2
+4	s8	""" We zijn mooi op tijd """	Bavink	m	DE_UITVRETER	m	implicit	579	0	6
+5	s10	""" Zoo ? """	DE_UITVRETER	m	Bavink	m	implicit	595	0	3
+6	s12	""" ik weet van geen tijd . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	602	7	14
+7	s14	""" kijk eens , een regenboog in 't water . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	645	5	15
+8	s15	""" Ik vind 't hier verdomd leuk """	DE_UITVRETER	m	Bavink	m	implicit	688	0	7
+9	s17	""" 't is jammer , dat 't zoo niet altijd blijft . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	700	12	24
+10	s18	""" Over een uurtje zijn we aan """	Bavink	m	DE_UITVRETER	m	implicit	713	0	7
+11	s20	""" Moet u naar Zierikzee ? """	DE_UITVRETER	m	Bavink	m	implicit	725	0	6
+12	s22	""" Dat wil zeggen """	Bavink	m	DE_UITVRETER	m	implicit	735	0	4
+13	s24	""" ik ga vanavond door naar Veere . ""
+"	Bavink	m	DE_UITVRETER	m	implicit	744	9	17
+14	s25	""" Zoo """	DE_UITVRETER	m	Bavink	m	implicit	753	0	2
+15	s27	""" is u daar gelogeerd ? ""
+"	DE_UITVRETER	m	Bavink	m	implicit	760	7	13
+16	s28	""" Ja , daar ben ik gelogeerd en is u niet die heer uit Amsterdam , die altijd maar aan den waterkant zit ? ""
+"	Bavink	m	DE_UITVRETER	m	implicit	767	0	24
+17	s29	""" Ik zit nog al eens aan den waterkant , altijd is een beetje sterk .
+ 's Nachts lig ik op m'n bed , ik heb een uur noodig om me aan te kleeden en te ontbijten , een half uur zit ik aan mijn lunch en om zes uur moet ik weer eten .
+ Maar ik zit nog al eens aan den waterkant .
+ Daarvoor kom ik naar Zeeland .
+ Ik maak me nog veel te druk .
+ Van de week ben ik naar Amsterdam geweest .
+ Ik moest wel , m'n centen waren op . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	799	7	104
+18	s30	""" Is u Amsterdammer ? """	Bavink	m	DE_UITVRETER	m	implicit	897	0	5
+19	s32	""" Ja , Goddank """	DE_UITVRETER	m	Bavink	m	implicit	906	0	4
+20	s34	""" Ik ook """	Bavink	m	DE_UITVRETER	m	implicit	915	0	3
+21	s35	""" U schildert niet ? """	Bavink	m	DE_UITVRETER	m	implicit	923	0	5
+22	s37	""" Nee Goddank """	DE_UITVRETER	m	Bavink	m	implicit	953	0	3
+23	s39	""" en ik dicht ook niet en ik ben geen natuurvriend en geen anarchist .
+ Ik ben Goddank heelemaal niks . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	961	8	29
+24	s40	""" Kijk """	DE_UITVRETER	m	Bavink	m	implicit	1050	0	2
+25	s42	""" de Stad Gent . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	1057	7	12
+26	s43	""" Nee """	DE_UITVRETER	m	Bavink	m	implicit	1136	0	2
+27	s45	""" ik ben niks en ik doe niks .
+ Eigenlijk doe ik nog veel te veel .
+ Ik ben bezig te versterven .
+ Het beste is , dat ik maar stil zit , bewegen en denken is goed voor domme menschen .
+ Ik denk ook niet .
+ 't Is jammer dat ik eten en slapen moet .
+ Liefst zou ik dag en nacht blijven doorzitten . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	1143	7	73
+28	s46	""" Dikke Jan , die oue geduldige dikke Jan , hij staat er nog .
+ Ik dacht 't wel .
+ Ja hoor , hij staat er nog . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	1567	35	63
+29	s48	""" Ja """	DE_UITVRETER	m	Bavink	m	implicit	1611	15	17
+30	s49	""" Zoo'n zon toch , hij schijnt maar , maar ie daalt , hij rijst niet meer , 't is over twaalven , hij moet onder ; van avond is 't weer koel .
+ De lui zouden raar kijken als ie niet daalde .
+ Lekker warm hé , mijn goed plakt aan mijn lijf .
+ De zeelucht stoomt mijn boordje uit . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	1680	12	74
+31	s50	""" Die zeelucht graaft """	ze	(pl, fm)	none	none	none	1773	0	4
+32	s54	""" 't Eenigste wat me spijt is dat je op Walcheren niet eens af en toe een relletje hebt . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	1998	5	25
+33	s56	""" alweer een dag , meester """	DE_UITVRETER	m	Bavink_en_de_manke_havenmeester	(pl)	implicit	2206	5	11
+34	s59	""" Ja mijnheer , al weer een . ""
+"	de_manke_havenmeester	m	DE_UITVRETER_en_Bavink	(pl)	implicit	2221	20	28
+35	s60	""" verdomd mooi was """	Bavink	m	none	none	none	2551	30	34
+36	s62	""" Verdienstelijke werk """	De_menschen	(pl, fm)	none	none	none	2597	0	3
+37	s66	""" Verdomme """	Bavink	m	none	none	none	2794	4	6
+38	s72	""" De stakkers toch hè ? ""
+"	Bavink	m	je	m	implicit	3009	22	28
+39	s76	""" ik geloof dat ik nat ben """	Bavink	m	none	none	none	3217	76	83
+40	s78	""" Wat duvel """	DE_UITVRETER	m	Bavink	m	implicit	3376	0	3
+41	s79	""" 't dondert toch niet of 't goed is , je doet wat je kunt , je bent nu eenmaal een stakker .
+ Je moet schilderen .
+ Je kunt 't toch niet laten .
+ 't Hindert immers aan de dingen niet of jij ze nou niet heelemaal zoo krijgen kunt als ze zijn .
+ En de lui , die snappen er toch niets van .
+ Van de dingen niet en van je werk niet en van jou niet .
+ Ik kon mijn tijd toch ook een boel beter besteden dan hier te zitten zuipen en naar die verfboel te koekeloeren .
+ Word ik er minder van ? ""
+"	DE_UITVRETER	m	Bavink	m	implicit	3384	8	115
+42	s80	""" Neen , dat deugt niet """	DE_UITVRETER	m	Bavink	m	implicit	3492	0	6
+43	s82	""" veel te blauw ; je weet toch wat we gisteren afgesproken hebben ?
+ Veel te blauw , kerel .
+ Denk je dat 't je zoo zou aangepakt hebben als 't die rare blauwe kleur had ? ""
+"	DE_UITVRETER	m	Bavink	m	implicit	3504	12	49
+44	s85	""" jonki van den grooten belt """	DE_UITVRETER	m	none	none	none	3700	9	15
+45	s87	""" Japi waar zijn we ? """	je	m	DE_UITVRETER	m	explicit	3843	27	33
+46	s89	""" Ik denk dat we bij Etten-Leur zijn . ""
+"	DE_UITVRETER	m	je	m	implicit	3878	62	71
+47	s90	""" nu komt dit , nu komt dat """	DE_UITVRETER	m	je	m	implicit	3954	11	19
+48	s92	""" Kijk , die boom is weg """	DE_UITVRETER	m	je	m	implicit	3987	4	11
+49	s93	""" Hé , nu zitten er appeltjes aan , die heb ik den vorigen keer nog niet gezien . ""
+"	DE_UITVRETER	m	je	m	implicit	3998	15	34
+50	s94	""" Voor veertien dagen stond de zon net achter de kruin van dien boom , nu staat ie een eindje links er van en wat lager , dat komt omdat we veertien dagen verder zijn en we zijn ook 10 minuten te laat . ""
+"	DE_UITVRETER	m	je	m	implicit	4020	2	46
+51	s95	""" Hoe maak je 't kerel ? ja ik ben 't zelf .
+ Ha , ha , Hoyertje .
+ Hoe gaat 't , Hoyertje , nog altijd een ophakker ?
+ Nogmaals hartelijk gefeliciteerd hoor .
+ En jij ook , Koekebakker , dat je er lang getuige van mag wezen . ""
+"	Bavink	m	ik_en_den_langen_Hoyer	(pl)	explicit	4210	8	58
+52	s96	""" Kom binnen , kerel , kom binnen ! """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4277	0	9
+53	s97	""" Och mijnheer """	den_langen_Hoyer	m	ik_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4294	0	3
+54	s99	""" wees zoo goed de deur achter je dicht te maken . ""
+"	den_langen_Hoyer	m	ik_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4302	8	20
+55	s100	""" Koekebakker """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	explicit	4315	0	2
+56	s102	""" dit is Japi , een kerel waar je plezier van kunt beleven .
+ Hoyer is nog even welgemanierd als altijd , hoor ik """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	explicit	4322	7	31
+57	s103	""" Ga zitten Japi """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4348	0	4
+58	s104	""" neem dat kistje maar . ""
+"	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4371	23	29
+59	s105	""" Wacht ik zal u helpen """	ik	m	den_langen_Hoyer_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4398	0	6
+60	s107	""" Zie zoo """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4451	0	3
+61	s109	""" anders zit ik zoo laag . ""
+"	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4458	7	14
+62	s110	""" Ik zal er maar eentje nemen """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4466	0	7
+63	s112	""" Ga je gang maar Japi """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4485	0	6
+64	s113	""" Wat heb je daar ? """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4499	0	6
+65	s116	""" Aha , Balzac .
+ Geen kwajongen , die oue heer .
+ Dood hè ?
+ Al lang dood .
+ Natuurlijk .
+ Waar kom je vandaan , Hoyer ?
+ Wat heb je daar een mooie jas aan .
+ Ga eens staan .
+ Te kort , kerel , veel te kort """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4523	0	49
+66	s117	""" Dat weet ik potdome ook """	den_langen_Hoyer	m	ik_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4578	0	6
+67	s119	""" Vertel liever eens waar jij gezeten hebt .
+ En wie is die heer ? ""
+"	den_langen_Hoyer	m	ik_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4589	0	15
+68	s120	""" Wacht """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4644	0	2
+69	s121	""" dat is waar ook . ""
+"	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4651	7	13
+70	s122	""" Goeie hoor .
+ Kamper Middelburgers , van Bessem en Hoogenkamp van de Lange Delft . ""
+"	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4658	0	16
+71	s123	""" Bekend """	ik	m	den_langen_Hoyer_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4675	0	2
+72	s125	""" 's Jonge """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4682	0	3
+73	s375	""" 's jonge , "" 't ziet er hier gezellig uit .
+ Waarachtig , 't is hier gezellig """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4698	16	34
+74	s376	""" Aha , Breitner .
+ Heel goed .
+ En wat hebben we daar ?
+ 't Is hier een beetje donker .
+ Zoo , mijn vriend Mauve .
+ En daar heb je waarachtig ons stadhuis ook . """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4727	0	36
+75	s378	""" Bavink """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4774	0	2
+76	s380	""" 'k geloof , dat je daar kennis aan hebt ; ik zoek zoo een baantje , als dat niet een dingetje van jou is . """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4781	7	33
+77	s383	""" Daar kom je goed af """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	4808	0	6
+78	s381	""" Dat dacht ik wel """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4819	0	5
+79	s385	""" Nee maar , ik kom hier vast terug .
+ Ik zit hier goed . """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4833	0	15
+80	s386	""" Klappen """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	4864	0	2
+81	s389	""" Halve garen ! """	een_juffrouw	f	den_langen_Hoyer_en_Bavink_en_ik_en_DE_UITVRETER	(pl)	implicit	4944	7	11
+82	s391	""" Papus """	een_klein_meisje	f	den_langen_Hoyer_en_Bavink_en_ik_en_DE_UITVRETER	(pl)	implicit	4956	0	2
+83	s392	""" Zeppelin ! """	een_klein_meisje	f	den_langen_Hoyer_en_Bavink_en_ik_en_DE_UITVRETER	(pl)	implicit	4960	4	7
+84	s393	""" We moesten de straat maar opgaan """	den_langen_Hoyer	m	ik_en_Bavink_en_DE_UITVRETER	(pl)	implicit	4972	0	7
+85	s139	""" Over ons """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	5000	0	3
+86	s140	""" Zeg Japi """	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	5013	0	3
+87	s142	""" nu moest jij eens een rondje geven . ""
+"	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	5022	9	18
+88	s143	""" O ja """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	5032	0	3
+89	s145	""" vooruit dan maar """	DE_UITVRETER	m	den_langen_Hoyer_en_Bavink_en_ik	(pl)	implicit	5040	8	12
+90	s146	""" deze heer een verdomd goeie kerel was en dat hij een rondje gaf ( dat was Japi ) , en dat de kelner ook een verdomd goeie kerel was . ""
+"	Bavink	m	ik_en_den_langen_Hoyer_en_DE_UITVRETER	(pl)	implicit	5099	21	52
+91	s149	""" die zaak kwam in orde . ""
+"	DE_UITVRETER	m	ik	m	implicit	5228	36	43
+92	s151	""" Jij blijft voorloopig bij Oome Koekebakker , klokje """	ik	m	none	none	none	5604	22	31
+93	s152	""" Zeker Hoyer """	ik	m	none	none	none	6042	0	3
+94	s153	""" die kan nooit den haak vinden . ""
+"	ik	m	none	none	none	6050	8	16
+95	s154	""" Kom binnen """	ik	m	DE_UITVRETER	m	implicit	6087	0	3
+96	s155	""" Makkelijk praten """	DE_UITVRETER	m	ik	m	implicit	6102	0	3
+97	s156	""" hoe zit dat ? ""
+"	DE_UITVRETER	m	ik	m	implicit	6111	9	14
+98	s157	""" Die stem ken ik niet """	ik	m	none	none	none	6117	0	6
+99	s158	""" wie kan dat zijn ? ""
+"	ik	m	none	none	none	6128	11	17
+100	s159	""" Japi """	DE_UITVRETER	m	ik	m	implicit	6151	0	2
+101	s161	""" Kom binnen """	ik	m	DE_UITVRETER	m	implicit	6159	0	3
+102	s163	""" 't Regent nog al """	DE_UITVRETER	m	ik	m	implicit	6186	0	5
+103	s165	""" mag ik even mijn jas uitdoen ?
+ Wacht , dan zullen we dit eerst neerzetten . ""
+"	DE_UITVRETER	m	ik	m	implicit	6196	10	27
+104	s166	""" Ziezoo , kan dit ergens uitgehangen worden ? """	DE_UITVRETER	m	ik	m	implicit	6240	0	9
+105	s168	""" Een oogenblik , ouwe heer """	ik	m	DE_UITVRETER	m	implicit	6267	0	6
+106	s171	""" Wat verschaft me het genoegen ? ""
+"	ik	m	DE_UITVRETER	m	implicit	6325	0	7
+107	s172	""" Zeg maar Japi """	DE_UITVRETER	m	ik	m	implicit	6333	0	4
+108	s175	""" Zie hier , burger """	DE_UITVRETER	m	ik	m	implicit	6358	0	5
+109	s176	""" Mooi zoo """	ik	m	DE_UITVRETER	m	implicit	6365	0	3
+110	s178	""" en wat hebben we daar ? ""
+"	ik	m	DE_UITVRETER	m	implicit	6373	8	15
+111	s179	""" O """	DE_UITVRETER	m	ik	m	implicit	6381	0	2
+112	s180	""" boeken van Appi . """	DE_UITVRETER	m	ik	m	implicit	6388	7	12
+113	s181	""" Leest Appi tegenwoordig 't Handelsblad ? ""
+"	ik	m	DE_UITVRETER	m	implicit	6395	14	21
+114	s182	""" Neen , """	DE_UITVRETER	m	ik	m	implicit	6403	0	3
+115	s184	""" die krant is van mijn ouwe heer , daar stond een advertentie in . """	DE_UITVRETER	m	ik	m	implicit	6410	7	22
+116	s185	""" Een advertentie ? """	ik	m	DE_UITVRETER	m	implicit	6427	24	28
+117	s186	""" Een advertentie ; zie hier , daar even van den ouwen heer gekregen . ""
+"	DE_UITVRETER	m	ik	m	implicit	6433	30	45
+118	s188	""" Wilt u daarop schrijven ? """	ik	m	DE_UITVRETER	m	implicit	6593	0	6
+119	s190	""" Jij , als 't ublieft , """	DE_UITVRETER	m	ik	m	implicit	6603	10	17
+120	s191	""" Willen ?
+ Ik moet van de ouwe heer .
+ Hij zegt : 't kan zoo niet blijven doorgaan .
+ Ik zie niet in , wat niet .
+ Heeft hij last van me ?
+ In vijf weken heb ik maar twee maal thuis geslapen .
+ Geen cent zie ik van hem .
+ Kijk eens hier . ""
+"	DE_UITVRETER	m	ik	m	implicit	6614	0	56
+121	s193	""" Wat bliksem , dien schoen ken ik . ""
+"	ik	m	DE_UITVRETER	m	implicit	6685	0	9
+122	s194	""" Ze zijn nu wat donker van 't water """	DE_UITVRETER	m	ik	m	implicit	6704	9	18
+123	s406	""" Van Appi !
+ En hoe komt dat ?
+ Ik ben m'n ouwen heer niet tot last .
+ Ik loop rond met mijn schoenen tot ze zoo lek zijn als een mand .
+ Appi is een fideele kerel .
+ Schilderen kan ie niet , zal ie nooit leeren , dat zie ik wel , maar hij is een fideele kerel .
+ Sokken hat ie niet over de hand , ik zit met m'n bloote voeten in z'n schoenen """	DE_UITVRETER	m	ik	m	implicit	6727	0	78
+124	s198	""" En boeken heeft ie , in geen jaar kom ik er doorheen , al lees ik dag en nacht . ""
+"	DE_UITVRETER	m	ik	m	implicit	6822	0	21
+125	s199	""" Goeie bullen """	DE_UITVRETER	m	ik	m	implicit	6907	0	3
+126	s201	""" Ik heb mot gehad met Bavink """	DE_UITVRETER	m	ik	m	implicit	6933	0	7
+127	s203	""" Is 't waarachtig ? """	ik	m	DE_UITVRETER	m	implicit	6945	0	5
+128	s206	""" Ik heb z'n kacheltje kaduuk gestookt , Zondagavond . ""
+"	DE_UITVRETER	m	ik	m	implicit	7002	0	10
+129	s208	""" Verrek met je kachel """	DE_UITVRETER	m	Bavink	m	implicit	7127	10	15
+130	s209	""" Bavink ik breng je kaduukstoker mee . ""
+"	Loef	fm	DE_UITVRETER_en_Bavink	(pl)	implicit	7221	29	37
+131	s211	""" Nu wou ik wel een stukje brood hebben """	DE_UITVRETER	m	ik	m	implicit	7364	0	9
+132	s213	""" neem me niet kwalijk , ik geloof dat ik den weg al weet . ""
+"	DE_UITVRETER	m	ik	m	implicit	7378	14	29
+133	s214	""" Kerel """	DE_UITVRETER	m	ik	m	implicit	7403	9	11
+134	s216	""" weet je dat je worst in huis hebt ? ""
+"	DE_UITVRETER	m	ik	m	implicit	7410	16	26
+135	s218	""" Boterhammenworst , een ordinair volksvoedsel . ""
+"	DE_UITVRETER	m	ik	m	implicit	7433	0	7
+136	s220	""" Geneer je niet Japi , centen genoeg . ""
+"	ik	m	DE_UITVRETER	m	explicit	7526	0	9
+137	s221	""" Goddome """	DE_UITVRETER	m	ik	m	implicit	7543	0	2
+138	s223	""" vetpot ! ""
+"	DE_UITVRETER	m	ik	m	implicit	7550	7	10
+139	s224	""" Ze hebben zeker weer wat van je geplaatst """	DE_UITVRETER	m	ik	m	implicit	7554	0	9
+140	s225	""" Zoo moet je maar doen """	DE_UITVRETER	m	ik	m	implicit	7568	0	6
+141	s227	""" die kerels zijn toch nergens anders goed voor dan om ons de kost te geven .
+ Ik heb van m'n leven ook nog eens iets geschreven . ""
+"	DE_UITVRETER	m	ik	m	implicit	7579	11	39
+142	s229	""" Ik zal er maar niet op schrijven , ik deug daar toch niet voor . ""
+"	DE_UITVRETER	m	ik	m	implicit	7632	0	16
+143	s232	""" Moet je niet meer ? """	DE_UITVRETER	m	ik	m	implicit	7713	0	6
+144	s235	""" 's Nachts gemaakt """	DE_UITVRETER	m	ik	m	implicit	7746	0	4
+145	s236	""" Na kantoortijd , 's Avonds moest ik altijd op kantoor terugkomen .
+ Af en toe moest ik m'n hoofd onder de kraan houden om wakker te blijven .
+ Ik zou je nu danken .
+ Wat heb ik er aan ?
+ Niks , moe word je er van .
+ 'k Loop liever bij den weg en kijk naar de menschen en de wagens en de huizen .
+ Speciaal kijk ik naar de lieve jonge meisjes en de pas getrouwde vrouwtjes .
+ Die pas getrouwde vrouwtjes pik je er zoo uit , die herken je dadelijk .
+ En dan denk ik aan 't plezier dat ik van al die lieve diertjes niet heb .
+ Dat doe ik liever dan dat ik er over schrijf .
+ Wat gaat 't die kaffers aan , wat ik zie .
+ Zelf loopen ze bij de straat te sloffen en naar den grond te kijken en trekken vervelende gezichten omdat 't zoo ver is , en 't leven zoo moeilijk , dat je er akelig van wordt .
+ Doen zij iets voor mij ?
+ Die paar centen kunnen ze houden . ""
+"	DE_UITVRETER	m	ik	m	implicit	7766	0	185
+146	s237	""" Nu zou ik wel een potje bier lusten """	DE_UITVRETER	m	ik	m	implicit	7973	0	9
+147	s238	""" 't Spijt me kerel """	ik	m	DE_UITVRETER	m	implicit	7990	0	5
+148	s240	""" ik heb niets in huis , geen bier en geen jenever en geen kleeren om over straat te gaan , maar steek een sigaar op . ""
+"	ik	m	DE_UITVRETER	m	implicit	8000	10	37
+149	s241	""" Die Hoyer , wat is dat toch eigenlijk voor een kerel ? ""
+"	DE_UITVRETER	m	ik	m	implicit	8079	16	29
+150	s242	""" Die kerel deugt niet """	DE_UITVRETER	m	ik	m	implicit	8118	0	5
+151	s244	""" die moet vooral maar veel met verf knoeien , voor iets beters is ie toch niet goed . ""
+"	DE_UITVRETER	m	ik	m	implicit	8128	10	29
+152	s245	""" voor zaken """	DE_UITVRETER	m	ik	m	implicit	8157	9	12
+153	s248	""" Zoo , uitvreter ! ""
+"	den_langen_Hoyer	m	DE_UITVRETER_en_Van_Houten	(pl)	implicit	8245	13	18
+154	s250	""" De burgerman moet ons toch allemaal de kost geven . ""
+"	We	(pl, fm)	none	none	none	8262	0	11
+155	s251	""" Kom """	DE_UITVRETER	m	ik	m	implicit	8364	0	2
+156	s252	""" kwart over negenen , ik stap op .
+ Hoor dien regen eens . ""
+"	DE_UITVRETER	m	ik	m	implicit	8371	7	21
+157	s253	""" Niks te zien """	DE_UITVRETER	m	ik	m	implicit	8393	0	4
+158	s255	""" Je kunt niks zien door dien regen .
+ Foei ik ben rillerig geworden , mijn knieën zijn nog nat .
+ Jammer dat je niks in huis hebt . ""
+"	DE_UITVRETER	m	ik	m	implicit	8402	0	29
+159	s256	""" Moet je ver door dat weer ? """	ik	m	DE_UITVRETER	m	implicit	8445	0	8
+160	s258	""" Ik kan wel naar de ouwe gaan """	DE_UITVRETER	m	ik	m	implicit	8457	0	8
+161	s260	""" maar dat is ook nog een half uur .
+ Dat is je nest , hè ? ""
+"	DE_UITVRETER	m	ik	m	implicit	8470	13	30
+162	s261	""" Ik geloof dat ik ziek ben """	DE_UITVRETER	m	ik	m	implicit	8502	0	7
+163	s263	""" weet je wat je doen moest , haal voor mijn rekening een half maatje ouwe klare , ik zal 't je bij gelegenheid wel teruggeven . ""
+"	DE_UITVRETER	m	ik	m	implicit	8514	12	39
+164	s264	""" Trek mijn jas aan """	DE_UITVRETER	m	ik	m	implicit	8553	0	5
+165	s266	""" Hallo """	ik	m	DE_UITVRETER	m	implicit	8641	0	2
+166	s269	""" Hallo , jenever . ""
+"	DE_UITVRETER	m	ik	m	implicit	8657	0	5
+167	s270	""" O """	DE_UITVRETER	m	ik	m	implicit	8673	0	2
+168	s272	""" ik zie 't al """	DE_UITVRETER	m	ik	m	implicit	8680	7	12
+169	s274	""" Daar knap ik van op . ""
+"	DE_UITVRETER	m	ik	m	implicit	8692	0	7
+170	s275	""" Zeg """	DE_UITVRETER	m	ik	m	implicit	8700	0	2
+171	s277	""" kan ik hier niet maffen ?
+ Ik ben vannacht niet op mijn bed geweest en vandaag kon ik niet slapen . ""
+"	DE_UITVRETER	m	ik	m	implicit	8707	7	29
+172	s278	""" Goddank """	DE_UITVRETER	m	ik	m	implicit	8755	0	2
+173	s280	""" Goddank , dat ik uit die natte krengen ben . ""
+"	DE_UITVRETER	m	ik	m	implicit	8771	0	11
+174	s282	""" Wel te rusten . ""
+"	DE_UITVRETER	m	ik	m	implicit	8859	28	33
+175	s283	""" Ik heb al gegeten """	DE_UITVRETER	m	ik	m	implicit	8979	0	5
+176	s285	""" ik geloof dat je niet al te veel brood meer hebt . ""
+"	DE_UITVRETER	m	ik	m	implicit	8988	9	22
+177	s286	""" Allemaal armoed """	DE_UITVRETER	m	ik	m	implicit	9055	0	3
+178	s288	""" Nou bonjour hoor , mijn jas kan ik zelf wel van de lijn halen . ""
+"	DE_UITVRETER	m	ik	m	implicit	9063	0	16
+179	s290	""" 's Avonds ziet zoo'n hok er een boel gezelliger uit . ""
+"	DE_UITVRETER	m	ik	m	implicit	9090	0	12
+180	s291	""" Koekebakker """	DE_UITVRETER	m	ik	m	explicit	9153	0	2
+181	s293	""" ik voel me zoo raar van binnen . ""
+"	DE_UITVRETER	m	ik	m	explicit	9160	7	16
+182	s294	""" Koekebakker , ik voel me zoo raar van binnen . ""
+"	DE_UITVRETER	m	ik	m	explicit	9207	0	11
+183	s295	""" Je ruikt tenminste degelijk naar jenever """	ik	m	DE_UITVRETER	m	implicit	9219	0	7
+184	s297	""" Nee """	DE_UITVRETER	m	ik	m	implicit	9231	0	2
+185	s299	""" de jenever is 't niet .
+ Ik geloof dat mijn ziel te groot is . ""
+"	DE_UITVRETER	m	ik	m	implicit	9238	7	23
+186	s300	""" Wat moeten die kranten , Japi ? """	ik	m	DE_UITVRETER	m	explicit	9259	0	8
+187	s302	""" Nieuwzen van den Dag , Koekebakker , Nieuwzen van den dag .
+ Er zijn er bij van een maand oud . ""
+"	DE_UITVRETER	m	ik	m	explicit	9279	0	22
+188	s303	""" Moet je weer solliciteeren , Japi ? ""
+"	ik	m	DE_UITVRETER	m	explicit	9302	0	8
+189	s304	""" Juist geraden man .
+ 't Gaat zoo niet langer .
+ Pak een stoel .
+ Kijk eens aan , K H 14684 Nieuws van den Dag .
+ WelEdl .
+ Heeren . """	DE_UITVRETER	m	ik	m	implicit	9311	0	31
+190	s305	""" De hoeveelste is dat ? """	ik	m	DE_UITVRETER	m	implicit	9344	4	10
+191	s307	""" De eerste pas .
+ Dat gaat niet zoo gauw .
+ Dat komt , omdat jelui nooit in den handel zijn geweest , jelui weet niet , hoe 'n toer dat is .
+ Wat zal je drinken , kerel ?
+ Je neemt me wel niet kwalijk ? """	DE_UITVRETER	m	ik	m	implicit	9355	15	62
+192	s308	""" Koekebakker """	DE_UITVRETER	m	ik	m	explicit	9417	0	2
+193	s310	""" 't Gaat niet , ik ben er geen kerel voor .
+ Eenmaal ben ik in den handel geweest .
+ Ik deug er niet voor .
+ Ik weet 't bij ondervinding .
+ Ik begrijp er niks van .
+ Waar is dat allemaal goed voor ?
+ Ik ben zoo best tevreden .
+ We zullen dat maar weer wegbergen . ""
+"	DE_UITVRETER	m	ik	m	explicit	9433	0	58
+194	s419	""" Zie zoo , nu zie ik ze niet meer .
+ Jij weet niet wat handel is , Koekebakker , anders zou je der niet om lachen .
+ Om te beginnen ga je tot je achtiende jaar op school .
+ Heb jij ooit geweten hoeveel schapen er in Australië zijn en hoe diep 't Suezkanaal is ?
+ Nou juist , daar heb je het .
+ Ik heb dat geweten .
+ Weet jij wat polarisatie is ?
+ Ik ook niet , maar ik heb 't geweten .
+ De raarste dingen heb ik moeten leeren .
+ Vertaal in 't Fransch : "" onder benefice van inventaris . ""
+ Ga der maar tegen aan staan .
+ Je hebt er geen begrip van , Koekebakker .
+ Dat duurt zoo jaren .
+ Dan doet je ouwe heer je op een kantoor .
+ Dan merk je , dat je al die dingen geleerd hebt om met een kwast papier nat te maken .
+ Overigens is 't 't ouwe gedonderjaag , 's morgens om negen uur present en urenlang stil zitten .
+ Ik vond dat ik op die manier niet opschoot .
+ Ik kwam altijd te laat , ik probeerde wel op tijd te komen , maar 't wou niet meer , ik had 't zooveel jaren gedaan .
+ En taai .
+ Ze zeiden dat ik alles verkeerd deed , daar zullen ze wel gelijk aan gehad hebben .
+ Ik wilde wel , maar ik kon niet , ik ben geen kerel om te werken .
+ Ze zeiden , dat ik de anderen van hun werk hield .
+ Ook daarin zullen ze wel gelijk gehad hebben .
+ Als ik klaagde , dat ik 't niks lollig vond en vroeg of ik daarvoor nu op school al die wonderlijke dingen had geleerd , dan zei de oue boekhouder : "" Ja jongetje , het leven is geen roman . ""
+ Bakken vertellen , dat kon ik en dat vonden ze leuk ook , maar ze waren er niet tevreden mee .
+ De ouwe boekhouder wist al heel gauw niet wat hij met me doen moest .
+ Als de baas er niet was maakte ik dierengeluiden , zong komieke liedjes , die ze nog nooit hadden gehoord .
+ De zoon van den baas was een ingebeelde kwajongen ; af en toe kwam ie op kantoor om centen te halen .
+ Hij sprak vreeselijk gemaakt en keek met een allerellendigst , door niets gemotiveerd vertoon van superioriteit naar de bedienden van zijn pa .
+ De lui lachten zich een beroerte als ik dien jongeheer nadeed .
+ Ik heb daar ook nog een schrijfmachine bedorven en een boek weggemaakt .
+ Toen hebben ze me aan een toestel gezet , dat ze de "" guillotine "" noemden .
+ Daar moest ik monsters mee knippen .
+ Dagen lang heb ik daaraan gestaan : alle monsters werden scheef .
+ De lui hadden 't wel in de gaten , ze hadden niets anders verwacht .
+ Ze hadden me daar alleen maar aan gezet om erger te voorkomen .
+ Die monsters werden weggegooid ; die gingen nooit naar de klanten .
+ Toch had ik in die dagen nog gelegenheid om een brief verkeerd in te sluiten .
+ Natuurlijk was 't erg ; de man die den brief kreeg mocht niet weten , dat de baas zaken deed met den man waaraan ie geschreven was .
+ De boekhouder was totaal van streek .
+ Toen begreep ik , dat ik maar liever heen moest gaan .
+ Ik kreeg een poot van den baas .
+ Ik was zelf ook blij dat ik wegging en heb hem hartelijk de hand geschud .
+ Ik heb gezegd , dat 't me speet , maar dat ik er niets aan doen kon en ik geloof , dat 'k 't meende .
+ Zie je , Koekebakker , dat is handel .
+ Ik ben daarna nog drie weken volontair geweest op een effectenkantoortje , krantjes nakijken met een boek om te zien of de stukken van de klanten waren uitgeloot .
+ Je ergste vijand zal er voor bewaard blijven .
+ Ze moesten me wegdoen .
+ Ik moest daar ook copieeren .
+ Er was geen denken aan , dat ze uit 't copieboek konden wijs worden .
+ Ik zag wel in dat 't zoo niet ging , ik kon er mijn hoofd niet bij houden .
+ "" Mijn ouwe heer was ten einde raad .
+ Hij hoopt nu , dat 't met de jaren wel beteren zal .
+ Ik weet dat zoo niet .
+ 't Lijkt er nog niet veel op .
+ 'k Heb 't nog veel te goed zoo .
+ Weet je dat Bavink pas een bom duiten heeft gemaakt ?
+ Een slootje bij Kortenhoef met een hooibergje en een kalf .
+ Als je blieft . """	DE_UITVRETER	m	ik	m	explicit	9505	0	791
+195	s416	""" Hij puilt van de centen .
+ Koekebakker , jong , hij puilt van de centen .
+ Harde riksjes .
+ Morgen ga ik op reis . """	DE_UITVRETER	m	ik	m	explicit	10306	0	26
+196	s317	""" Met Bavink ? """	ik	m	DE_UITVRETER	m	implicit	10333	0	4
+197	s319	""" Neen , """	DE_UITVRETER	m	ik	m	implicit	10341	0	3
+198	s320	""" niet met Bavink , alleen .
+ Ik ga naar Friesland . ""
+"	DE_UITVRETER	m	ik	m	implicit	10348	7	19
+199	s321	""" Midden in den winter ? ""
+"	ik	m	DE_UITVRETER	m	implicit	10361	0	6
+200	s322	""" Wat doen ? ""
+"	ik	m	DE_UITVRETER	m	implicit	10371	0	4
+201	s324	""" Doen ?
+ Niks doen .
+ Jelui kerels zijn zoo akelig wijs : alles moet een reden en een doel hebben .
+ Ik ga naar Friesland , niks doen , nergens om .
+ Zonder reden .
+ Omdat ik er zin in heb . ""
+"	DE_UITVRETER	m	ik	m	implicit	10382	0	43
+202	s325	""" Wacht even """	DE_UITVRETER	m	ik	m	implicit	10493	0	3
+203	s327	""" Ik heb nog wat vergeten . ""
+"	DE_UITVRETER	m	ik	m	implicit	10507	0	7
+204	s328	""" Apropos """	den_langen_Hoyer	m	ik_en_Bavink	(pl)	implicit	11431	0	2
+205	s421	""" Apropos , ik heb Japi in Veere gezien met een Fransche dame , een verdomd lief wijf ."	den_langen_Hoyer	m	ik_en_Bavink	(pl)	implicit	11448	0	18
+206	s422	""" ook stom , dat hadden we kunnen weten , """	ik	m	den_langen_Hoyer_en_Bavink	(pl)	implicit	11523	13	23
+207	s337	""" Ik ga weg , geef me een poot . ""
+"	DE_UITVRETER	m	ik_en_Bavink	(pl)	implicit	12239	12	22
+208	s338	""" 's jonge , 's jonge """	Bavink	m	none	none	none	12374	32	38
+209	s339	""" Doe als je blieft de ramen dicht """	DE_UITVRETER	m	Bavink	m	implicit	12410	0	8
+210	s341	""" Zeg , schrijf jij dat allemaal ? ""
+"	Bavink	m	DE_UITVRETER	m	implicit	12459	0	8
+211	s342	""" Niet allemaal . ""
+"	DE_UITVRETER	m	Bavink	m	implicit	12476	8	12
+212	s343	""" Je bent toch een verdomd knappe kerel , """	Bavink	m	DE_UITVRETER	m	implicit	12481	0	9
+213	s345	""" die handel is niet makkelijk . ""
+"	Bavink	m	DE_UITVRETER	m	implicit	12494	13	20
+214	s346	""" Wat doe jij hier , hoe gaat het , hoe kom je hier ? ""
+"	ik	m	DE_UITVRETER	m	implicit	12693	9	24
+215	s347	""" Ik sta maar te staren , """	DE_UITVRETER	m	ik	m	implicit	12722	0	7
+216	s349	""" Dat heb ik in de gaten , """	ik	m	DE_UITVRETER	m	implicit	12734	0	8
+217	s351	""" ga je mee een borreltje pakken ? ""
+"	ik	m	DE_UITVRETER	m	implicit	12746	12	20
+218	s352	""" Goed , """	DE_UITVRETER	m	ik	m	implicit	12755	0	3
+219	s355	""" Maak je niet druk , ouwe jongen , """	DE_UITVRETER	m	de_wachter	m	implicit	14182	0	9

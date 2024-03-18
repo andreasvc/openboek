@@ -1,0 +1,188 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s1	""" Wie is die eenvoudige man , die mij zoo aankijkt ? ""
+"	Napoleon	m	Charles_Myriel	m	implicit	576	20	32
+1	s2	""" Sire """	Charles_Myriel	m	Napoleon	m	none	589	0	2
+2	s4	""" gij ziet een eenvoudig man en ik zie een groot man .
+ Ieder van ons kan hier zijn voordeel mee doen . ""
+"	Charles_Myriel	m	Napoleon	m	explicit	596	7	30
+3	s7	""" Mijnheer de directeur , """	Charles_Myriel	m	den_directeur	m	anaphoric_pronoun	1478	0	5
+4	s9	""" hoeveel zieken hebt ge op dit oogenblik ? ""
+"	Charles_Myriel	m	den_directeur	m	anaphoric_pronoun	1489	11	20
+5	s10	""" Zes en twintig , Monseigneur . ""
+"	den_directeur	m	Charles_Myriel	m	explicit	1499	0	7
+6	s11	""" Zooveel had ik er ook geteld , """	Charles_Myriel	m	den_directeur	m	implicit	1507	0	8
+7	s13	""" De bedden , """	den_directeur	m	Charles_Myriel	m	implicit	1520	0	4
+8	s15	""" staan zeer dicht op elkander . ""
+"	den_directeur	m	Charles_Myriel	m	implicit	1529	9	16
+9	s16	""" Dit heb ik gezien . ""
+"	Charles_Myriel	m	den_directeur	m	implicit	1537	0	6
+10	s17	""" De zalen zijn slechts kamers en ze zijn moeilijk van versche lucht te voorzien . ""
+"	den_directeur	m	Charles_Myriel	m	implicit	1544	0	16
+11	s18	""" Dat scheen mij ook toe . ""
+"	Charles_Myriel	m	den_directeur	m	implicit	1561	0	7
+12	s19	""" En , als de zon schijnt , is de tuin te klein voor de herstellenden . ""
+"	den_directeur	m	Charles_Myriel	m	implicit	1569	0	17
+13	s20	""" Dat kwam mij ook zoo voor . ""
+"	Charles_Myriel	m	den_directeur	m	implicit	1587	0	8
+14	s21	""" Bij epidemie - dit jaar hadden wij den typhus en voor twee jaren de zweetkoorts - hebben wij soms honderd zieken , waarmede wij niet weten wat wij zullen aanvangen . ""
+"	den_directeur	m	Charles_Myriel	m	implicit	1596	0	32
+15	s22	""" Zoo verbeeldde ik mij ook . ""
+"	Charles_Myriel	m	den_directeur	m	implicit	1629	0	7
+16	s23	""" Wat zal men zeggen , Monseigneur ? """	den_directeur	m	Charles_Myriel	m	explicit	1637	0	8
+17	s25	""" men moet zich schikken . ""
+"	den_directeur	m	Charles_Myriel	m	explicit	1650	13	19
+18	s26	""" Hoeveel bedden , denkt ge , mijnheer , dat alleen in deze zaal kunnen staan ? ""
+"	Charles_Myriel	m	den_directeur	m	explicit	1686	0	17
+19	s27	""" In de eetzaal van Monseigneur ? """	den_directeur	m	Charles_Myriel	m	explicit	1704	0	7
+20	s29	""" Er zouden wel twintig bedden kunnen staan ! """	Charles_Myriel	m	den_directeur	m	implicit	1740	0	9
+21	s31	""" Hoor , mijnheer de directeur , ik zal u iets zeggen .
+ Er bestaat blijkbaar een vergissing .
+ Gij hebt voor zes-en-twintig personen vijf of zes kleine kamers .
+ Wij hebben hier met ons drieën plaats voor zestig menschen ; ik zeg u : 't is een vergissing , gij hebt mijn woning en ik heb de uwe .
+ Geef mij mijn huis terug ; dit behoort u . ""
+"	Charles_Myriel	m	den_directeur	m	explicit	1766	26	96
+22	s32	""" 't Is zeker , dat mijn financiën zeer bekrompen zijn . ""
+"	Charles_Myriel	m	Juffrouw_Magloire	f	implicit	2298	0	12
+23	s33	""" Dit geloof ik wel , """	Juffrouw_Magloire	f	Charles_Myriel	m	explicit	2311	0	6
+24	s35	""" Monseigneur heeft zelfs niet eens de gelden gevorderd , welke het departement hem schuldig is voor zijn equipage en voor de reizen in het bisdom .
+ De vorige bisschoppen ontvingen die altijd . ""
+"	Juffrouw_Magloire	f	Charles_Myriel	m	explicit	2321	10	44
+25	s36	""" 't Is waar , gij hebt gelijk , Magloire , """	Charles_Myriel	m	Juffrouw_Magloire	f	explicit	2356	0	11
+26	s38	""" Equipagekosten ? waartoe die , in een stad van minder dan vier duizend inwoners ?
+ Reiskosten ? waartoe dienen vooreerst deze tochten ? en hoe kan men met extra-rijtuig in deze bergachtige streken reizen ? er zijn geen wegen .
+ Men kan alleen te paard reizen .
+ Zelfs de brug over de Durance bij Château-Arnoux kan nauwelijks ossenkarren dragen .
+ Maar deze priesters zijn allen gelijk : - hebzuchtig en gierig .
+ Toen deze hier kwam , speelde hij den goeden apostel .
+ Nu doet hij gelijk de anderen , en begeert equipage en extra-rijtuig .
+ Hij wil weelde ten toon spreiden , gelijk de vorige bisschoppen .
+ O , dat priesterras !
+ Mijnheer de graaf , de zaken zullen niet eerder goed gaan , dan wanneer de Keizer ons van de papen verlost heeft .
+ Weg met den Paus !
+ ( op dit oogenblik raakten de zaken met Rome in de war ) , wat mij aangaat , ik ben vóór Cesar alleen , enz. , enz. , enz. ""
+"	een_senator_van_het_Keizerrijk	fm	Bigot_de_Préameneu	m	explicit	2493	0	171
+27	s40	""" Nu , Monseigneur is met de zorg voor anderen begonnen ; maar hij heeft eindelijk toch ook aan zich zelven moeten denken .
+ Hij heeft al zijn liefdegiften , geregeld : nu hebben wij eindelijk dus drie duizend francs voor ons ! ""
+"	Juffrouw_Magloire	f	Juffrouw_Baptistine	f	explicit	2679	14	57
+28	s41	""" Ik houd van dien naam , """	Charles_Myriel	m	none	none	none	3063	0	7
+29	s43	""" Bienvenu maakt Monseigneur weder goed . ""
+"	Charles_Myriel	m	none	none	none	3074	0	7
+30	s44	""" Mijnheer de maire , """	Charles_Myriel	m	de_maire_en_burgers	(pl)	implicit	3312	0	5
+31	s45	""" en heeren burgers , ik zie wat u ergert ; ge vindt het zeer hoogmoedig van een armen priester , dat hij rijdt op de wijze van onzen Heiland .
+ Ik verzeker u , dat ik het uit nood en niet uit ijdelheid doe . ""
+"	Charles_Myriel	m	de_maire_en_burgers	(pl)	implicit	3322	10	56
+32	s128	""" Ziet de lieden van Briançon .
+ Zij hebben aan de noodlijdenden , aan de weduwen en weezen het recht gegeven , om drie dagen vroeger dan alle anderen , hun weilanden te maaien .
+ Zij herstellen kosteloos hun woningen , wanneer deze in verval zijn .
+ Daarom is dit ook een door God gezegend land .
+ Gedurende een geheele eeuw is er geen moord gepleegd ."	Charles_Myriel	m	Men	(pl, fm)	implicit	3428	14	80
+33	s130	""" Ziet de lieden van Embrun .
+ Zoo een huisvader in den oogsttijd zijn zonen bij het leger en zijn dochters in de stad heeft dienen , indien hij ziek of op eene andere wijze verhinderd is , beveelt de pastoor hem van den kansel bij de gemeente aan , en des Zondags , na de mis , gaan al de dorpelingen , mannen , vrouwen , kinderen , naar den akker van den armen man om voor hem te maaien , en brengen stroo en graan in zijn schuur ."	Charles_Myriel	m	none	none	none	3510	15	105
+34	s49	""" Neemt de bergbewoners van Devolny tot voorbeeld , een land zoo woest , dat men er een nachtegaal nauwelijks in vijftig jaren hoort .
+ Welnu , wanneer de vader in een gezin sterft , gaan de jongens fortuin zoeken en laten het goed aan hun zusters , opdat dezen echtgenooten vinden . ""
+"	Charles_Myriel	m	families	(pl, n)	implicit	3616	15	68
+35	s51	""" Aanschouwt de goede landlieden der vallei Queyras .
+ Zij tellen drie duizend zielen , en leven als in een kleine republiek .
+ Men kent er noch rechters , noch deurwaarders .
+ De maire doet alles .
+ Hij regelt de belastingen , belast ieder naar zijn beste weten , beslecht kosteloos alle geschillen , verdeelt de erfenissen zonder belooning , strijkt kosteloos vonnissen , en men gehoorzaamt hem , wijl hij een rechtvaardig man onder eenvoudige menschen is . ""
+"	Charles_Myriel	m	men_en_de_pachters	(pl)	implicit	3690	20	99
+36	s52	""" Weet ge hoe zij doen ? """	Charles_Myriel	m	none	none	none	3790	0	7
+37	s54	""" Wijl een klein oord van twaalf of vijftien gezinnen niet altijd een onderwijzer kan onderhouden , zoo heeft men schoolmeesters , welke door de geheele vallei worden betaald , en die de dorpen rondtrekken , in dit acht dagen , in een ander tien dagen doorbrengende en onderwijzende .
+ Deze onderwijzers gaan naar de jaarmarkten , waar ik hen gezien heb .
+ Men herkent ze aan de schrijfpennen , welke zij in het lint van hun hoed dragen .
+ Zij die alleen het lezen onderwijzen hebben één pen ; zij die in het lezen en rekenen les geven , hebben twee pennen ; zij die lezen , rekenen en latijn onderwijzen , hebben drie pennen .
+ Deze laatsten zijn groote geleerden .
+ Maar 't is groote schande onwetend te zijn .
+ Doet zooals de lieden van Queyras . ""
+"	Charles_Myriel	m	none	none	none	3801	0	139
+38	s55	""" Magloire , """	Charles_Myriel	m	Juffrouw_Magloire	f	explicit	4085	0	3
+39	s57	""" breng mij een stoel , mijn grootheid reikt niet tot aan deze plank . ""
+"	Charles_Myriel	m	Juffrouw_Magloire	f	explicit	4092	7	22
+40	s62	""" Maar , neef , waaraan denkt ge toch ? """	mevrouw_de_gravin_de_Lô	f	Charles_Myriel	m	anaphoric_pronoun	4245	7	17
+41	s63	""" Ik denk aan iets zonderlings , """	Charles_Myriel	m	mevrouw_de_gravin_de_Lô	f	implicit	4257	19	26
+42	s131	""" 't geen , geloof ik , in St. Augustinus staat , n.l. : "" Stel uw hoop op hem , van wien ge niet erft . """	Charles_Myriel	m	mevrouw_de_gravin_de_Lô	f	implicit	4269	31	58
+43	s67	""" Welk een breeden rug heeft toch de dood , """	Charles_Myriel	m	none	none	none	4340	0	10
+44	s69	""" Welk een verbazenden last van titels geeft men hem te dragen en hoeveel geest moeten de menschen hebben om aldus het graf aan de ijdelheid dienstbaar te maken ! ""
+"	Charles_Myriel	m	none	none	none	4354	0	30
+45	s70	""" Zie ! mijnheer Géborand koopt voor een stuiver den hemel . ""
+"	Charles_Myriel	m	Juffrouw_Baptistine	f	anaphoric_other	4579	15	27
+46	s71	""" Mijnheer de markies , ge moet mij iets geven . ""
+"	Charles_Myriel	m	de_markies	m	anaphoric_pronoun	4667	15	26
+47	s72	""" Monseigneur , ik heb mijn armen . ""
+"	de_markies	m	Charles_Myriel	m	explicit	4689	10	18
+48	s73	""" Geef ze mij , """	Charles_Myriel	m	de_markies	m	implicit	4698	0	5
+49	s76	""" Geliefde broeders , goede vrienden !
+ In Frankrijk zijn één millioen driehonderd twintig duizend boerenhuizen met slechts drie openingen ; één millioen achthonderd zeventien duizend met slechts twee : de deur en het venster ; en eindelijk driehonderd zes-en-veertig duizend hutten met slechts één opening : de deur .
+ De reden hiervan is de belasting op deuren en vensters .
+ Verbeeldt u nu arme gezinnen , oude vrouwen , kleine kinderen , die daarin verblijf houden , en 't is geen wonder dat er koortsen en andere ziekten heerschen .
+ Helaas !
+ God geeft den menschen lucht , maar de wet verkoopt ze hun .
+ Ik beschuldig de wet niet ; maar ik loof God .
+ In het departement Isère , in dat van Var , in de Alpendepartementen , hebben de boeren niet eens kruiwagens , den mest vervoeren zij op hun rug ; zij hebben geen kaarsen , maar branden houtspaanders of eindjes touw , die in pek zijn gedoopt .
+ Zoo is het in geheel Opper-Dauphiné .
+ Zij bakken brood voor een half jaar en stoken den oven met gedroogden koedrek .
+ Des winters hakken zij dat brood met de bijl stuk , en laten het vier-en-twintig uren in water weeken om het te kunnen eten .
+ - Broeders , hebt mededoogen !
+ Ziet hoe men rondom u lijdt ! ""
+"	Charles_Myriel	m	none	none	none	4720	12	236
+50	s77	""" De mensch draagt zijn vleesch , tevens als een last en als een verzoeking .
+ Hij sleept het voort en geeft er aan toe .
+"	Charles_Myriel	m	none	none	none	5115	0	25
+51	s151	""" Hij moet het bewaken , bedwingen , onderdrukken , en niet dan in den uitersten nood er aan gehoorzamen .
+ Door deze gehoorzaamheid kan hij nog zondigen ; maar zulk een zonde is vergeeflijk .
+ 't Is een val , maar een val op de knieën , die met het gebed eindigen kan ."	Charles_Myriel	m	none	none	none	5141	0	54
+52	s137	""" 't Is een uitzondering een heilige te zijn ; maar 't is een regel rechtschapen te wezen .
+ Dwaalt , wankelt , zondigt , maar weest rechtschapen ."	Charles_Myriel	m	none	none	none	5196	0	28
+53	s79	""" 't Is de menschelijke wet , zoo min mogelijk te zondigen .
+ Volstrekt niet te zondigen , is de droom van den engel .
+ Al het aardsche is aan de zonde onderworpen .
+ De zonde is een wet der zwaartekracht . ""
+"	Charles_Myriel	m	none	none	none	5225	0	42
+54	s80	""" Waar zullen die man en die vrouw gevonnist worden ?
+"	Charles_Myriel	m	de_procureur_des_konings	m	implicit	5741	0	10
+55	s81	""" Voor het Hof van Assises . ""
+"	de_procureur_des_konings	m	Charles_Myriel	m	implicit	5752	0	7
+56	s82	""" En waar , """	Charles_Myriel	m	de_procureur_des_konings	m	explicit	5760	0	4
+57	s84	""" zal mijnheer de procureur des konings worden gevonnist ? ""
+"	Charles_Myriel	m	de_procureur_des_konings	m	explicit	5768	8	18
+58	s85	""" 't Gaat mij niet aan ; ik heb met dit werk en dezen koorddanser niets te maken ; ik ben ook ziek ; bovendien , 't is mijn ambt niet . ""
+"	den_pastoor	m	Men	(pl, fm)	implicit	5875	8	40
+59	s87	""" De heer pastoor heeft gelijk , 't is zijn ambt niet , maar het mijne . ""
+"	Charles_Myriel	m	Men	(pl, fm)	implicit	5920	12	29
+60	s142	""" Hem , dien de mensch doodt , zal God weder doen opstaan ; hem , dien de broeders verdrijven , neemt de vader aan .
+ Bid , geloof en ga het leven in !
+ De vader wacht u ! """	Charles_Myriel	m	des_volks	n	implicit	6250	15	55
+61	s94	""" Ik wist niet dat het zoo ijselijk was .
+ 't Is verkeerd , zich in de goddelijke wet zoo te verdiepen , dat men de menschelijke wet vergeet .
+ Alleen aan God behoort de dood .
+ Met welk recht raken de menschen aan dit onbekende ? ""
+"	Charles_Myriel	m	none	none	none	6787	6	53
+62	s96	""" Let wel , op welke wijze gij de dooden beschouwt .
+ Denk niet aan 't geen verteert .
+ Zie slechts scherp toe , en ge zult den levenden schijn van uw geliefden overledene in den hemel erkennen . ""
+"	Charles_Myriel	m	none	none	none	6993	3	42
+63	s97	""" De geest is ook een tuin , """	Charles_Myriel	m	none	none	none	7366	0	8
+64	s99	""" wanneer de bisschop niet smult als een pastoor , eet hij als een trappist . ""
+"	Men	(pl, fm)	none	none	none	7715	8	24
+65	s100	""" En de geest Gods zweefde over de wateren . ""
+"	Charles_Myriel	m	none	none	none	7801	19	29
+66	s102	""" de winden Gods bliezen ; """	het_arabisch	n	none	none	none	7827	15	21
+67	s103	""" Een wind van boven viel op de aarde ; """	Flavius_Josephus	m	none	none	none	7840	28	38
+68	s104	""" Een wind , die van God kwam , blies over de wateren . ""
+"	de_Chaldeeuwsche_overzetting_van_Onkelos	n	none	none	none	7862	50	64
+69	s105	""" O gij , die zijt !
+"	Hugo	(pl, n)	ons	(pl, fm)	implicit	8018	0	6
+70	s106	""" In den prediker Salomo heet gij de Almachtige , in het boek der Makkabeeën Schepper , in den brief aan de Ephezers Vrijheid , in Baruch Onmetelijke , in de psalmen Wijsheid en Waarheid , in het evangelie van Johannes Licht , in het boek der koningen Heer , in het tweede boek van Mozes Voorzienigheid , in het derde Heiligheid , in Esdra Gerechtigheid ; de schepping noemt u God , de mensch Vader , maar Salomo noemt u Erbarmer , en dit is de schoonste van al uw namen . ""
+"	Hugo	(pl, n)	ons	(pl, fm)	implicit	8025	0	93
+71	s107	""" Ik betaal mijn tienden , """	Charles_Myriel	m	none	none	none	8396	0	6
+72	s111	""" Het fraaiste altaar , """	Charles_Myriel	m	rijke_biechtdochters_en_andere_vrome_vrouwen_van_Digne	(pl, fm)	implicit	8560	0	5
+73	s113	""" is de ziel van een getroosten ongelukkige , die God dankt . ""
+"	Charles_Myriel	m	rijke_biechtdochters_en_andere_vrome_vrouwen_van_Digne	(pl, fm)	implicit	8570	10	23
+74	s115	""" Monseigneur , hoewel ge van alles zoo goed partij weet te trekken , is dit toch een nutteloos bed .
+ 't Ware beter , dat er salade op groeide , dan bloemen . """	Juffrouw_Magloire	f	Charles_Myriel	m	explicit	9755	6	40
+75	s116	""" Gij vergist u , Magloire , """	Charles_Myriel	m	Juffrouw_Magloire	f	explicit	9791	15	22
+76	s118	""" het schoone is even nuttig als het nuttige . ""
+"	Charles_Myriel	m	Juffrouw_Magloire	f	explicit	9804	28	38
+77	s120	""" Misschien nog nuttiger ! ""
+"	Charles_Myriel	m	Juffrouw_Magloire	f	implicit	9824	9	14

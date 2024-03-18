@@ -1,0 +1,63 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s3	""" dat hij die versjes zong , door liefde gedrongen . ""
+"	Van_Alphen	m	none	none	none	444	6	17
+1	s46	""" man , ik wilde u graag eens ontmoeten , en als ge mij de marmerknikkers weigerde , die ik u vragen zou , of mijn naam voluit in banket - ik heet Batavus - dan houd ik u voor een leugenaar ."	Batavus	fm	none	none	none	462	6	48
+2	s5	""" Uhlefeldjes """	Frits	m	none	none	none	961	4	6
+3	s7	""" de lucht is guur , en 't is kwartier voor drieën . ""
+"	Batavus	fm	none	none	none	1057	22	35
+4	s9	""" o mijne moeder , o , mijne moeder ! """	Een_meisje	f	none	none	none	1555	12	22
+5	s11	""" mevrouw , het is te laat , de poorten zijn gesloten """	de_veldheer	m	de_prinses	f	explicit	1826	8	20
+6	s12	""" welaan dan , onversaagd , men doe het zwaard ontblooten ? ""
+"	de_prinses	f	de_veldheer	m	implicit	1851	33	45
+7	s14	""" shawl """	Frits	m	none	none	none	3684	18	20
+8	s15	""" ik dank u , maar ik heb me vergist .
+ Ik dacht het genoegen te hebben een ouden schoolkameraad voor me te zien , maar ...
+ Last ?
+ Dit is de naam niet . ""
+"	een_klant	m	Batavus	fm	implicit	3737	10	45
+9	s53	"- Pardon , zei ik - want ik ben altijd beleefd - ik ben m'nheer Droogstoppel , Batavus Droogstoppel .
+ Last en Co is de firma , makelaars in koffie , Lauriergr ..."	Batavus	fm	een_klant	m	implicit	3773	0	32
+10	s54	- Wel , Droogstoppel , kent ge mij niet meer ?	een_klant	m	Batavus	fm	explicit	3806	0	10
+11	s56	- Zijt gij het , riep ik , die mij van den Griek hebt verlost ?	Batavus	fm	een_klant	m	implicit	3904	0	15
+12	s57	" - Wel zeker , zeide hij , dat was ik .
+ En hoe gaat het U ?"	een_klant	m	Batavus	fm	implicit	3920	0	16
+13	s22	""" we zijn met ons dertienen , en ... goeien avend verder ! """	Batavus	fm	none	none	none	4016	5	18
+14	s23	""" God is goed ? ""
+"	men	fm	none	none	none	4314	20	25
+15	s62	- Plaît-il ?	het_meisje	f	Batavus	fm	implicit	4823	0	2
+16	s65	- Meenin aeide thea , en ... dat Egijpte een geschenk van den Nijl was .	Batavus	fm	het_meisje	f	implicit	4838	0	15
+17	s25	"- Het was me bijzonder aangenaam u weer te zien , m'nheer ...
+ r ...
+ r !
+ En ... èn ... èn ... ik rekommandeer me !
+ Ik moet hierin .
+"	Batavus	fm	hij	m	implicit	5617	0	30
+18	s26	"- Beste Droogstoppel , zeide hij , ik heb u iets te vragen .
+"	hij	m	Batavus	fm	explicit	5668	0	13
+19	s68	""" Ja , ja , Louise"	Betsij	f	Louise_en_Frits_en_Papa_en_mijn_vrouw_en_Batavus_en_mevrouw_Rosemeijer	(pl)	implicit	6858	0	5
+20	s69	"geschreid heb je !
+ Papa , Frits heeft Louise aan 't schreien gemaakt . """	Betsij	f	Louise_en_Frits_en_Papa_en_mijn_vrouw_en_Batavus_en_mevrouw_Rosemeijer	(pl)	implicit	6869	11	25
+21	s29	"- Neen , neen , Frits is heel lief geweest !
+ Ik wou dat hij 't nogeens deed !
+"	Louise	f	Betsij_Rosemeijer_en_Frits_en_Papa_en_mijn_vrouw_en_Batavus_en_mevrouw_Rosemeijer	(pl)	implicit	6932	0	18
+22	s31	""" Toe , Frits !
+ Och ja , Frits !
+ Kom , Frits ! ""
+"	mevrouw_Rosemeijer	f	Betsij_Rosemeijer_en_Frits_en_Papa_en_mijn_vrouw_en_Batavus_en_mevrouw_Rosemeijer	(pl)	implicit	7135	0	14
+23	s33	""" Vader ! schenk me bij de dooden ,
+"	me	fm	none	none	none	8519	0	8
+24	s34	""" Wat het leven mij niet schonk !
+"	me	fm	none	none	none	8528	0	7
+25	s35	""" Vader ! geef me aan gene zijde ,
+"	me	fm	none	none	none	8536	0	8
+26	s36	""" Als de mond des doods mij kust ,
+"	me	fm	none	none	none	8545	0	8
+27	s37	""" Vader ! geef me aan gene zijde
+"	me	fm	none	none	none	8554	0	7
+28	s38	""" Wat ik hier niet smaakte ...
+ Rust ! ""
+"	me	fm	none	none	none	8562	0	9
+29	s39	""" nog niet , o Heer !
+"	me	fm	none	none	none	8607	4	10
+30	s40	""" Geef mij eerst mijn moeder weer ! ""
+"	me	fm	none	none	none	8614	0	8

@@ -1,0 +1,555 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s1	""" Wat is het vandaag , """	ik	m	Sherlock_Holmes	m	implicit	294	0	6
+1	s3	""" morphine of cocaïne ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	304	10	15
+2	s4	""" Het is cocaïne , """	Sherlock_Holmes	m	ik	m	implicit	324	0	5
+3	s6	""" een oplossing van zeven percent .
+ Zoudt gij het soms eens willen beproeven ? ""
+"	Sherlock_Holmes	m	ik	m	implicit	333	9	24
+4	s7	""" In geen geval , """	ik	m	Sherlock_Holmes	m	implicit	349	0	5
+5	s9	""" mijn gestel is de campagne in Afghanistan nog niet te boven .
+ Ik kan het nog niet wagen om mij buitengewoon in te spannen . ""
+"	ik	m	Sherlock_Holmes	m	implicit	359	10	36
+6	s10	""" Wellicht hebt gij gelijk , Watson , """	Sherlock_Holmes	m	ik	m	explicit	393	0	8
+7	s12	""" ik veronderstel dat haar invloed physiek slecht is .
+ Ik voor mij vindt het echter zoo uiterst prikkelend en opklarend voor den geest , dat de latere werking slechts van zeer korten duur is . ""
+"	Sherlock_Holmes	m	ik	m	explicit	405	12	48
+8	s13	""" Bedenk echter , """	ik	m	Sherlock_Holmes	m	implicit	442	0	4
+9	s14	""" wat er de gevolgen van zijn !
+ Uw brein moge , zooals gij zegt , opgewekt en verhelderd worden , maar het is een pathologisch en ziekelijk proces , dat ten zeerste op de longen werkt en ten laatste een permanente zwakte kan teweegbrengen .
+ Gij weet zelf , welk een onaangename reactie gij ondervindt .
+ Waarlijk : het sop is de kool niet waard .
+ Waarom zoudt gij , voor een kort voorbijgaand genoegen , het verlies riskeeren van de groote gaven waarmede gij bedeeld zijt ?
+ Herinner u , dat ik niet alleen tot u spreek als kameraad , maar tevens als geneeskundige , die eenigszins voor uw gestel aansprakelijk kan geacht worden . ""
+"	ik	m	Sherlock_Holmes	m	implicit	451	9	126
+10	s282	""" Mijn geest verzet zich tegen al wat "" stilstand "" heet , """	Sherlock_Holmes	m	ik	m	implicit	604	0	13
+11	s283	""" Geef mij problema's , geef mij werk , geef mij het ingewikkeldst geheimschrift , of de meest raadselachtige analyse , dan ben ik in de mij eigene atmosfeer .
+ Dan heb ik over wonderbaarlijke middelen te beschikken .
+ Maar ik verafschuw de onbeduidende "" sleur "" van het menschelijk bestaan .
+ Ik smacht naar geestelijke verheffing .
+ Dat is het ook waarom ik mijn eigen bizonder beroep gekozen , - of beter gezegd : geschapen heb , want ik ben de eenige op dat gebied in de wereld . """	Sherlock_Holmes	m	ik	m	implicit	621	0	90
+12	s284	""" De eenige particuliere detective ? """	ik	m	Sherlock_Holmes	m	implicit	712	0	6
+13	s22	""" De eenige particuliere , consulteerende detective , """	Sherlock_Holmes	m	ik	m	implicit	726	0	8
+14	s24	""" ik ben het laatste en hoogste Hof van appèl voor onthullingen .
+ Als Gregson , of Lestrade , of Athelney Jones ten einde raad zijn , - iets wat in de meeste gevallen voorkomt , - dan wordt de zaak aan mij voorgelegd .
+ Ik onderzoek den data , gelijk een gezworene en spreek dan een oordeel uit gelijk een specialiteit .
+ Ik verlang geen lof bij dusdanige gevallen .
+ Mijn naam figureert in geen nieuwsblad .
+ Het werk zelve , het genoegen een veld te vinden voor mijne eigen zeldzame gaven , is mijn hoogste belooning .
+ Maar gij hebt zelve eenige ondervinding opgedaan omtrent mijne methode van werken in 't geval van Jefferson Hope . ""
+"	Sherlock_Holmes	m	ik	m	implicit	738	12	130
+15	s25	""" Inderdaad , """	ik	m	Sherlock_Holmes	m	implicit	857	0	3
+16	s285	""" ik was over niets in mijn leven ooit meer getroffen .
+ Ik heb er zelfs een werk over uitgegeven , onder den titel van : "" Een Godsgericht "" ( _A Study in Scarlet_ ) . ( 1 ) """	ik	m	Sherlock_Holmes	m	implicit	864	7	47
+17	s29	""" Ik heb het doorgebladerd , """	Sherlock_Holmes	m	ik	m	implicit	923	0	6
+18	s286	""" eerlijk gesproken kan ik u er niet mee feliciteeren .
+ "" Onthullen "" is , of moest zijn een bepaalde wetenschap , en behoorde op dezelfde ongevoelige wijze behandeld te worden .
+ Gij hebt getracht er een romantische tint aan te geven , iets wat dezelfde uitwerking heeft , alsof gij een liefdeshistorie of een schaking in den geest van Euclides zoudt bewerken . """	Sherlock_Holmes	m	ik	m	implicit	933	10	75
+19	s33	""" Maar de roman was er , """	ik	m	Sherlock_Holmes	m	implicit	999	0	7
+20	s35	""" ik mocht de feiten toch niet veranderen . ""
+"	ik	m	Sherlock_Holmes	m	implicit	1010	11	20
+21	s36	""" Het eenige feit in het geval dat eene vermelding waardig was , was de zeldzame analytische redeneering van oorzaken tot gevolgen , waardoor het mij gelukte het kluwen te ontwarren . ""
+"	ik	m	Sherlock_Holmes	m	implicit	1020	0	32
+22	s37	""" Kort geleden heeft mijn practijk zich zelfs uitgestrekt tot het Vasteland , """	Sherlock_Holmes	m	ik	m	implicit	1191	0	13
+23	s39	""" ik werd in de laatste week namelijk geraadpleegd door François le Villard , die zooals je waarschijnlijk bekend is , in den laatsten tijd op den voorgrond is getreden in dienst van de Fransche detectiven .
+ Hij bezit al de Celtische kracht van snelle waarneming , maar hij schiet te kort in de juiste beoordeeling der feiten en de algemeene kennis die onmisbaar is voor de hoogere ontwikkeling van zijn kunst .
+ Het geval stond in verband met een testament en scheen eenigszins ingewikkeld .
+ Ik was in staat hem op de hoogte te stellen van twee gelijksoortige gevallen , het een te Riga in 1857 en het ander te St. Louis in 1871 , waardoor hij tot de juiste oplossing gekomen is .
+ Hier is de brief van dankbetuiging voor mijne hulp , dien ik hedenmorgen ontving . ""
+"	Sherlock_Holmes	m	ik	m	implicit	1220	29	169
+24	s41	""" Hij spreekt gelijk een leerling tot zijn meester , """	ik	m	Sherlock_Holmes	m	implicit	1403	0	10
+25	s43	""" O , hij schat mijn hulp te hoog , """	Sherlock_Holmes	m	ik	m	implicit	1417	0	10
+26	s45	""" hij bezit zelf groote gaven .
+ Hij heeft twee van de drie eigenschappen die voor den werkelijken detective vereischt worden .
+ Hij bezit namelijk opmerkingsen onthullings-vermogen .
+ Het ontbreekt hem alleen aan kennis en die kan hij mettertijd verwerven .
+ Hij is nu bezig mijne kleine werken in het Fransch te vertalen . ""
+"	Sherlock_Holmes	m	ik	m	implicit	1432	15	69
+27	s46	""" Uwe werken ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	1487	0	4
+28	s47	""" O , wist gij dat niet ? """	Sherlock_Holmes	m	ik	m	implicit	1492	0	8
+29	s287	""" Ja , ik heb mij aan verscheiden handschriften schuldig gemaakt .
+ Zij handelen allen over technische onderwerpen .
+ Hier , bijvoorbeeld is er een : "" Over het onderscheid tusschen de asch van verschillende soorten tabak . ""
+ Daarin noemde ik een honderd veertig soorten van sigaren , cigaretten- en pijp-tabak , met gekleurde platen die het verschil van asch ervan aantoonen .
+ Het is een punt dat geregeld in straf-processen voorkomt en dat vaak als "" sleutel "" van het grootste belang is .
+ Indien gij bijvoorbeeld bepaald kunt zeggen , dat de een of andere moord gepleegd is door een man , die een Indiaansche lunkah rookte , dat beperkt het terrein van uw onderzoek aanmerkelijk .
+ Voor het geoefend oog is er evenveel verschil tusschen de zwarte asch van een Trichinopoly en de witte van een Havana , als tusschen die van een kool en een aardappel . """	Sherlock_Holmes	m	ik	m	implicit	1505	0	152
+30	s52	""" Gij bezit eene zeldzame gave van opmerken , """	ik	m	Sherlock_Holmes	m	implicit	1658	0	9
+31	s54	""" Ik erken hare belangrijkheid .
+ Hier is mijn handschrift over het nasporen van voetstappen , met eenige opmerkingen omtrent het toepassen van de Parijsche pleisters , als bewaarster der indrukken .
+ Dan ziet gij hier een klein curieus boek over den invloed van een onderzoek naar een vorm van de hand , met afbeeldingen van handen van leidekkers , matrozen , kurksnijders , loodwerkers , wevers en diamantslijpers .
+ Dat is een zaak van groot practisch belang voor den wetenschappelijken detective , vooral in gevallen van onopgevraagde lijken , of voor het nasporen der vroegere antecedenten van misdadigers .
+ Maar ik verveel u zeker met mijn gebabbel . ""
+"	Sherlock_Holmes	m	ik	m	implicit	1672	0	109
+32	s55	""" In geen geval , """	ik	m	Sherlock_Holmes	m	implicit	1782	0	5
+33	s57	""" het is voor mij van het grootste belang , sedert ik de gelegenheid heb gehad om uwe toepassing ervan bij te wonen .
+ Maar gij spraakt zooeven van opmerking en gevolgtrekking .
+ Gewis vult de eene dezer gave de andere aan ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	1791	9	52
+34	s58	""" Slechts in geringe mate , """	Sherlock_Holmes	m	ik	m	implicit	1835	0	6
+35	s60	""" Bij voorbeeld , opmerking toont mij dat gij hedenmorgen naar het Postkantoor in de Wigmore Street geweest zijt , maar gevolgtrekking leert mij dat gij daar een telegram verzonden hebt . ""
+"	Sherlock_Holmes	m	ik	m	implicit	1862	0	32
+36	s61	""" 't Is waar ! """	ik	m	Sherlock_Holmes	m	implicit	1895	0	5
+37	s63	""" beide is waar .
+ Maar ik beken dat ik niet inzie hoe gij daartoe gekomen zijt .
+ Het was een plotseling opkomende gedachte van mij en ik heb er met niemand over gesproken . ""
+"	ik	m	Sherlock_Holmes	m	implicit	1904	9	44
+38	s64	""" Het is zoo eenvoudig mogelijk , """	Sherlock_Holmes	m	ik	m	implicit	1940	0	7
+39	s66	""" zelfs zóó eenvoudig dat eene verklaring geheel overbodig is : en toch moge het dienen om u de grens tusschen opmerking en gevolgtrekking duidelijk te maken .
+ Opmerking zegt mij dat gij aan de zool van uw schoen een weinig roode modder hebt .
+ Juist tegenover het Postkantoor in de Wigmore Street is de straat opgebroken en aarde gestrooid die men , als men zich naar het kantoor begeeft , onmogelijk vermijden kan .
+ Deze aarde is van bizonder roode kleur , zooals die nergens in den omtrek meer gebruikt is .
+ Zie , dat is opmerking : het overige is gevolgtrekking . ""
+"	Sherlock_Holmes	m	ik	m	implicit	1958	18	122
+40	s67	""" Hoe kwaamt ge dan tot de gevolgtrekking , dat ik een telegram verzonden heb ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	2063	0	16
+41	s68	""" Wel , ik weet dat gij gedurende den ganschen morgen dien ik in uw gezelschap heb doorgebracht , geen brief geschreven hebt .
+ Tevens zie ik ginds in uwen geopenden lessenaar , dat gij postzegels en een pakket briefkaarten voorradig hebt .
+ Waartoe kondet gij dan anders het postkantoor binnen gaan dan om een dépêche te verzenden ?
+ Breng nu alle andere factoren met elkander in verband , dan moet de eenige gevolgtrekking de juiste zijn . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2080	0	78
+42	s69	""" In dit geval is het zeker zoo , """	ik	m	Sherlock_Holmes	m	implicit	2159	0	9
+43	s71	""" en de zaak , zooals gij zegt , allereenvoudigst .
+ Zoudt gij het onbescheiden vinden indien ik uwe theorieën aan een meer ernstige proef onderwierp ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	2175	16	43
+44	s72	""" Integendeel , """	Sherlock_Holmes	m	ik	m	implicit	2203	0	3
+45	s74	""" dat zou mij terughouden om eene tweede dosis cocaïne te nemen .
+ Het zou mij verheugen eenig probleem , dat gij aan mijn oordeel zoudt willen onderwerpen , op te lossen . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2210	7	40
+46	s75	""" Ik heb u hooren zeggen dat het onmogelijk is voor een man , om eenig voorwerp dagelijks te gebruiken , zonder den indruk van zijn persoonlijkheid er in die mate op achter te laten , dat een geoefend opmerker die zou kunnen ontdekken .
+ Welnu , ik heb hier een horloge dat kort geleden in mijn bezit is gekomen .
+ Zoudt gij nu zoo vriendelijk willen zijn om mij uw oordeel omtrent het karakter of de gewoonten van den laatsten eigenaar te zeggen ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	2244	0	85
+47	s76	""" Er zijn ternauwernood eenige datums ! """	Sherlock_Holmes	m	ik	m	implicit	2429	0	7
+48	s78	""" het horloge is eerst kort geleden schoongemaakt , iets dat mij van de meeste denkbare daadzaken berooft . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2441	12	31
+49	s79	""" Gij hebt gelijk , """	ik	m	Sherlock_Holmes	m	implicit	2461	0	5
+50	s81	""" het werd schoongemaakt alvorens het mij werd toegezonden . ""
+"	ik	m	Sherlock_Holmes	m	implicit	2470	9	19
+51	s82	""" Hoewel onvoldoende , is toch mijn onderzoek niet geheel vruchteloos geweest , """	Sherlock_Holmes	m	ik	m	implicit	2509	0	13
+52	s84	""" Onder verbetering zoude ik oordeelen dat het horloge aan uw oudsten broeder heeft toebehoord , die het van uwen vader geërfd heeft . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2536	0	24
+53	s85	""" Dat leidt gij zeker af van de H. W. op de kast ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	2561	0	14
+54	s86	""" Zeer juist .
+ De W. doet uw eigen naam veronderstellen .
+ De datum van het horloge klimt op tot omstreeks voor vijftig jaren terug , en de initialen zijn even oud als het horloge zelve .
+ Kostbaarheden gaan gewoonlijk op den oudsten zoon over , en hij draagt in den regel denzelfden naam als de vader .
+ Uw vader is , indien ik mij goed herinner , reeds verscheiden jaren overleden .
+ Dientengevolge is het horloge in handen gekomen van uw oudsten broeder . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2576	0	85
+55	s87	""" Zooverre zijt gij juist , """	ik	m	Sherlock_Holmes	m	implicit	2662	0	6
+56	s89	""" weet gij nog meer ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	2672	10	16
+57	s90	""" Hij was een man van zeer ongestadige en zorgelooze levenswijze .
+ Hij had eens goede vooruitzichten , maar hij verschopte zijn geluk ; leefde gedurende eenigen tijd in armoede , met korte tusschenpoozen van voorspoed , en nadat hij eindelijk aan den drank verslaafd was geraakt , stierf hij .
+ Dat is al wat ik kan afleiden . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2679	0	59
+58	s91	""" Dat is onwaardig van u , Holmes , """	ik	m	Sherlock_Holmes	m	explicit	2757	0	9
+59	s92	""" ik zou nooit hebben kunnen gelooven , dat gij u tot zoo iets zoudt verlagen .
+ Gij hebt onderzoek gedaan naar de geschiedenis van mijn ongelukkigen broeder , en beweert thans door gevolgtrekkingen tot deze wetenschap gekomen te zijn .
+ Gij kunt toch niet van mij verwachten dat ik gelooven zal dat gij dit alles op dit oud horloge gelezen hebt !
+ Het is niet vriendschappelijk , en om de volle waarheid te zeggen , heeft het iets van charlatanisme ! ""
+"	ik	m	Sherlock_Holmes	m	explicit	2770	13	95
+60	s93	""" Waarde dokter , """	Sherlock_Holmes	m	ik	m	explicit	2853	0	4
+61	s96	""" ik bid u , neem mijne verontschuldiging aan .
+ De zaak als een gewoon vraagstuk beschouwende , had ik vergeten hoe persoonlijk en pijnlijk u de oplossing ervan moest wezen .
+ Ik geef u echter de heilige verzekering dat ik nimmer geweten heb dat gij een broeder hebt gehad , tot ge mij dit horloge hebt ter hand gesteld . ""
+"	Sherlock_Holmes	m	ik	m	explicit	2862	9	70
+62	s97	""" Maar in naam van al wat onbegrijpelijk is , hoe kwaamt gij dan juist tot deze feiten ?
+ Zij zijn in elk opzicht juist en waar . ""
+"	ik	m	Sherlock_Holmes	m	implicit	2924	0	28
+63	s98	""" Ah , dat is gelukkig .
+ Ik voor mij kon ze slechts waarschijnlijkheden noemen .
+ Ik verwachtte geenszins zoo accuraat te zullen zijn . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2953	0	25
+64	s99	""" Maar het zijn toch niet enkel gissingen ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	2979	0	9
+65	s100	""" Neen , neen , ik gis nimmer .
+ Dat is een dwaze gewoonte - en meestal schadelijk voor het logisch verband .
+ Wat u zoo vreemd toeschijnt is dit alleen , omdat gij mijn gedachtengang niet volgt of geringe omstandigheden , die veelal de grootste ophelderingen verschaffen , over het hoofd ziet .
+ Bij voorbeeld : ik begon te beweren dat uw broeder zorgeloos was .
+ Wanneer gij het benedengedeelten van deze horlogekast gadeslaat , dan merkt gij op dat zij niet slechts op twee plaatsen gedeukt is , maar zij is overal geschramd en bekrast , door de gewoonte die hij had , om in denzelfden vestzak ook andere harde voorwerpen , zooals geldstukken of sleutels te bergen .
+ Er behoort gewis niet zooveel vernuft toe om de gevolgtrekking te maken , dat hij , die zoo netjes met een horloge van vijftig guinjes omspringt , een zorgeloos man is .
+ En evenmin is het zoo wonderlijk te begrijpen , dat een man die een voorwerp van zulke groote waarde erft , niet van middelen ontbloot is . ""
+"	Sherlock_Holmes	m	ik	m	implicit	2989	0	180
+66	s101	""" Het is bij pand-beleeners in Engeland algemeen gebruikelijk om het nommer van het bewijs met een graveernaald op de binnenzijde der kast te schrijven .
+ Dit is een maatregel tegen het verloren gaan van het bewijs .
+ Er zijn niet minder dan vier zulke nommers door mijn lens op de binnenzijde der kast zichtbaar .
+ Gevolgtrekking : dat uw broeder zeer dikwijls op zwart zaad zat .
+ Tweede gevolgtrekking : dat hij van tijd tot tijd er beter bij zat , anders zou hij het pand niet hebben kunnen lossen .
+ En ten slotte verzoek ik u de binnenplaat te bezichtigen , waarin zich het sleutelgat bevindt .
+ Let dan op de duizenden krassen rondom de opening ; allen teekenen van het uitglijden van den sleutel .
+ Welke nuchtere man kon die plaat zoo hebben toegetakeld ?
+ Ik verzeker u , gij zult het horloge van een dronkaard nimmer zonder krassen zien .
+ Hij windt het des nachts op , en laat deze sporen van zijn onvaste hand achter .
+ Waar blijft nu de mysterie van dit alles ? ""
+"	Sherlock_Holmes	m	ik	m	implicit	3181	0	180
+67	s102	""" Het is zoo klaar als de dag , """	ik	m	Sherlock_Holmes	m	implicit	3362	0	9
+68	s104	""" ik betreur het onrecht dat ik u aandeed .
+ Ik had meer vertrouwen moeten stellen in uw wonderbaarlijk vermogen .
+ Mag ik vragen of gij thans nog op een of ander onderzoek uit moet ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	3375	13	49
+69	s105	""" Neen , daarom gebruikte ik de cocaïne .
+ Ik kan niet leven zonder hersen-inspanning .
+ Waartoe anders dient het leven ?
+ Hier voor het raam gaan staan ?
+ Was de wereld ooit zoo droevig vervelend en ongenietbaar ?
+ Zie hoe de gele mist over de straat hangt en langs de zwart-geblakerde huizen dwarrelt .
+ Wat zou meer hopeloos prozaïsch en stoffelijk kunnen zijn ?
+ Wat baat het vermogens te bezitten , dokter , en geen arbeidsveld er voor te vinden ?
+ Misdaad is iets algemeens , bestaan is dit eveneens , en geene andere dan algemeene eigenschappen zijn op aarde werkzaam . ""
+"	Sherlock_Holmes	m	ik	m	implicit	3412	0	103
+70	s106	""" Een jonge dame voor u , sir , """	onze_hospita	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	3552	0	9
+71	s108	""" Miss Mary Morstan , """	Sherlock_Holmes	m	ik_en_onze_hospita	(pl)	implicit	3571	0	5
+72	s110	""" Hm ! ik herinner mij dien naam niet .
+ Verzoek de jonge dame boven te komen , Mrs. Hudson .
+ - Neen , ga niet heen , dokter .
+ Ik zou gaarne zien dat gij hier bleeft . ""
+"	Sherlock_Holmes	m	ik_en_onze_hospita	(pl)	implicit	3580	0	39
+73	s111	""" Ik ben tot u gekomen , Mr. Holmes , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	3809	0	10
+74	s113	""" omdat gij eens mijne meesteres , Mrs. Cecil Forrester in staat hebt gesteld om eene kleine aangelegenheid met een harer dienstboden in het reine te brengen .
+ Zij was ten zeerste verrukt wegens uwe dienstvaardigheid en bekwaamheid . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	3823	14	53
+75	s114	""" Mrs. Cecil Forrester ? """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	3863	0	5
+76	s116	""" ja , ik geloof dat ik haar eens een kleinen dienst bewezen heb .
+ Het betrof echter , als ik mij goed herinner , slechts een hoogst eenvoudig geval . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	3872	9	40
+77	s117	""" Zij beschouwde het zoo niet .
+ Maar van het mijne zult gij dit tenminste niet kunnen beweren .
+ Ik kan mij nauwelijks een meer vreemdsoortigen en onverklaarbaren toestand voorstellen , dan dien , waarin ik mij bevind . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	3904	0	39
+78	s118	""" Verhaal mij uw geval , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	3972	0	6
+79	s120	""" Gij zult mij gewis wel willen excuseeren ? """	ik	m	Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	3994	0	9
+80	s122	""" Indien uw vriend zoo goed zou willen zijn hier te blijven , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4031	0	13
+81	s124	""" zou hij mij wellicht een onschatbaren dienst kunnen bewijzen . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4048	17	28
+82	s125	""" In het kort zijn de feiten als volgt , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4066	0	10
+83	s127	""" Mijn vader was officier in Indischen dienst , die mij , toen ik nog een kind was , naar het vaderland zond .
+ Mijne moeder was overleden , en ik had geene betrekkingen in Engeland .
+ Ik werd echter in een net opvoedingsgesticht te Edinburgh geplaatst , waar ik tot mijn zeventiende jaar vertoefde .
+ In het jaar 1878 verkreeg mijn vader , die toen de oudste kapitein bij zijn regiment was , een jaar verlof , en kwam naar Engeland .
+ Hij telegrafeerde mij uit Londen dat hij gezond en wel was aangekomen en noodigde mij uit om onmiddellijk over te komen , terwijl hij mij het Langham Hôtel als zijn adres opgaf .
+ Ik herinner mij dat zijn bericht van verlangen en liefde getuigde .
+ Toen ik te Londen aankwam , reed ik naar Langham en vernam daar dat kapitein Morstan er logeerde , doch dat hij den vorigen avond was uitgegaan en tot nog toe niet teruggekeerd was .
+ Ik wachtte den ganschen dag , zonder iets van hem te vernemen .
+ Des avonds stelde ik , op aanraden van den hôtelhouder , de politie hiermede in kennis en den volgenden morgen plaatsten wij eene oproeping in alle bladen .
+ Onze onderzoekingen leverden echter niet het minste resultaat op ; en vanaf dien dag tot op heden heb ik nooit weder een woord van mijn ongelukkigen vader vernomen .
+ Hij kwam naar het vaderland met een hart vol hoop en liefde , om er eenige rust en vaderlijk genoegen te vinden , en in stede daarvan .... ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4080	0	261
+84	s128	""" De datum ? """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4358	0	4
+85	s130	""" Hij verdween op den 3en December 1878 , dus omstreeks tien jaren geleden . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4370	0	15
+86	s131	""" Zijn bagage ? ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4386	0	4
+87	s132	""" Bleef in het hôtel .
+ Er was echter niets in dat tot eenige opheldering kon dienen : wat kleêren , eenige boeken en een groot aantal curiositeiten van de Andaman-eilanden .
+ Hij was een der officieren geweest die met de bewaking der daar verbannen misdadigers belast zijn . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4391	0	49
+88	s133	""" Had hij een of ander vriend in de stad ? ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4441	0	11
+89	s134	""" Zoover wij weten slechts een ; - zekere Majoor Sholto van zijn eigen regiment , het 34e Bombay-Infanterie .
+ De Majoor had kort te voren den dienst vaarwel gezegd en woonde te Upper Norwood .
+ Wij stelden hem natuurlijk van het geval in kennis , maar het was hem zelfs onbekend dat zijn mede-officier in Engeland was . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4453	0	59
+90	s135	""" Een vreemdsoortig geval , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4513	0	5
+91	s292	""" Het vreemdsoortige ervan heb ik u echter nog niet beschreven .
+ Omstreeks zes jaren geleden - of om nauwkeurig te werk te gaan : op den 4en Mei 1882 , - verscheen er een advertentie in de "" =Times= "" , waarin gevraagd werd naar het adres van Miss Mary Morstan , met de verklaring dat het in haar belang zoude zijn , zich bekend te maken .
+ Er werd noch naam , noch adres bij vermeld .
+ Ik was op dat tijdstip juist in het gezin van Mrs. Cecil Forrester als gouvernante in betrekking gekomen .
+ Op haar raad maakte ik per advertentie mijn adres bekend .
+ Nog op dienzelfden dag werd er door de post een aan mij geadresseerd kartonnen doosje bezorgd , waarin zich een zeer groote , schitterende parel bevond .
+ Er was geen letter schrift bijgevoegd .
+ Sedert dien dag kwam er elk jaar op denzelfden datum een gelijksoortige doos , die een zelfde parel bevatte , zonder eenige aanwijzing omtrent den afzender .
+ Zij zijn door een deskundige onderzocht en deze verklaarde dat zij hoogst zeldzaam en van buitengewoon groote waarde zijn .
+ Gij kunt zelf oordeelen hoe fraai zij zijn . """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4523	0	199
+92	s139	""" Uw verhaal is hoogst belangwekkend , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4742	0	7
+93	s141	""" is u nog iets anders gebeurd ? ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4754	12	20
+94	s142	""" Ja , en dat wel juist heden .
+ Dat is de reden waarom ik tot u gekomen ben .
+ Hedenochtend ontving ik dezen brief , dien gij wellicht wel zult willen lezen . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4763	0	34
+95	s143	""" Dank u , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4798	0	4
+96	s295	""" de enveloppe ook als 't u belieft .
+ Poststempel : Londen S. W. Datum : Juli 7 .
+ Hum !
+ De afdruk van een mansduim in den hoek , - waarschijnlijk van den besteller .
+ Beste kwaliteit papier .
+ Enveloppe van six-pence het pak .
+ Een zonderling man .
+ Geen adres . - "" Wees hedenavond te zeven uren aan den derden pilaar van de linkerbuitenzijde van het Lyceum-Theatre .
+ Indien gij bevreesd zijt , brengt dan twee vrienden mede .
+ Gij zijt een slecht behandeld meisje en u zal gerechtigheid geschieden .
+ Breng geen politie mede .
+ Indien gij dit doet , zal alles tevergeefs zijn .
+ Uw onbekende vriend . """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4806	8	121
+97	s147	""" Wel , dat is een zeer aardig geheim ! wat denkt gij te doen , Miss Morstan ? ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4920	0	19
+98	s148	""" Dat was juist de vraag die ik u wilde doen . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4940	0	12
+99	s149	""" Dan zullen wij zeer zeker gaan , - gij en ik en - ja , wel Dr. Watson is juist de rechte man .
+ Uw briefschrijver spreekt van twee vrienden .
+ Hij en ik hebben reeds vroeger samengewerkt . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	4953	0	40
+100	s150	""" Maar zou hij willen komen ? """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	4994	0	7
+101	s152	""" Ik zal mij gelukkig achten en er eene eer in stellen , """	ik	m	Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	5011	0	13
+102	s154	""" als ik u in eenig opzicht van dienst zal kunnen zijn . ""
+"	ik	m	Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	5029	18	31
+103	s155	""" Gij zijt beiden zeer vriendelijk , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	5043	0	7
+104	s157	""" ik heb een afgezonderd leven geleid en bezit geene vrienden waarop ik mij zou kunnen beroepen .
+ Als ik om zes uur hier ben , zal het , naar ik denk , vroeg genoeg zijn ? ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	5054	11	48
+105	s158	""" Ja , maar vooral niet later , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	5092	0	8
+106	s160	""" er rest echter nog een vraag : Is dit handschrift hetzelfde als dat van de adressen op de doosjes met de paarlen ? ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	5104	12	36
+107	s161	""" Ik heb ze bij mij , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	5129	0	7
+108	s163	""" Gij zijt bepaald een model-cliënt , en zeer correct .
+ Laat ons nu eens zien . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	5150	0	17
+109	s164	""" Zij zijn met een verdraaide hand geschreven , behalve de brief , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	5185	0	13
+110	s166	""" maar het lijdt geen twijfel dat de schrijver dezelfde is .
+ Zie eens hoe de #e# afgebroken is en beschouw dan de krul van de #s# .
+ Die zijn stellig van denzelfden persoon .
+ Ik zou niet gaarne ijdele hoop bij u opwekken , Miss Morstan , maar is er eenige overeenkomst tusschen deze hand en die van uwen vader ? ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	5203	18	80
+111	s167	""" In geen enkel opzicht . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	5266	0	6
+112	s168	""" Dit antwoord verwachtte ik .
+ Wij zullen u dus om zes uur verwachten .
+ Wees zoo goed en laat mij de papieren behouden .
+ Dan kan ik de zaak eens overzien .
+ Het is nu pas half-vier .
+ =Au revoir= , dus . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	5273	0	44
+113	s169	""" =Au revoir= , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	anaphoric_pronoun	5318	0	4
+114	s170	""" Wat een aantrekkelijke vrouw ! """	ik	m	Sherlock_Holmes	m	anaphoric_other	5383	0	6
+115	s171	""" Is zij dat ? """	Sherlock_Holmes	m	ik	m	implicit	5416	0	5
+116	s173	""" ik heb het niet opgemerkt . ""
+"	Sherlock_Holmes	m	ik	m	implicit	5428	12	19
+117	s174	""" Gij zijt werkelijk een automaat , - een rekenmachine , """	ik	m	Sherlock_Holmes	m	implicit	5436	0	11
+118	s176	""" er is somwijlen iets bepaald onmenschelijks in u ! ""
+"	ik	m	Sherlock_Holmes	m	implicit	5451	15	25
+119	s177	""" Het is van het grootste belang , """	Sherlock_Holmes	m	ik	m	implicit	5466	0	8
+120	s179	""" uw oordeel niet te laten leiden door persoonlijke eigenschappen .
+ Een cliënt is voor mij slechts eene eenheid , een factor in een vraagstuk .
+ De op het gemoed werkende eigenschappen staan een zuivere redeneering in den weg .
+ Ik geef u de verzekering dat de bekoorlijkste vrouw , die ik ooit gezien heb , werd opgehangen wegens het vermoorden van drie kleine kinderen om hunne levensverzekeringssom machtig te worden , terwijl de terugstootendste man onder mijne bekenden een filantroop is , die omstreeks een kwart millioen aan de armen van Londen besteed heeft . ""
+"	Sherlock_Holmes	m	ik	m	implicit	5478	12	108
+121	s180	""" In dit geval , echter - ""
+"	ik	m	Sherlock_Holmes	m	implicit	5575	0	7
+122	s300	""" Ik maak nimmer uitzonderingen .
+ Een uitzondering "" wederlegt "" den regel .
+ Zijt gij ooit in de gelegenheid geweest om door middel van een handschrift een karakter-studie te maken ?
+ Wat is dan uw oordeel omtrent het geschrijf van dezen knaap ? """	Sherlock_Holmes	m	ik	m	implicit	5583	0	44
+123	s183	""" Het is net en regelmatig , """	ik	m	Sherlock_Holmes	m	implicit	5628	0	7
+124	s185	""" Een man van zaken en tamelijk vast van karakter . ""
+"	ik	m	Sherlock_Holmes	m	implicit	5639	0	11
+125	s186	""" Zie dan eens naar zijn lange letters , """	Sherlock_Holmes	m	ik	m	implicit	5656	0	9
+126	s301	""" zij komen nauwelijks boven de gewone uit .
+ Die #d# kon wel een #a# , en die #l# wel een #e# zijn .
+ Mannen van karakter maken altijd een onderscheid tusschen hunne gewone en lange letters , hoe onregelmatig zij overigens ook mogen schrijven .
+ Er is besluiteloosheid in zijne #k# 's en gevoel van eigenwaarde in zijne hoofdletters .
+ - Ik ga nu even uit .
+ Ik moet eenige bezoeken afleggen .
+ Laat mij u dit boek recommandeeren , - een der merkwaardigste die ooit geschreven werden .
+ Het is "" Het martelaarschap van den man , "" van Winwood Reade .
+ Ik zal binnen een uur terug zijn . """	Sherlock_Holmes	m	ik	m	implicit	5669	13	125
+127	s190	""" Er schuilt geen groot geheim in deze aangelegenheid , """	Sherlock_Holmes	m	ik	m	implicit	6018	0	10
+128	s191	""" de feiten schijnen slechts ééne verklaring mogelijk te maken . ""
+"	Sherlock_Holmes	m	ik	m	implicit	6043	25	36
+129	s192	""" Wat !
+ Hebt gij het reeds opgelost ? ""
+"	ik	m	Sherlock_Holmes	m	implicit	6055	0	9
+130	s304	""" Nu , dat zou te veel gezegd zijn .
+ Ik heb een feit ontdekt dat een veronderstelling wettigt , dat is alles .
+ Het is slechts een zeer vage veronderstelling .
+ De nadere bizonderheden ontbreken er nog aan .
+ Ik heb zooeven in oude nummers van de "" Times "" gevonden , dat Majoor Sholto van Upper Norwood , oud-gediende van het 34e regiment Bombay-Infanterie , op den 28 April 1882 overleden is . """	Sherlock_Holmes	m	ik	m	implicit	6065	0	75
+131	s305	""" Het moge zeer onbegrijpelijk zijn , Holmes , maar ik kan niet inzien tot welke onderstelling dit leiden kan . """	ik	m	Sherlock_Holmes	m	explicit	6141	0	21
+132	s307	""" Niet ?
+ Gij verbaast mij .
+ Beschouw het dan van deze zijde .
+ Kapitein Morstan verdwijnt .
+ De eenige persoon in Londen dien hij kon bezocht hebben is Majoor Sholto .
+ Majoor Sholto verklaart niet geweten te hebben dat hij te Londen was .
+ Vier jaren later sterft Sholto .
+ Binnen een week na zijn dood ontvangt de dochter van kapitein Morstan een kostbaar geschenk , dat jaarlijks herhaald wordt en nu eindigt in een brief die haar als een slecht behandeld meisje beschrijft .
+ Op welke slechte behandeling kan dit anders doelen dan op de verdwijning van haren vader ?
+ En waarom zouden de geschenken onmiddellijk beginnen na Sholto's dood , of het moest zijn dat Sholto's erfgenaam iets van het geheim weet , en een schikking wenscht te maken ?
+ Hebt gij eenige tegenovergestelde theorie ? """	Sherlock_Holmes	m	ik	m	implicit	6163	0	139
+133	s198	""" Maar welk een vreemdsoortige gevolgtrekking !
+ En hoe ver gezocht !
+ Waarom zou hij nu eerder een brief schrijven dan tien jaren geleden ?
+ Bovendien in den brief staat : om haar recht te doen wedervaren .
+ Welk recht wordt daarmede bedoeld ?
+ De veronderstelling dat haar vader nog in leven is , is zeker te gewaagd .
+ En van een ander onrecht is u niets bekend . ""
+"	ik	m	Sherlock_Holmes	m	implicit	6303	0	69
+134	s199	""" Er zijn moeielijkheden ; zeer zeker groote moeielijkheden , """	Sherlock_Holmes	m	ik	m	implicit	6373	0	10
+135	s201	""" maar onze expeditie van hedenavond zal ze allen oplossen .
+ Ha , daar is een vierwieler en Miss Morstan zit erin .
+ Zijt gij gereed ?
+ Dan was het beter dat wij naar beneden gingen , want het is reeds over den tijd . ""
+"	Sherlock_Holmes	m	ik	m	implicit	6389	16	61
+136	s202	""" Majoor Sholto was een bizonder vriend van mijn papa , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	6551	0	11
+137	s204	""" zijne brieven waren altijd vol van toespelingen op den Majoor .
+ Hij en papa voerden het bevel over de troepen op de Andaman-eilanden ; daardoor woonden zij geruimen tijd te zamen .
+ Indertijd werd in papa's lessenaar een vreemdsoortig papier gevonden , wat niemand begrijpen kon .
+ Ik veronderstel niet dat het van eenig aanbelang kan wezen , ik dacht echter dat gij het wellicht gaarne zoudt willen zien , en daarom heb ik het meegebracht .
+ Hier is het . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	6566	15	97
+138	s205	""" Het papier is in Indië gefabriceerd , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	6672	0	8
+139	s308	""" het was voor eenigen tijd op een bord geprikt geweest .
+ De teekening erop schijnt het ontwerp te zijn voor een gedeelte van een groot gebouw , met talrijke zalen en gangen .
+ Aan den eenen hoek staat een met roode inkt geteekend kruis en links daarboven staat geschreven "" 3,37 . ""
+ Op den linkerhoek staan vier kruisjes op een lijn , waarvan de armen elkander raken .
+ Daarnaast staat in ruwe karakters :
+ "" Het teeken der vier - Jonathan Small , Mahomed Singh , Abdullah Khan , Dost Akbar . """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	6684	12	106
+140	s211	""" Neen , ik beken dat ik niet begrijp in welk verband dit met de zaak staat .
+ Desniettemin is het een belangrijk document .
+ Het is zorgvuldig in een zakboek bewaard geworden ; want het is aan beide zijden even helder . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	6779	0	43
+141	s212	""" Wij vonden het in zijn zakboek . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes	(pl, m)	implicit	6823	0	8
+142	s213	""" Bewaar het dan zorgvuldig , Miss Morstan , want het zou ons later van nut kunnen zijn .
+ Ik begin te veronderstellen , dat deze zaak blijken zal ingewikkelder en van meer teederen aard te zijn , dan ik haar in het eerst beschouwd heb .
+ Ik moet mijne gedachten opnieuw regelen . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	6832	0	54
+143	s316	""" Zijt gij de partijen die hier komen met Miss Morstan ? """	kleine_donker_uitziende_levendige_man	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	7153	0	12
+144	s216	""" Ik ben Miss Morstan , en deze twee heeren zijn mijne vrienden , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes_en_kleine_donker_uitziende_levendige_man	(pl)	implicit	7169	0	14
+145	s317	""" Gij zult het mij ten goede houden , Miss , """	kleine_donker_uitziende_levendige_man	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	7198	0	11
+146	s319	""" maar het is mij opgedragen u te verzoeken mij uw woord te willen geven dat geen uwer metgezellen een ambtenaar der politie is . """	kleine_donker_uitziende_levendige_man	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	7216	18	43
+147	s221	""" Daar geef ik u mijn woord op , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes_en_kleine_donker_uitziende_levendige_man	(pl)	implicit	7242	0	9
+148	s223	""" Rochester Row , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	7490	0	4
+149	s225	""" nu Vincent Square .
+ Nu komen wij uit bij de Vauxhall Bridge Road .
+ Wij houden waarschijnlijk de zijde der Surrey .
+ Ja , dat dacht ik wel .
+ Nu zijn wij op de brug , gij kunt van tijd tot tijd de rivier zien . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	7498	8	55
+150	s226	""" Wordsworth Road , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	7579	0	4
+151	s228	""" Priory Road , Larke Hall Lane , Stockwell Place , Robert Street , Cold Harbour Lane .
+ Het schijnt dat onze taak ons niet naar zeer fatsoenlijke wijken roept . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame	(pl)	implicit	7588	9	40
+152	s229	""" De Sahib verwacht u , """	een_Hindoesch_bediende	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	7777	0	6
+153	s231	""" Wijs hun den weg hierheen , Khitmutgar , """	De_Sahib	m	ik_en_Een_jonge_dame_en_Sherlock_Holmes_en_een_Hindoesch_bediende	(pl)	implicit	7806	0	9
+154	s233	""" Breng hen onmiddellijk tot mij ! ""
+"	De_Sahib	m	ik_en_Een_jonge_dame_en_Sherlock_Holmes_en_een_Hindoesch_bediende	(pl)	implicit	7819	0	7
+155	s234	""" Uw dienaar , Miss Morstan , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	7983	0	7
+156	s236	""" uw dienaar , mijne heeren .
+ Ik bid u , treed mijn klein heiligdom binnen .
+ Een kleine woning , Miss , maar naar mijn eigen smaak ingericht .
+ Een soort oase in deze beklagenswaardige wildernis van Zuidelijk-Londen . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	7998	15	55
+157	s237	""" Mr. Thaddeus Sholto , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8181	0	5
+158	s239	""" zoo is mijn naam .
+ Gij zijt dus Miss Morstan .
+ En deze heeren ? ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8197	16	32
+159	s240	""" Deze is Mr. Sherlock Holmes , en deze Dr. Watson . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes_en_De_Sahib	(pl)	implicit	8214	0	12
+160	s241	""" Een dokter , hé ? """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8227	0	6
+161	s243	""" hebt gij uw stethoscoop bij u ?
+ Zou ik u mogen verzoeken , - zoudt gij zoo vriendelijk willen zijn ?
+ Ik twijfel ten zeerste aan mijn hart-klep ; indien gij de goedheid zoudt willen hebben .
+ Ik ben er zeker van dat het in de hart-ader schuilt , maar omtrent de klep zou ik uw oordeel zeer gaarne vernemen . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8238	11	73
+162	s244	""" Het schijnt normaal te wezen , """	ik	m	Sherlock_Holmes_en_Een_jonge_dame_en_De_Sahib	(pl)	implicit	8331	0	7
+163	s246	""" gij hebt geen reden u ongerust te maken . ""
+"	ik	m	Sherlock_Holmes_en_Een_jonge_dame_en_De_Sahib	(pl)	implicit	8342	11	21
+164	s247	""" Gij moet mijne angstigheid vergeven , Miss Morstan , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8353	0	10
+165	s249	""" ik lijd zeer veel en vreesde altijd voor een hartader-breuk .
+ Ik ben verheugd te hooren dat daar geen gevaar voor bestaat .
+ Indien uw vader meer op zijn hart gelet had , Miss Morstan , dan ware hij misschien thans nog in leven . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8368	15	61
+166	s250	""" Ik gevoelde in mijn hart dat hij overleden was , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes_en_De_Sahib	(pl)	implicit	8450	0	11
+167	s252	""" Ik kan u alle mogelijke inlichtingen verschaffen , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8465	0	9
+168	s254	""" en dat wil ik ook , wat mijn broeder Bartholomeus ook moge zeggen .
+ Ik ben zoo blijde dat gij vrienden bij u hebt , niet alleen als een geleide voor u , maar tevens als getuigen bij hetgeen ik voornemens ben te doen en te zeggen .
+ Wij kunnen met ons drieën broeder Bartholomeus beter te woord staan .
+ Doch laat ons er noch politie noch andere ambtenaren in mengen .
+ Wij kunnen alles voldoende onderling regelen , zonder eenige tusschenkomst van anderen .
+ Niets zou broeder Bartholomeus meer hinderen dan publiciteit . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8478	13	108
+169	s255	""" Wat mij betreft , """	Sherlock_Holmes	m	ik_en_Een_jonge_dame_en_De_Sahib	(pl)	implicit	8596	0	5
+170	s257	""" ik zal al wat gij ook mocht willen spreken voor mij houden . ""
+"	Sherlock_Holmes	m	ik_en_Een_jonge_dame_en_De_Sahib	(pl)	implicit	8605	9	23
+171	s258	""" Dat is goed ! dat is goed ! """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8629	0	9
+172	s260	""" mag ik u een glas Chianti aanbieden , Miss Morstan ?
+ Of Tokayer ?
+ Andere wijnen houd ik er niet op na .
+ Zal ik een flesch opentrekken ?
+ Neen ?
+ Welnu dan , ik vertrouw dat gij geen hinder zult hebben van tabaks-rook , vooral niet van den balsamieken geur van Oostersche tobacco ?
+ Ik ben een weinig zenuwachtig en daarvoor is mijne hookah een onschatbaar geneesmiddel . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8642	13	83
+173	s261	""" Toen ik het eerst het besluit nam om u deze mededeeling te doen , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8767	0	15
+174	s263	""" zou ik gaarne mijn adres gegeven hebben ; ik vreesde echter dat gij mijn verzoek niet zoudt vertrouwen en vreemd volk met u zoudt brengen .
+ Deswege nam ik de vrijheid de zaak zoodanig te regelen , dat mijn bediende Williams u het eerst zoude zien .
+ Ik stel het volste vertrouwen in zijne discretie , en hij had in last om , zoo hij onvoldaan mocht zijn , de zaak niet voort te zetten .
+ Gij zult deze voorzorgsmaatregelen wel willen excuseeren , maar ik ben een eenigszins achterdochtig man , en ik durf er bijvoegen , van verfijnden smaak , en er bestaat niets dat meer in strijd is met de aesthetica dan een politieman .
+ Ik heb een natuurlijken afkeer van alle vormen van het ruwe materialisme .
+ Ik kom dan ook zelden in aanraking met de ruwe menigte .
+ Ik leef , zooals gij ziet , in een eenigszins elegante atmosfeer .
+ Ik mag mij een beschermer der kunst noemen .
+ Dat is nu eenmaal mijn zwak .
+ Dit landschap is een zeldzaam Corot , en hoewel een kenner wellicht eenigen twijfel mocht opperen omtrent deze Salvator Rosa , zoo kan dit bij deze Bouguereau geenszins het geval zijn .
+ Ik behoor gedeeltelijk tot de moderne Fransche school . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	8786	19	233
+175	s264	""" Gij zult mij excuseeren , Mr. Sholto , """	Een_jonge_dame	f	ik_en_Sherlock_Holmes_en_De_Sahib	(pl)	implicit	9001	0	9
+176	s266	""" maar ik ben hier op uw verzoek om iets te vernemen wat gij mij wenscht mede te deelen .
+ Het is reeds zeer laat , en ik wenschte ons onderhoud zoo min mogelijk te rekken . ""
+"	Een_jonge_dame	f	ik_en_Sherlock_Holmes_en_De_Sahib	(pl)	implicit	9016	15	52
+177	s267	""" Er zal toch nog eenigen tijd toe noodig zijn , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9054	0	11
+178	s269	""" want we zullen gewis naar Norwood moeten gaan en broeder Bartholomeus bezoeken .
+ Wij zullen er gezamenlijk heengaan en zien wat wij uit broeder Bartholomeus kunnen krijgen .
+ Hij is zeer boos op mij wegens den weg dien ik gekozen heb , doch die mij rechtvaardig toeschijnt .
+ Ik had nog gisteravond zeer hooge woorden met hem .
+ O , gij kunt u niet voorstellen wat een verschrikkelijke jongen hij is , als hij boos is . ""
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9069	15	93
+179	s270	""" Indien wij nog naar Norwood moeten , was het wellicht beter als wij ons onmiddellijk op weg begaven , """	ik	m	Sherlock_Holmes_en_Een_jonge_dame_en_De_Sahib	(pl)	implicit	9148	0	20
+180	s272	""" Dat zou bezwaarlijk gaan , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9184	0	6
+181	s274	""" ik weet niet wat hij zou zeggen als ik u zoo plotseling bij hem bracht .
+ Neen , ik moet u voorbereiden door u te toonen op welken voet wij met elkander staan .
+ In de eerste plaats moet ik u zeggen dat er verscheidene punten in de geschiedenis zijn , die mij zelf onbekend zijn .
+ Ik kan u dus de feiten slechts mededeelen voor zooverre ik ermede vertrouwd ben :
+"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9194	10	82
+182	s310	""" Mijn vader was , zooals gij zeker reeds gegist hebt , Majoor John Sholto , vroeger in Indischen dienst .
+ Hij nam ongeveer elf jaar geleden zijn ontslag en vestigde zich op Pondicherry Lodge te Upper Norwood .
+ Hij had fortuin gemaakt in Indië en bracht een aanzienlijke som gelds , eene groote verzameling kostbare zeldzaamheden en een gansch gevolg van Inlandsche bedienden mede .
+ Onder deze omstandigheden kocht hij zich een huis en leefde in groote weelde .
+ Mijn tweeling-broeder Bartholomeus en ik waren zijn eenige kinderen .
+ Ik herinner mij nog zeer goed de sensatie die de verdwijning van kapitein Morstan veroorzaakte .
+ Wij lazen de bizonderheden ervan in de bladen , en wetende dat hij een vriend van onzen vader was geweest , bespraken wij het geval openlijk in zijne tegenwoordigheid .
+ Dan was hij gewoon met ons over hetgeen er met hem gebeurd kon zijn , te redeneeren .
+ Nooit veronderstelden wij voor één oogenblik dat hij het geheele geheim in zijn eigen hart verborgen hield , dat van alle menschen , hem alléén het lot van Arthur Morstan bekend was .
+ Wèl wisten wij , dat eenig geheim , eenig bepaald gevaar onzen vader bezwaarde .
+ Hij was steeds zeer beangst om alleen uit te gaan , en hij hield altijd twee prijs-vechters als portiers van Pondicherry Lodge .
+ Williams , die u hedenavond gereden heeft , was een hunner .
+ Hij was eens de kampioen-athleet van Engeland .
+ Onze vader wilde ons nimmer zeggen wat het was dat hem zoo beangstigde , maar hij legde altijd een grooten afkeer aan den dag voor mannen met houten beenen .
+ Bij zekere gelegenheid vuurde hij eens zijn revolver op zulk een gebrekkige af , die niets anders bleek te zijn dan een rustig besteller die een boodschap kwam verrichten .
+ Het kostte ons een aanzienlijke som , om de zaak te sussen .
+ Mijn broeder en ik beschouwden dit enkel als een gril van mijn vader ; maar latere voorvallen hebben ons oordeel daaromtrent ten zeerste gewijzigd .
+ In het begin van 1882 ontving mijn vader een brief uit Indië , waardoor hij zwaar geschokt werd .
+ Hij bezwijmde bijna aan de ontbijttafel toen hij hem opende en vanaf dien dag bleef hij sukkelend tot aan zijn dood .
+ Wat die brief behelsde , werden wij nimmer gewaar , maar toen hij hem in de hand hield merkte ik op dat hij kort , en met krabbelend schrift geschreven was .
+ Hij had reeds sedert jaren aan toenemende "" spleen "" geleden , maar nu werd hij snel minder en tegen het einde van April werd ons meegedeeld dat hij hopeloos was en hij een laatste onderhoud met ons wenschte te hebben .
+ Toen wij zijn kamer binnentraden , werd hij door kussens overeind gehouden , en ademde hij zwaar .
+ Hij verzocht ons de deur te sluiten , en ons elk aan eene zijde van het bed te plaatsen .
+ Toen greep hij onze handen , en deed ons een merkwaardige bekentenis , met een stem , die evenzeer afgebroken werd door ontroering , als door zijn lijden .
+ Ik zal trachten u die met zijn eigen woorden weêr te geven :"	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9267	0	537
+183	s278	""" Ik heb slechts éen zaak , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9805	0	7
+184	s314	""" die mij in dit uiterste oogenblik bezwaart .
+ Dat is mijne behandeling van Morstan's arme weeze .
+ De verwenschte gelddorst , die mijn gemoed gedurende mijn gansche leven beheerscht heeft , onthield haar den schat , waarvan minstens de helft haar toebehoorde .
+ En toch heb ik er voor mij zelven geen gebruik van gemaakt , zoo verblind en onzinnig is de gierigheid .
+ Het enkel bewustzijn van het bezit was mij zoo dierbaar , dat ik er niet toe kon besluiten dit met een ander te deelen .
+ Ziet dezen krans met paarlen bezet , naast de kinine-flesch .
+ Zelfs daarvan kon ik niet scheiden , hoewel ik hem had achtergehouden om hem aan haar te zenden .
+ Gij , mijn zoons , zult haar een eerlijk deel geven van den Agra-schat .
+ Doch , zendt haar niets , - zelfs niet dezen krans , - alvorens ik zal gestorven zijn .
+ Er zijn wel menschen even ziek geweest als ik thans , die toch weder hersteld zijn ."	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9816	11	181
+185	s312	""" Ik zal u zeggen op welke wijze Morstan overleden is , """	De_Sahib	m	ik_en_Sherlock_Holmes_en_Een_jonge_dame	(pl)	implicit	9987	0	12

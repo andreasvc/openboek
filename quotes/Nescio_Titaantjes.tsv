@@ -1,0 +1,216 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s3	""" Wat ? """	Bavink	m	ik	fm	implicit	85	0	3
+1	s4	""" God ? je praat over God ?
+ Hun warme eten is hun God . ""
+"	Bavink	m	ik	fm	implicit	92	7	22
+2	s7	""" En niet ten onrechte , """	ik	fm		none	none	129	8	14
+3	s9	""" we zijn er niet op vooruit gegaan . ""
+"	ik	fm	Hoyer	m	explicit	237	21	30
+4	s11	""" centen hebben """	TITAANTJES	(pl, fm)		none	none	399	18	21
+5	s13	""" God , God , dat schilder ik nooit .
+ Dat kan ik nooit . ""
+"	Bavink	m	ik	fm	implicit	792	11	26
+6	s15	""" 't Is hier goeie .
+ Zoo moest 't maar blijven . ""
+"	Bekker	m	ik_en_Bavink_en_Kees_Ploeger	(pl)	implicit	1077	3	15
+7	s17	""" Op 't koninkrijk Gods . ""
+"	Bekker	m	ik_en_Bavink_en_Kees_Ploeger	(pl)	implicit	1213	3	9
+8	s18	""" het einde , dat meteen 't begin zou wezen . ""
+"	Bavink	m		none	none	1241	5	16
+9	s20	""" mijnheer Koekebakker """	Kees_Ploeger	m		none	none	1337	9	12
+10	s22	""" J'ai attendu le Seigneur avec une grande patience , enfin il s'est abaissé jusqu'à moi . ""
+"	Bekker	m		none	none	1404	0	17
+11	s24	""" Je schildert twee horizontale banen , onder elkaar , even breed , een blauwe en een goudgele en in 't midden van die blauwe baan maak je een ronde goudgele vlek .
+ En dan zetten we in den catalogus : No. 666 De Gedachte , schilderij .
+ En dan zenden we 't in op mijn naam : Johannes Bavink , 2de Jan Steenstraat , nummer zooveel en we prijzen 't voor f 800 .
+ Je zult eens zien wat ze er in ontdekken .
+ Van alles , waar je zelf nooit een flauw benul van gehad hebt . ""
+"	Bavink	m	ik_en_Bekker_en_Kees_Ploeger	(pl)	anaphoric_pronoun	1701	0	99
+12	s26	""" Meiden , dat is niks """	Bekker	m	ik_en_Bavink_en_Kees_Ploeger	(pl)	implicit	1905	3	9
+13	s27	""" Je moest zoo maar stilletjes blijven zitten , """	Bavink	m	ik_en_Bekker_en_Kees_Ploeger	(pl)	implicit	1990	0	9
+14	s28	""" Je moest zoo maar stilletjes blijven zitten te verlangen zonder te weten waarnaar . ""
+"	Bavink	m	ik_en_Bekker_en_Kees_Ploeger	(pl)	implicit	2017	0	15
+15	s29	""" O , Bekker """	de_gewichtige_heeren	(pl, fm)		none	none	2514	0	4
+16	s31	""" die halvegare """	de_juffrouw_van_tweehoog	f		none	none	2535	11	14
+17	s33	""" Wat zei je tegen hem ? ""
+"	Bekker	m	ik	fm	implicit	2604	0	7
+18	s34	""" hij weet niet wien hij voor heeft , daar is hij te dom voor . ""
+"	ik	fm		none	none	2635	23	39
+19	s35	""" Meiden , """	Bekker	m	ik	fm	implicit	2881	0	3
+20	s37	""" dat is niks gedaan ...
+ Ze veerde als ze liep . ""
+"	Bekker	m	ik	fm	implicit	2888	7	19
+21	s39	""" Waar zou ze nu zijn ? ""
+"	Bekker	m	ik	fm	implicit	2920	0	7
+22	s40	""" Zou ze zoenen ? ""
+"	Bekker	m	ik	fm	implicit	2928	0	5
+23	s42	""" Verdomme , een gat , dat heb ik stom gedaan . ""
+"	Bekker	m	ik	fm	implicit	2952	0	12
+24	s43	""" 't Is beter zoo , meiden is niks gedaan , je schiet er niet mee op , ze leiden je maar af .
+ Op een afstand zijn ze aardig , om gedichten op te maken . ""
+"	Bekker	m	ik	fm	implicit	2965	0	37
+25	s45	""" Weet je wat een raar ding is ?
+ Toen ze me dien middag inhaalde ging ze rakelings langs me heen .
+ Er was zoo te zeggen niks tusschen ons , een beetje kleeren van haar en zoo goed als geen kleeren van mij . ""
+"	Bekker	m	ik	fm	implicit	3014	0	45
+26	s47	""" Dat is niet veel , vind je wel ? ""
+"	Bekker	m	ik	fm	implicit	3075	0	10
+27	s48	""" Tusschen den toren van Naarden en deze snor , """	Bekker	m	ik	fm	implicit	3107	0	10
+28	s50	""" is veel minder , veel minder dan er toen was tusschen haar schouder en de mijne .
+ 't Haalt er niet bij Koekebakker . ""
+"	Bekker	m	ik	fm	implicit	3121	14	39
+29	s51	""" zoo is 't """	Bekker	m	ik	fm	implicit	3162	15	19
+30	s54	""" D'r het niks van in de krant ' estaan jong , hoe vin je dat nou ? wist jai d'r van ? ""
+"	een_boerenmeid	f	een_boerenjongen	m	explicit	3484	31	54
+31	s55	""" Wat moest ik toch op die tram ? ""
+"	ik	fm		none	none	3896	8	17
+32	s57	""" Opscheppers """	Een_burgerheer	m	ik_en_Bekker_en_Bavink_en_Hoyer_en_den_man_die_aan_de_deur_z'n_kaartje_knipte	(pl)	explicit	3995	4	6
+33	s60	""" aai locomotief """	Bekker	m		none	none	4568	44	47
+34	s61	""" Begrijp jij dat , """	Bavink	m	ik	fm	implicit	5156	0	5
+35	s62	""" van die sociale taak ? ""
+"	Bavink	m	ik	fm	implicit	5165	9	15
+36	s64	""" Wat zou dat voor 'n vent zijn , die dat artikel geschreven heeft ?
+ Heb jij verantwoordelijkheidsgevoel , Koekebakker ? ""
+"	Bavink	m	ik	fm	anaphoric_other	5178	0	21
+37	s66	""" Hoyer praat machtig mooi , """	Bavink	m	ik	fm	implicit	5208	0	6
+38	s68	""" Machtig mooi .
+ Ik heb geen verantwoordelijkheidsgevoel .
+ Ik kan me daar niet mee ophouden .
+ Ik moet schilderen .
+ Een lolletje is 't niet .
+ Wat zei -ie ook weer ? ""
+"	Bavink	m	ik	fm	implicit	5218	0	33
+39	s69	""" Wie ? """	ik	fm	Bavink	m	implicit	5252	0	3
+40	s175	""" Die vent in dat boek , wat zei -ie ook weer dat kunstenaars waren ? """	Bavink	m	ik	fm	implicit	5259	0	16
+41	s72	""" Gebenedijden , Bavink . ""
+"	ik	fm	Bavink	m	explicit	5276	0	5
+42	s74	""" Weet je wat ik denk , Koekebakker ?
+ Dat 't dezelfde vent is , die de spoorboekjes gemaakt heeft .
+ Daar heb ik ook nooit iets van begrepen , hoe iemand dat kon .
+ Gebenedijden ...
+ God is overal ?
+ Of niet , Koekebakker ?
+ Dat zeggen ze toch ? ""
+"	Bavink	m	ik	fm	anaphoric_other	5282	0	51
+43	s76	""" Dus hij is overal , """	Bavink	m	ik	fm	implicit	5375	0	6
+44	s78	""" Daar en daar en daar . ""
+"	Bavink	m	ik	fm	implicit	5385	0	7
+45	s80	""" En daar achter die zee , in 't land dat wij niet zien .
+ En daar , bij Driehuis , waar de booglampen staan .
+ En in de Kalverstraat .
+ Ga eens met je rug naar 't water staan en luister .
+ Kan jij eruit blijven ? ""
+"	Bavink	m	ik	fm	implicit	5402	0	48
+46	s81	""" Waaruit ? ""
+"	ik	fm	Bavink	m	implicit	5451	0	3
+47	s82	""" Uit die zee ? ""
+"	Bavink	m	Bavink	m	implicit	5455	0	5
+48	s83	""" Ik nauwelijks , """	Bavink	m	ik	fm	implicit	5471	0	4
+49	s177	""" 't Is zoo raar dat weemoedige geluid achter je .
+ 't Is net of zoo'n zee wat van me wil .
+ Daarin is God ook , God roept .
+ 't Is waarachtig geen lolletje , overal is -ie .
+ En overal roept -ie Bavink .
+ Je wordt mal van je eigen naam , als -ie zoo dikwijls geroepen wordt .
+ En dan moet Bavink schilderen .
+ Dan moet God op een brokkie linnen met verf .
+ Dan roept Bavink "" God . ""
+ En zoo blijven ze mekaar roepen .
+ Voor God is 't een spelletje , die is oneindig en overal .
+ Hij roept maar .
+ Maar Bavink heeft maar éen dom hoofd en één domme rechterhand en kan maar aan één schilderijtje te gelijk werken .
+ En als -ie denkt dat -ie God heeft dan heeft -ie linnen en verf .
+ Dan is God overal , behalve waar Bavink 'm hebben wil .
+ En dan komt er een vent en schrijft dat Bavink gebenedijd is .
+ En Hoyer leert dat uit z'n hoofd en loopt er over te zwetsen tegen Bekker .
+ Zeg wel gebenedijd .
+ Weet je wat ik wou ?
+ Dat ik spoorwegboekjes kon maken .
+ Zoo'n vent laat God met vrede , die is 'm de moeite niet waard . """	Bavink	m	ik	fm	implicit	5479	0	216
+50	s88	""" Dit is zeker 't privaat ? ""
+"	ik	fm	Hoyer	m	implicit	8209	6	13
+51	s90	""" Nee , dat is een kast """	Hoyer	m	ik	fm	implicit	8240	4	11
+52	s92	""" Pardon , dat is een kast . ""
+"	ik	fm		none	none	8260	9	17
+53	s95	""" Hij loopt nu met een uniformpet op met drie kruisjes en G. G. boven z'n voorhoofd en een boekje onder z'n arm .
+ En een vent bij 'm met een zwarte zak . ""
+"	Bavink	m	ik	fm	implicit	8563	0	34
+54	s96	""" Je zult me excuseeren , Koekebakker , om elf uur heb ik een conferentie . ""
+"	Hoyer	m	ik	fm	anaphoric_other	8817	17	33
+55	s99	""" Is m'nheer Bekker op kantoor ? ""
+"	ik	fm	een_jongmensch_met_een_vierkant_hoofd	fm	implicit	8930	0	7
+56	s101	""" Hallo Bekker ! ""
+"	ik	fm		none	none	8974	32	36
+57	s102	""" Is mijnheer op kantoor ? ""
+"	ik	fm	een_jongmensch_met_een_vierkant_hoofd	fm	implicit	8979	0	6
+58	s103	""" Wie kan ik zeggen dat er is ? ""
+"	een_jongmensch_met_een_vierkant_hoofd	fm	ik	fm	implicit	9002	0	9
+59	s104	""" Koekebakker . ""
+"	ik	fm	een_jongmensch_met_een_vierkant_hoofd	fm	implicit	9012	0	3
+60	s105	""" Wilt u mij maar volgen ? ""
+"	een_jongmensch_met_een_vierkant_hoofd	fm	ik	fm	implicit	9016	0	7
+61	s107	""" Moet ik hier zijn vriend ? """	ik	fm	een_jongmensch_met_een_vierkant_hoofd	fm	implicit	9071	0	7
+62	s110	""" Dat staat er nog van vroeger , mijnheer . ""
+"	een_jongmensch_met_een_vierkant_hoofd	fm	ik	fm	implicit	9097	0	10
+63	s111	""" Ja """	Bekker	m	ik_en_een_jongmensch_met_een_vierkant_hoofd	(pl)	implicit	9116	5	7
+64	s113	""" Per me si va nella città dolente . ""
+"	ik	fm	ik	fm	implicit	9322	0	9
+65	s115	""" Je begrijpt - kerel wat zie je d'r toch goed uit .
+ Kom je nu van Algiers ? ""
+"	Bekker	m	ik	fm	implicit	9396	0	19
+66	s117	""" Waar logeer je , als 't kan , kom ik vanavond om 9 uur bij je . ""
+"	Bekker	m	ik	fm	implicit	9428	0	18
+67	s119	""" Ik hoop dat je 't dan beter treft . ""
+"	Bekker	m	ik	fm	implicit	9490	0	10
+68	s122	""" Per me si va tra la perduta gente , Koekebakker . ""
+"	Bekker	m	ik	fm	explicit	9599	0	12
+69	s124	""" Zeg eens , als je geld noodig hebt ? ""
+"	Bekker	m	ik	fm	implicit	9627	0	10
+70	s126	""" wat -ie voor die smoessies kocht . ""
+"	een_metselaar	fm	Hoyer	m	implicit	9876	7	15
+71	s127	""" Wij sociaal democraten weten maar al te goed - ""
+"	Hoyer	m	een_metselaar	fm	implicit	9891	6	16
+72	s128	""" nou wordt 't interessant """	je	fm		none	none	9917	15	20
+73	s131	""" proletarisch sentiment """	Hoyer	m		none	none	9943	13	16
+74	s132	""" burgerlijke ideologieën . ""
+"	Hoyer	m		none	none	9948	18	22
+75	s134	""" 't Is toch mooi dat je alles zoo zeker weten kunt . ""
+"	ik	fm	Hoyer	m	implicit	9967	8	21
+76	s138	""" 't Chronische tekort in 't huishouden van den werkman , """	Hoyer	m		none	none	10614	7	18
+77	s139	""" Godverdomde dingen """	Bavink	m		none	none	10739	5	8
+78	s140	""" dan moet 't ook maar gebeuren , """	je	fm		none	none	10757	12	20
+79	s142	""" Zie je die zon , Koekebakker ? ""
+"	Bavink	m	ik	fm	explicit	11140	0	8
+80	s144	""" Je denkt dat ik dronken ben ? ""
+"	Bavink	m	ik	fm	implicit	11214	0	8
+81	s146	""" Het maakt geen verschil , Koekebakker , als ik nuchter ben , begrijp ik er toch ook niks van . ""
+"	Bavink	m	ik	fm	explicit	11228	0	21
+82	s148	""" Begrijp jij wat die zon van mij wil ?
+ Vier en dertig ondergaande zonnen heb ik tegen de muur staan , achter elkaar , omgekeerd .
+ En toch staat -ie daar weer iederen avond . ""
+"	Bavink	m	ik	fm	implicit	11250	0	36
+83	s149	""" Als er geen wolken zijn , """	ik	fm	Bavink	m	implicit	11287	0	7
+84	s152	""" Koekebakker jij bent altijd mijn beste vrind geweest .
+ Ik ken jou al - hoe lang al ? ""
+"	Bavink	m	ik	fm	explicit	11305	0	19
+85	s153	""" Omtrent dertien jaar Bavink . ""
+"	ik	fm	Bavink	m	explicit	11325	0	6
+86	s154	""" Dertien jaar .
+ Dat is lang .
+ Weet je wat jij doen moet ?
+ Doe me een lol .
+ Heb je een hoedendoos ? ""
+"	Bavink	m	ik	fm	implicit	11332	0	25
+87	s156	""" Doe 'm in een hoedendoos , Koekebakker .
+ In een hoedendoos .
+ Ik wil met vrede gelaten worden .
+ Doe 'm in een hoedendoos , in een ordinaire hoedendoos .
+ Hij verdient niet beter . ""
+"	Bavink	m	ik	fm	explicit	11361	0	36
+88	s157	""" Ik geloof mijnheer , dat u beter doet , als u dezen heer naar huis brengt . ""
+"	een_heer	m	ik_en_Bavink	(pl)	anaphoric_pronoun	11428	0	18
+89	s158	""" Hij kijkt me maar aan , wij begrijpen geen van beiden wat we van elkaar moeten . ""
+"	Bavink	m	ik_en_Hoyer	(pl)	implicit	11544	0	18
+90	s160	""" Goed zoo jongens , zoo mal als je bent , ben je me toch liever dan die mooie wijze heeren .
+ 't Spijt me dat je je nek moet breken en dat ik die heeren moet laten gedijen , maar ik ben ook God maar . ""
+"	God	m		none	none	11729	6	53

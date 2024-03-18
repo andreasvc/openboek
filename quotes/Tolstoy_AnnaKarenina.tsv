@@ -1,0 +1,350 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s1	""" Ja , ja , hoe was het ook weer ? """	haar_man	m		none	none	306	0	11
+1	s3	""" Ja , hoe was het toch ?
+ Juist !
+ Alabin gaf een diner te Darmstadt , neen ! niet te Darmstadt ....
+ Het was iets Amerikaansch .
+ Ja , maar dan was Darmstadt in Amerika .
+ Ja , Alabin gaf een diner op glazen tafels , en die tafels zongen : Il mio tesoro ....
+ Neen , niet il mio tesoro ... iets veel mooiers ....
+ En daar waren kleine kristallen flesschen , en daar waren vrouwen .... ""
+"	haar_man	m		none	none	326	0	79
+2	s4	""" Ja , het was heerlijk , heerlijk mooi !
+ O ! daar was nog zooveel meer schoons , - men kan zich dat wakend in het geheel niet meer voorstellen - dat is onmogelijk ! ""
+"	haar_man	m		none	none	419	0	36
+3	s5	""" Ach , ach ! """	haar_man	m		none	none	559	0	5
+4	s7	""" Neen , zij zal het mij niet vergeven , zij kan niet vergeven !
+ En het ergste is , dat alles mijn schuld is !
+ 't Is geheel en al mijn schuld en toch ben ik de schuldige niet .
+ Dat is het tragische er van ! """	haar_man	m		none	none	601	0	48
+5	s8	""" Ach , ach ! """	haar_man	m		none	none	653	0	5
+6	s9	""" Wat is dit ?
+ Wat is dit ? """	De_huisvrouw	f		none	none	790	0	9
+7	s11	""" een reflex der hersenwerkzaamheid , """	haar_man	m		none	none	927	57	63
+8	s12	""" Dat verwenschte lachen is de schuld van alles ! """	haar_man	m		none	none	1020	0	10
+9	s13	""" Maar wat te doen ? wat nu te doen ? """	haar_man	m		none	none	1035	0	11
+10	s14	""" Als men niet gepakt wordt , is men geen dief , """	haar_man	m		none	none	1147	0	12
+11	s15	""" O vreeseljjk , vreeselijk ! """	haar_man	m		none	none	1289	0	6
+12	s17	""" En hoe goed hadden wij het tot hiertoe !
+ Hoe goed hebben wij met elkander geleefd !
+ Zij was tevreden en gelukkig met de kinderen , ik legde haar niets in den weg en liet haar met de kinderen en de huishouding haar eigen gang gaan .
+ Dit is waar : het was niet goed , dat Jeanne bij ons gouvernante was , dat deugde niets !
+ Een minnarij met een gouvernante is iets triviaals !
+ Maar welk een gouvernante was zij ook ! ""
+"	haar_man	m		none	none	1305	0	85
+13	s19	""" En zoo lang ze bij ons in huis was , heb ik mij toch ook niets veroorloofd !
+ Het ergste is echter , dat zij al ....
+ Ach , het moest alles zoo komen !
+ Ach , ach , wat nu gedaan , wat nu toch gedaan ? ""
+"	haar_man	m		none	none	1410	0	49
+14	s20	""" Verder zal het wel terecht komen , """	haar_man	m		none	none	1508	0	8
+15	s22	""" Zijn er ook acten van het gerecht gekomen ? """	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	1617	0	10
+16	s24	""" Daar op tafel , """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1642	0	5
+17	s26	""" Er was iemand van den stalhouder hier . ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1674	12	21
+18	s27	""" Waarom zeg je mij dat ?
+ Weet je dan niet ? """	haar_man	m		none	none	1723	6	18
+19	s28	""" Ik zeide hem , dat hij den volgenden Zondag weerkomen en voor dien tijd noch u , noch zich zelf onnoodigen last moest aandoen . ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1766	0	26
+20	s29	""" Matjeff ! mijn zuster Anna Arkadiewna komt morgen , """	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	explicit	1840	0	10
+21	s31	""" Goddank ! """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1878	0	3
+22	s32	""" Alleen of met mijnheer haar echtgenoot ? ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1927	0	8
+23	s33	""" Alleen dus , """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1969	0	4
+24	s35	""" Dan moet het boven zeker voor haar ingericht worden ? ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	1978	9	20
+25	s36	""" Meld het aan Darja Alexandrowna en doe zooals zij beveelt . ""
+"	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	1990	0	12
+26	s37	""" Darja Alexandrowna ? """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	2003	0	4
+27	s39	""" Ja , meld het .
+ En daar , neem het telegram , geef het haar en kom mij mededeelen , wat zij er van zegt . ""
+"	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	2019	0	27
+28	s40	""" Dat is dus een verkenningsboodschap , """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	2047	0	7
+29	s42	""" Zooals u beveelt . ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	2064	17	22
+30	s43	""" Darja Alexdrowna beveelt mij u te melden , dat zij vertrekt en u het naar goedvinden kan laten inrichten , """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	2096	0	21
+31	s45	""" Ach , Matjeff ! """	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	explicit	2164	0	5
+32	s48	""" Alles zal nog wel terecht komen , mijnheer ! ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	2177	0	10
+33	s49	""" Zou het ? ""
+"	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	2188	0	4
+34	s50	""" Ja , mijnheer . ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	2193	0	5
+35	s51	""" Geloof je waarlijk ?
+ Wie is daar ? """	haar_man	m	Matrona_Filimonowna_en_Matjeff	(pl)	implicit	2199	0	9
+36	s53	""" Ik ben het , """	de_kinderjuffrouw	f	haar_man_en_Matjeff	(pl)	implicit	2224	0	5
+37	s55	""" Nu , wat is er aan de hand , Matrescha ? """	haar_man	m	Matrona_Filimonowna_en_Matjeff	(pl)	implicit	2256	0	12
+38	s57	""" Mijnheer , ga toch naar haar toe en biecht nog eens , """	de_kinderjuffrouw	f	haar_man	m	implicit	2310	0	13
+39	s283	""" misschien , dat God u helpt .
+ Zij lijdt al te veel .
+ Het doet iemand pijn dat aan te moeten zien .
+ En alles gaat in huis ten onderste boven .
+ Gij moet aan de kinderen denken , mijnheer !
+ Biecht nog eens , mijnheer ?
+ u kan niet anders doen .
+ Wie den bal kaatst , moet hem ook ...."	de_kinderjuffrouw	f	haar_man	m	implicit	2327	17	79
+40	s284	""" Zij wil mij immers in het geheel niet meer zien ? """	haar_man	m	_Matjeff	none	none	2390	0	12
+41	s61	""" Dan hebt gij ten minste het uwe gedaan .
+ God is barmhartig , mijnheer !
+ Wend u tot Hem ! ""
+"	de_kinderjuffrouw	f	haar_man	m	none	2403	0	21
+42	s62	""" Nu goed , goed , ga maar heen ! """	haar_man	m	_Matjeff	none	none	2425	0	10
+43	s64	""" Matjeff , help mij kleeden , """	haar_man	m	_Matjeff	none	explicit	2443	18	25
+44	s66	""" Ik zei het immers wel , wij mogen de passagiers niet boven op de kap zetten , """	Tania	f	Grischa	m	implicit	3459	0	18
+45	s68	""" Nu kun jij ze er weer opzetten , hoor ! ""
+"	Tania	f	Grischa	m	implicit	3485	0	11
+46	s69	""" Ach , ach ! alles is in de war , """	haar_man	m		none	none	3497	0	11
+47	s71	""" daar loopen de kinderen nu alleen door het huis rond . ""
+"	haar_man	m		none	none	3512	15	27
+48	s72	""" Hoe gaat het toch met mama ? """	haar_man	m	Tania_en_Grischa	(pl)	implicit	3622	0	8
+49	s74	""" Goeden morgen ! """	haar_man	m	Tania_en_Grischa	(pl)	implicit	3642	0	4
+50	s76	""" Mama ? die is opgestaan , """	Tania	f	haar_man_en_Grischa	(pl)	implicit	3692	0	7
+51	s78	""" Dus heeft ze weer den ganschen nacht niet geslapen ! """	haar_man	m		none	none	3708	0	11
+52	s79	""" Is zij opgeruimd ? ""
+"	haar_man	m	Tania_en_Grischa	(pl)	implicit	3723	0	5
+53	s80	""" Ik weet het niet , """	Tania	f	haar_man_en_Grischa	(pl)	implicit	3786	0	6
+54	s82	""" zij zeide , dat wij vandaag niets behoefden te leeren en met miss Gull naar grootmama mochten wandelen ! ""
+"	Tania	f	haar_man_en_Grischa	(pl)	implicit	3797	11	31
+55	s83	""" Nu , ga dan maar uit , Tanischka !
+ Maar wacht nog een oogenblik ! """	haar_man	m	Tania_en_Grischa	(pl)	implicit	3818	0	16
+56	s84	""" Is dit voor Grischa ? """	Tania	f	haar_man_en_Grischa	(pl)	implicit	3862	0	6
+57	s85	""" Ja , ja ! """	haar_man	m	Tania_en_Grischa	(pl)	implicit	3877	0	5
+58	s86	""" Het rijtuig is voor ! """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	3908	0	6
+59	s88	""" Er is ook een vrouw om u te spreken , """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	3918	0	11
+60	s90	""" Heeft zij lang gewacht ? """	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	3935	0	6
+61	s92	""" Ongeveer een half uur . ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	3945	0	6
+62	s93	""" Hoe dikwijls heb ik bevolen mij zoo iets terstond te melden ? ""
+"	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	3952	0	13
+63	s94	""" U moet toch rustig koffie kunnen drinken ! """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	3966	0	9
+64	s96	""" Nu , roep haar dadelijk binnen ! """	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	3991	0	8
+65	s99	""" Ja zoo ! ""
+"	haar_man	m		none	none	4131	0	4
+66	s100	""" Zal ik gaan of niet gaan ? """	haar_man	m		none	none	4151	0	8
+67	s101	""" Maar het moet toch eens geschieden , zoo kan het niet altijd blijven ! """	haar_man	m		none	none	4253	0	15
+68	s103	""" Dolly ! """	haar_man	m	Dolly	f	explicit	4619	0	3
+69	s105	""" Ja , hij is gelukkig en tevreden , """	De_huisvrouw	f		none	none	4671	0	9
+70	s107	""" en ik ?
+ &lt;&lt;&amp;lt; ....
+ O , die afschuwelijke goedigheid , waarom ieder hem prijst en bemint - ik haat ze ! ""
+"	De_huisvrouw	f		none	none	4684	13	36
+71	s108	""" Wat wilt gij ? """	De_huisvrouw	f	haar_man	m	implicit	4725	0	5
+72	s110	""" Dolly ! """	haar_man	m	Dolly	f	explicit	4741	0	3
+73	s112	""" Anna komt van daag . ""
+"	haar_man	m	Dolly	f	implicit	4749	8	14
+74	s113	""" Wat gaat mij dat aan ?
+ Ik kan haar niet ontvangen , """	De_huisvrouw	f	haar_man	m	implicit	4756	0	13
+75	s115	""" Dolly ! eindelijk moet het toch .... ""
+"	haar_man	m	Dolly	f	explicit	4774	0	8
+76	s116	""" Ga weg , ga weg van mij ! """	De_huisvrouw	f	haar_man	m	implicit	4783	0	9
+77	s119	""" Mijn God , wat heb ik toch gedaan !
+ Dolly , om Godswil ....! ""
+"	haar_man	m	Dolly	f	explicit	4881	0	15
+78	s121	""" Dolly !
+ Wat kan ik zeggen ?
+ Slechts dit eene : vergiffenis , vergiffenis !
+ Bedenk toch , kunnen negen jaren , die wij te samen geleefd hebben , niet één oogenblik .... ""
+"	haar_man	m	Dolly	f	none	4917	0	34
+79	s122	""" ....
+ Een oogenblik .... van .... verleiding .... uitwisschen .... """	haar_man	m	Dolly	f	implicit	4969	0	11
+80	s124	""" Ga heen ! ga toch heen ! """	De_huisvrouw	f	haar_man	m	implicit	5009	0	8
+81	s126	""" en spreek mij niet meer van uw verleidingen , uw afschuwelijkheden . ""
+"	De_huisvrouw	f	haar_man	m	implicit	5022	13	26
+82	s127	""" Dolly ! """	haar_man	m	Dolly	f	explicit	5067	0	3
+83	s129	""" denk om Godswil aan de kinderen .
+ Die toch zijn onschuldig ....
+ Ik heb gefaald , straf mij , laat mij mijn schuld boeten .
+ Wat ik ook doen moet , ik ben tot alles bereid .
+ Ik heb schuld , ik kan niet zeggen , hoe diep schuldig ik mij gevoel , maar Dolly ! vergeef mij ! ""
+"	haar_man	m	Dolly	f	implicit	5075	8	68
+84	s130	""" Gij denkt aan de kinderen , om je met hen te vermaken , ik denk echter ook aan hen en weet nu , dat zij verloren zijn . ""
+"	De_huisvrouw	f	haar_man	m	implicit	5171	0	29
+85	s131	""" Ik denk aan de kinderen en voor hen zou ik alles ter wereld willen doen .
+ Maar ik weet niet , hoe ik het best voor hen zorgen kan , door ze aan hun vader te ontnemen of hen bij een liederlijken vader te laten , ja ! bij een liederlijken vader !
+ Zeg nu zelf , of er na het voorgevallene nog mogelijkheid bestaat om samen te leven !
+ Zeg , is het mogelijk ? """	De_huisvrouw	f	haar_man	m	implicit	5250	0	77
+86	s133	""" nadat mijn echtgenoot , de vader mijner kinderen , een minnehandel heeft aangeknoopt met de gouvernante zijner kinderen ? ""
+"	De_huisvrouw	f	haar_man	m	implicit	5335	14	34
+87	s134	""" Maar hoe kan ik het toch weer goed maken ? """	haar_man	m	Dolly	f	implicit	5356	0	11
+88	s136	""" Gij zijt mij onuitstaanbaar , """	De_huisvrouw	f	haar_man	m	implicit	5381	0	6
+89	s138	""" Uw tranen hebben voor mij geen waarde !
+ Gij hebt mij nooit bemind , gij hebt geen hart , geen edelmoedigheid !
+ Gij staat mij tegen , gij zijt voor mij een vreemde , ja geheel een vreemde geworden ! ""
+"	De_huisvrouw	f	haar_man	m	implicit	5399	0	41
+90	s140	""" Neen , zij haat mij , nooit zal zij mij vergeven , """	haar_man	m		none	none	5505	0	13
+91	s141	""" Het is vreeselijk , vreeselijk , """	haar_man	m	Dolly	f	implicit	5522	0	7
+92	s143	""" Zij bemint mijn kind toch nog , """	haar_man	m		none	none	5593	0	8
+93	s145	""" mijn kind ! hoe kan zij mij dan haten ? ""
+"	haar_man	m		none	none	5611	18	29
+94	s146	""" Dolly , nog een woord ! """	haar_man	m	Dolly	f	explicit	5623	0	7
+95	s149	""" Als gij mij volgt , roep ik de bedienden en de kinderen , dan zullen ze allen vernemen , welk een laag mensch gij zijt !
+ Ik vertrek heden nog , blijf gij maar bij uw liefje . ""
+"	De_huisvrouw	f	haar_man	m	implicit	5636	0	39
+96	s150	""" Matjeff zegt , dat alles nog wel terecht zal komen , maar ik zie daar geen mogelijkheid toe .
+ - En hoe afschuwelijk en plat heeft zij geschreeuwd ! """	haar_man	m		none	none	5701	0	30
+97	s152	"' liefje en laag mensch . '
+"	haar_man	m		none	none	5743	22	28
+98	s153	""" En misschien hebben de meiden dat gehoord !
+ Hoe vreeselijk plat , hoe vreeselijk . ""
+"	haar_man	m		none	none	5750	0	16
+99	s154	""" Ach , misschien dat de bui bij ons ook nog optrekt , """	haar_man	m		none	none	5844	0	13
+100	s155	""" Matjeff , richt de zijkamer in voor Anna Arkadiewna . ""
+"	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	explicit	5872	0	11
+101	s157	""" Zooals u beveelt . ""
+"	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	5884	0	5
+102	s158	""" Komt u te huis dineeren ? """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	5906	0	7
+103	s159	""" Misschien .
+ Hier , dit is voor de onkosten , """	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	5922	0	11
+104	s160	""" zou het genoeg zijn ? ""
+"	haar_man	m	zijn_oude_kamerdienaar_Matjeff	m	implicit	5940	15	21
+105	s161	""" Genoeg of niet genoeg , wij zullen er wel mede rond moeten komen , """	zijn_oude_kamerdienaar_Matjeff	m	haar_man	m	implicit	5947	0	15
+106	s163	""" Ach , laat mij met rust ! """	De_huisvrouw	f	_Matrona_Filimonowna	none	implicit	6098	0	8
+107	s164	""" Weggereden ?
+ En of hij nog in betrekking staat met haar ?
+ Of zij elkander nog ontmoeten ?
+ Waarom heb ik hem daar niet naar gevraagd ?
+ Neen , neen , een verzoening is niet mogelijk !
+ Wanneer wij ook al in één huis blijven wonen , zoo zullen wij toch vreemden voor elkander zijn , voor altijd vreemden ! ""
+"	De_huisvrouw	f		none	none	6150	0	61
+108	s166	""" En hoe zeer heb ik hem bemind !
+ En bemin ik hem nu misschien nog niet meer dan vroeger !
+ Het ergste is echter .... ""
+"	De_huisvrouw	f		none	none	6223	0	26
+109	s167	""" Mag ik om mijn broeder zenden om ten minste het middageten te koken ?
+ Anders gaat het als gisteren en krijgen de kinderen voor zes uur niets te eten ! ""
+"	de_kinderjuffrouw	f	Dolly	f	implicit	6265	0	31
+110	s168	""" Goed , ik kom terstond en zal alles regelen .
+ Is er al versche melk gehaald ?
+ &lt;&amp;lt;&amp;lt; .... ""
+"	De_huisvrouw	f	Matrona_Filimonowna	f	implicit	6297	0	20
+111	s169	""" Aha !
+ Stiwa !
+ Oblonsky !
+ Daar is hij weer ! """	een_iemand	m	haar_man	m	explicit	6753	0	12
+112	s170	""" Wij hebben toch het bericht van het Pensaïsch gouvernement ontvangen .
+ Voegt het u dat in te zien ? ""
+"	de_secretaris	m	haar_man	m	implicit	7190	0	20
+113	s171	""" Zoo is het dan toch gekomen ! """	haar_man	m	de_secretaris	m	implicit	7211	0	8
+114	s173	""" Dan willen wij beginnen , mijne heeren !
+ &lt;&amp;lt;&amp;lt; .... """	haar_man	m	haar_man	m	implicit	7230	0	11
+115	s174	""" Als zij eens wisten , welk een schuldige knaap hun voorzitter een uur geleden nog was , """	haar_man	m		none	none	7248	0	18
+116	s175	""" We zullen er na het ontbijt wel mee klaar komen , """	haar_man	m	de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	7426	0	12
+117	s177	""" Als wij nog maar tijd genoeg hebben ! """	een_oud_beambte_Nikitin	m	de_kamerheer_Grinewitsch_en_haar_man	(pl)	implicit	7443	0	9
+118	s179	""" Die Foomin moet toch een groote schurk zijn ! """	de_kamerheer_Grinewitsch	m	een_oud_beambte_Nikitin_en_haar_man	none	implicit	7457	0	10
+119	s181	""" Wie was hier zooeven ? """	haar_man	m	den_portier	fm	explicit	7506	0	6
+120	s183	""" Er kwam , toen ik mij even had omgekeerd , iemand binnenstuiven , excellentie ! zonder het mij te vragen .
+ Hij vroeg naar u .
+ Ik zeide , als de heeren uit de zitting kwamen , dan ... ""
+"	den_portier	fm	haar_man	m	implicit	7518	0	40
+121	s184	""" Waar is hij ? ""
+"	haar_man	m	den_portier	fm	implicit	7559	0	5
+122	s185	""" In het voorvertrek gegaan , zooeven was hij nog hier .
+ Daar is hij ! """	den_portier	fm	haar_man	m	implicit	7565	0	16
+123	s187	""" Zijt gij het waarlijk , Lewin ! """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	7681	0	8
+124	s190	""" Wel , ijsde je er niet van , mij in dit hol op te zoeken ? """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	7710	0	17
+125	s192	""" en dat nog wel in West-europeesch costuum , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	7736	26	35
+126	s193	""" Ik ben pas aangekomen en was erg verlangend je te zien ! """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	7757	0	13
+127	s194	""" Nu , kom dan maar in mijn kabinet , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	7784	0	10
+128	s195	""" Wij hadden je reeds lang verwacht , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8052	0	8
+129	s197	""" Ik verheug mij zeer je te zien .
+ Hoe gaat het je ?
+ Wanneer ben je gekomen ? ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8085	0	19
+130	s198	""" Ach ja , laat ik u voorstellen , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8175	0	9
+131	s200	""" Mijn collega's Philip Iwanowitsch Nikitin en Michael Stanislawowitsch Grinewitsch ; een werkzaam medelid der Semstwo , een athleet , die met één hand vijf pud ( 1 ) kan opheffen , groot veefokker en jager en mijn vriend Constantin Dimitrisch Lewin , broeder van Sergei Iwanowitsch Kosnischeff . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8188	13	62
+132	s201	""" Zeer aangenaam , """	iemand	m	haar_man_en_Lewin_en_de_kamerheer_Grinewitsch	(pl)	implicit	8238	0	4
+133	s202	""" Ik heb de eer uw broeder te kennen , """	de_kamerheer_Grinewitsch	m	haar_man_en_Lewin_en_een_oud_beambte_Nikitin	(pl)	implicit	8248	0	10
+134	s204	""" Ik ben geen lid der Semstwo meer ; ik heb met allen oneenigheid gehad en ga niet meer naar hun vergaderingen , """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8329	0	23
+135	s206	""" Nu , dat is gauw gegaan , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8358	0	8
+136	s207	""" waarom dan toch ? ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8370	12	17
+137	s208	""" Dat is een lange geschiedenis , die vertel ik je eens op een anderen keer , """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8376	0	17
+138	s210	""" Om kort te gaan , ik ben tot de overtuiging gekomen , dat de Semstwo in het geheel geen recht van bestaan heeft , noch hebben kan . ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8404	0	29
+139	s211	""" Ten eerste speelt men daar parlementje , en ik ben noch jong noch oud genoeg om mij met speelgoed te kunnen vermaken , en van den anderen kant """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8445	0	29
+140	s213	""" is zij voor de coterie van het district slechts een middel om geld in handen te krijgen .
+ Wat de oude voogdijschappen en gerechten waren , dat is nu de Semstwo , met dit onderscheid dat nu het streven niet op vooruitgang , maar alleen op het verkrijgen van een onverdiend inkomen gericht is . ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8482	0	56
+141	s214	""" Wel , wel , ik hoor , dat ge weer een nieuwe phase zijt ingetreden , en wel de conservatieve , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8554	0	22
+142	s215	""" maar daarover later meer . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8580	26	32
+143	s216	""" Ja , later !
+ Maar ik moest je toch even zien , """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8587	0	13
+144	s218	""" Waarom draag je nu een Europeeschen en geen Russischen jas ? """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8624	0	12
+145	s220	""" ja , ik begrijp , dit behoort ook al tot de nieuwe phase ! ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8652	28	43
+146	s221	""" Waar ontmoeten we elkander ?
+ Ik moet je zeer noodig spreken . ""
+"	haar_man	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8687	0	13
+147	s223	""" Zou het niet beter zijn , in plaats van hier in het café een slechte cotelette te verorberen , een paar schreden verder te gaan en bij Gurin een goed ontbijt te gebruiken ?
+ Hoor eens ! ga nu met mij mee ontbijten , dan kunnen wij nog een poosje praten .
+ Tot drie uur ben ik vrij ! ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8705	0	60
+148	s224	""" Neen , zei Lewin , even nadenkend , ik moet eerst nog een bezoek afleggen . ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8766	0	17
+149	s225	""" Goed , dan zullen wij samen dineeren ! ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8784	0	9
+150	s226	""" Dineeren !
+ Ja , maar ik heb je niets bizonders te vertellen , ik wilde je eigenlijk maar een paar woorden vragen . ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8794	0	24
+151	s227	""" Zeg dan die paar woorden dadelijk en het andere bespreken wij van middag . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8819	0	15
+152	s228	""" Slechts twee woorden , anders niets bizonders ! ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8835	0	9
+153	s229	""" Hoe is 't bij de Tscherbatzky's ?
+ Alles bij het oude ? ""
+"	haar_man	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8861	0	13
+154	s230	""" Gij hebt mij met weinige woorden gevraagd , ik kan je zoo kort niet antwoorden , want ....
+ Och ! excuseer een oogenblik . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	8899	0	25
+155	s231	""" Neen , gij moet het doen , zooals ik het u gezegd heb , """	haar_man	m	de_secretaris	m	implicit	9012	33	48
+156	s232	""" Doe het nu als je blieft precies zoo , Sacharnikizitsch ! ""
+"	haar_man	m	de_secretaris	m	explicit	9052	73	85
+157	s233	""" 't Is onbegrijpelijk , 't is onbegrijpelijk ! ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9094	0	9
+158	s234	""" Wat begrijpt ge niet ? """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9104	0	6
+159	s237	""" Ik begrijp niet , wat je hier eigenlijk doet en hoe ge dat met zooveel ernst kunt opnemen ! ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9132	0	20
+160	s238	""" En waarom zou ik niet ? ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9153	0	7
+161	s319	"Omdat het toch eigenlijk geen werk is . """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9161	0	8
+162	s240	""" Zoo denk je dat ?
+ Nu wij zitten toch tot over de ooren toe in het werk . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9170	0	19
+163	s241	""" In 't schrijfwerk !
+ Nu ja , daar heb je ook talent voor . ""
+"	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9190	0	15
+164	s242	""" Je bedoelt met talent meer een gebrek dan een gave . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9206	0	12
+165	s243	""" Misschien wel , """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9219	0	4
+166	s245	""" maar toch bewonder ik je grootheid en ben er trotsch op , dat mijn vriend zoo'n beroemd man is .
+ - Maar , hoor eens , gij hebt mijn vraag niet beantwoord """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9227	8	41
+167	s247	""" Nu goed , goed , wacht maar , daar komen wij ook al aan toe .
+ Gij hebt het maar drommels goed met je drie duizend desjatinen in het Ezremowsche district , met zulke spieren en een blos als van een twaalfjarig meisje !
+ Maar ge wordt nog eenmaal een der onzen !
+ O , ja zoo ! je vroeg mij daarnaar : er is nog niets veranderd , maar 't is jammer dat ge in zoo lang niet hier waart . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9276	0	83
+168	s248	""" Waarom dat ? """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9360	0	4
+169	s250	""" Ja , zie ...! maar we spreken daar wel eens nader over .
+ Waarom ben je eigenlijk hier gekomen ? ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9369	0	21
+170	s251	""" Ach , daar spreken we ook later over ! """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9391	0	10
+171	s253	""" Nu goed , ik begrijp je , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9412	0	8
+172	s255	""" zie je , ik zou je wel bij mij verzoeken , maar mijn vrouw is niet heel wel .
+ Maar hoor eens , als je hen zien wilt , zij zijn tusschen vier en vijf uur bepaald in den dierentuin .
+ Kitty rijdt daar schaatsen ; ga daar ook heen , ik haal je daar later af en dan rijden wij samen ergens heen om te dineeren . ""
+"	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9424	12	81
+173	s323	""" Goed !
+ Tot weerziens dan . """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9494	0	7
+174	s257	""" Maar hoor eens , vriendje !
+ Ik ken je zoo goed , je zult de afspraak misschien glad vergeten en zoo maar in eens naar buiten terug rijden , """	haar_man	m	Lewin_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9502	0	30
+175	s260	""" Neen , neen , ik kom stellig ! """	iemand	m	haar_man_en_de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9539	0	9
+176	s261	""" Dat schijnt een zeer energiek heer te zijn ! """	de_kamerheer_Grinewitsch	m	_een_oud_beambte_Nikitin_en_haar_man	(pl)	implicit	9570	0	10
+177	s263	""" Ja , vadertje ! """	haar_man	m	de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9589	0	5
+178	s265	""" dat is nu eerst een gelukkige : drie duizend desjatinen in het Ezremowsche district , nog een schoone toekomst voor zich en daarbij zoo oorspronkelijk - zoo geheel anders als wij . ""
+"	haar_man	m	de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9598	9	42
+179	s266	""" En wat hebt gij dan te klagen , Stipan Arkadiewitsch ? ""
+"	de_kamerheer_Grinewitsch	m	_een_oud_beambte_Nikitin_en_haar_man	(pl)	implicit	9632	0	12
+180	s267	""" 't Is erg , ach , heel erg , """	haar_man	m	de_kamerheer_Grinewitsch_en_een_oud_beambte_Nikitin	(pl)	implicit	9645	0	10
+181	s269	""" Ik ben gekomen om je schoonzuster Kitty ten huwelijk te vragen , """	iemand	m		none	none	9705	36	49

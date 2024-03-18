@@ -1,0 +1,294 @@
+	ids	quote	speaker	speaker_gender	addressee	addressee_gender	addresseetype	ttokenno	begin	end
+0	s239	""" De nieuwe bediende , """	Jamers_Forster_de_ontslagen_knecht	m	Phileas_Fogg	m	implicit	1464	0	5
+1	s3	""" Gij zijt een Franschman en heet John ? """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	1483	0	9
+2	s5	""" Jean , met uw welnemen , """	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	1497	0	7
+3	s7	""" Jean Passepartout , een naam , dien ik behouden heb en dien ik verwierf door mijn talent , om mij in alle omstandigheden te schikken .
+ Ik geloof dat ik een eerlijke jongen ben , mijnheer , maar ik moet oprecht zijn en u zeggen , dat ik van alles bij de hand heb gehad .
+ Ik ben reizend zanger geweest , oppasser in een paardenspel , ik heb op het trapèze gewerkt als Léotard en koord gedanst als Blondin ; toen ben ik onderwijzer in de gymnastiek geworden , ten einde meer partij van mijne talenten te trekken en eindelijk was ik sergeant bij de pompiers te Parijs .
+ Ik heb onder mijne papieren hoogst belangrijke brand-rapporten .
+ Maar sedert vijf jaren heb ik Frankrijk verlaten en daar ik het huiselijk leven genieten wilde , ben ik kamerdienaar in Engeland geworden .
+ Thans ben ik zonder betrekking en daar ik vernomen heb , dat de heer Phileas Fogg de meest stipte en minst onbestendige man uit het vereenigd koninkrijk is , ben ik zoo vrij mij bij u aan te bieden , in de hoop hier rustig te leven en zelfs mijn naam van Passepartout te vergeten . ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	1509	12	212
+4	s8	""" Passepartout bevalt mij , """	Phileas_Fogg	m	De_nieuwe_bediende	m	explicit	1710	0	5
+5	s10	""" Men heeft u bij mij aanbevolen .
+ Ik heb goede berichten omtrent u .
+ Kent gij mijne voorwaarden ? ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	1720	0	20
+6	s11	""" Ja , mijnheer . ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	1741	0	5
+7	s12	""" Goed .
+ Hoe laat hebt gij 't ? ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	1747	0	9
+8	s13	""" Twee en twintig minuten over elven , """	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	1757	0	8
+9	s15	""" Gij gaat achter , """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	1783	0	5
+10	s17	""" Houd mij ten goede , mijnheer , dat is onmogelijk . ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	1792	0	12
+11	s18	""" Gij gaat vier minuten achter .
+ Maar dat doet er niet toe .
+ Het is genoeg , dat het verschil bekend zij .
+ Van dit oogenblik af , elf ure negen en twintig minuten in den morgen van Woensdag 2 October 1872 , zijt gij in mijn dienst . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	1805	0	50
+12	s19	""" Op mijn woord van eer , """	De_nieuwe_bediende	m		none	none	1952	0	7
+13	s21	""" ik heb bij madame Tussaud poppen gekend , die net zoo levend waren als mijn nieuwe meester . ""
+"	De_nieuwe_bediende	m		none	none	1977	25	44
+14	s23	""" de rust der beweging """	de_beoefenaars_der_gelaatkunde	(pl, fm)		none	none	2126	13	18
+15	s25	""" Dat bevalt me , dat bevalt me zeer goed , """	De_nieuwe_bediende	m		none	none	3080	0	11
+16	s28	""" Het bevalt me ; 't is juist een kolfje naar mijne hand .
+ Wij zijn het volkomen eens , die mijnheer Fogg en ik .
+ Een huiselijk en ordelijk man .
+ Een echte automaat .
+ Nu , ik ben er niet rouwig om een mechaniek te bedienen . ""
+"	De_nieuwe_bediende	m		none	none	3481	34	83
+17	s31	""" Wel !
+ Ralph , """	de_brouwer_Thomas_Flanagan	m	_Gauthier_Ralph	none	explicit	3923	0	5
+18	s33	""" hoe staat het met den diefstal ? ""
+"	de_brouwer_Thomas_Flanagan	m	_Gauthier_Ralph	none	implicit	3933	7	15
+19	s34	""" Ja , """	de_ingenieur_Andrew_Stuart	m	_Gauthier_Ralph	none	implicit	3942	0	3
+20	s36	""" de bank is haar geld kwijt . ""
+"	de_ingenieur_Andrew_Stuart	m	_Gauthier_Ralph	none	implicit	3950	8	16
+21	s37	""" Ik vertrouw integendeel , """	Gauthier_Ralph	m	_de_ingenieur_Andrew_Stuart	none	implicit	3959	0	5
+22	s39	""" dat wij den dief wel zullen krijgen .
+ Men heeft zeer handige inspecteurs van politie naar Amerika en naar de voornaamste havens van Europa gezonden , zoodat het dien heer moeite zal kosten om hun te ontsnappen . ""
+"	Gauthier_Ralph	m	_de_ingenieur_Andrew_Stuart	none	implicit	3969	10	49
+23	s40	""" Men heeft dus het signalement van den dief ? """	de_ingenieur_Andrew_Stuart	m	_Gauthier_Ralph	none	implicit	4009	0	10
+24	s42	""" Het is eigenlijk geen dief , """	Gauthier_Ralph	m	_de_ingenieur_Andrew_Stuart	none	implicit	4024	0	7
+25	s44	""" Hoe ?
+ Is het geen dief , die vijf en vijftig duizend pond sterling aan bankpapier gestolen heeft . ""
+"	de_ingenieur_Andrew_Stuart	m	_Gauthier_Ralph	none	implicit	4037	0	20
+26	s45	""" Neen , """	Gauthier_Ralph	m	_de_ingenieur_Andrew_Stuart	none	implicit	4058	0	3
+27	s47	""" Is het dan iemand , die zaken aan de beurs doet ? ""
+"	de_ingenieur_Andrew_Stuart	m	_Gauthier_Ralph	none	implicit	4065	0	13
+28	s48	""" De Morning Chronicle verzekert dat het een gentleman is . ""
+"	Gauthier_Ralph	m	_Gauthier_Ralph	none	implicit	4079	0	11
+29	s50	""" Ik houd vol , """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	4886	0	5
+30	s52	""" dat de kansen ten gunste zijn van den dief , die zeer zeker een handig man moet zijn . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	4896	10	30
+31	s53	""" Kom , kom ! """	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	4917	0	5
+32	s55	""" er is geen enkel land , waar hij een schuilplaats zou kunnen vinden . ""
+"	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	4926	9	24
+33	s56	""" Nu nog mooier ! ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	4942	0	5
+34	s57	""" Waar zou hij naar toe gaan ? ""
+"	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	4948	0	8
+35	s58	""" Ik weet er niets van , """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	4957	0	7
+36	s60	""" maar dit weet ik wel , dat de wereld groot genoeg is . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	4969	12	26
+37	s61	""" Dat was zij voorheen """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	4984	0	5
+38	s63	""" u moet coupeeren , mijnheer , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	4997	13	20
+39	s64	""" Hoe , voorheen ?
+ Is de wereld misschien kleiner geworden ? ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5037	0	12
+40	s65	""" Zonder twijfel , """	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	5050	0	4
+41	s67	""" Ik ben van dezelfde meening als mijnheer Fogg : de wereld is kleiner geworden , omdat men haar nu in tienmaal minder tijd omreist dan honderd jaar geleden .
+ En dat zal in het geval , waarin wij nu verkeeren , de nasporingen zeer bespoedigen . ""
+"	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	5059	0	47
+42	s68	""" Maar voor den dief is het vluchten nu ook zooveel gemakkelijker geworden . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5107	0	14
+43	s69	""" Gij moet spelen , mijnheer Stuart , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5122	0	8
+44	s71	""" Ik moet zeggen , mijnheer Ralph , dat gij al een zeer aardige manier hebt , om te bewijzen dat de wereld kleiner is geworden .
+ Omdat men de wereld kan omreizen in drie maanden .... ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5154	0	37
+45	s72	""" In tachtig dagen , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5192	0	5
+46	s74	""" Inderdaad heeren , """	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5202	0	4
+47	s243	""" sedert de sectie Rothal-Allahabad van den Great-Indian Peninsular-spoorweg , is geopend , maakt de Morning Chronicle de volgende berekening :
+ -
+ TABLE
+ -
+ Van Londen naar Suez over den Mont-Cenis
+ en Brindisi , spoorweg en mailbooten ,
+ 7 dagen Van Suez naar Bombay , mailbooten ,
+ 13 dagen Van Bombay naar Calcutta , spoorweg ,
+ 3 dagen Van Calcutta naar Hongkong ( China ) ,
+ mailboot , 13 dagen Van Hongkong naar Yokohama ( Japan ) , mailboot , 6 dagen Van Yokohama naar San-Francisco , mailboot , 22 dagen Van San-Francisco naar New-York , spoorweg , 7 dagen Van New-York naar Londen , mailboot en spoorweg , 9 dagen
+ -
+ 80 dagen . """	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5213	11	126
+48	s81	""" Juist , tachtig dagen , """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5329	0	6
+49	s83	""" maar daaronder niet begrepen het slechte weer , tegenwind , schipbreuk , derailleeren enz. ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5348	19	34
+50	s84	""" Alles er onder begrepen , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5364	0	6
+51	s86	""" Zelfs wanneer de Hindoes of de Indianen de rails opbraken , """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5387	0	12
+52	s88	""" wanneer zij den trein tegenhouden , de waggons plunderen en de reizigers scalpeeren . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5404	17	32
+53	s89	""" Alles er onder begrepen , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5420	0	6
+54	s91	""" Theoretisch hebt ge gelijk , mijnheer Fogg , maar in de practijk .... ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5462	0	14
+55	s92	""" In de practijk ook , mijnheer Stuart . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5477	0	9
+56	s93	""" Ik zou het u wel eens willen zien doen . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5487	0	11
+57	s94	""" Dit staat aan u .
+ Laten wij samen vertrekken . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5499	0	11
+58	s95	""" De hemel beware me ! """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5511	0	6
+59	s97	""" maar ik wil wel wedden om vier duizend pond sterling , dat zulk een reis op zulke voorwaarden onmogelijk is . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5521	10	32
+60	s98	""" Integendeel , zeer mogelijk , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5544	0	6
+61	s100	""" Nu , maak ze dan ! ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5554	0	7
+62	s101	""" De reis om de wereld in tachtig dagen ? ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5562	0	10
+63	s102	""" Ja . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5573	0	3
+64	s103	""" Ik wil wel . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5577	0	5
+65	s104	""" Wanneer ? ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5583	0	3
+66	s105	""" Terstond .
+ Maar het spreekt van zelf , dat ik het op uw kosten doe . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5587	0	17
+67	s106	""" Dat is krankzinnigenwerk ! """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5605	0	5
+68	s107	""" Kom ! laten wij liever spelen . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5628	0	8
+69	s108	""" Geef dan nog eens , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5637	0	6
+70	s110	""" want gij hebt verkeerd gegeven . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5648	11	18
+71	s112	""" welnu , ja mijnheer Fogg , ik wed om vier duizend pond !
+ &lt;&lt;&amp;lt; ... ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5675	19	35
+72	s113	""" Beste Stuart , """	Samuel_Fallentin	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_de_bankiers_John_Sullivan	(pl)	implicit	5692	0	4
+73	s115	""" bedaar toch .
+ Het is geen ernst . ""
+"	Samuel_Fallentin	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_de_bankiers_John_Sullivan	(pl)	implicit	5700	8	17
+74	s116	""" Als ik zeg : ik wed , """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5710	0	8
+75	s118	""" dan meen ik het ook . ""
+"	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	5723	13	20
+76	s119	""" Goed , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5731	0	3
+77	s121	""" Ik heb twintig duizend pond bij de gebroeders Baring staan .
+ Ik heb ze er gaarne voor over .... ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5750	0	20
+78	s122	""" Twintig duizend pond ! """	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5771	0	5
+79	s124	""" Twintig duizend pond , die gij door een onvoorzien oponthoud kunt verliezen . ""
+"	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5781	0	14
+80	s125	""" Onvoorziene dingen bestaan niet , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5796	0	6
+81	s127	""" Maar , mijnheer Fogg , de tijd van tachtig dagen is het minimum van tijd , dat men er voor berekend heeft . ""
+"	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5807	0	24
+82	s128	""" Een goed besteed minimum is voor alles voldoende . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5832	0	10
+83	s129	""" Maar om het niet te overschrijden moet men met wiskunstige juistheid van den spoorweg op de mailboot en van de mailboot op den spoorweg overspringen . ""
+"	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5843	0	27
+84	s130	""" Ik zal wiskunstig overspringen . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5871	0	6
+85	s131	""" Dat is scherts ! ""
+"	de_bankiers_John_Sullivan	(pl, m)	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph_en_Samuel_Fallentin	(pl)	implicit	5878	0	5
+86	s132	""" Een goed Engelschman schertst nooit , wanneer er sprake is van zulk eene gewichtige zaak als eene weddenschap , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5884	0	20
+87	s134	""" Ik wed tegen ieder , die maar wil , twintig duizend pond , dat ik de wereld zal rondreizen in tachtig dagen , dat is duizend negen honderd twintig uren of honderd vijftien duizend twee honderd minuten .
+ Neemt gij het aan ? ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5909	0	44
+88	s135	""" Wij nemen het aan ! """	gij	(pl, fm)	Phileas_Fogg	m	implicit	5954	0	6
+89	s137	""" Goed , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5983	0	3
+90	s139	""" De trein naar Dover vertrekt om kwart voor negenen .
+ Daar zal ik mede op reis gaan . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	5990	0	19
+91	s140	""" Van avond nog ? """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	6010	0	5
+92	s142	""" Dezen avond , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	6019	0	4
+93	s144	""" Alzoo , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	6027	0	3
+94	s145	""" het is heden woensdag , 2 October , ik moet in Londen terug zijn , in deze zaal zelve van de Reform club , op zaterdag 21 December , kwart voor negenen , en zoo ik er niet ben , zullen de twintig duizend pond bij de gebroeders Baring gedeponeerd u rechtmatig toebehooren .
+ Ziedaar een wissel voor die som . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	6039	12	74
+95	s146	""" Ik ben altijd klaar , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	6247	0	6
+96	s147	""" Ruiten troef , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	6264	0	4
+97	s149	""" U zit voor , mijnheer Stuart . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	6272	0	8
+98	s150	""" Passepartout , """	Phileas_Fogg	m	De_nieuwe_bediende	m	explicit	6416	0	3
+99	s152	""" Ik heb u tweemaal geroepen , """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6431	0	7
+100	s154	""" Maar het is nog geen twaalf uur , """	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	6442	0	9
+101	s156	""" Ik weet het , """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6471	0	5
+102	s157	""" daarom maak ik er u geen verwijt van .
+ Binnen tien minuten vertrekken wij naar Dover en Calais . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6480	9	29
+103	s158	""" Gaat mijnheer ergens anders wonen ? """	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	6521	0	7
+104	s160	""" Ja , """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6532	0	3
+105	s162	""" wij gaan een reis om de wereld maken . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6540	8	18
+106	s163	""" Een reis om de wereld , """	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	6581	0	7
+107	s165	""" In tachtig dagen , """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6592	0	5
+108	s167	""" Wij hebben dus geen oogenblik te verliezen . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6603	0	9
+109	s168	""" Maar de koffers ? """	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	6613	0	5
+110	s170	""" Geen koffers , slechts een reiszak .
+ Doe daarin twee wollen hemden en drie paar kousen en hetzelfde voor u ; onderweg koopen wij het overige .
+ Gij haalt mijn overjas en mijn reisplaid .
+ Trek goede schoenen aan .
+ Intusschen wij zullen bijna niet loopen .
+ Ga nu . ""
+"	De_nieuwe_bediende	m	De_nieuwe_bediende	m	implicit	6627	0	51
+111	s171	""" Gij hebt dus niets vergeten ? """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6966	0	7
+112	s173	""" Niets , mijnheer . ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	6977	0	5
+113	s174	""" Mijn jas en mijn plaid . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6983	0	7
+114	s175	""" Hier zijn ze . ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	none	6991	0	5
+115	s176	""" Goed zoo , neem nu het valies maar op . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	6997	0	11
+116	s177	""" Draag er goed zorg voor , want er zit twintig duizend pond sterling in . ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	7016	0	16
+117	s178	""" Daar , goede vrouw , """	Phileas_Fogg	m	eene_arme_vrouw_met_een_kind_aan_de_hand	none	implicit	7211	0	6
+118	s180	""" ik ben blij dat ik u ontmoet heb . ""
+"	Phileas_Fogg	m	eene_arme_vrouw_met_een_kind_aan_de_hand	none	implicit	7221	10	20
+119	s181	""" Mijne heeren , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	7288	0	4
+120	s183	""" ik ga vertrekken , de verschillende visa zullen u in staat stellen om bij mijne terugkomst mijne reis na te gaan . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	7296	8	31
+121	s256	""" O , mijnheer Fogg"	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	7320	0	4
+122	s257	""" dat is onnoodig .
+ Wij vertrouwen op uw eer van gentleman ! """	Gauthier_Ralph	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_de_ingenieur_Andrew_Stuart	(pl)	implicit	7331	11	24
+123	s187	""" Maar zoo is het toch beter , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	7345	0	8
+124	s188	""" Gij vergeet niet , dat ge terug moet zijn ?
+ &lt;&amp;lt;&amp;lt; ... """	de_ingenieur_Andrew_Stuart	m	de_brouwer_Thomas_Flanagan_en_Phileas_Fogg_en_Gauthier_Ralph	(pl)	implicit	7358	0	13
+125	s190	""" In tachtig dagen , """	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	7377	0	5
+126	s192	""" zaterdag 21 December 1872 , 's avonds kwart voor negen . ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	7386	9	21
+127	s193	""" Tot wederziens , mijne heeren ! ""
+"	Phileas_Fogg	m	de_brouwer_Thomas_Flanagan_en_de_ingenieur_Andrew_Stuart_en_Gauthier_Ralph	(pl)	implicit	7399	0	7
+128	s194	""" Wat is er ? """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	7501	0	5
+129	s196	""" Ik heb ... in mijne gejaagdheid ... in mijn ... iets vergeten .... ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	7510	0	14
+130	s197	""" Wat ? ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	7525	0	3
+131	s198	""" Om de gaskraan in mijne kamer uit te draaien ! ""
+"	De_nieuwe_bediende	m	Phileas_Fogg	m	implicit	7529	0	11
+132	s199	""" Zoo vriend , """	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	7541	0	4
+133	s201	""" dan brandt die voor uwe rekening ! ""
+"	Phileas_Fogg	m	De_nieuwe_bediende	m	implicit	7550	9	17
+134	s211	""" En gij zegt , mijnheer de consul , """	Fix	(pl, fm)	de_consul	fm	explicit	9287	0	9
+135	s213	""" dat de boot niet lang meer weg kan blijven ? ""
+"	Fix	(pl, fm)	de_consul	fm	explicit	9305	18	29
+136	s214	""" Neen , mijnheer Fix , """	de_consul	fm	Fix	(pl, fm)	explicit	9317	0	6
+137	s216	""" Zij was gisteren al lang in het gezicht bij de haven van Port-Saïd en wat zijn honderd zestig kilometers voor zulk een snelloopende boot ?
+ Ik verzeker u , dat de Mongolia altijd den prijs van vijf en twintig pond verdiend heeft , dien het Gouvernement heeft gesteld voor elke vier en twintig uren , die zij binnen den bepaalden tijd aankomt . ""
+"	de_consul	fm	Fix	(pl, fm)	explicit	9328	0	64
+138	s217	""" Komt deze mailboot rechtstreeks van Brindisi ? """	Fix	(pl, fm)	de_consul	fm	implicit	9393	0	8
+139	s219	""" Ja , van Brindisi , waar zij de post naar Indië heeft opgenomen , en dat zij zaterdag ten tien uur verlaten heeft .
+ Heb dus geduld , zij zal zoo dadelijk komen ; maar ik begrijp waarlijk niet hoe gij met het signalement , dat ge nu hebt , uw man kunt herkennen , zoo hij al aan boord van de Mongolia is . ""
+"	de_consul	fm	Fix	(pl, fm)	implicit	9405	0	66
+140	s220	""" Mijnheer de consul , """	Fix	(pl, fm)	de_consul	fm	explicit	9472	0	5
+141	s222	""" die menschen ruikt men meer dan dat men ze wel herkent .
+ Men moet ze ruiken , en de reuk is een bijzonder zintuig , dat het gehoor en het gezicht steunt .
+ Ik heb in mijn leven verscheidene van die heeren ontmoet , en zoo de dief zich aan boord bevindt , maak er dan gerust staat op , dat hij mij ook niet ontglippen zal . ""
+"	Fix	(pl, fm)	de_consul	fm	explicit	9481	9	78
+142	s223	""" Ik help het u wenschen , mijnheer Fix , want het is een belangrijke diefstal . ""
+"	de_consul	fm	Fix	(pl, fm)	explicit	9551	0	17
+143	s224	""" Een prachtige diefstal , """	Fix	(pl, fm)	de_consul	fm	implicit	9569	0	5
+144	s226	""" Vijf en vijftig duizend pond !
+ Zulke buitenkansjes hebben wij niet dikwijls !
+ De dieven beteekenen tegenwoordig niet veel !
+ Het ras der Sheppards sterft uit !
+ Men laat zich nu voor eenige shillings oppakken ! ""
+"	Fix	(pl, fm)	de_consul	fm	implicit	9580	0	37
+145	s227	""" Mijnheer Fix , """	de_consul	fm	Fix	(pl, fm)	explicit	9618	0	4
+146	s229	""" gij praat er zoo zeker over , dat ik van harte wensch dat gij slagen zult ; maar ik geloof , dat in de omstandigheden waarin gij verkeert , dit moeielijk gaan zal .
+ Weet ge wel , dat volgens het signalement , dat ge gekregen hebt , deze dief zeer veel op een eerlijk man gelijkt ? ""
+"	de_consul	fm	Fix	(pl, fm)	explicit	9627	9	68
+147	s230	""" Mijnheer de consul , """	Fix	(pl, fm)	de_consul	fm	explicit	9687	0	5
+148	s232	""" de groote dieven gelijken altijd op eerlijke lui .
+ Gij begrijpt toch wel dat voor hen , die een schurkengezicht hebben , slechts éen weg open staat , namelijk om eerlijk te blijven , anders zouden zij ingerekend worden .
+ De eerlijke gezichten zijn het , waarop men vooral moet passen .
+ Een moeielijk werk , ik beken het , en dat geen handwerk is , maar eene kunst . ""
+"	Fix	(pl, fm)	de_consul	fm	explicit	9702	15	86
+149	s233	""" Maar zij komt niet ! """	Fix	(pl, fm)	de_consul	fm	implicit	9930	0	6
+150	s234	""" Zij kan niet ver meer af zijn , """	de_consul	fm	Fix	(pl, fm)	implicit	9949	0	9
+151	s236	""" Hoe lang zou zij te Suez toeven ? """	Fix	(pl, fm)	de_consul	fm	implicit	9963	0	9
+152	s238	""" Vier uren .
+ Juist den tijd om kolen in te nemen .
+ Van Suez naar Aden , aan het uiteinde van de Roode Zee , is de afstand dertien honderd en tien mijlen en moet men een voorraad van brandstoffen innemen . ""
+"	de_consul	fm	Fix	(pl, fm)	implicit	9976	0	43
