@@ -32,6 +32,8 @@ with several layers of linguistic annotations.
 
   The semantic number is annotated (e.g., "the group" is plural since it could be
   referred to by "they"), regardless of the syntactic number.
+  In addition to features, there is also a column indicating the entity type/category.
+  See the annotation guidelines for the possible values: https://github.com/nitgi/Thesis/blob/main/annotationguidelines.pdf
 - original: The original texts of the novels, except for some
   manual spelling changes applied to Multatuli (y -> ij, koffi -> koffie)
   and Nescio (eg., datti -> dat -ie).
@@ -50,6 +52,20 @@ with several layers of linguistic annotations.
 - quotes: the .xml files contain manually annotated speakers of direct speech spans; annotated using https://github.com/muzny/quoteannotator/
   For annotation guidelines and more information, see https://github.com/frenkvdberg/dutchqa
   The .tsv files contain both speaker and addressee annotations.
+- events: .tsv files containing annotations of events (verbs) as well as agents and patients of those events.
+  See the annotation guidelines: https://github.com/bbjoverbeek/event-prediction/blob/main/label_studio/annotation_guidelines.pdf
+  The tsv files have four columns: 1. token id (zero-indexed), 2. token, 3. label, 4. parent id.
+  The label column has one of the following values:
+  - REALIS (a verb describing an event that happens or happened in the story),
+  - IRREALIS (a hypothetical or future event)
+  - B-AGENT, I-AGENT,
+  - B-PATIENT, I-PATIENT
+  - O: this token did not receive a label during annotation.
+  - "-": when all tokens in a sentence have a dash as label, it means the sentence was not annotated.
+  An agent/patient may play a role in multiple events. The parent column is a
+  comma separated list of token IDs indicating the event to which an
+  agent/patient is linked.
+
 
 ## Corpus
 

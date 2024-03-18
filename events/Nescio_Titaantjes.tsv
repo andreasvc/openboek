@@ -1,0 +1,13286 @@
+# 2-1
+0	TITAANTJES	O	-
+1	.	O	-
+
+# 3-1
+0	I.	-	-
+
+# 4-1
+0	Jongens	B-AGENT	1
+1	waren	IRREALIS	-
+2	we	O	-
+3	-	O	-
+4	maar	O	-
+5	aardige	O	-
+6	jongens	O	-
+7	.	O	-
+
+# 4-2
+0	Al	O	-
+1	zeg	IRREALIS	-
+2	ik	B-AGENT	1
+3	't	O	-
+4	zelf	O	-
+5	.	O	-
+
+# 4-3
+0	We	B-AGENT	1
+1	zijn	REALIS	-
+2	nu	O	-
+3	veel	O	-
+4	wijzer	O	-
+5	,	O	-
+6	stakkerig	O	-
+7	wijs	O	-
+8	zijn	REALIS	-
+9	we	B-AGENT	8
+10	,	O	-
+11	behalve	O	-
+12	Bavink	B-AGENT	16
+13	,	O	-
+14	die	O	-
+15	mal	O	-
+16	geworden	REALIS	-
+17	is	O	-
+18	.	O	-
+
+# 4-4
+0	Wat	O	-
+1	hebben	O	-
+2	we	B-AGENT	6
+3	al	O	-
+4	niet	O	-
+5	willen	O	-
+6	opknappen	IRREALIS	-
+7	.	O	-
+
+# 4-5
+0	We	B-AGENT	6
+1	zouden	O	-
+2	hun	O	-
+3	wel	O	-
+4	eens	O	-
+5	laten	O	-
+6	zien	REALIS	-
+7	hoe	O	-
+8	't	O	-
+9	moest	REALIS	-
+10	.	O	-
+
+# 4-6
+0	We	-	-
+1	,	-	-
+2	dat	-	-
+3	waren	-	-
+4	wij	-	-
+5	,	-	-
+6	met	-	-
+7	z'n	-	-
+8	vijven	-	-
+9	.	-	-
+
+# 4-7
+0	Alle	B-AGENT	3
+1	andere	I-AGENT	3
+2	menschen	I-AGENT	3
+3	waren	REALIS	-
+4	"	O	-
+5	ze	O	-
+6	"	O	-
+7	.	O	-
+
+# 4-8
+0	"	O	-
+1	Ze	B-AGENT	6,9
+2	"	O	-
+3	,	O	-
+4	die	O	-
+5	niets	O	-
+6	snapten	IRREALIS	-
+7	en	O	-
+8	niets	O	-
+9	zagen	IRREALIS	-
+10	.	O	-
+
+# 4-9
+0	"	O	-
+1	Wat	O	-
+2	?	O	-
+3	"	O	-
+4	zei	REALIS	-
+5	Bavink	B-AGENT	4
+6	,	O	-
+7	"	O	-
+8	God	O	-
+9	?	O	-
+10	je	B-AGENT	11
+11	praat	IRREALIS	-
+12	over	O	-
+13	God	O	-
+14	?	O	-
+
+# 4-10
+0	Hun	B-AGENT	3
+1	warme	I-AGENT	3
+2	eten	I-AGENT	3
+3	is	REALIS	-
+4	hun	O	-
+5	God	O	-
+6	.	O	-
+7	"	O	-
+
+# 4-11
+0	Op	-	-
+1	enkele	-	-
+2	"	-	-
+3	goeie	-	-
+4	kerels	-	-
+5	"	-	-
+6	na	-	-
+7	werd	-	-
+8	iedereen	-	-
+9	door	-	-
+10	ons	-	-
+11	veracht	-	-
+12	.	-	-
+
+# 4-12
+0	Heel	O	-
+1	stilletjes	O	-
+2	zeg	REALIS	-
+3	ik	B-AGENT	2
+4	daar	O	-
+5	nu	O	-
+6	bij	O	-
+7	:	O	-
+8	"	O	-
+9	En	O	-
+10	niet	O	-
+11	ten	O	-
+12	onrechte	O	-
+13	,	O	-
+14	"	O	-
+15	maar	O	-
+16	dat	O	-
+17	mag	O	-
+18	niemand	O	-
+19	hooren	IRREALIS	-
+20	.	O	-
+
+# 4-13
+0	Ik	B-AGENT	1
+1	ben	IRREALIS	-
+2	nu	O	-
+3	geen	O	-
+4	held	O	-
+5	meer	O	-
+6	.	O	-
+
+# 4-14
+0	Je	B-AGENT	1
+1	weet	IRREALIS	-
+2	niet	O	-
+3	hoe	O	-
+4	je	B-AGENT	11
+5	de	O	-
+6	menschen	O	-
+7	nog	O	-
+8	eens	O	-
+9	noodig	O	-
+10	kunt	O	-
+11	hebben	IRREALIS	-
+12	.	O	-
+
+# 4-15
+0	En	O	-
+1	Hoyer	B-AGENT	2
+2	vindt	REALIS	-
+3	ook	O	-
+4	dat	O	-
+5	je	B-AGENT	9
+6	geen	O	-
+7	aanstoot	O	-
+8	moet	O	-
+9	geven	IRREALIS	-
+10	.	O	-
+
+# 4-16
+0	Van	O	-
+1	Bekker	B-PATIENT	2,4
+2	zie	IRREALIS	-
+3	of	O	-
+4	hoor	IRREALIS	-
+5	je	B-AGENT	2,4
+6	niks	O	-
+7	meer	O	-
+8	.	O	-
+
+# 4-17
+0	En	O	-
+1	Kees	B-AGENT	3,14
+2	Ploeger	I-AGENT	3,14
+3	praat	REALIS	-
+4	van	B-AGENT	14
+5	die	I-AGENT	14
+6	rare	I-AGENT	14
+7	kerels	I-AGENT	14
+8	die	O	-
+9	'm	O	-
+10	op	O	-
+11	den	O	-
+12	slechten	O	-
+13	weg	O	-
+14	brachten	REALIS	-
+15	.	O	-
+
+# 4-18
+0	Maar	O	-
+1	toen	O	-
+2	waren	REALIS	-
+3	we	B-AGENT	2
+4	in	O	-
+5	de	O	-
+6	dagen	O	-
+7	onzer	O	-
+8	dwaasheid	O	-
+9	,	O	-
+10	de	O	-
+11	uitverkorenen	O	-
+12	Gods	O	-
+13	,	O	-
+14	ja	O	-
+15	God	O	-
+16	zelf	O	-
+17	.	O	-
+
+# 4-19
+0	Verstandig	-	-
+1	zijn	-	-
+2	we	-	-
+3	nu	-	-
+4	,	-	-
+5	alweer	-	-
+6	behalve	-	-
+7	Bavink	-	-
+8	en	-	-
+9	we	-	-
+10	kijken	-	-
+11	mekaar	-	-
+12	aan	-	-
+13	en	-	-
+14	glimlachen	-	-
+15	en	-	-
+16	ik	-	-
+17	zeg	-	-
+18	tegen	-	-
+19	Hoyer	-	-
+20	:	-	-
+21	"	-	-
+22	we	-	-
+23	zijn	-	-
+24	er	-	-
+25	niet	-	-
+26	op	-	-
+27	vooruit	-	-
+28	gegaan	-	-
+29	.	-	-
+30	"	-	-
+
+# 4-20
+0	Maar	O	-
+1	Hoyer	B-AGENT	2,9,20,23
+2	is	REALIS	-
+3	al	O	-
+4	te	O	-
+5	ver	O	-
+6	heen	O	-
+7	,	O	-
+8	hij	O	-
+9	begint	REALIS	-
+10	bij	O	-
+11	de	O	-
+12	bonzen	O	-
+13	van	O	-
+14	de	O	-
+15	S.	O	-
+16	D.	O	-
+17	A.	O	-
+18	P.	O	-
+19	te	O	-
+20	hooren	REALIS	-
+21	,	O	-
+22	en	O	-
+23	maakt	REALIS	-
+24	een	B-PATIENT	23
+25	gebaar	I-PATIENT	23
+26	van	I-PATIENT	23
+27	twijfel	I-PATIENT	23
+28	met	O	-
+29	z'n	O	-
+30	handen	O	-
+31	en	O	-
+32	z'n	O	-
+33	schouders	O	-
+34	.	O	-
+
+# 4-21
+0	Wat	-	-
+1	we	-	-
+2	eigenlijk	-	-
+3	doen	-	-
+4	zouden	-	-
+5	is	-	-
+6	ons	-	-
+7	nooit	-	-
+8	duidelijk	-	-
+9	geweest	-	-
+10	.	-	-
+
+# 4-22
+0	Iets	O	-
+1	zouden	O	-
+2	we	B-AGENT	3
+3	doen	IRREALIS	-
+4	.	O	-
+
+# 4-23
+0	Bekker	B-AGENT	1
+1	had	REALIS	-
+2	een	O	-
+3	vaag	O	-
+4	besef	O	-
+5	dat	O	-
+6	-ie	B-AGENT	10
+7	alle	O	-
+8	kantoren	O	-
+9	wilde	O	-
+10	afbreken	IRREALIS	-
+11	,	O	-
+12	Ploeger	B-AGENT	25,33
+13	wilde	O	-
+14	zijn	B-AGENT	20
+15	baas	I-AGENT	20
+16	z'n	B-PATIENT	20
+17	eigen	I-PATIENT	20
+18	klokken	I-PATIENT	20
+19	laten	O	-
+20	inpakken	IRREALIS	-
+21	en	O	-
+22	er	O	-
+23	bij	O	-
+24	gaan	O	-
+25	staan	IRREALIS	-
+26	met	O	-
+27	een	O	-
+28	sigaar	O	-
+29	in	O	-
+30	z'n	O	-
+31	hoofd	O	-
+32	en	O	-
+33	vloeken	IRREALIS	-
+34	op	O	-
+35	die	B-AGENT	42
+36	kerels	I-AGENT	42
+37	die	O	-
+38	nooit	O	-
+39	iets	O	-
+40	goed	O	-
+41	konden	O	-
+42	doen	IRREALIS	-
+43	.	O	-
+
+# 4-24
+0	Eéns	O	-
+1	waren	REALIS	-
+2	we	B-AGENT	1
+3	't	O	-
+4	,	O	-
+5	dat	O	-
+6	we	B-AGENT	10
+7	"	O	-
+8	eruit	O	-
+9	"	O	-
+10	moesten	REALIS	-
+11	.	O	-
+
+# 4-25
+0	Waaruit	O	-
+1	,	O	-
+2	en	O	-
+3	hoe	O	-
+4	?	O	-
+
+# 4-26
+0	Eigenlijk	-	-
+1	deden	-	-
+2	we	-	-
+3	niets	-	-
+4	anders	-	-
+5	dan	-	-
+6	praten	-	-
+7	,	-	-
+8	rooken	-	-
+9	,	-	-
+10	drinken	-	-
+11	en	-	-
+12	boeken	-	-
+13	lezen	-	-
+14	.	-	-
+
+# 4-27
+0	Bavink	-	-
+1	vrijde	-	-
+2	bovendien	-	-
+3	nog	-	-
+4	met	-	-
+5	Lien	-	-
+6	.	-	-
+
+# 4-28
+0	Achteraf	O	-
+1	bedenk	REALIS	-
+2	ik	B-AGENT	1
+3	,	O	-
+4	dat	O	-
+5	we	B-AGENT	10,15
+6	een	O	-
+7	prachtig	O	-
+8	stel	O	-
+9	kerels	O	-
+10	geweest	IRREALIS	-
+11	waren	O	-
+12	om	O	-
+13	rijk	O	-
+14	te	O	-
+15	zijn	IRREALIS	-
+16	,	O	-
+17	maar	O	-
+18	"	O	-
+19	centen	O	-
+20	hebben	O	-
+21	"	O	-
+22	vonden	REALIS	-
+23	we	B-AGENT	22
+24	verachtelijk	O	-
+25	;	O	-
+26	alleen	O	-
+27	Hoyer	B-AGENT	28,35
+28	begon	REALIS	-
+29	daar	O	-
+30	vrij	O	-
+31	gauw	O	-
+32	anders	O	-
+33	over	O	-
+34	te	O	-
+35	denken	REALIS	-
+36	.	O	-
+
+# 4-29
+0	Bavink	B-AGENT	1
+1	begreep	IRREALIS	-
+2	niet	O	-
+3	,	O	-
+4	waarom	O	-
+5	die	B-AGENT	12,16,20
+6	kerels	I-AGENT	12,16,20
+7	zoo	O	-
+8	maar	O	-
+9	in	O	-
+10	rijtuigen	O	-
+11	mochten	O	-
+12	rijden	REALIS	-
+13	en	O	-
+14	dure	B-PATIENT	16
+15	jassen	I-PATIENT	16
+16	aanhebben	REALIS	-
+17	en	O	-
+18	andere	O	-
+19	lui	O	-
+20	commandeeren	REALIS	-
+21	,	O	-
+22	die	O	-
+23	niet	O	-
+24	stommer	O	-
+25	waren	IRREALIS	-
+26	dan	O	-
+27	zij	B-AGENT	25
+28	.	O	-
+
+# 4-30
+0	Automobielen	B-PATIENT	1
+1	zag	IRREALIS	-
+2	je	B-AGENT	1
+3	toen	O	-
+4	zoo	O	-
+5	nog	O	-
+6	niet	O	-
+7	.	O	-
+
+# 5-1
+0	Heele	O	-
+1	zomernachten	O	-
+2	stonden	REALIS	-
+3	we	B-AGENT	2,11,16
+4	tegen	O	-
+5	't	O	-
+6	hek	O	-
+7	van	O	-
+8	't	O	-
+9	Oosterpark	O	-
+10	te	O	-
+11	leunen	REALIS	-
+12	en	O	-
+13	honderd	O	-
+14	uit	O	-
+15	te	O	-
+16	boomen	REALIS	-
+17	.	O	-
+
+# 5-2
+0	Een	-	-
+1	heel	-	-
+2	kamerameublement	-	-
+3	zou	-	-
+4	je	-	-
+5	daaraan	-	-
+6	hebben	-	-
+7	kunnen	-	-
+8	verdienen	-	-
+9	,	-	-
+10	als	-	-
+11	je	-	-
+12	dat	-	-
+13	allemaal	-	-
+14	had	-	-
+15	kunnen	-	-
+16	onthouden	-	-
+17	.	-	-
+
+# 5-3
+0	Er	O	-
+1	wordt	O	-
+2	toch	O	-
+3	zooveel	O	-
+4	geschreven	REALIS	-
+5	tegenwoordig	O	-
+6	.	O	-
+
+# 6-1
+0	Dikwijls	O	-
+1	waren	REALIS	-
+2	we	B-AGENT	1
+3	ook	O	-
+4	minder	O	-
+5	spraakzaam	O	-
+6	.	O	-
+
+# 6-2
+0	Aan	O	-
+1	den	O	-
+2	rand	O	-
+3	van	O	-
+4	't	O	-
+5	trottoir	O	-
+6	zaten	REALIS	-
+7	we	B-AGENT	6,19,22
+8	tot	O	-
+9	lang	O	-
+10	na	O	-
+11	twaalven	O	-
+12	,	O	-
+13	zoo	O	-
+14	maar	O	-
+15	op	O	-
+16	de	O	-
+17	straatsteenen	O	-
+18	en	O	-
+19	waren	REALIS	-
+20	weemoedig	O	-
+21	en	O	-
+22	tuurden	REALIS	-
+23	naar	O	-
+24	de	O	-
+25	klinkers	O	-
+26	,	O	-
+27	en	O	-
+28	van	O	-
+29	de	O	-
+30	klinkers	O	-
+31	naar	O	-
+32	de	O	-
+33	sterren	O	-
+34	.	O	-
+
+# 6-3
+0	En	O	-
+1	dan	O	-
+2	zei	REALIS	-
+3	Bekker	B-AGENT	2,12
+4	,	O	-
+5	dat	O	-
+6	-ie	O	-
+7	eigenlijk	O	-
+8	medelijden	O	-
+9	met	O	-
+10	z'n	O	-
+11	baas	O	-
+12	had	REALIS	-
+13	en	O	-
+14	ik	B-AGENT	19
+15	probeerde	O	-
+16	een	B-PATIENT	19
+17	gedicht	I-PATIENT	19
+18	te	O	-
+19	maken	IRREALIS	-
+20	,	O	-
+21	en	O	-
+22	Hoyer	B-AGENT	23,27
+23	zei	REALIS	-
+24	,	O	-
+25	dat	O	-
+26	-ie	O	-
+27	opstond	REALIS	-
+28	want	O	-
+29	dat	O	-
+30	die	B-AGENT	34
+31	blauwe	I-AGENT	34
+32	steen	I-AGENT	34
+33	zoo	O	-
+34	optrok	REALIS	-
+35	.	O	-
+
+# 6-4
+0	En	O	-
+1	als	O	-
+2	in	O	-
+3	die	O	-
+4	korte	O	-
+5	,	O	-
+6	zoele	O	-
+7	nachten	O	-
+8	het	O	-
+9	zwart	O	-
+10	recht	O	-
+11	boven	O	-
+12	onze	O	-
+13	hoofden	O	-
+14	wat	O	-
+15	verschoot	IRREALIS	-
+16	,	O	-
+17	dan	O	-
+18	zat	REALIS	-
+19	Bavink	B-AGENT	18,31
+20	met	O	-
+21	z'n	O	-
+22	hoofd	O	-
+23	in	O	-
+24	z'n	O	-
+25	handen	O	-
+26	,	O	-
+27	over	O	-
+28	de	O	-
+29	zon	O	-
+30	te	O	-
+31	praten	REALIS	-
+32	,	O	-
+33	bij	O	-
+34	't	O	-
+35	sentimenteele	O	-
+36	af	O	-
+37	.	O	-
+
+# 6-5
+0	En	O	-
+1	we	B-AGENT	2,10
+2	vonden	REALIS	-
+3	dat	O	-
+4	't	O	-
+5	zonde	O	-
+6	was	REALIS	-
+7	naar	O	-
+8	bed	O	-
+9	te	O	-
+10	gaan	REALIS	-
+11	,	O	-
+12	dat	O	-
+13	een	B-AGENT	20
+14	mensch	I-AGENT	20
+15	eigenlijk	O	-
+16	altijd	O	-
+17	op	O	-
+18	moest	O	-
+19	kunnen	O	-
+20	blijven	IRREALIS	-
+21	.	O	-
+
+# 6-6
+0	Ook	O	-
+1	dat	O	-
+2	zouden	O	-
+3	we	B-AGENT	4
+4	veranderen	IRREALIS	-
+5	.	O	-
+
+# 6-7
+0	Kees	B-AGENT	1,3
+1	zat	REALIS	-
+2	te	O	-
+3	slapen	REALIS	-
+4	.	O	-
+
+# 7-1
+0	En	O	-
+1	dan	O	-
+2	gingen	O	-
+3	we	B-AGENT	7
+4	de	B-AGENT	8
+5	zon	I-AGENT	8
+6	op	O	-
+7	zien	REALIS	-
+8	komen	REALIS	-
+9	aan	O	-
+10	de	O	-
+11	Zuiderzee	O	-
+12	,	O	-
+13	behalve	O	-
+14	Kees	B-AGENT	19
+15	,	O	-
+16	die	O	-
+17	naar	O	-
+18	huis	O	-
+19	ging	REALIS	-
+20	.	O	-
+
+# 7-2
+0	Hoyer	B-AGENT	1
+1	klaagde	REALIS	-
+2	over	O	-
+3	de	O	-
+4	kou	O	-
+5	,	O	-
+6	maar	O	-
+7	Bavink	B-AGENT	10
+8	en	I-AGENT	10
+9	Bekker	I-AGENT	10
+10	wisten	IRREALIS	-
+11	nergens	O	-
+12	van	O	-
+13	.	O	-
+
+# 7-3
+0	Die	B-AGENT	1,15
+1	zaten	REALIS	-
+2	op	O	-
+3	de	O	-
+4	steenen	O	-
+5	onder	O	-
+6	aan	O	-
+7	den	O	-
+8	zeedijk	O	-
+9	met	O	-
+10	de	O	-
+11	oogen	O	-
+12	half	O	-
+13	dicht	O	-
+14	en	O	-
+15	keken	REALIS	-
+16	tusschen	O	-
+17	hun	O	-
+18	oogharen	O	-
+19	door	O	-
+20	naar	O	-
+21	de	B-PATIENT	31
+22	dansende	I-PATIENT	31
+23	gouden	I-PATIENT	31
+24	pijltjes	I-PATIENT	31
+25	die	O	-
+26	de	B-AGENT	31
+27	zon	I-AGENT	31
+28	in	O	-
+29	't	O	-
+30	water	O	-
+31	maakte	REALIS	-
+32	.	O	-
+
+# 7-4
+0	Stapelmal	O	-
+1	werd	REALIS	-
+2	Bavink	B-AGENT	1
+3	er	O	-
+4	van	O	-
+5	.	O	-
+
+# 7-5
+0	Naar	O	-
+1	de	O	-
+2	zon	O	-
+3	loopen	IRREALIS	-
+4	wilde	O	-
+5	-ie	B-AGENT	3
+6	over	O	-
+7	de	O	-
+8	lange	O	-
+9	,	O	-
+10	lange	O	-
+11	schitterende	O	-
+12	streep	O	-
+13	.	O	-
+
+# 7-6
+0	Maar	O	-
+1	aan	O	-
+2	den	O	-
+3	kant	O	-
+4	van	O	-
+5	't	O	-
+6	water	O	-
+7	bleef	REALIS	-
+8	-ie	B-AGENT	7
+9	toch	O	-
+10	maar	O	-
+11	staan	O	-
+12	.	O	-
+
+# 7-7
+0	Ik	B-AGENT	1
+1	herinner	REALIS	-
+2	me	O	-
+3	,	O	-
+4	dat	O	-
+5	we	B-AGENT	17
+6	,	O	-
+7	Bavink	O	-
+8	en	O	-
+9	ik	O	-
+10	,	O	-
+11	eens	O	-
+12	op	O	-
+13	een	O	-
+14	keer	O	-
+15	aan	O	-
+16	zee	O	-
+17	kwamen	REALIS	-
+18	,	O	-
+19	toen	O	-
+20	de	B-AGENT	31
+21	halve	I-AGENT	31
+22	zon	I-AGENT	31
+23	groot	O	-
+24	,	O	-
+25	koud	O	-
+26	en	O	-
+27	rood	O	-
+28	aan	O	-
+29	de	O	-
+30	kim	O	-
+31	stond	REALIS	-
+32	.	O	-
+
+# 7-8
+0	Bavink	B-AGENT	1,9,17
+1	sloeg	REALIS	-
+2	met	O	-
+3	z'n	O	-
+4	vuist	O	-
+5	tegen	O	-
+6	z'n	B-PATIENT	1
+7	voorhoofd	I-PATIENT	1
+8	en	O	-
+9	vloekte	REALIS	-
+10	:	O	-
+11	"	O	-
+12	God	O	-
+13	,	O	-
+14	God	O	-
+15	,	O	-
+16	dat	O	-
+17	schilder	IRREALIS	-
+18	ik	O	-
+19	nooit	O	-
+20	.	O	-
+
+# 7-9
+0	Dat	O	-
+1	kan	IRREALIS	-
+2	ik	B-AGENT	1
+3	nooit	O	-
+4	.	O	-
+5	"	O	-
+
+# 7-10
+0	Nu	O	-
+1	zit	REALIS	-
+2	-ie	B-AGENT	1
+3	in	O	-
+4	een	O	-
+5	gesticht	O	-
+6	.	O	-
+
+# 7-11
+0	Als	O	-
+1	we	B-AGENT	2
+2	teruggingen	REALIS	-
+3	,	O	-
+4	konden	O	-
+5	we	B-AGENT	10
+6	een	O	-
+7	heelen	O	-
+8	tijd	O	-
+9	niets	O	-
+10	zien	REALIS	-
+11	dan	O	-
+12	gele	O	-
+13	vlekken	O	-
+14	en	O	-
+15	voor	O	-
+16	onze	O	-
+17	bazen	O	-
+18	waren	REALIS	-
+19	zulke	B-AGENT	18
+20	tochten	I-AGENT	18
+21	heel	O	-
+22	slecht	O	-
+23	.	O	-
+
+# 7-12
+0	Want	O	-
+1	ik	B-AGENT	2
+2	was	REALIS	-
+3	er	O	-
+4	op	O	-
+5	kantoor	O	-
+6	nog	O	-
+7	slaperig	O	-
+8	van	O	-
+9	en	O	-
+10	Bekker	B-AGENT	16,18,26,42,51
+11	,	O	-
+12	die	O	-
+13	er	O	-
+14	beter	O	-
+15	tegen	O	-
+16	kon	REALIS	-
+17	,	O	-
+18	zat	REALIS	-
+19	den	O	-
+20	geheelen	O	-
+21	dag	O	-
+22	over	O	-
+23	de	O	-
+24	zon	O	-
+25	te	O	-
+26	suffen	REALIS	-
+27	en	O	-
+28	meer	O	-
+29	dan	O	-
+30	ooit	O	-
+31	naar	O	-
+32	de	O	-
+33	verlichte	O	-
+34	boomtoppen	O	-
+35	aan	O	-
+36	de	O	-
+37	overzij	O	-
+38	van	O	-
+39	de	O	-
+40	tuinen	O	-
+41	te	O	-
+42	staren	REALIS	-
+43	en	O	-
+44	erger	O	-
+45	dan	O	-
+46	ooit	O	-
+47	naar	O	-
+48	zes	O	-
+49	uur	O	-
+50	te	O	-
+51	verlangen	REALIS	-
+52	.	O	-
+
+# 8-1
+0	Waar	-	-
+1	we	-	-
+2	ook	-	-
+3	heel	-	-
+4	sterk	-	-
+5	in	-	-
+6	waren	-	-
+7	,	-	-
+8	dat	-	-
+9	waren	-	-
+10	,	-	-
+11	na	-	-
+12	kantoor	-	-
+13	,	-	-
+14	tochten	-	-
+15	naar	-	-
+16	den	-	-
+17	Ringdijk	-	-
+18	.	-	-
+
+# 8-2
+0	Daar	O	-
+1	zaten	REALIS	-
+2	we	B-AGENT	1
+3	in	O	-
+4	't	O	-
+5	gras	O	-
+6	tusschen	O	-
+7	de	O	-
+8	boterbloemetjes	O	-
+9	beneden	O	-
+10	aan	O	-
+11	den	O	-
+12	dijk	O	-
+13	en	O	-
+14	dan	O	-
+15	kwamen	REALIS	-
+16	de	B-AGENT	15,24
+17	nieuwsgierige	I-AGENT	15,24
+18	koeien	I-AGENT	15,24
+19	met	O	-
+20	hun	O	-
+21	groote	O	-
+22	oogen	O	-
+23	en	O	-
+24	keken	REALIS	-
+25	naar	O	-
+26	ons	O	-
+27	en	O	-
+28	wij	B-AGENT	29
+29	keken	REALIS	-
+30	naar	O	-
+31	de	O	-
+32	koeien	O	-
+33	.	O	-
+
+# 8-3
+0	En	O	-
+1	dan	O	-
+2	kon	REALIS	-
+3	je	B-AGENT	2
+4	ervan	O	-
+5	opaan	O	-
+6	,	O	-
+7	dat	O	-
+8	Bavink	B-AGENT	11
+9	over	O	-
+10	Lien	O	-
+11	begon	REALIS	-
+12	.	O	-
+
+# 8-4
+0	Op	-	-
+1	de	-	-
+2	een	-	-
+3	of	-	-
+4	andere	-	-
+5	manier	-	-
+6	moeten	-	-
+7	die	-	-
+8	koeienoogen	-	-
+9	daar	-	-
+10	iets	-	-
+11	mee	-	-
+12	uit	-	-
+13	te	-	-
+14	staan	-	-
+15	gehad	-	-
+16	hebben	-	-
+17	.	-	-
+
+# 8-5
+0	En	O	-
+1	dan	O	-
+2	begon	O	-
+3	't	O	-
+4	te	O	-
+5	schemeren	REALIS	-
+6	,	O	-
+7	de	B-AGENT	10
+8	kikkers	I-AGENT	10
+9	gingen	O	-
+10	kwaken	REALIS	-
+11	,	O	-
+12	één	B-AGENT	13
+13	ging	REALIS	-
+14	er	O	-
+15	vreeselijk	O	-
+16	te	O	-
+17	keer	O	-
+18	,	O	-
+19	vlak	O	-
+20	bij	O	-
+21	mijn	O	-
+22	schoen	O	-
+23	,	O	-
+24	m'n	B-AGENT	27
+25	eene	I-AGENT	27
+26	voet	I-AGENT	27
+27	lag	REALIS	-
+28	bijna	O	-
+29	in	O	-
+30	de	O	-
+31	sloot	O	-
+32	.	O	-
+
+# 8-6
+0	Andere	O	-
+1	hoorde	REALIS	-
+2	je	B-AGENT	1
+3	zachtjes	O	-
+4	,	O	-
+5	ver	O	-
+6	,	O	-
+7	heel	O	-
+8	ver	O	-
+9	weg	O	-
+10	.	O	-
+
+# 8-7
+0	Een	B-AGENT	18
+1	koe	I-AGENT	18
+2	,	O	-
+3	die	O	-
+4	je	B-AGENT	8
+5	nauwelijks	O	-
+6	meer	O	-
+7	kon	O	-
+8	zien	REALIS	-
+9	in	O	-
+10	de	O	-
+11	halve	O	-
+12	duisternis	O	-
+13	,	O	-
+14	hoorde	REALIS	-
+15	je	B-AGENT	14
+16	't	B-PATIENT	18
+17	gras	I-PATIENT	18
+18	afschuren	REALIS	-
+19	.	O	-
+
+# 8-8
+0	In	O	-
+1	de	O	-
+2	verte	O	-
+3	begon	REALIS	-
+4	er	O	-
+5	een	O	-
+6	klagelijk	O	-
+7	te	O	-
+8	loeien	REALIS	-
+9	.	O	-
+
+# 8-9
+0	Een	B-AGENT	2
+1	paard	I-AGENT	2
+2	holde	REALIS	-
+3	heen	O	-
+4	en	O	-
+5	weer	O	-
+6	,	O	-
+7	je	B-AGENT	8,11
+8	hoorde	REALIS	-
+9	't	O	-
+10	maar	O	-
+11	zag	IRREALIS	-
+12	't	O	-
+13	niet	O	-
+14	.	O	-
+
+# 8-10
+0	De	B-AGENT	4,6
+1	koe	I-AGENT	4,6
+2	bij	I-AGENT	4,6
+3	ons	I-AGENT	4,6
+4	blies	REALIS	-
+5	en	O	-
+6	werd	REALIS	-
+7	onrustig	O	-
+8	.	O	-
+
+# 8-11
+0	Bekker	B-AGENT	1
+1	zei	REALIS	-
+2	:	O	-
+3	"	O	-
+4	't	O	-
+5	Is	REALIS	-
+6	hier	O	-
+7	goeie	O	-
+8	.	O	-
+
+# 8-12
+0	Zoo	-	-
+1	moest	-	-
+2	't	-	-
+3	maar	-	-
+4	blijven	-	-
+5	.	-	-
+6	"	-	-
+
+# 8-13
+0	Bavink	B-AGENT	1,4,9,15,17
+1	stond	REALIS	-
+2	overeind	O	-
+3	en	O	-
+4	breidde	REALIS	-
+5	z'n	B-PATIENT	4
+6	armen	I-PATIENT	4
+7	uit	O	-
+8	en	O	-
+9	luisterde	REALIS	-
+10	,	O	-
+11	en	O	-
+12	ging	O	-
+13	daarna	O	-
+14	weer	O	-
+15	zitten	REALIS	-
+16	en	O	-
+17	zei	REALIS	-
+18	dat	O	-
+19	we	B-AGENT	26
+20	der	O	-
+21	ook	O	-
+22	nooit	O	-
+23	iets	O	-
+24	van	O	-
+25	zouden	O	-
+26	snappen	IRREALIS	-
+27	,	O	-
+28	hij	B-AGENT	26
+29	zelf	O	-
+30	ook	O	-
+31	niet	O	-
+32	,	O	-
+33	en	O	-
+34	dat	O	-
+35	we	B-AGENT	40
+36	eigenlijk	O	-
+37	niet	O	-
+38	veel	O	-
+39	beter	O	-
+40	waren	IRREALIS	-
+41	dan	O	-
+42	al	O	-
+43	die	O	-
+44	andere	O	-
+45	lui	O	-
+46	,	O	-
+47	en	O	-
+48	ik	B-AGENT	49
+49	geloof	REALIS	-
+50	,	O	-
+51	dat	O	-
+52	-ie	B-AGENT	59
+53	daar	O	-
+54	heel	O	-
+55	na	O	-
+56	aan	O	-
+57	de	O	-
+58	waarheid	O	-
+59	was	IRREALIS	-
+60	.	O	-
+
+# 9-1
+0	Neen	-	-
+1	,	-	-
+2	we	-	-
+3	deden	-	-
+4	eigenlijk	-	-
+5	niets	-	-
+6	.	-	-
+
+# 9-2
+0	Ons	O	-
+1	werk	O	-
+2	op	O	-
+3	kantoor	O	-
+4	deden	REALIS	-
+5	we	B-AGENT	4
+6	niet	O	-
+7	al	O	-
+8	te	O	-
+9	best	O	-
+10	,	O	-
+11	en	O	-
+12	onze	O	-
+13	bazen	O	-
+14	verachtten	REALIS	-
+15	we	B-AGENT	14
+16	,	O	-
+17	behalve	O	-
+18	Bavink	B-AGENT	25,28
+19	en	I-AGENT	25,28
+20	Hoyer	I-AGENT	25,28
+21	,	O	-
+22	die	O	-
+23	geen	O	-
+24	bazen	O	-
+25	hadden	IRREALIS	-
+26	en	O	-
+27	niet	O	-
+28	begrepen	IRREALIS	-
+29	,	O	-
+30	waarom	O	-
+31	we	B-AGENT	38
+32	iederen	O	-
+33	dag	O	-
+34	weer	O	-
+35	naar	O	-
+36	die	O	-
+37	bazen	O	-
+38	toegingen	REALIS	-
+39	.	O	-
+
+# 10-1
+0	We	B-AGENT	1
+1	wachtten	REALIS	-
+2	maar	O	-
+3	.	O	-
+
+# 10-2
+0	Waarop	-	-
+1	?	-	-
+
+# 10-3
+0	Dat	-	-
+1	hebben	-	-
+2	we	-	-
+3	nooit	-	-
+4	geweten	-	-
+5	.	-	-
+
+# 10-4
+0	Bekker	B-AGENT	1
+1	zei	REALIS	-
+2	:	O	-
+3	"	O	-
+4	Op	O	-
+5	't	O	-
+6	koninkrijk	O	-
+7	Gods	O	-
+8	.	O	-
+9	"	O	-
+
+# 10-5
+0	Dat	O	-
+1	wil	O	-
+2	zeggen	IRREALIS	-
+3	,	O	-
+4	dat	O	-
+5	heeft	O	-
+6	-ie	B-AGENT	9
+7	een	O	-
+8	keer	O	-
+9	gezegd	REALIS	-
+10	zonder	O	-
+11	zich	B-AGENT	14
+12	nader	O	-
+13	te	O	-
+14	verklaren	IRREALIS	-
+15	.	O	-
+
+# 10-6
+0	Bavink	B-AGENT	1
+1	had	REALIS	-
+2	't	O	-
+3	altijd	O	-
+4	over	O	-
+5	"	O	-
+6	het	B-AGENT	14
+7	einde	I-AGENT	14
+8	,	O	-
+9	dat	O	-
+10	meteen	O	-
+11	't	O	-
+12	begin	O	-
+13	zou	O	-
+14	wezen	IRREALIS	-
+15	.	O	-
+16	"	O	-
+
+# 10-7
+0	Wij	B-AGENT	1,7
+1	vonden	REALIS	-
+2	dat	O	-
+3	allemaal	O	-
+4	volkomen	O	-
+5	duidelijk	O	-
+6	en	O	-
+7	weidden	IRREALIS	-
+8	er	O	-
+9	niet	O	-
+10	verder	O	-
+11	over	O	-
+12	uit	O	-
+13	.	O	-
+
+# 11-1
+0	II	O	-
+1	.	O	-
+
+# 12-1
+0	Op	O	-
+1	den	B-PATIENT	5
+2	zolder	I-PATIENT	5
+3	van	I-PATIENT	5
+4	Kees	I-PATIENT	5
+5	kwamen	REALIS	-
+6	we	B-AGENT	5
+7	dien	O	-
+8	zomer	O	-
+9	bijna	O	-
+10	iederen	O	-
+11	avond	O	-
+12	bij	O	-
+13	elkaar	O	-
+14	.	O	-
+
+# 12-2
+0	Kees	-	-
+1	had	-	-
+2	ook	-	-
+3	een	-	-
+4	"	-	-
+5	hok	-	-
+6	"	-	-
+7	moeten	-	-
+8	hebben	-	-
+9	.	-	-
+
+# 12-3
+0	Zijn	B-AGENT	2,10
+1	hok	I-AGENT	2,10
+2	was	REALIS	-
+3	't	O	-
+4	grootste	O	-
+5	en	O	-
+6	voor	O	-
+7	allen	O	-
+8	makkelijk	O	-
+9	te	O	-
+10	bereiken	REALIS	-
+11	.	O	-
+
+# 12-4
+0	De	B-AGENT	2
+1	buren	I-AGENT	2
+2	vonden	REALIS	-
+3	't	O	-
+4	niks	O	-
+5	leuk	O	-
+6	iederen	O	-
+7	avond	O	-
+8	dat	O	-
+9	geloop	O	-
+10	op	O	-
+11	de	O	-
+12	trap	O	-
+13	.	O	-
+
+# 12-5
+0	Kees	O	-
+1	z'n	B-AGENT	3
+2	vader	I-AGENT	3
+3	begreep	IRREALIS	-
+4	er	O	-
+5	niks	O	-
+6	van	O	-
+7	.	O	-
+
+# 12-6
+0	Tegenwoordig	O	-
+1	groet	REALIS	-
+2	-ie	B-AGENT	1,7
+3	me	O	-
+4	heel	O	-
+5	beleefd	O	-
+6	en	O	-
+7	noemt	REALIS	-
+8	me	O	-
+9	"	O	-
+10	mijnheer	O	-
+11	Koekebakker	O	-
+12	"	O	-
+13	,	O	-
+14	omdat	O	-
+15	-ie	B-AGENT	22
+16	m'n	O	-
+17	naam	O	-
+18	in	O	-
+19	't	O	-
+20	Handelsblad	O	-
+21	heeft	O	-
+22	gezien	REALIS	-
+23	.	O	-
+
+# 12-7
+0	Bekker	B-AGENT	3
+1	had	O	-
+2	Kees	B-AGENT	8
+3	gezegd	REALIS	-
+4	,	O	-
+5	hoe	O	-
+6	-ie	O	-
+7	't	O	-
+8	doen	IRREALIS	-
+9	moest	O	-
+10	.	O	-
+
+# 12-8
+0	Ze	-	-
+1	hadden	-	-
+2	goedkoop	-	-
+3	bloemetjesbehangsel	-	-
+4	van	-	-
+5	3	-	-
+6	centen	-	-
+7	de	-	-
+8	rol	-	-
+9	gekocht	-	-
+10	en	-	-
+11	dat	-	-
+12	achterstevoren	-	-
+13	tegen	-	-
+14	den	-	-
+15	muur	-	-
+16	geplakt	-	-
+17	,	-	-
+18	de	-	-
+19	effe	-	-
+20	groene	-	-
+21	achterkant	-	-
+22	buiten	-	-
+23	.	-	-
+
+# 12-9
+0	Bekker	B-AGENT	4
+1	had	O	-
+2	een	B-PATIENT	4,12
+3	spreuk	I-PATIENT	4,12
+4	geschreven	REALIS	-
+5	met	O	-
+6	sier-letters	O	-
+7	en	O	-
+8	die	O	-
+9	aan	O	-
+10	den	O	-
+11	muur	O	-
+12	geplakt	REALIS	-
+13	naast	O	-
+14	de	O	-
+15	deur	O	-
+16	.	O	-
+
+# 12-10
+0	"	O	-
+1	J'ai	O	-
+2	attendu	O	-
+3	le	O	-
+4	Seigneur	O	-
+5	avec	O	-
+6	une	O	-
+7	grande	O	-
+8	patience	O	-
+9	,	O	-
+10	enfin	O	-
+11	il	O	-
+12	s'est	O	-
+13	abaissé	O	-
+14	jusqu'à	O	-
+15	moi	O	-
+16	.	O	-
+17	"	O	-
+
+# 13-1
+0	Ik	B-AGENT	1
+1	weet	IRREALIS	-
+2	niet	O	-
+3	meer	O	-
+4	waar	O	-
+5	-ie	B-AGENT	9
+6	dat	O	-
+7	vandaan	O	-
+8	had	O	-
+9	gehaald	REALIS	-
+10	.	O	-
+
+# 13-2
+0	Kees	B-AGENT	4
+1	kon	O	-
+2	't	O	-
+3	niet	O	-
+4	lezen	IRREALIS	-
+5	.	O	-
+
+# 13-3
+0	Maar	O	-
+1	Kees	B-AGENT	5
+2	had	O	-
+3	óók	O	-
+4	iets	O	-
+5	gedaan	REALIS	-
+6	.	O	-
+
+# 13-4
+0	Hij	-	-
+1	had	-	-
+2	een	-	-
+3	spa	-	-
+4	gemaakt	-	-
+5	en	-	-
+6	Bekker	-	-
+7	had	-	-
+8	die	-	-
+9	diagonaalsgewijs	-	-
+10	aan	-	-
+11	den	-	-
+12	muur	-	-
+13	geprakkizeerd	-	-
+14	in	-	-
+15	't	-	-
+16	aangezicht	-	-
+17	van	-	-
+18	de	-	-
+19	spreuk	-	-
+20	.	-	-
+
+# 13-5
+0	Het	O	-
+1	was	IRREALIS	-
+2	eerst	O	-
+3	niet	O	-
+4	duidelijk	O	-
+5	,	O	-
+6	wat	O	-
+7	dat	O	-
+8	moest	O	-
+9	beteekenen	REALIS	-
+10	,	O	-
+11	maar	O	-
+12	naderhand	O	-
+13	bleek	REALIS	-
+14	,	O	-
+15	dat	O	-
+16	Bekker	B-AGENT	22,38
+17	zich	O	-
+18	in	O	-
+19	zijn	O	-
+20	hoofd	O	-
+21	had	O	-
+22	gehaald	REALIS	-
+23	,	O	-
+24	dat	O	-
+25	-ie	B-AGENT	32
+26	metdertijd	O	-
+27	op	O	-
+28	de	O	-
+29	hei	O	-
+30	zou	O	-
+31	gaan	O	-
+32	wonen	IRREALIS	-
+33	en	O	-
+34	daar	O	-
+35	een	B-PATIENT	38
+36	brokje	I-PATIENT	38
+37	land	I-PATIENT	38
+38	bewerken	REALIS	-
+39	,	O	-
+40	dan	O	-
+41	hoefde	IRREALIS	-
+42	-ie	B-AGENT	41
+43	niet	O	-
+44	meer	O	-
+45	naar	O	-
+46	kantoor	O	-
+47	.	O	-
+
+# 13-6
+0	Bavink	B-AGENT	1,9
+1	vond	REALIS	-
+2	dat	O	-
+3	een	O	-
+4	mooi	O	-
+5	idee	O	-
+6	,	O	-
+7	maar	O	-
+8	-ie	O	-
+9	was	REALIS	-
+10	bang	O	-
+11	dat	O	-
+12	Lien	B-AGENT	18
+13	er	O	-
+14	geen	O	-
+15	zin	O	-
+16	in	O	-
+17	zou	O	-
+18	hebben	IRREALIS	-
+19	en	O	-
+20	Hoyer	B-AGENT	21
+21	zat	REALIS	-
+22	liever	O	-
+23	in	O	-
+24	de	O	-
+25	kroeg	O	-
+26	.	O	-
+
+# 14-1
+0	Daar	-	-
+1	zaten	-	-
+2	we	-	-
+3	dan	-	-
+4	en	-	-
+5	lieten	-	-
+6	niets	-	-
+7	heel	-	-
+8	.	-	-
+
+# 14-2
+0	Tenminste	O	-
+1	niet	O	-
+2	veel	O	-
+3	.	O	-
+
+# 14-3
+0	Ik	-	-
+1	herinner	-	-
+2	me	-	-
+3	,	-	-
+4	dat	-	-
+5	Zola	-	-
+6	en	-	-
+7	Jaap	-	-
+8	Maris	-	-
+9	tamelijk	-	-
+10	ongeschonden	-	-
+11	bleven	-	-
+12	en	-	-
+13	misschien	-	-
+14	nog	-	-
+15	wel	-	-
+16	de	-	-
+17	een	-	-
+18	of	-	-
+19	ander	-	-
+20	.	-	-
+
+# 14-4
+0	Bekker	B-AGENT	1
+1	las	REALIS	-
+2	uit	O	-
+3	Dante	O	-
+4	voor	O	-
+5	,	O	-
+6	de	B-PATIENT	15
+7	Prediker	I-PATIENT	15
+8	en	O	-
+9	't	B-PATIENT	15
+10	Hooglied	I-PATIENT	15
+11	en	O	-
+12	't	B-PATIENT	15
+13	boek	I-PATIENT	15
+14	Job	I-PATIENT	15
+15	kende	REALIS	-
+16	-ie	B-AGENT	15
+17	uit	O	-
+18	z'n	O	-
+19	hoofd	O	-
+20	.	O	-
+
+# 14-5
+0	't	O	-
+1	Was	REALIS	-
+2	heel	O	-
+3	indrukwekkend	O	-
+4	.	O	-
+
+# 14-6
+0	Van	O	-
+1	de	O	-
+2	buitenwereld	O	-
+3	merkte	IRREALIS	-
+4	je	B-AGENT	3
+5	niet	O	-
+6	veel	O	-
+7	op	O	-
+8	dat	O	-
+9	hok	O	-
+10	.	O	-
+
+# 14-7
+0	Het	B-AGENT	3
+1	eenige	I-AGENT	3
+2	raam	I-AGENT	3
+3	was	REALIS	-
+4	bijna	O	-
+5	schouderhoogte	O	-
+6	van	O	-
+7	den	O	-
+8	grond	O	-
+9	;	O	-
+10	als	O	-
+11	je	B-AGENT	14
+12	aan	O	-
+13	tafel	O	-
+14	zat	IRREALIS	-
+15	,	O	-
+16	zag	IRREALIS	-
+17	je	B-AGENT	16
+18	niet	O	-
+19	veel	O	-
+20	meer	O	-
+21	dan	O	-
+22	een	O	-
+23	stuk	O	-
+24	lucht	O	-
+25	,	O	-
+26	waar	O	-
+27	langzamerhand	O	-
+28	de	B-AGENT	30
+29	kleur	I-AGENT	30
+30	uitweek	IRREALIS	-
+31	,	O	-
+32	en	O	-
+33	wat	O	-
+34	sterren	O	-
+35	,	O	-
+36	als	O	-
+37	't	O	-
+38	donker	O	-
+39	was	IRREALIS	-
+40	.	O	-
+
+# 14-8
+0	Schilderen	IRREALIS	-
+1	?	O	-
+
+# 14-9
+0	Wie	O	-
+1	kon	O	-
+2	er	O	-
+3	nog	O	-
+4	schilderen	IRREALIS	-
+5	,	O	-
+6	als	O	-
+7	je	B-AGENT	9
+8	Bavink	B-PATIENT	9
+9	hoorde	REALIS	-
+10	?	O	-
+
+# 14-10
+0	Alles	O	-
+1	lieten	O	-
+2	de	B-AGENT	5
+3	lui	I-AGENT	5
+4	zich	O	-
+5	voorzetten	REALIS	-
+6	,	O	-
+7	letterlijk	O	-
+8	alles	O	-
+9	.	O	-
+
+# 14-11
+0	Ik	B-AGENT	6
+1	moest	O	-
+2	maar	O	-
+3	eens	O	-
+4	een	B-PATIENT	6
+5	schilderij	I-PATIENT	6
+6	maken	IRREALIS	-
+7	.	O	-
+
+# 14-12
+0	Dat	O	-
+1	was	REALIS	-
+2	ik	B-AGENT	1
+3	zelf	O	-
+4	,	O	-
+5	Koekebakker	O	-
+6	.	O	-
+
+# 14-13
+0	Hij	B-AGENT	3
+1	zou	O	-
+2	me	O	-
+3	zeggen	IRREALIS	-
+4	wat	O	-
+5	ik	B-AGENT	6
+6	doen	IRREALIS	-
+7	moest	O	-
+8	.	O	-
+
+# 14-14
+0	"	-	-
+1	Je	-	-
+2	schildert	-	-
+3	twee	-	-
+4	horizontale	-	-
+5	banen	-	-
+6	,	-	-
+7	onder	-	-
+8	elkaar	-	-
+9	,	-	-
+10	even	-	-
+11	breed	-	-
+12	,	-	-
+13	een	-	-
+14	blauwe	-	-
+15	en	-	-
+16	een	-	-
+17	goudgele	-	-
+18	en	-	-
+19	in	-	-
+20	't	-	-
+21	midden	-	-
+22	van	-	-
+23	die	-	-
+24	blauwe	-	-
+25	baan	-	-
+26	maak	-	-
+27	je	-	-
+28	een	-	-
+29	ronde	-	-
+30	goudgele	-	-
+31	vlek	-	-
+32	.	-	-
+
+# 14-15
+0	En	O	-
+1	dan	O	-
+2	zetten	REALIS	-
+3	we	B-AGENT	2
+4	in	O	-
+5	den	O	-
+6	catalogus	O	-
+7	:	O	-
+8	No.	B-PATIENT	2
+9	666	I-PATIENT	2
+10	De	I-PATIENT	2
+11	Gedachte	I-PATIENT	2
+12	,	I-PATIENT	2
+13	schilderij	I-PATIENT	2
+14	.	O	-
+
+# 14-16
+0	En	-	-
+1	dan	-	-
+2	zenden	-	-
+3	we	-	-
+4	't	-	-
+5	in	-	-
+6	op	-	-
+7	mijn	-	-
+8	naam	-	-
+9	:	-	-
+10	Johannes	-	-
+11	Bavink	-	-
+12	,	-	-
+13	2de	-	-
+14	Jan	-	-
+15	Steenstraat	-	-
+16	,	-	-
+17	nummer	-	-
+18	zooveel	-	-
+19	en	-	-
+20	we	-	-
+21	prijzen	-	-
+22	't	-	-
+23	voor	-	-
+24	f	-	-
+25	800	-	-
+26	.	-	-
+
+# 14-17
+0	Je	B-AGENT	3
+1	zult	O	-
+2	eens	O	-
+3	zien	IRREALIS	-
+4	wat	O	-
+5	ze	B-AGENT	8
+6	er	O	-
+7	in	O	-
+8	ontdekken	REALIS	-
+9	.	O	-
+
+# 14-18
+0	Van	O	-
+1	alles	O	-
+2	,	O	-
+3	waar	O	-
+4	je	B-AGENT	11
+5	zelf	O	-
+6	nooit	O	-
+7	een	O	-
+8	flauw	O	-
+9	benul	O	-
+10	van	O	-
+11	gehad	IRREALIS	-
+12	hebt	O	-
+13	.	O	-
+14	"	O	-
+
+# 15-1
+0	Bavink	B-AGENT	1
+1	was	REALIS	-
+2	toen	O	-
+3	nog	O	-
+4	erg	O	-
+5	jong	O	-
+6	.	O	-
+
+# 15-2
+0	-	O	-
+1	Naderhand	O	-
+2	kwam	REALIS	-
+3	Lien	B-AGENT	2,7
+4	daar	O	-
+5	ook	O	-
+6	en	O	-
+7	zette	REALIS	-
+8	thee	O	-
+9	.	O	-
+
+# 15-3
+0	Eén	-	-
+1	keer	-	-
+2	heeft	-	-
+3	ze	-	-
+4	den	-	-
+5	grond	-	-
+6	geboend	-	-
+7	en	-	-
+8	alles	-	-
+9	afgestoft	-	-
+10	;	-	-
+11	maar	-	-
+12	dat	-	-
+13	was	-	-
+14	heel	-	-
+15	ongezellig	-	-
+16	.	-	-
+
+# 15-4
+0	Kees	B-AGENT	1
+1	kwam	REALIS	-
+2	er	O	-
+3	door	O	-
+4	in	O	-
+5	verlegenheid	O	-
+6	,	O	-
+7	want	O	-
+8	tegen	O	-
+9	die	O	-
+10	juffrouw	O	-
+11	had	REALIS	-
+12	de	B-AGENT	11
+13	ouwe	I-AGENT	11
+14	heer	I-AGENT	11
+15	bepaald	O	-
+16	bezwaar	O	-
+17	.	O	-
+
+# 15-5
+0	En	O	-
+1	Bavink	B-AGENT	2,8,23
+2	was	IRREALIS	-
+3	niet	O	-
+4	zooals	O	-
+5	we	B-AGENT	8
+6	hem	O	-
+7	graag	O	-
+8	zagen	REALIS	-
+9	,	O	-
+10	wanneer	O	-
+11	Lien	B-AGENT	14,23
+12	er	O	-
+13	bij	O	-
+14	was	REALIS	-
+15	en	O	-
+16	had	O	-
+17	een	O	-
+18	neiging	O	-
+19	om	O	-
+20	haar	O	-
+21	voortdurend	O	-
+22	te	O	-
+23	knijpen	IRREALIS	-
+24	.	O	-
+
+# 15-6
+0	Dat	-	-
+1	was	-	-
+2	hinderlijk	-	-
+3	.	-	-
+
+# 15-7
+0	Gelukkig	O	-
+1	liet	REALIS	-
+2	hij	B-AGENT	1
+3	haar	O	-
+4	al	O	-
+5	heel	O	-
+6	gauw	O	-
+7	weer	O	-
+8	thuis	O	-
+9	,	O	-
+10	omdat	O	-
+11	-ie	B-AGENT	12
+12	dacht	REALIS	-
+13	,	O	-
+14	dat	O	-
+15	Lien	B-AGENT	18
+16	mij	O	-
+17	oogjes	O	-
+18	gaf	IRREALIS	-
+19	.	O	-
+
+# 15-8
+0	Bekker	B-AGENT	1,11
+1	zei	REALIS	-
+2	:	O	-
+3	"	O	-
+4	Meiden	O	-
+5	,	O	-
+6	dat	O	-
+7	is	IRREALIS	-
+8	niks	O	-
+9	"	O	-
+10	en	O	-
+11	rookte	REALIS	-
+12	met	O	-
+13	bizonder	O	-
+14	welbehagen	O	-
+15	z'n	B-PATIENT	11
+16	steenen	I-PATIENT	11
+17	pijpje	I-PATIENT	11
+18	toen	O	-
+19	ze	B-AGENT	27
+20	er	O	-
+21	voor	O	-
+22	't	O	-
+23	eerst	O	-
+24	weer	O	-
+25	niet	O	-
+26	bij	O	-
+27	was	IRREALIS	-
+28	.	O	-
+
+# 15-9
+0	Het	O	-
+1	was	REALIS	-
+2	dien	O	-
+3	avond	O	-
+4	ook	O	-
+5	heel	O	-
+6	genoegelijk	O	-
+7	.	O	-
+
+# 15-10
+0	Uren	O	-
+1	lang	O	-
+2	zaten	REALIS	-
+3	we	B-AGENT	2
+4	in	O	-
+5	donker	O	-
+6	.	O	-
+
+# 15-11
+0	De	B-AGENT	4,7
+1	lamp	I-AGENT	4,7
+2	was	O	-
+3	gaan	O	-
+4	zakken	REALIS	-
+5	en	O	-
+6	daarna	O	-
+7	uitgegaan	REALIS	-
+8	.	O	-
+
+# 15-12
+0	We	B-AGENT	1,3,5
+1	bleven	REALIS	-
+2	maar	O	-
+3	zitten	REALIS	-
+4	en	O	-
+5	rookten	REALIS	-
+6	,	O	-
+7	uren	O	-
+8	lang	O	-
+9	.	O	-
+
+# 15-13
+0	Af	O	-
+1	en	O	-
+2	toe	O	-
+3	zei	REALIS	-
+4	iemand	O	-
+5	eens	O	-
+6	wat	O	-
+7	.	O	-
+
+# 15-14
+0	Bavink	B-AGENT	1
+1	vond	REALIS	-
+2	schilderen	O	-
+3	't	O	-
+4	stomste	O	-
+5	dat	O	-
+6	iemand	O	-
+7	doen	O	-
+8	kon	REALIS	-
+9	.	O	-
+
+# 15-15
+0	Kees	B-AGENT	1
+1	begreep	IRREALIS	-
+2	er	O	-
+3	weer	O	-
+4	niks	O	-
+5	van	O	-
+6	.	O	-
+
+# 15-16
+0	"	O	-
+1	Je	B-AGENT	7
+2	moest	O	-
+3	zoo	O	-
+4	maar	O	-
+5	stilletjes	O	-
+6	blijven	O	-
+7	zitten	IRREALIS	-
+8	,	O	-
+9	"	O	-
+10	zei	REALIS	-
+11	Bavink	B-AGENT	10,13
+12	en	O	-
+13	keek	REALIS	-
+14	naar	O	-
+15	de	O	-
+16	lucht	O	-
+17	.	O	-
+
+# 15-17
+0	Een	-	-
+1	groote	-	-
+2	groenachtige	-	-
+3	ster	-	-
+4	stond	-	-
+5	daar	-	-
+6	te	-	-
+7	donkeren	-	-
+8	.	-	-
+
+# 15-18
+0	"	-	-
+1	Je	-	-
+2	moest	-	-
+3	zoo	-	-
+4	maar	-	-
+5	stilletjes	-	-
+6	blijven	-	-
+7	zitten	-	-
+8	te	-	-
+9	verlangen	-	-
+10	zonder	-	-
+11	te	-	-
+12	weten	-	-
+13	waarnaar	-	-
+14	.	-	-
+15	"	-	-
+
+# 15-19
+0	En	O	-
+1	hij	B-AGENT	2
+2	stopte	REALIS	-
+3	een	B-PATIENT	2
+4	versche	I-PATIENT	2
+5	pijp	I-PATIENT	2
+6	.	O	-
+
+# 16-1
+0	III	O	-
+1	.	O	-
+
+# 17-1
+0	Het	O	-
+1	was	REALIS	-
+2	een	O	-
+3	wonderlijke	O	-
+4	tijd	O	-
+5	.	O	-
+
+# 17-2
+0	Als	O	-
+1	ik	B-AGENT	5
+2	er	O	-
+3	even	O	-
+4	over	O	-
+5	nadenk	IRREALIS	-
+6	,	O	-
+7	dan	O	-
+8	moet	O	-
+9	die	B-AGENT	12,15
+10	tijd	I-AGENT	12,15
+11	nog	O	-
+12	voortduren	IRREALIS	-
+13	,	O	-
+14	die	O	-
+15	duurt	REALIS	-
+16	zoolang	O	-
+17	er	O	-
+18	jongens	B-AGENT	24
+19	van	I-AGENT	24
+20	negentien	I-AGENT	24
+21	,	I-AGENT	24
+22	twintig	I-AGENT	24
+23	jaar	I-AGENT	24
+24	rondloopen	REALIS	-
+25	.	O	-
+
+# 17-3
+0	Maar	-	-
+1	voor	-	-
+2	ons	-	-
+3	is	-	-
+4	hij	-	-
+5	lang	-	-
+6	voorbij	-	-
+7	.	-	-
+
+# 17-4
+0	Wij	B-AGENT	1
+1	waren	REALIS	-
+2	boven	O	-
+3	de	O	-
+4	wereld	O	-
+5	en	O	-
+6	de	B-AGENT	8,12
+7	wereld	I-AGENT	8,12
+8	was	REALIS	-
+9	boven	O	-
+10	ons	O	-
+11	en	O	-
+12	drukte	REALIS	-
+13	zwaar	O	-
+14	op	O	-
+15	ons	B-PATIENT	12
+16	.	O	-
+
+# 17-5
+0	Heel	O	-
+1	in	O	-
+2	de	O	-
+3	diepte	O	-
+4	zagen	REALIS	-
+5	wij	B-AGENT	4
+6	de	B-PATIENT	4
+7	wereld	I-PATIENT	4
+8	vol	O	-
+9	bedrijvigheid	O	-
+10	en	O	-
+11	verachtten	O	-
+12	de	O	-
+13	menschen	O	-
+14	,	O	-
+15	de	B-AGENT	26,29,39
+16	gewichtige	I-AGENT	26,29,39
+17	heeren	I-AGENT	26,29,39
+18	vooral	O	-
+19	,	O	-
+20	de	O	-
+21	heeren	O	-
+22	,	O	-
+23	die	O	-
+24	't	O	-
+25	druk	O	-
+26	hebben	REALIS	-
+27	en	O	-
+28	die	O	-
+29	denken	REALIS	-
+30	dat	O	-
+31	zij	O	-
+32	't	O	-
+33	aardig	O	-
+34	ver	O	-
+35	in	O	-
+36	de	O	-
+37	wereld	O	-
+38	hebben	O	-
+39	gebracht	REALIS	-
+40	.	O	-
+
+# 18-1
+0	Maar	O	-
+1	wij	B-AGENT	2
+2	waren	REALIS	-
+3	arm	O	-
+4	.	O	-
+
+# 18-2
+0	Bekker	B-AGENT	12,14,23
+1	en	O	-
+2	ik	B-AGENT	12,14,23
+3	moesten	O	-
+4	't	O	-
+5	grootste	O	-
+6	deel	O	-
+7	van	O	-
+8	onzen	O	-
+9	tijd	O	-
+10	op	O	-
+11	kantoor	O	-
+12	doorbrengen	REALIS	-
+13	en	O	-
+14	doen	REALIS	-
+15	wat	O	-
+16	die	B-AGENT	18,29,31,40
+17	heeren	I-AGENT	18,29,31,40
+18	zeiden	REALIS	-
+19	en	O	-
+20	hun	O	-
+21	domme	O	-
+22	opinies	O	-
+23	aanhooren	REALIS	-
+24	,	O	-
+25	als	O	-
+26	ze	O	-
+27	met	O	-
+28	elkaar	O	-
+29	spraken	IRREALIS	-
+30	en	O	-
+31	verdragen	IRREALIS	-
+32	,	O	-
+33	dat	O	-
+34	zij	O	-
+35	zichzelf	O	-
+36	veel	O	-
+37	flinker	O	-
+38	en	O	-
+39	knapper	O	-
+40	vonden	REALIS	-
+41	dan	O	-
+42	ons	O	-
+43	.	O	-
+
+# 18-3
+0	En	O	-
+1	als	O	-
+2	zij	B-AGENT	3
+3	vonden	IRREALIS	-
+4	,	O	-
+5	dat	O	-
+6	't	O	-
+7	koud	O	-
+8	was	IRREALIS	-
+9	,	O	-
+10	dan	O	-
+11	moesten	REALIS	-
+12	alle	O	-
+13	ramen	O	-
+14	dicht	O	-
+15	en	O	-
+16	's	O	-
+17	winters	O	-
+18	moest	O	-
+19	't	O	-
+20	licht	O	-
+21	veel	O	-
+22	te	O	-
+23	vroeg	O	-
+24	op	O	-
+25	en	O	-
+26	de	O	-
+27	gordijnen	O	-
+28	moesten	REALIS	-
+29	neer	O	-
+30	,	O	-
+31	zoodat	O	-
+32	wij	B-AGENT	37
+33	de	O	-
+34	roode	O	-
+35	lucht	O	-
+36	niet	O	-
+37	zagen	IRREALIS	-
+38	en	O	-
+39	't	O	-
+40	schemeren	O	-
+41	in	O	-
+42	de	O	-
+43	straat	O	-
+44	niet	O	-
+45	,	O	-
+46	en	O	-
+47	wij	B-AGENT	51
+48	hadden	O	-
+49	niets	O	-
+50	te	O	-
+51	vertellen	IRREALIS	-
+52	.	O	-
+
+# 19-1
+0	En	O	-
+1	wij	B-AGENT	5
+2	moesten	O	-
+3	in	O	-
+4	straten	O	-
+5	wonen	REALIS	-
+6	,	O	-
+7	heel	O	-
+8	bekrompen	O	-
+9	,	O	-
+10	met	O	-
+11	uitzicht	O	-
+12	op	O	-
+13	de	O	-
+14	lancaster	O	-
+15	gordijnen	O	-
+16	van	O	-
+17	den	O	-
+18	overkant	O	-
+19	en	O	-
+20	de	O	-
+21	balletjesfranje	O	-
+22	en	O	-
+23	de	O	-
+24	aspedistra	O	-
+25	in	O	-
+26	een	O	-
+27	pot	O	-
+28	met	O	-
+29	een	O	-
+30	onbestaanbare	O	-
+31	bloem	O	-
+32	er	O	-
+33	op	O	-
+34	.	O	-
+
+# 20-1
+0	O	O	-
+1	,	O	-
+2	wij	B-AGENT	3
+3	namen	REALIS	-
+4	wraak	O	-
+5	,	O	-
+6	wij	B-AGENT	7
+7	leerden	REALIS	-
+8	talen	B-PATIENT	7
+9	,	O	-
+10	waarvan	O	-
+11	zij	B-AGENT	15
+12	de	O	-
+13	namen	O	-
+14	nooit	O	-
+15	gehoord	IRREALIS	-
+16	hadden	O	-
+17	en	O	-
+18	wij	B-AGENT	19
+19	lazen	REALIS	-
+20	boeken	B-PATIENT	19
+21	waar	O	-
+22	zij	B-AGENT	26
+23	niets	O	-
+24	van	O	-
+25	konden	O	-
+26	begrijpen	IRREALIS	-
+27	,	O	-
+28	wij	B-AGENT	29
+29	doorleefden	REALIS	-
+30	gevoelens	B-PATIENT	29
+31	waarvan	O	-
+32	zij	B-AGENT	36
+33	het	O	-
+34	bestaan	O	-
+35	niet	O	-
+36	vermoedden	IRREALIS	-
+37	.	O	-
+
+# 20-2
+0	's	O	-
+1	Zondags	O	-
+2	liepen	REALIS	-
+3	wij	B-AGENT	2
+4	uren	O	-
+5	en	O	-
+6	uren	O	-
+7	ver	O	-
+8	over	O	-
+9	wegen	O	-
+10	,	O	-
+11	waar	O	-
+12	zij	B-AGENT	14
+13	nooit	O	-
+14	kwamen	IRREALIS	-
+15	en	O	-
+16	op	O	-
+17	kantoor	O	-
+18	dachten	REALIS	-
+19	wij	B-AGENT	18
+20	aan	O	-
+21	de	O	-
+22	slootjes	O	-
+23	en	O	-
+24	de	O	-
+25	weilanden	O	-
+26	,	O	-
+27	die	O	-
+28	wij	B-AGENT	29
+29	gezien	REALIS	-
+30	hadden	O	-
+31	en	O	-
+32	terwijl	O	-
+33	de	B-AGENT	36
+34	heeren	I-AGENT	36
+35	ons	B-AGENT	39
+36	bevalen	REALIS	-
+37	dingen	B-PATIENT	39
+38	te	O	-
+39	doen	IRREALIS	-
+40	,	O	-
+41	waarvan	O	-
+42	wij	B-AGENT	46
+43	't	O	-
+44	nut	O	-
+45	niet	O	-
+46	begrepen	IRREALIS	-
+47	,	O	-
+48	dachten	REALIS	-
+49	wij	B-AGENT	48
+50	eraan	O	-
+51	,	O	-
+52	hoe	O	-
+53	Zondagavond	O	-
+54	de	B-AGENT	57
+55	zon	I-AGENT	57
+56	was	O	-
+57	ondergegaan	REALIS	-
+58	achter	O	-
+59	Abcoû	O	-
+60	.	O	-
+
+# 20-3
+0	En	O	-
+1	hoe	O	-
+2	wij	B-AGENT	6
+3	woordeloos	O	-
+4	't	O	-
+5	heelal	O	-
+6	doordacht	REALIS	-
+7	hadden	O	-
+8	,	O	-
+9	hoe	O	-
+10	God	B-AGENT	19
+11	ons	O	-
+12	hoofd	O	-
+13	,	O	-
+14	ons	O	-
+15	hart	O	-
+16	en	O	-
+17	ons	O	-
+18	ruggemerg	O	-
+19	gevuld	REALIS	-
+20	had	O	-
+21	en	O	-
+22	hoe	O	-
+23	mal	O	-
+24	zij	B-AGENT	26
+25	zouden	O	-
+26	kijken	REALIS	-
+27	,	O	-
+28	als	O	-
+29	wij	B-AGENT	33
+30	hun	O	-
+31	dat	O	-
+32	zouden	O	-
+33	zeggen	IRREALIS	-
+34	.	O	-
+
+# 20-4
+0	En	O	-
+1	hoe	O	-
+2	zij	B-AGENT	27
+3	met	O	-
+4	al	O	-
+5	hun	O	-
+6	geld	O	-
+7	en	O	-
+8	hun	O	-
+9	reizen	O	-
+10	naar	O	-
+11	Zwitserland	O	-
+12	en	O	-
+13	Italië	O	-
+14	en	O	-
+15	Godweetwaarheen	O	-
+16	en	O	-
+17	met	O	-
+18	al	O	-
+19	hun	O	-
+20	knapheid	O	-
+21	en	O	-
+22	bedrijvigheid	O	-
+23	dat	O	-
+24	nooit	O	-
+25	zouden	O	-
+26	kunnen	O	-
+27	beleven	IRREALIS	-
+28	.	O	-
+
+# 21-1
+0	Maar	-	-
+1	met	-	-
+2	dat	-	-
+3	al	-	-
+4	hadden	-	-
+5	ze	-	-
+6	ons	-	-
+7	toch	-	-
+8	in	-	-
+9	hun	-	-
+10	macht	-	-
+11	,	-	-
+12	ze	-	-
+13	legden	-	-
+14	beslag	-	-
+15	op	-	-
+16	't	-	-
+17	grootste	-	-
+18	deel	-	-
+19	van	-	-
+20	onzen	-	-
+21	tijd	-	-
+22	,	-	-
+23	zij	-	-
+24	hielden	-	-
+25	ons	-	-
+26	uit	-	-
+27	de	-	-
+28	zon	-	-
+29	en	-	-
+30	van	-	-
+31	de	-	-
+32	weilanden	-	-
+33	en	-	-
+34	den	-	-
+35	waterkant	-	-
+36	vandaan	-	-
+37	.	-	-
+
+# 21-2
+0	Ze	B-AGENT	1
+1	dwongen	REALIS	-
+2	ons	B-AGENT	8
+3	voortdurend	O	-
+4	onze	B-PATIENT	8
+5	gedachten	I-PATIENT	8
+6	bezig	O	-
+7	te	O	-
+8	houden	REALIS	-
+9	met	O	-
+10	hun	O	-
+11	onbegrijpelijke	O	-
+12	zaken	O	-
+13	.	O	-
+
+# 21-3
+0	Maar	O	-
+1	dat	O	-
+2	ging	REALIS	-
+3	zoo	O	-
+4	ver	O	-
+5	als	O	-
+6	't	O	-
+7	voeten	O	-
+8	had	IRREALIS	-
+9	.	O	-
+
+# 21-4
+0	En	-	-
+1	zij	-	-
+2	gaven	-	-
+3	ons	-	-
+4	standjes	-	-
+5	;	-	-
+6	niks	-	-
+7	waren	-	-
+8	wij	-	-
+9	op	-	-
+10	kantoor	-	-
+11	.	-	-
+
+# 21-5
+0	"	O	-
+1	O	O	-
+2	,	O	-
+3	Bekker	O	-
+4	"	O	-
+5	zeiden	REALIS	-
+6	ze	B-AGENT	5
+7	tegen	O	-
+8	elkaar	O	-
+9	.	O	-
+
+# 21-6
+0	Welopgevoed	O	-
+1	waren	REALIS	-
+2	de	B-AGENT	1
+3	heeren	I-AGENT	1
+4	;	O	-
+5	de	B-AGENT	9
+6	juffrouw	I-AGENT	9
+7	van	I-AGENT	9
+8	tweehoog	I-AGENT	9
+9	zei	REALIS	-
+10	:	O	-
+11	"	O	-
+12	die	O	-
+13	halvegare	O	-
+14	"	O	-
+15	,	O	-
+16	daar	O	-
+17	waren	REALIS	-
+18	de	B-AGENT	17
+19	heeren	I-AGENT	17
+20	te	O	-
+21	welopgevoed	O	-
+22	voor	O	-
+23	.	O	-
+
+# 21-7
+0	En	O	-
+1	ze	B-AGENT	2
+2	waren	REALIS	-
+3	knap	O	-
+4	,	O	-
+5	veel	O	-
+6	knapper	O	-
+7	dan	O	-
+8	de	O	-
+9	juffrouw	O	-
+10	van	O	-
+11	tweehoog	O	-
+12	,	O	-
+13	wier	B-AGENT	16
+14	man	I-AGENT	16
+15	lantaarnopsteker	O	-
+16	was	REALIS	-
+17	,	O	-
+18	een	O	-
+19	leuk	O	-
+20	vak	O	-
+21	,	O	-
+22	waar	O	-
+23	weinig	O	-
+24	geleerdheid	O	-
+25	voor	O	-
+26	noodig	O	-
+27	is	REALIS	-
+28	.	O	-
+
+# 21-8
+0	M'n	B-AGENT	2
+1	baas	I-AGENT	2
+2	vroeg	REALIS	-
+3	me	O	-
+4	of	O	-
+5	ik	B-AGENT	8
+6	misschien	O	-
+7	gedichten	B-PATIENT	8
+8	maakte	REALIS	-
+9	.	O	-
+
+# 21-9
+0	Bekker	-	-
+1	vond	-	-
+2	dat	-	-
+3	zoo'n	-	-
+4	man	-	-
+5	dat	-	-
+6	woord	-	-
+7	eigenlijk	-	-
+8	niet	-	-
+9	mocht	-	-
+10	uitspreken	-	-
+11	,	-	-
+12	dat	-	-
+13	moest	-	-
+14	niet	-	-
+15	mogen	-	-
+16	.	-	-
+
+# 21-10
+0	"	-	-
+1	Wat	-	-
+2	zei	-	-
+3	je	-	-
+4	tegen	-	-
+5	hem	-	-
+6	?	-	-
+7	"	-	-
+
+# 21-11
+0	Ik	-	-
+1	had	-	-
+2	niks	-	-
+3	gezegd	-	-
+4	,	-	-
+5	ik	-	-
+6	had	-	-
+7	maar	-	-
+8	naar	-	-
+9	z'n	-	-
+10	gezicht	-	-
+11	gekeken	-	-
+12	en	-	-
+13	gevonden	-	-
+14	dat	-	-
+15	-ie	-	-
+16	zoo'n	-	-
+17	dikken	-	-
+18	kop	-	-
+19	had	-	-
+20	en	-	-
+21	gedacht	-	-
+22	:	-	-
+23	"	-	-
+24	hij	-	-
+25	weet	-	-
+26	niet	-	-
+27	wien	-	-
+28	hij	-	-
+29	voor	-	-
+30	heeft	-	-
+31	,	-	-
+32	daar	-	-
+33	is	-	-
+34	hij	-	-
+35	te	-	-
+36	dom	-	-
+37	voor	-	-
+38	.	-	-
+39	"	-	-
+
+# 21-12
+0	En	-	-
+1	ze	-	-
+2	betaalden	-	-
+3	ons	-	-
+4	slecht	-	-
+5	de	-	-
+6	heeren	-	-
+7	.	-	-
+
+# 22-1
+0	IV	O	-
+1	.	O	-
+
+# 23-1
+0	En	O	-
+1	verliefd	O	-
+2	waren	REALIS	-
+3	we	B-AGENT	2
+4	.	O	-
+
+# 23-2
+0	Bekker	B-AGENT	1,13
+1	liep	REALIS	-
+2	maanden	O	-
+3	lang	O	-
+4	iederen	O	-
+5	morgen	O	-
+6	over	O	-
+7	de	O	-
+8	Sarphatistraat	O	-
+9	waar	O	-
+10	hij	O	-
+11	niets	O	-
+12	te	O	-
+13	maken	IRREALIS	-
+14	had	O	-
+15	.	O	-
+
+# 23-3
+0	Hij	B-AGENT	1,11,24
+1	hield	REALIS	-
+2	van	O	-
+3	een	O	-
+4	schoolmeisje	O	-
+5	van	O	-
+6	een	O	-
+7	jaar	O	-
+8	of	O	-
+9	zeventien	O	-
+10	en	O	-
+11	liep	REALIS	-
+12	vijftig	O	-
+13	pas	O	-
+14	achter	O	-
+15	haar	O	-
+16	of	O	-
+17	aan	O	-
+18	de	O	-
+19	overzij	O	-
+20	van	O	-
+21	de	O	-
+22	straat	O	-
+23	en	O	-
+24	keek	REALIS	-
+25	naar	O	-
+26	haar	B-PATIENT	24
+27	.	O	-
+
+# 23-4
+0	Hij	B-AGENT	3,13
+1	heeft	O	-
+2	nooit	O	-
+3	geweten	IRREALIS	-
+4	hoe	O	-
+5	zij	B-AGENT	6
+6	heette	REALIS	-
+7	,	O	-
+8	nooit	O	-
+9	een	O	-
+10	woord	O	-
+11	met	O	-
+12	haar	B-PATIENT	13
+13	gesproken	IRREALIS	-
+14	.	O	-
+
+# 23-5
+0	In	O	-
+1	de	O	-
+2	Kerstvacantie	O	-
+3	was	REALIS	-
+4	-ie	B-AGENT	3
+5	ongelukkig	O	-
+6	.	O	-
+
+# 23-6
+0	In	O	-
+1	Februari	O	-
+2	nam	REALIS	-
+3	hij	B-AGENT	2
+4	een	O	-
+5	middag	O	-
+6	vrij	O	-
+7	om	O	-
+8	haar	O	-
+9	op	O	-
+10	te	O	-
+11	wachten	REALIS	-
+12	,	O	-
+13	als	O	-
+14	de	B-AGENT	16
+15	school	I-AGENT	16
+16	uitging	IRREALIS	-
+17	.	O	-
+
+# 23-7
+0	Daar	O	-
+1	stond	REALIS	-
+2	-ie	B-AGENT	1
+3	op	O	-
+4	't	O	-
+5	stille	O	-
+6	grachtje	O	-
+7	in	O	-
+8	de	O	-
+9	sneeuw	O	-
+10	en	O	-
+11	een	B-AGENT	13
+12	vent	I-AGENT	13
+13	reed	REALIS	-
+14	voorbij	O	-
+15	op	O	-
+16	een	O	-
+17	wit	O	-
+18	paard	O	-
+19	,	O	-
+20	met	O	-
+21	een	O	-
+22	blauwe	O	-
+23	kiel	O	-
+24	aan	O	-
+25	en	O	-
+26	een	O	-
+27	stroohoed	O	-
+28	op	O	-
+29	.	O	-
+
+# 23-8
+0	Wat	O	-
+1	raar	O	-
+2	dat	O	-
+3	je	B-AGENT	12
+4	juist	O	-
+5	op	O	-
+6	zoo'n	O	-
+7	middag	O	-
+8	zoo	O	-
+9	iets	O	-
+10	geks	O	-
+11	moet	O	-
+12	zien	IRREALIS	-
+13	.	O	-
+
+# 23-9
+0	Maar	O	-
+1	om	O	-
+2	vijf	O	-
+3	minuten	O	-
+4	voor	O	-
+5	vieren	O	-
+6	ging	REALIS	-
+7	Bekker	B-AGENT	6
+8	weg	O	-
+9	,	O	-
+10	hij	B-AGENT	11,15
+11	dorst	REALIS	-
+12	niet	O	-
+13	te	O	-
+14	blijven	O	-
+15	staan	IRREALIS	-
+16	.	O	-
+
+# 23-10
+0	Langzaam	O	-
+1	slenterde	REALIS	-
+2	-ie	B-AGENT	1
+3	weg	O	-
+4	en	O	-
+5	op	O	-
+6	de	O	-
+7	Weteringschans	O	-
+8	haalde	REALIS	-
+9	ze	B-AGENT	8
+10	hem	B-PATIENT	8
+11	in	O	-
+12	.	O	-
+
+# 23-11
+0	Ze	B-AGENT	1
+1	lachte	REALIS	-
+2	luid	O	-
+3	tegen	O	-
+4	een	B-PATIENT	1
+5	vriendin	I-PATIENT	1
+6	.	O	-
+
+# 23-12
+0	Ik	B-AGENT	1
+1	geloof	IRREALIS	-
+2	niet	O	-
+3	dat	O	-
+4	zij	B-AGENT	6
+5	ooit	O	-
+6	geweten	IRREALIS	-
+7	heeft	O	-
+8	dat	O	-
+9	Bekker	B-AGENT	10
+10	bestond	IRREALIS	-
+11	,	O	-
+12	Van	O	-
+13	mij	O	-
+14	wilde	O	-
+15	Bekker	B-AGENT	16
+16	weten	REALIS	-
+17	waar	O	-
+18	dat	O	-
+19	op	O	-
+20	uit	O	-
+21	moest	O	-
+22	loopen	REALIS	-
+23	,	O	-
+24	dat	O	-
+25	kon	O	-
+26	toch	O	-
+27	zoo	O	-
+28	niet	O	-
+29	doorgaan	IRREALIS	-
+30	.	O	-
+
+# 23-13
+0	En	O	-
+1	't	O	-
+2	ging	IRREALIS	-
+3	ook	O	-
+4	zoo	O	-
+5	niet	O	-
+6	door	O	-
+7	,	O	-
+8	want	O	-
+9	na	O	-
+10	de	O	-
+11	zomervacantie	O	-
+12	kwam	IRREALIS	-
+13	ze	B-AGENT	12
+14	niet	O	-
+15	meer	O	-
+16	terug	O	-
+17	.	O	-
+
+# 24-1
+0	"	O	-
+1	Meiden	O	-
+2	,	O	-
+3	"	O	-
+4	zei	REALIS	-
+5	Bekker	B-AGENT	4
+6	,	O	-
+7	"	O	-
+8	dat	O	-
+9	is	REALIS	-
+10	niks	O	-
+11	gedaan	O	-
+12	...	O	-
+
+# 24-2
+0	Ze	B-AGENT	1
+1	veerde	REALIS	-
+2	als	O	-
+3	ze	B-AGENT	4
+4	liep	IRREALIS	-
+5	.	O	-
+6	"	O	-
+
+# 24-3
+0	Hij	B-AGENT	1,7,17
+1	draaide	REALIS	-
+2	de	B-PATIENT	1
+3	lamp	I-PATIENT	1
+4	wat	O	-
+5	op	O	-
+6	en	O	-
+7	sloeg	REALIS	-
+8	een	B-PATIENT	7
+9	blad	I-PATIENT	7
+10	om	O	-
+11	van	O	-
+12	't	B-PATIENT	17
+13	boek	I-PATIENT	17
+14	waar	O	-
+15	-ie	O	-
+16	in	O	-
+17	las	REALIS	-
+18	.	O	-
+
+# 24-4
+0	"	O	-
+1	Waar	O	-
+2	zou	O	-
+3	ze	B-AGENT	5
+4	nu	O	-
+5	zijn	IRREALIS	-
+6	?	O	-
+7	"	O	-
+
+# 24-5
+0	"	O	-
+1	Zou	O	-
+2	ze	B-AGENT	3
+3	zoenen	IRREALIS	-
+4	?	O	-
+5	"	O	-
+
+# 24-6
+0	Een	B-AGENT	6
+1	stukje	I-AGENT	6
+2	vuur	I-AGENT	6
+3	uit	I-AGENT	6
+4	zijn	I-AGENT	6
+5	pijp	I-AGENT	6
+6	viel	REALIS	-
+7	op	O	-
+8	't	O	-
+9	boek	O	-
+10	.	O	-
+
+# 24-7
+0	Hij	B-AGENT	1
+1	doofde	REALIS	-
+2	't	B-PATIENT	1
+3	met	O	-
+4	een	O	-
+5	lucifersdoosje	O	-
+6	.	O	-
+
+# 24-8
+0	"	O	-
+1	Verdomme	O	-
+2	,	O	-
+3	een	O	-
+4	gat	O	-
+5	,	O	-
+6	dat	O	-
+7	heb	O	-
+8	ik	B-AGENT	10
+9	stom	O	-
+10	gedaan	REALIS	-
+11	.	O	-
+12	"	O	-
+
+# 24-9
+0	"	-	-
+1	't	-	-
+2	Is	-	-
+3	beter	-	-
+4	zoo	-	-
+5	,	-	-
+6	meiden	-	-
+7	is	-	-
+8	niks	-	-
+9	gedaan	-	-
+10	,	-	-
+11	je	-	-
+12	schiet	-	-
+13	er	-	-
+14	niet	-	-
+15	mee	-	-
+16	op	-	-
+17	,	-	-
+18	ze	-	-
+19	leiden	-	-
+20	je	-	-
+21	maar	-	-
+22	af	-	-
+23	.	-	-
+
+# 24-10
+0	Op	O	-
+1	een	O	-
+2	afstand	O	-
+3	zijn	REALIS	-
+4	ze	B-AGENT	3
+5	aardig	O	-
+6	,	O	-
+7	om	O	-
+8	gedichten	O	-
+9	op	O	-
+10	te	O	-
+11	maken	REALIS	-
+12	.	O	-
+13	"	O	-
+
+# 24-11
+0	Hij	B-AGENT	1
+1	las	REALIS	-
+2	.	O	-
+
+# 24-12
+0	Na	O	-
+1	een	O	-
+2	poosje	O	-
+3	keek	REALIS	-
+4	hij	B-AGENT	3
+5	weer	O	-
+6	op	O	-
+7	...	O	-
+
+# 24-13
+0	"	-	-
+1	Weet	-	-
+2	je	-	-
+3	wat	-	-
+4	een	-	-
+5	raar	-	-
+6	ding	-	-
+7	is	-	-
+8	?	-	-
+
+# 24-14
+0	Toen	O	-
+1	ze	B-AGENT	5,6
+2	me	O	-
+3	dien	O	-
+4	middag	O	-
+5	inhaalde	REALIS	-
+6	ging	REALIS	-
+7	ze	O	-
+8	rakelings	O	-
+9	langs	O	-
+10	me	O	-
+11	heen	O	-
+12	.	O	-
+
+# 24-15
+0	Er	O	-
+1	was	IRREALIS	-
+2	zoo	O	-
+3	te	O	-
+4	zeggen	REALIS	-
+5	niks	O	-
+6	tusschen	O	-
+7	ons	O	-
+8	,	O	-
+9	een	O	-
+10	beetje	O	-
+11	kleeren	O	-
+12	van	O	-
+13	haar	O	-
+14	en	O	-
+15	zoo	O	-
+16	goed	O	-
+17	als	O	-
+18	geen	O	-
+19	kleeren	O	-
+20	van	O	-
+21	mij	O	-
+22	.	O	-
+23	"	O	-
+
+# 24-16
+0	(	O	-
+1	Bekker	B-AGENT	2
+2	liep	REALIS	-
+3	zomer	O	-
+4	en	O	-
+5	winter	O	-
+6	met	O	-
+7	z'n	O	-
+8	overhemd	O	-
+9	op	O	-
+10	z'n	O	-
+11	bloote	O	-
+12	lijf	O	-
+13	)	O	-
+14	.	O	-
+
+# 24-17
+0	"	-	-
+1	Dat	-	-
+2	is	-	-
+3	niet	-	-
+4	veel	-	-
+5	,	-	-
+6	vind	-	-
+7	je	-	-
+8	wel	-	-
+9	?	-	-
+10	"	-	-
+
+# 24-18
+0	Ik	B-AGENT	1
+1	vond	REALIS	-
+2	dat	O	-
+3	niet	O	-
+4	veel	O	-
+5	;	O	-
+6	tusschen	O	-
+7	den	O	-
+8	toren	O	-
+9	van	O	-
+10	Naarden	O	-
+11	en	O	-
+12	de	O	-
+13	kamer	O	-
+14	van	O	-
+15	Bekker	O	-
+16	b.v.	O	-
+17	was	REALIS	-
+18	veel	O	-
+19	meer	O	-
+20	.	O	-
+
+# 24-19
+0	"	O	-
+1	Tusschen	O	-
+2	den	O	-
+3	toren	O	-
+4	van	O	-
+5	Naarden	O	-
+6	en	O	-
+7	deze	O	-
+8	snor	O	-
+9	,	O	-
+10	"	O	-
+11	zei	REALIS	-
+12	Bekker	B-AGENT	11
+13	,	O	-
+14	"	O	-
+15	is	REALIS	-
+16	veel	O	-
+17	minder	O	-
+18	,	O	-
+19	veel	O	-
+20	minder	O	-
+21	dan	O	-
+22	er	O	-
+23	toen	O	-
+24	was	REALIS	-
+25	tusschen	O	-
+26	haar	O	-
+27	schouder	O	-
+28	en	O	-
+29	de	O	-
+30	mijne	O	-
+31	.	O	-
+
+# 24-20
+0	't	O	-
+1	Haalt	IRREALIS	-
+2	er	O	-
+3	niet	O	-
+4	bij	O	-
+5	Koekebakker	O	-
+6	.	O	-
+7	"	O	-
+
+# 24-21
+0	Hij	B-AGENT	1,7,13,21,24
+1	sloeg	REALIS	-
+2	weer	O	-
+3	een	B-PATIENT	1
+4	blad	I-PATIENT	1
+5	om	O	-
+6	,	O	-
+7	keek	REALIS	-
+8	in	O	-
+9	't	O	-
+10	licht	O	-
+11	,	O	-
+12	en	O	-
+13	zei	REALIS	-
+14	:	O	-
+15	"	O	-
+16	zoo	O	-
+17	is	IRREALIS	-
+18	't	O	-
+19	"	O	-
+20	en	O	-
+21	ging	REALIS	-
+22	door	O	-
+23	met	O	-
+24	lezen	REALIS	-
+25	.	O	-
+
+# 25-1
+0	V.	O	-
+
+# 26-1
+0	Zoo	O	-
+1	was	REALIS	-
+2	't	O	-
+3	:	O	-
+4	God	B-AGENT	10
+5	liet	O	-
+6	zijn	B-PATIENT	8
+7	aangezicht	I-PATIENT	8
+8	zien	REALIS	-
+9	en	O	-
+10	verhulde	REALIS	-
+11	't	O	-
+
+# 27-1
+0	beurtelings	O	-
+1	.	O	-
+
+# 27-2
+0	Je	B-AGENT	1
+1	schoot	IRREALIS	-
+2	er	O	-
+3	niet	O	-
+4	mee	O	-
+5	op	O	-
+6	,	O	-
+7	ook	O	-
+8	al	O	-
+9	bewonderde	IRREALIS	-
+10	je	B-AGENT	9
+11	de	B-PATIENT	9
+12	meisjes	I-PATIENT	9
+13	alleen	O	-
+14	maar	O	-
+15	uit	O	-
+16	de	O	-
+17	verte	O	-
+18	en	O	-
+19	al	O	-
+20	liet	O	-
+21	je	O	-
+22	hun	B-PATIENT	24
+23	bekjes	I-PATIENT	24
+24	zoenen	IRREALIS	-
+25	door	O	-
+26	anderen	O	-
+27	,	O	-
+28	door	O	-
+29	die	B-AGENT	24,41
+30	gewichtige	I-AGENT	24,41
+31	heeren	I-AGENT	24,41
+32	,	O	-
+33	waar	O	-
+34	ze	B-AGENT	41
+35	over	O	-
+36	't	O	-
+37	algemeen	O	-
+38	meer	O	-
+39	mee	O	-
+40	op	O	-
+41	hadden	REALIS	-
+42	dan	O	-
+43	met	O	-
+44	ons	O	-
+45	.	O	-
+
+# 27-3
+0	Die	B-AGENT	1,5
+1	waren	REALIS	-
+2	zooveel	O	-
+3	netter	O	-
+4	en	O	-
+5	praatten	REALIS	-
+6	zoo	O	-
+7	aardig	O	-
+8	.	O	-
+
+# 27-4
+0	En	O	-
+1	wij	B-AGENT	2
+2	waren	REALIS	-
+3	armoedzaaiers	O	-
+4	.	O	-
+
+# 28-1
+0	Van	O	-
+1	God	B-AGENT	8,13
+2	was	REALIS	-
+3	niets	O	-
+4	te	O	-
+5	hopen	O	-
+6	,	O	-
+7	die	O	-
+8	gaat	REALIS	-
+9	zijn	O	-
+10	eigen	O	-
+11	weg	O	-
+12	en	O	-
+13	geeft	IRREALIS	-
+14	geen	O	-
+15	rekenschap	O	-
+16	.	O	-
+
+# 28-2
+0	Als	O	-
+1	we	B-AGENT	3
+2	wat	O	-
+3	wilden	IRREALIS	-
+4	moesten	O	-
+5	we	B-AGENT	8
+6	't	O	-
+7	zelf	O	-
+8	doen	IRREALIS	-
+9	.	O	-
+
+# 28-3
+0	Maar	O	-
+1	wij	O	-
+2	vonden	REALIS	-
+3	,	O	-
+4	dat	O	-
+5	Bavink	B-AGENT	10,13,19
+6	en	I-AGENT	10,13,19
+7	Hoyer	I-AGENT	10,13,19
+8	makkelijk	O	-
+9	praten	O	-
+10	hadden	REALIS	-
+11	,	O	-
+12	die	O	-
+13	konden	REALIS	-
+14	wat	O	-
+15	,	O	-
+16	die	O	-
+17	konden	O	-
+18	laten	O	-
+19	zien	IRREALIS	-
+20	hoe	O	-
+21	't	O	-
+22	moest	REALIS	-
+23	,	O	-
+24	maar	O	-
+25	wij	O	-
+26	,	O	-
+27	Bekker	B-AGENT	2,39
+28	en	I-AGENT	2,39
+29	Kees	I-AGENT	2,39
+30	en	I-AGENT	2,39
+31	ik	I-AGENT	2,39
+32	,	O	-
+33	wij	O	-
+34	konden	O	-
+35	hoogstens	O	-
+36	"	O	-
+37	socialen	O	-
+38	"	O	-
+39	worden	IRREALIS	-
+40	en	O	-
+41	dat	O	-
+42	leek	REALIS	-
+43	toch	O	-
+44	wel	O	-
+45	wat	O	-
+46	erg	O	-
+47	armoedig	O	-
+48	,	O	-
+49	nadat	O	-
+50	je	B-AGENT	55,60,66
+51	aan	O	-
+52	Gods	O	-
+53	tafel	O	-
+54	had	O	-
+55	gezeten	REALIS	-
+56	,	O	-
+57	adressen	O	-
+58	te	O	-
+59	gaan	O	-
+60	schrijven	REALIS	-
+61	voor	O	-
+62	drukwerk	O	-
+63	of	O	-
+64	lid	O	-
+65	te	O	-
+66	worden	REALIS	-
+67	van	O	-
+68	de	O	-
+69	"	O	-
+70	vrije	O	-
+71	groep	O	-
+72	Kastanjeplein	O	-
+73	en	O	-
+74	omstreken	O	-
+75	.	O	-
+76	"	O	-
+
+# 28-4
+0	En	O	-
+1	van	O	-
+2	dat	O	-
+3	wonen	REALIS	-
+4	op	O	-
+5	de	O	-
+6	hei	O	-
+7	zou	O	-
+8	ook	O	-
+9	wel	O	-
+10	niets	O	-
+11	komen	IRREALIS	-
+12	,	O	-
+13	want	O	-
+14	als	O	-
+15	Bekker	B-AGENT	21
+16	een	O	-
+17	paar	O	-
+18	centen	O	-
+19	bij	O	-
+20	elkaar	O	-
+21	had	IRREALIS	-
+22	,	O	-
+23	dan	O	-
+24	moesten	O	-
+25	zijn	B-PATIENT	27
+26	schoenen	I-PATIENT	27
+27	gelapt	REALIS	-
+28	worden	O	-
+29	.	O	-
+
+# 28-5
+0	In	O	-
+1	de	O	-
+2	kolonie	O	-
+3	van	O	-
+4	Van	O	-
+5	Eeden	O	-
+6	hadden	O	-
+7	we	B-AGENT	10
+8	misschien	O	-
+9	kunnen	O	-
+10	gaan	REALIS	-
+11	,	O	-
+12	maar	O	-
+13	toen	O	-
+14	we	B-AGENT	21
+15	op	O	-
+16	een	O	-
+17	Zondag	O	-
+18	er	O	-
+19	heen	O	-
+20	waren	O	-
+21	geloopen	REALIS	-
+22	,	O	-
+23	vier	O	-
+24	uur	O	-
+25	gaans	O	-
+26	,	O	-
+27	toen	O	-
+28	liep	REALIS	-
+29	daar	O	-
+30	een	B-AGENT	28,44
+31	heer	I-AGENT	28,44
+32	,	O	-
+33	in	O	-
+34	een	O	-
+35	boerenkiel	O	-
+36	,	O	-
+37	met	O	-
+38	dure	O	-
+39	gele	O	-
+40	schoenen	O	-
+41	,	O	-
+42	kolombijntjes	B-PATIENT	44
+43	te	O	-
+44	eten	REALIS	-
+45	uit	O	-
+46	een	O	-
+47	papieren	O	-
+48	zak	O	-
+49	,	O	-
+50	blootshoofds	O	-
+51	,	O	-
+52	in	O	-
+53	innige	O	-
+54	aanraking	O	-
+55	met	O	-
+56	de	O	-
+57	natuur	O	-
+58	,	O	-
+59	zooals	O	-
+60	dat	B-AGENT	62
+61	toen	O	-
+62	genoemd	REALIS	-
+63	werd	O	-
+64	,	O	-
+65	en	O	-
+66	z'n	O	-
+67	baard	O	-
+68	vol	O	-
+69	kruimels	O	-
+70	.	O	-
+
+# 28-6
+0	Toen	O	-
+1	dorsten	IRREALIS	-
+2	we	B-AGENT	1,6,13,21
+3	niet	O	-
+4	verder	O	-
+5	en	O	-
+6	liepen	REALIS	-
+7	maar	O	-
+8	weer	O	-
+9	naar	O	-
+10	Amsterdam	O	-
+11	terug	O	-
+12	en	O	-
+13	liepen	REALIS	-
+14	achter	O	-
+15	elkaar	O	-
+16	langs	O	-
+17	de	O	-
+18	Naarder	O	-
+19	trekvaart	O	-
+20	en	O	-
+21	zongen	REALIS	-
+22	,	O	-
+23	en	O	-
+24	een	B-AGENT	26
+25	boerenmeid	I-AGENT	26
+26	zei	REALIS	-
+27	tegen	O	-
+28	een	O	-
+29	boerenjongen	O	-
+30	:	O	-
+31	"	O	-
+32	D'r	O	-
+33	het	O	-
+34	niks	O	-
+35	van	O	-
+36	in	O	-
+37	de	O	-
+38	krant	O	-
+39	'	O	-
+40	estaan	IRREALIS	-
+41	jong	O	-
+42	,	O	-
+43	hoe	O	-
+44	vin	IRREALIS	-
+45	je	B-AGENT	44
+46	dat	O	-
+47	nou	O	-
+48	?	O	-
+49	wist	IRREALIS	-
+50	jai	B-AGENT	49
+51	d'r	O	-
+52	van	O	-
+53	?	O	-
+54	"	O	-
+
+# 29-1
+0	VI	O	-
+1	.	O	-
+
+# 30-1
+0	Dus	O	-
+1	deden	REALIS	-
+2	we	B-AGENT	1
+3	maar	O	-
+4	niks	O	-
+5	.	O	-
+
+# 30-2
+0	Ja	-	-
+1	toch	-	-
+2	,	-	-
+3	in	-	-
+4	dien	-	-
+5	tijd	-	-
+6	maakte	-	-
+7	Bekker	-	-
+8	z'n	-	-
+9	eerste	-	-
+10	gedicht	-	-
+11	.	-	-
+
+# 31-1
+0	'k	-	-
+1	Weet	-	-
+2	't	-	-
+3	nog	-	-
+4	heel	-	-
+5	goed	-	-
+6	,	-	-
+7	't	-	-
+8	was	-	-
+9	op	-	-
+10	een	-	-
+11	Zondag	-	-
+12	,	-	-
+13	natuurlijk	-	-
+14	.	-	-
+
+# 31-2
+0	Als	O	-
+1	er	O	-
+2	iets	O	-
+3	gebeurde	IRREALIS	-
+4	,	O	-
+5	dan	O	-
+6	was	REALIS	-
+7	't	O	-
+8	op	O	-
+9	Zondag	O	-
+10	.	O	-
+
+# 31-3
+0	Want	O	-
+1	de	O	-
+2	zes	O	-
+3	andere	O	-
+4	dagen	O	-
+5	van	O	-
+6	de	O	-
+7	week	O	-
+8	droegen	REALIS	-
+9	drie	B-AGENT	8
+10	van	I-AGENT	8
+11	ons	I-AGENT	8
+12	onze	B-PATIENT	8
+13	ketenen	I-PATIENT	8
+14	van	O	-
+15	negen	O	-
+16	tot	O	-
+17	zes	O	-
+18	.	O	-
+
+# 31-4
+0	Ik	B-AGENT	4
+1	was	O	-
+2	uit	O	-
+3	solliciteeren	O	-
+4	geweest	REALIS	-
+5	in	O	-
+6	Hillegom	O	-
+7	bij	O	-
+8	een	O	-
+9	bollenhandelaar	O	-
+10	met	O	-
+11	dikke	O	-
+12	roode	O	-
+13	gladgeschoren	O	-
+14	wangetjes	O	-
+15	.	O	-
+
+# 31-5
+0	En	O	-
+1	de	B-AGENT	9
+2	anderen	I-AGENT	9
+3	hadden	O	-
+4	er	O	-
+5	meteen	O	-
+6	een	O	-
+7	uitgangsdag	O	-
+8	van	O	-
+9	gemaakt	REALIS	-
+10	.	O	-
+
+# 31-6
+0	Bavink	B-AGENT	17
+1	,	I-AGENT	17
+2	Hoyer	I-AGENT	17
+3	en	I-AGENT	17
+4	Bekker	I-AGENT	17
+5	hadden	O	-
+6	alle	O	-
+7	drie	O	-
+8	al	O	-
+9	zoo	O	-
+10	vaak	O	-
+11	naar	O	-
+12	't	O	-
+13	oudheidkundig	O	-
+14	museum	O	-
+15	in	O	-
+16	Leiden	O	-
+17	gewild	REALIS	-
+18	en	O	-
+19	nu	O	-
+20	zou	O	-
+21	't	O	-
+22	er	O	-
+23	dan	O	-
+24	van	O	-
+25	komen	REALIS	-
+26	.	O	-
+
+# 31-7
+0	En	O	-
+1	Kees	B-AGENT	2,6
+2	moest	REALIS	-
+3	mee	O	-
+4	,	O	-
+5	die	O	-
+6	deed	REALIS	-
+7	wat	O	-
+8	de	B-AGENT	10
+9	anderen	I-AGENT	10
+10	deden	REALIS	-
+11	.	O	-
+
+# 31-8
+0	In	-	-
+1	Leiden	-	-
+2	zou	-	-
+3	ik	-	-
+4	hen	-	-
+5	vinden	-	-
+6	.	-	-
+
+# 32-1
+0	't	O	-
+1	Was	REALIS	-
+2	in	O	-
+3	December	O	-
+4	.	O	-
+
+# 32-2
+0	Ik	B-AGENT	1
+1	stond	REALIS	-
+2	achter	O	-
+3	op	O	-
+4	de	O	-
+5	tram	O	-
+6	,	O	-
+7	heelemaal	O	-
+8	achter	O	-
+9	op	O	-
+10	.	O	-
+
+# 32-3
+0	De	B-AGENT	2,8,11
+1	tram	I-AGENT	2,8,11
+2	reed	REALIS	-
+3	maar	O	-
+4	door	O	-
+5	't	O	-
+6	land	O	-
+7	en	O	-
+8	stond	REALIS	-
+9	stil	O	-
+10	en	O	-
+11	reed	REALIS	-
+12	weer	O	-
+13	,	O	-
+14	uren	O	-
+15	duurde	REALIS	-
+16	't	O	-
+17	,	O	-
+18	de	O	-
+19	landen	O	-
+20	lagen	REALIS	-
+21	eindeloos	O	-
+22	.	O	-
+
+# 32-4
+0	En	O	-
+1	de	B-AGENT	3
+2	lucht	I-AGENT	3
+3	werd	REALIS	-
+4	hoe	O	-
+5	langer	O	-
+6	hoe	O	-
+7	blauwer	O	-
+8	en	O	-
+9	de	B-AGENT	11
+10	zon	I-AGENT	11
+11	scheen	REALIS	-
+12	alsof	O	-
+13	er	O	-
+14	bloemen	B-AGENT	16
+15	moesten	O	-
+16	groeien	IRREALIS	-
+17	uit	O	-
+18	de	O	-
+19	boerenkinkels	O	-
+20	.	O	-
+
+# 32-5
+0	En	O	-
+1	de	B-AGENT	20
+2	roode	I-AGENT	20
+3	daken	I-AGENT	20
+4	in	I-AGENT	20
+5	de	I-AGENT	20
+6	dorpen	I-AGENT	20
+7	en	O	-
+8	de	B-AGENT	20
+9	zwarte	I-AGENT	20
+10	boomen	I-AGENT	20
+11	en	O	-
+12	de	B-AGENT	20
+13	akkers	I-AGENT	20
+14	,	O	-
+15	veel	O	-
+16	met	O	-
+17	riet	O	-
+18	gedekt	O	-
+19	,	O	-
+20	hadden	REALIS	-
+21	het	O	-
+22	lekker	O	-
+23	warm	O	-
+24	,	O	-
+25	en	O	-
+26	de	B-AGENT	28
+27	duinen	I-AGENT	28
+28	stonden	REALIS	-
+29	in	O	-
+30	de	O	-
+31	zon	O	-
+32	met	O	-
+33	hun	O	-
+34	bloote	O	-
+35	hoofd	O	-
+36	.	O	-
+
+# 32-6
+0	En	O	-
+1	de	B-AGENT	3,16
+2	straatweg	I-AGENT	3,16
+3	lag	REALIS	-
+4	daar	O	-
+5	wit	O	-
+6	en	O	-
+7	pijnlijk	O	-
+8	in	O	-
+9	't	O	-
+10	licht	O	-
+11	en	O	-
+12	kon	O	-
+13	de	B-PATIENT	16
+14	zon	I-PATIENT	16
+15	niet	O	-
+16	verdragen	IRREALIS	-
+17	en	O	-
+18	de	B-AGENT	23
+19	ruiten	I-AGENT	23
+20	van	I-AGENT	23
+21	de	I-AGENT	23
+22	dorpslantaarns	I-AGENT	23
+23	flikkerden	REALIS	-
+24	,	O	-
+25	ook	O	-
+26	zij	B-AGENT	27
+27	verdroegen	REALIS	-
+28	met	O	-
+29	moeite	O	-
+30	't	O	-
+31	felle	O	-
+32	licht	O	-
+33	.	O	-
+
+# 32-7
+0	Maar	O	-
+1	ik	B-AGENT	2
+2	werd	REALIS	-
+3	hoe	O	-
+4	langer	O	-
+5	hoe	O	-
+6	kouder	O	-
+7	.	O	-
+
+# 32-8
+0	En	O	-
+1	zoo	O	-
+2	lang	O	-
+3	als	O	-
+4	de	B-AGENT	6
+5	zon	I-AGENT	6
+6	scheen	REALIS	-
+7	,	O	-
+8	reed	REALIS	-
+9	de	B-AGENT	8
+10	tram	I-AGENT	8
+11	.	O	-
+
+# 32-9
+0	't	O	-
+1	Is	REALIS	-
+2	een	O	-
+3	lange	O	-
+4	rit	O	-
+5	van	O	-
+6	Hillegom	O	-
+7	naar	O	-
+8	Leiden	O	-
+9	en	O	-
+10	de	O	-
+11	dag	O	-
+12	is	REALIS	-
+13	kort	O	-
+14	in	O	-
+15	December	O	-
+16	.	O	-
+
+# 32-10
+0	En	O	-
+1	op	O	-
+2	't	O	-
+3	laatst	O	-
+4	stond	REALIS	-
+5	er	O	-
+6	een	B-AGENT	4,12
+7	lijk	I-AGENT	4,12
+8	op	I-AGENT	4,12
+9	de	I-AGENT	4,12
+10	tram	I-AGENT	4,12
+11	te	O	-
+12	staren	REALIS	-
+13	in	O	-
+14	die	B-AGENT	21,54
+15	malle	I-AGENT	21,54
+16	groote	I-AGENT	21,54
+17	koude	I-AGENT	21,54
+18	zon	I-AGENT	21,54
+19	,	O	-
+20	die	O	-
+21	vlamde	REALIS	-
+22	als	O	-
+23	of	O	-
+24	de	B-AGENT	27
+25	revolutie	I-AGENT	27
+26	moest	O	-
+27	beginnen	IRREALIS	-
+28	,	O	-
+29	alsof	O	-
+30	ze	B-AGENT	34,39
+31	in	O	-
+32	Amsterdam	O	-
+33	bezig	O	-
+34	waren	IRREALIS	-
+35	de	B-PATIENT	39
+36	kantoren	I-PATIENT	39
+37	af	O	-
+38	te	O	-
+39	breken	IRREALIS	-
+40	,	O	-
+41	en	O	-
+42	die	O	-
+43	geen	O	-
+44	vonkje	O	-
+45	leven	O	-
+46	in	O	-
+47	m'n	O	-
+48	koude	O	-
+49	voeten	O	-
+50	en	O	-
+51	dooie	O	-
+52	beenen	O	-
+53	kon	O	-
+54	brengen	IRREALIS	-
+55	.	O	-
+
+# 32-11
+0	En	O	-
+1	de	B-AGENT	3
+2	zon	I-AGENT	3
+3	werd	REALIS	-
+4	steeds	O	-
+5	grooter	O	-
+6	en	O	-
+7	kouder	O	-
+8	en	O	-
+9	ik	B-AGENT	10,14
+10	werd	REALIS	-
+11	steeds	O	-
+12	kouder	O	-
+13	en	O	-
+14	bleef	REALIS	-
+15	even	O	-
+16	groot	O	-
+17	.	O	-
+
+# 32-12
+0	En	O	-
+1	de	B-AGENT	4
+2	blauwe	I-AGENT	4
+3	lucht	I-AGENT	4
+4	keek	REALIS	-
+5	vreeselijk	O	-
+6	ernstig	O	-
+7	:	O	-
+8	"	O	-
+9	Wat	O	-
+10	moest	IRREALIS	-
+11	ik	B-AGENT	10
+12	toch	O	-
+13	op	O	-
+14	die	O	-
+15	tram	O	-
+16	?	O	-
+17	"	O	-
+
+# 33-1
+0	Dien	O	-
+1	middag	O	-
+2	maakte	REALIS	-
+3	Bekker	B-AGENT	2
+4	z'n	B-PATIENT	2
+5	eerste	I-PATIENT	2
+6	gedicht	I-PATIENT	2
+7	.	O	-
+
+# 33-2
+0	En	O	-
+1	toen	O	-
+2	ik	B-AGENT	11,21
+3	met	O	-
+4	't	O	-
+5	aansteken	REALIS	-
+6	van	O	-
+7	de	O	-
+8	gaslantarens	O	-
+9	in	O	-
+10	Leiden	O	-
+11	aankwam	REALIS	-
+12	en	O	-
+13	de	B-AGENT	21,22
+14	onsterfelijken	I-AGENT	21,22
+15	naast	O	-
+16	elkaar	O	-
+17	op	O	-
+18	een	O	-
+19	lange	O	-
+20	bank	O	-
+21	vond	REALIS	-
+22	zitten	REALIS	-
+23	in	O	-
+24	de	O	-
+25	derde	O	-
+26	klas	O	-
+27	wachtkamer	O	-
+28	van	O	-
+29	't	O	-
+30	station	O	-
+31	,	O	-
+32	bij	O	-
+33	de	O	-
+34	kachel	O	-
+35	,	O	-
+36	toen	O	-
+37	moest	O	-
+38	ik	B-AGENT	42
+39	mee	O	-
+40	't	O	-
+41	gedicht	O	-
+42	ondergaan	REALIS	-
+43	.	O	-
+
+# 33-3
+0	't	-	-
+1	Was	-	-
+2	heel	-	-
+3	mooi	-	-
+4	.	-	-
+
+# 33-4
+0	Of	O	-
+1	't	B-AGENT	4
+2	geen	O	-
+3	naam	O	-
+4	had	IRREALIS	-
+5	?	O	-
+
+# 33-5
+0	Bekker	B-AGENT	1
+1	schudde	REALIS	-
+2	van	O	-
+3	nee	O	-
+4	.	O	-
+
+# 33-6
+0	Maar	O	-
+1	Bavink	B-AGENT	4,8
+2	en	I-AGENT	4,8
+3	Hoyer	I-AGENT	4,8
+4	schreeuwden	REALIS	-
+5	,	O	-
+6	dat	O	-
+7	ze	O	-
+8	gezien	REALIS	-
+9	hadden	O	-
+10	,	O	-
+11	dat	O	-
+12	er	O	-
+13	iets	B-AGENT	15
+14	boven	O	-
+15	stond	REALIS	-
+16	.	O	-
+
+# 33-7
+0	Een	-	-
+1	burgerheer	-	-
+2	zei	-	-
+3	:	-	-
+4	"	-	-
+5	Opscheppers	-	-
+6	"	-	-
+7	tegen	-	-
+8	den	-	-
+9	man	-	-
+10	,	-	-
+11	die	-	-
+12	aan	-	-
+13	de	-	-
+14	deur	-	-
+15	z'n	-	-
+16	kaartje	-	-
+17	knipte	-	-
+18	.	-	-
+
+# 33-8
+0	Bavink	B-AGENT	5
+1	had	O	-
+2	't	B-PATIENT	5
+3	papier	I-PATIENT	5
+4	te	O	-
+5	pakken	REALIS	-
+6	,	O	-
+7	Wat	O	-
+8	stond	IRREALIS	-
+9	er	O	-
+10	boven	O	-
+11	?	O	-
+
+# 33-9
+0	Natuurlijk	O	-
+1	?	O	-
+
+# 33-10
+0	"	O	-
+1	Aan	O	-
+2	haar	O	-
+3	.	O	-
+4	"	O	-
+
+# 33-11
+0	Dat	O	-
+1	had	O	-
+2	ik	B-AGENT	5
+3	zóo	O	-
+4	wel	O	-
+5	geweten	REALIS	-
+6	.	O	-
+
+# 33-12
+0	Bavink	B-AGENT	1,16
+1	vond	REALIS	-
+2	dat	O	-
+3	er	O	-
+4	een	B-AGENT	9
+5	schepje	I-AGENT	9
+6	op	O	-
+7	de	O	-
+8	kachel	O	-
+9	moest	IRREALIS	-
+10	,	O	-
+11	maar	O	-
+12	kon	O	-
+13	de	O	-
+14	kolenschep	O	-
+15	niet	O	-
+16	vinden	IRREALIS	-
+17	.	O	-
+
+# 33-13
+0	Ze	-	-
+1	nemen	-	-
+2	in	-	-
+3	die	-	-
+4	wachtkamers	-	-
+5	altijd	-	-
+6	den	-	-
+7	kolenschep	-	-
+8	mee	-	-
+9	,	-	-
+10	anders	-	-
+11	stookt	-	-
+12	't	-	-
+13	publiek	-	-
+14	te	-	-
+15	hard	-	-
+16	.	-	-
+
+# 34-1
+0	Toen	O	-
+1	gooide	REALIS	-
+2	Bavink	B-AGENT	1,12
+3	de	B-PATIENT	1
+4	steenkolen	I-PATIENT	1
+5	met	O	-
+6	z'n	O	-
+7	handen	O	-
+8	in	O	-
+9	de	O	-
+10	kachel	O	-
+11	en	O	-
+12	kreeg	REALIS	-
+13	mot	O	-
+14	met	O	-
+15	een	O	-
+16	kerel	O	-
+17	met	O	-
+18	een	O	-
+19	witte	O	-
+20	kiel	O	-
+21	aan	O	-
+22	.	O	-
+
+# 35-1
+0	't	O	-
+1	Was	REALIS	-
+2	heel	O	-
+3	lollig	O	-
+4	dien	O	-
+5	avond	O	-
+6	.	O	-
+
+# 35-2
+0	In	O	-
+1	den	O	-
+2	trein	O	-
+3	vielen	REALIS	-
+4	Kees	B-AGENT	3
+5	en	O	-
+6	Hoyer	B-AGENT	3
+7	in	O	-
+8	slaap	O	-
+9	.	O	-
+
+# 35-3
+0	Bavink	B-AGENT	1,3,15
+1	zat	REALIS	-
+2	te	O	-
+3	praten	REALIS	-
+4	met	O	-
+5	een	B-AGENT	20
+6	Haagsch	I-AGENT	20
+7	juffertje	I-AGENT	20
+8	en	O	-
+9	de	B-PATIENT	15
+10	lucht	I-PATIENT	15
+11	van	I-PATIENT	15
+12	heliotroop	I-PATIENT	15
+13	op	O	-
+14	te	O	-
+15	snuiven	REALIS	-
+16	die	O	-
+17	haar	B-PATIENT	20
+18	lieve	I-PATIENT	20
+19	leden	I-PATIENT	20
+20	ontsteeg	REALIS	-
+21	.	O	-
+
+# 35-4
+0	Toen	O	-
+1	begon	REALIS	-
+2	Bekker	B-AGENT	1,8
+3	weer	O	-
+4	over	O	-
+5	de	O	-
+6	hei	O	-
+7	te	O	-
+8	praten	REALIS	-
+9	.	O	-
+
+# 35-5
+0	Daar	O	-
+1	wilde	O	-
+2	-ie	B-AGENT	4,7
+3	stilletjes	O	-
+4	wonen	IRREALIS	-
+5	en	O	-
+6	maar	O	-
+7	afwachten	REALIS	-
+8	wat	O	-
+9	God	B-AGENT	12
+10	met	O	-
+11	'm	O	-
+12	voorhad	REALIS	-
+13	.	O	-
+
+# 35-6
+0	Doen	O	-
+1	kon	IRREALIS	-
+2	je	B-AGENT	1
+3	niks	O	-
+4	.	O	-
+
+# 35-7
+0	Hij	B-AGENT	1
+1	was	REALIS	-
+2	erg	O	-
+3	weemoedig	O	-
+4	.	O	-
+
+# 35-8
+0	Ik	B-AGENT	1
+1	had	REALIS	-
+2	bezwaar	O	-
+3	tegen	O	-
+4	die	O	-
+5	hei	O	-
+6	:	O	-
+7	't	O	-
+8	is	REALIS	-
+9	er	B-AGENT	8
+10	zoo	O	-
+11	droog	O	-
+12	.	O	-
+
+# 35-9
+0	En	O	-
+1	ik	B-AGENT	2
+2	vroeg	REALIS	-
+3	Bekker	B-PATIENT	2,8
+4	waar	O	-
+5	-ie	O	-
+6	van	O	-
+7	leven	O	-
+8	wilde	IRREALIS	-
+9	,	O	-
+10	dat	O	-
+11	boeren	O	-
+12	van	O	-
+13	kantoorheeren	O	-
+14	lukt	IRREALIS	-
+15	gemeenlijk	O	-
+16	niet	O	-
+17	al	O	-
+18	te	O	-
+19	best	O	-
+20	,	O	-
+21	behalve	O	-
+22	in	O	-
+23	Amerika	O	-
+24	,	O	-
+25	waar	O	-
+26	allerlei	O	-
+27	leugens	O	-
+28	van	O	-
+29	geloofd	REALIS	-
+30	worden	O	-
+31	.	O	-
+
+# 35-10
+0	Maar	-	-
+1	hij	-	-
+2	maakte	-	-
+3	zich	-	-
+4	daarover	-	-
+5	geen	-	-
+6	zorg	-	-
+7	.	-	-
+
+# 35-11
+0	Hij	B-AGENT	1
+1	had	IRREALIS	-
+2	niks	O	-
+3	noodig	O	-
+4	.	O	-
+
+# 36-1
+0	Nu	O	-
+1	weet	REALIS	-
+2	hij	B-AGENT	1
+3	beter	O	-
+4	.	O	-
+
+# 36-2
+0	God	-	-
+1	alleen	-	-
+2	heeft	-	-
+3	niks	-	-
+4	noodig	-	-
+5	.	-	-
+
+# 36-3
+0	En	-	-
+1	dat	-	-
+2	is	-	-
+3	nu	-	-
+4	juist	-	-
+5	't	-	-
+6	groote	-	-
+7	verschil	-	-
+8	tusschen	-	-
+9	God	-	-
+10	en	-	-
+11	ons	-	-
+12	.	-	-
+
+# 37-1
+0	Er	O	-
+1	is	O	-
+2	dan	O	-
+3	ook	O	-
+4	niks	O	-
+5	van	O	-
+6	gekomen	IRREALIS	-
+7	van	O	-
+8	die	O	-
+9	hei	O	-
+10	.	O	-
+
+# 38-1
+0	VII	O	-
+1	.	O	-
+
+# 39-1
+0	Wij	B-AGENT	1,19
+1	zaten	REALIS	-
+2	met	O	-
+3	z'n	O	-
+4	vieren	O	-
+5	bij	O	-
+6	Zandvoort	O	-
+7	in	O	-
+8	't	O	-
+9	fijne	O	-
+10	witte	O	-
+11	zand	O	-
+12	aan	O	-
+13	den	O	-
+14	voet	O	-
+15	van	O	-
+16	't	O	-
+17	duin	O	-
+18	en	O	-
+19	keken	REALIS	-
+20	naar	O	-
+21	zee	O	-
+22	.	O	-
+
+# 39-2
+0	Kees	-	-
+1	was	-	-
+2	er	-	-
+3	niet	-	-
+4	bij	-	-
+5	.	-	-
+
+# 39-3
+0	't	O	-
+1	Was	REALIS	-
+2	in	O	-
+3	't	O	-
+4	laatst	O	-
+5	van	O	-
+6	Juli	O	-
+7	.	O	-
+
+# 39-4
+0	Om	O	-
+1	zeven	O	-
+2	uur	O	-
+3	stond	REALIS	-
+4	de	B-AGENT	3
+5	zon	I-AGENT	3
+6	nog	O	-
+7	hoog	O	-
+8	boven	O	-
+9	de	O	-
+10	zee	O	-
+11	,	O	-
+12	maakte	REALIS	-
+13	,	O	-
+14	alweer	O	-
+15	,	O	-
+16	ik	B-AGENT	20
+17	kan	O	-
+18	't	O	-
+19	niet	O	-
+20	helpen	IRREALIS	-
+21	,	O	-
+22	't	O	-
+23	is	REALIS	-
+24	God	B-AGENT	30,32
+25	zelf	O	-
+26	die	O	-
+27	steeds	O	-
+28	in	O	-
+29	herhalingen	O	-
+30	vervalt	REALIS	-
+31	,	O	-
+32	maakte	REALIS	-
+33	alweer	O	-
+34	een	B-PATIENT	32
+35	lange	I-PATIENT	32
+36	gouden	I-PATIENT	32
+37	streep	I-PATIENT	32
+38	op	I-PATIENT	32
+39	't	I-PATIENT	32
+40	water	I-PATIENT	32
+41	en	I-PATIENT	32
+42	scheen	I-PATIENT	32
+43	op	I-PATIENT	32
+44	onze	I-PATIENT	32
+45	gelaten	I-PATIENT	32
+46	.	O	-
+
+# 40-1
+0	Aan	O	-
+1	den	O	-
+2	gezichtseinder	O	-
+3	voer	REALIS	-
+4	een	B-AGENT	3,7,9,13
+5	sleepboot	I-AGENT	3,7,9,13
+6	en	O	-
+7	rees	REALIS	-
+8	en	O	-
+9	daalde	REALIS	-
+10	;	O	-
+11	als	O	-
+12	-ie	O	-
+13	daalde	IRREALIS	-
+14	zag	REALIS	-
+15	je	B-AGENT	14
+16	enkel	O	-
+17	de	O	-
+18	stoompijp	O	-
+19	.	O	-
+
+# 41-1
+0	Bekker	B-AGENT	7
+1	zou	O	-
+2	den	O	-
+3	volgenden	O	-
+4	dag	O	-
+5	naar	O	-
+6	Duitschland	O	-
+7	gaan	IRREALIS	-
+8	.	O	-
+
+# 41-2
+0	Door	-	-
+1	zijn	-	-
+2	groote	-	-
+3	talenkennis	-	-
+4	had	-	-
+5	-ie	-	-
+6	een	-	-
+7	betrekking	-	-
+8	gekregen	-	-
+9	als	-	-
+10	correspondent	-	-
+11	op	-	-
+12	een	-	-
+13	fabriek	-	-
+14	.	-	-
+
+# 41-3
+0	En	-	-
+1	Hoyer	-	-
+2	ging	-	-
+3	naar	-	-
+4	Parijs	-	-
+5	,	-	-
+6	schilderen	-	-
+7	.	-	-
+
+# 42-1
+0	Bekker	B-AGENT	2
+1	vooral	O	-
+2	was	REALIS	-
+3	weer	O	-
+4	erg	O	-
+5	weemoedig	O	-
+6	.	O	-
+
+# 42-2
+0	Hij	B-AGENT	1,8
+1	wou	REALIS	-
+2	dat	O	-
+3	-ie	O	-
+4	dat	O	-
+5	baantje	O	-
+6	maar	O	-
+7	niet	O	-
+8	aangenomen	IRREALIS	-
+9	had	O	-
+10	.	O	-
+
+# 42-3
+0	Hij	B-AGENT	1
+1	begreep	REALIS	-
+2	niet	O	-
+3	goed	O	-
+4	meer	O	-
+5	waarom	O	-
+6	-ie	B-AGENT	8
+7	't	O	-
+8	gedaan	REALIS	-
+9	had	O	-
+10	.	O	-
+
+# 42-4
+0	Twee	O	-
+1	uur	O	-
+2	was	O	-
+3	-ie	B-AGENT	8,13
+4	in	O	-
+5	dat	O	-
+6	ellendige	O	-
+7	fabrieksstadje	O	-
+8	geweest	REALIS	-
+9	om	O	-
+10	zich	O	-
+11	voor	O	-
+12	te	O	-
+13	stellen	REALIS	-
+14	.	O	-
+
+# 42-5
+0	Ziek	O	-
+1	was	O	-
+2	-ie	B-AGENT	4
+3	er	O	-
+4	geworden	REALIS	-
+5	,	O	-
+6	heimwee	O	-
+7	had	O	-
+8	-ie	B-AGENT	10
+9	er	O	-
+10	gekregen	REALIS	-
+11	.	O	-
+
+# 42-6
+0	Zoo	O	-
+1	gauw	O	-
+2	mogelijk	O	-
+3	was	O	-
+4	-ie	B-AGENT	8
+5	naar	O	-
+6	't	O	-
+7	station	O	-
+8	gevlucht	REALIS	-
+9	.	O	-
+
+# 42-7
+0	Daar	O	-
+1	lagen	REALIS	-
+2	gelukkig	O	-
+3	de	B-AGENT	1
+4	rails	I-AGENT	1
+5	nog	O	-
+6	,	O	-
+7	onafzienbaar	O	-
+8	,	O	-
+9	recht	O	-
+10	,	O	-
+11	tot	O	-
+12	aan	O	-
+13	den	O	-
+14	horizon	O	-
+15	,	O	-
+16	de	O	-
+17	weg	O	-
+18	naar	O	-
+19	Amsterdam	O	-
+20	.	O	-
+
+# 42-8
+0	En	O	-
+1	zijn	B-PATIENT	8
+2	biljet	I-PATIENT	8
+3	had	O	-
+4	-ie	B-AGENT	8
+5	voor	O	-
+6	den	O	-
+7	dag	O	-
+8	gehaald	REALIS	-
+9	.	O	-
+
+# 42-9
+0	En	O	-
+1	er	B-PATIENT	5
+2	had	O	-
+3	nog	O	-
+4	duidelijk	O	-
+5	opgestaan	REALIS	-
+6	:	O	-
+7	"	O	-
+8	nach	O	-
+9	Amsterdam	O	-
+10	"	O	-
+11	.	O	-
+
+# 42-10
+0	En	O	-
+1	op	O	-
+2	tijd	O	-
+3	was	O	-
+4	de	B-AGENT	6,15
+5	trein	I-AGENT	6,15
+6	gekomen	REALIS	-
+7	en	O	-
+8	had	O	-
+9	'm	B-PATIENT	15
+10	over	O	-
+11	de	O	-
+12	rails	O	-
+13	naar	O	-
+14	huis	O	-
+15	gereden	REALIS	-
+16	.	O	-
+
+# 42-11
+0	En	O	-
+1	toen	O	-
+2	-ie	B-AGENT	8
+3	aan	O	-
+4	't	O	-
+5	Centraal	O	-
+6	station	O	-
+7	was	O	-
+8	afgestapt	REALIS	-
+9	,	O	-
+10	toen	O	-
+11	had	O	-
+12	-ie	B-AGENT	20,28,40,42
+13	in	O	-
+14	de	O	-
+15	volheid	O	-
+16	zijns	O	-
+17	gemoeds	O	-
+18	een	B-PATIENT	20
+19	praatje	I-PATIENT	20
+20	gemaakt	REALIS	-
+21	met	O	-
+22	den	O	-
+23	machinist	O	-
+24	en	O	-
+25	hem	O	-
+26	een	B-PATIENT	28
+27	sigaar	I-PATIENT	28
+28	gegeven	REALIS	-
+29	,	O	-
+30	een	O	-
+31	dure	O	-
+32	,	O	-
+33	en	O	-
+34	even	O	-
+35	de	B-PATIENT	40
+36	locomotief	I-PATIENT	40
+37	met	O	-
+38	z'n	O	-
+39	hand	O	-
+40	aangeraakt	REALIS	-
+41	en	O	-
+42	gedacht	REALIS	-
+43	:	O	-
+44	"	O	-
+45	aai	IRREALIS	-
+46	locomotief	O	-
+47	"	O	-
+48	.	O	-
+
+# 42-12
+0	En	O	-
+1	toch	O	-
+2	had	O	-
+3	-ie	B-AGENT	6
+4	dat	B-PATIENT	6
+5	baantje	I-PATIENT	6
+6	aangenomen	REALIS	-
+7	.	O	-
+
+# 42-13
+0	't	O	-
+1	Gaf	IRREALIS	-
+2	een	O	-
+3	boel	O	-
+4	meer	O	-
+5	dan	O	-
+6	-ie	B-AGENT	8
+7	hier	O	-
+8	verdiende	REALIS	-
+9	.	O	-
+
+# 42-14
+0	En	O	-
+1	nu	O	-
+2	moest	O	-
+3	-ie	B-AGENT	4,11
+4	weg	IRREALIS	-
+5	en	O	-
+6	zou	O	-
+7	den	O	-
+8	Ringdijk	O	-
+9	niet	O	-
+10	meer	O	-
+11	zien	IRREALIS	-
+12	.	O	-
+
+# 42-15
+0	En	O	-
+1	al	O	-
+2	dien	O	-
+3	tijd	O	-
+4	zouden	O	-
+5	die	B-AGENT	8
+6	rails	I-AGENT	8
+7	daar	O	-
+8	liggen	IRREALIS	-
+9	,	O	-
+10	maar	O	-
+11	hij	B-AGENT	19,23,27
+12	zou	O	-
+13	hoogstens	O	-
+14	daarginds	O	-
+15	op	O	-
+16	't	O	-
+17	perron	O	-
+18	kunnen	O	-
+19	staan	IRREALIS	-
+20	en	O	-
+21	er	O	-
+22	naar	O	-
+23	kijken	IRREALIS	-
+24	en	O	-
+25	de	B-AGENT	28
+26	treinen	I-AGENT	28
+27	zien	IRREALIS	-
+28	vertrekken	IRREALIS	-
+29	,	O	-
+30	's	O	-
+31	avonds	O	-
+32	,	O	-
+33	en	O	-
+34	's	O	-
+35	Zondags	O	-
+36	den	O	-
+37	geheelen	O	-
+38	dag	O	-
+39	,	O	-
+40	vele	O	-
+41	malen	O	-
+42	.	O	-
+
+# 43-1
+0	Nu	O	-
+1	was	REALIS	-
+2	de	B-AGENT	1
+3	zon	I-AGENT	1
+4	lager	O	-
+5	en	O	-
+6	rood	O	-
+7	,	O	-
+8	de	B-AGENT	11
+9	gouden	I-AGENT	11
+10	streep	I-AGENT	11
+11	was	IRREALIS	-
+12	weg	O	-
+13	.	O	-
+
+# 43-2
+0	't	O	-
+1	Was	REALIS	-
+2	een	O	-
+3	warme	O	-
+4	,	O	-
+5	stille	O	-
+6	avond	O	-
+7	.	O	-
+
+# 43-3
+0	Het	B-AGENT	3
+1	roode	I-AGENT	3
+2	water	I-AGENT	3
+3	rimpelde	REALIS	-
+4	wat	O	-
+5	,	O	-
+6	de	B-AGENT	8,11
+7	branding	I-AGENT	8,11
+8	rolde	REALIS	-
+9	langzaam	O	-
+10	en	O	-
+11	ruischte	REALIS	-
+12	maar	O	-
+13	zacht	O	-
+14	.	O	-
+
+# 44-1
+0	Bekker	B-AGENT	1,8,10,16
+1	had	REALIS	-
+2	een	O	-
+3	theorie	O	-
+4	,	O	-
+5	dat	O	-
+6	-ie	O	-
+7	zou	O	-
+8	sparen	IRREALIS	-
+9	en	O	-
+10	terugkomen	IRREALIS	-
+11	en	O	-
+12	op	O	-
+13	de	O	-
+14	hei	O	-
+15	gaan	O	-
+16	wonen	IRREALIS	-
+17	.	O	-
+
+# 44-2
+0	Maar	O	-
+1	hij	B-AGENT	2
+2	geloofde	IRREALIS	-
+3	er	O	-
+4	zelf	O	-
+5	niet	O	-
+6	aan	O	-
+7	in	O	-
+8	zijn	O	-
+9	hart	O	-
+10	.	O	-
+
+# 44-3
+0	En	O	-
+1	wij	B-AGENT	2,5
+2	probeerden	REALIS	-
+3	't	O	-
+4	te	O	-
+5	gelooven	IRREALIS	-
+6	,	O	-
+7	zelfs	O	-
+8	Hoyer	B-AGENT	9
+9	probeerde	REALIS	-
+10	't	O	-
+11	en	O	-
+12	wij	B-AGENT	13
+13	overtuigden	REALIS	-
+14	ons	O	-
+15	zelf	O	-
+16	dat	O	-
+17	't	O	-
+18	zoo	O	-
+19	gaan	IRREALIS	-
+20	zou	O	-
+21	,	O	-
+22	maar	O	-
+23	wij	B-AGENT	24
+24	geloofden	IRREALIS	-
+25	't	O	-
+26	niet	O	-
+27	.	O	-
+
+# 44-4
+0	En	O	-
+1	't	O	-
+2	is	O	-
+3	ook	O	-
+4	zoo	O	-
+5	niet	O	-
+6	gegaan	IRREALIS	-
+7	.	O	-
+
+# 44-5
+0	Na	O	-
+1	een	O	-
+2	jaar	O	-
+3	is	O	-
+4	Bekker	B-AGENT	5
+5	teruggekomen	REALIS	-
+6	.	O	-
+
+# 44-6
+0	Hij	B-AGENT	6,8
+1	had	O	-
+2	een	B-PATIENT	6
+3	paar	I-PATIENT	6
+4	honderd	I-PATIENT	6
+5	gulden	I-PATIENT	6
+6	overgehouden	REALIS	-
+7	en	O	-
+8	liep	REALIS	-
+9	weer	O	-
+10	iederen	O	-
+11	morgen	O	-
+12	om	O	-
+13	half	O	-
+14	negen	O	-
+15	in	O	-
+16	de	O	-
+17	Linnaeusstraat	O	-
+18	met	O	-
+19	z'n	O	-
+20	brood	O	-
+21	in	O	-
+22	een	O	-
+23	zeiltje	O	-
+24	.	O	-
+
+# 44-7
+0	Een	B-AGENT	2
+1	mensch	I-AGENT	2
+2	heeft	REALIS	-
+3	veel	O	-
+4	noodig	O	-
+5	.	O	-
+
+# 45-1
+0	Maar	O	-
+1	dien	O	-
+2	avond	O	-
+3	dachten	IRREALIS	-
+4	wij	B-AGENT	3
+5	niet	O	-
+6	aan	O	-
+7	zeiltjes	O	-
+8	met	O	-
+9	brood	O	-
+10	.	O	-
+
+# 45-2
+0	Wij	B-AGENT	1,7
+1	deden	REALIS	-
+2	erg	O	-
+3	ons	O	-
+4	best	O	-
+5	om	O	-
+6	te	O	-
+7	gelooven	IRREALIS	-
+8	,	O	-
+9	dat	O	-
+10	wij	B-AGENT	18
+11	er	O	-
+12	nog	O	-
+13	heel	O	-
+14	wat	O	-
+15	van	O	-
+16	terecht	O	-
+17	zouden	O	-
+18	brengen	IRREALIS	-
+19	.	O	-
+
+# 45-3
+0	Verbazen	IRREALIS	-
+1	zouden	O	-
+2	wij	B-AGENT	0
+3	de	B-PATIENT	0
+4	wereld	I-PATIENT	0
+5	,	O	-
+6	zoo	O	-
+7	kalm	O	-
+8	en	O	-
+9	onaanzienlijk	O	-
+10	als	O	-
+11	wij	B-AGENT	13
+12	daar	O	-
+13	zaten	REALIS	-
+14	met	O	-
+15	opgetrokken	O	-
+16	beenen	O	-
+17	en	O	-
+18	onze	O	-
+19	acht	O	-
+20	handen	O	-
+21	om	O	-
+22	onze	O	-
+23	knieën	O	-
+24	.	O	-
+
+# 45-4
+0	Hoyer	B-AGENT	3,8
+1	had	O	-
+2	zich	O	-
+3	voorgenomen	REALIS	-
+4	allerlei	B-PATIENT	8
+5	gemeene	I-PATIENT	8
+6	dingen	I-PATIENT	8
+7	te	O	-
+8	schilderen	IRREALIS	-
+9	.	O	-
+
+# 45-5
+0	In	O	-
+1	een	O	-
+2	tijdschrift	O	-
+3	had	O	-
+4	-ie	B-AGENT	7
+5	een	O	-
+6	artikel	O	-
+7	gelezen	REALIS	-
+8	over	O	-
+9	de	O	-
+10	sociale	O	-
+11	taak	O	-
+12	van	O	-
+13	den	O	-
+14	kunstenaar	O	-
+15	,	O	-
+16	hij	B-AGENT	17
+17	was	REALIS	-
+18	er	O	-
+19	nu	O	-
+20	achter	O	-
+21	.	O	-
+
+# 45-6
+0	Hij	B-AGENT	1
+1	begon	REALIS	-
+2	een	O	-
+3	dispuut	O	-
+4	met	O	-
+5	Bekker	O	-
+6	over	O	-
+7	de	O	-
+8	hei	O	-
+9	.	O	-
+
+# 45-7
+0	Het	O	-
+1	was	O	-
+2	mirakel	O	-
+3	geleerd	REALIS	-
+4	.	O	-
+
+# 45-8
+0	Hij	B-AGENT	1,4
+1	probeerde	REALIS	-
+2	Bekker	B-PATIENT	4,13,22,31
+3	te	O	-
+4	overtuigen	IRREALIS	-
+5	,	O	-
+6	dat	O	-
+7	't	O	-
+8	verkeerd	O	-
+9	was	REALIS	-
+10	zich	O	-
+11	af	O	-
+12	te	O	-
+13	zonderen	REALIS	-
+14	van	O	-
+15	de	O	-
+16	wereld	O	-
+17	en	O	-
+18	naar	O	-
+19	die	B-PATIENT	22
+20	hei	I-PATIENT	22
+21	te	O	-
+22	gaan	REALIS	-
+23	,	O	-
+24	waar	O	-
+25	-ie	O	-
+26	toch	O	-
+27	nooit	O	-
+28	naar	O	-
+29	toe	O	-
+30	zou	O	-
+31	gaan	IRREALIS	-
+32	.	O	-
+
+# 45-9
+0	Een	B-AGENT	2,4
+1	kunstenaar	I-AGENT	2,4
+2	behoort	REALIS	-
+3	te	O	-
+4	staan	REALIS	-
+5	midden	O	-
+6	in	O	-
+7	't	O	-
+8	moderne	O	-
+9	leven	O	-
+10	.	O	-
+
+# 45-10
+0	Van	-	-
+1	mij	-	-
+2	wilde	-	-
+3	Hoyer	-	-
+4	weten	-	-
+5	hoe	-	-
+6	ik	-	-
+7	er	-	-
+8	over	-	-
+9	dacht	-	-
+10	.	-	-
+
+# 45-11
+0	Ik	B-AGENT	1
+1	zei	REALIS	-
+2	maar	O	-
+3	,	O	-
+4	dat	O	-
+5	ik	B-AGENT	9
+6	er	O	-
+7	nooit	O	-
+8	over	O	-
+9	gedacht	IRREALIS	-
+10	had	O	-
+11	.	O	-
+
+# 45-12
+0	Ik	-	-
+1	begreep	-	-
+2	ook	-	-
+3	niet	-	-
+4	wat	-	-
+5	-ie	-	-
+6	wilde	-	-
+7	,	-	-
+8	hij	-	-
+9	wist	-	-
+10	't	-	-
+11	immers	-	-
+12	,	-	-
+13	waarom	-	-
+14	moest	-	-
+15	-ie	-	-
+16	nu	-	-
+17	nog	-	-
+18	weten	-	-
+19	hoe	-	-
+20	ik	-	-
+21	er	-	-
+22	over	-	-
+23	dacht	-	-
+24	.	-	-
+
+# 45-13
+0	Alleen	O	-
+1	Bavink	B-AGENT	2,6,14
+2	zei	IRREALIS	-
+3	niets	O	-
+4	,	O	-
+5	hij	O	-
+6	zat	REALIS	-
+7	met	O	-
+8	z'n	O	-
+9	kin	O	-
+10	op	O	-
+11	z'n	O	-
+12	knieën	O	-
+13	en	O	-
+14	ontving	REALIS	-
+15	de	B-PATIENT	14
+16	zon	I-PATIENT	14
+17	in	O	-
+18	z'n	O	-
+19	hart	O	-
+20	.	O	-
+
+# 45-14
+0	De	B-AGENT	2
+1	zon	I-AGENT	2
+2	was	REALIS	-
+3	nu	O	-
+4	zoo	O	-
+5	plat	O	-
+6	als	O	-
+7	een	O	-
+8	suikerboon	O	-
+9	en	O	-
+10	dof	O	-
+11	rood	O	-
+12	,	O	-
+13	hij	B-AGENT	14
+14	was	REALIS	-
+15	bijna	O	-
+16	weg	O	-
+17	.	O	-
+
+# 46-1
+0	Hoyer	B-AGENT	6
+1	kon	O	-
+2	er	O	-
+3	niet	O	-
+4	bij	O	-
+5	blijven	O	-
+6	zitten	IRREALIS	-
+7	.	O	-
+
+# 46-2
+0	Hij	B-AGENT	1,4
+1	sprong	REALIS	-
+2	op	O	-
+3	en	O	-
+4	nam	REALIS	-
+5	Bekker	B-PATIENT	4
+6	mee	O	-
+7	.	O	-
+
+# 46-3
+0	Zij	B-AGENT	1
+1	wandelden	REALIS	-
+2	langs	O	-
+3	't	O	-
+4	strand	O	-
+5	,	O	-
+6	in	O	-
+7	de	O	-
+8	verte	O	-
+9	hoorde	REALIS	-
+10	we	B-AGENT	9
+11	Hoyer	B-AGENT	12
+12	schreeuwen	REALIS	-
+13	,	O	-
+14	blijkbaar	O	-
+15	wond	REALIS	-
+16	-ie	B-AGENT	15
+17	zich	O	-
+18	op	O	-
+19	.	O	-
+
+# 46-4
+0	Bavink	B-AGENT	3,6,9
+1	en	I-AGENT	3,6,9
+2	ik	I-AGENT	3,6,9
+3	bleven	REALIS	-
+4	nog	O	-
+5	even	O	-
+6	zitten	REALIS	-
+7	,	O	-
+8	toen	O	-
+9	drentelden	REALIS	-
+10	wij	O	-
+11	zachtjes	O	-
+12	achter	O	-
+13	hen	O	-
+14	aan	O	-
+15	.	O	-
+
+# 46-5
+0	't	-	-
+1	Leek	-	-
+2	me	-	-
+3	niets	-	-
+4	leuk	-	-
+5	een	-	-
+6	levensbeschouwing	-	-
+7	te	-	-
+8	hebben	-	-
+9	,	-	-
+10	Hoyer	-	-
+11	schreeuwde	-	-
+12	zoo	-	-
+13	.	-	-
+
+# 46-6
+0	Bavink	B-AGENT	3,6
+1	en	I-AGENT	3,6
+2	ik	I-AGENT	3,6
+3	stonden	REALIS	-
+4	stil	O	-
+5	en	O	-
+6	keken	REALIS	-
+7	naar	O	-
+8	de	O	-
+9	punten	O	-
+10	van	O	-
+11	onze	O	-
+12	schoenen	O	-
+13	en	O	-
+14	naar	O	-
+15	't	O	-
+16	aanrollen	REALIS	-
+17	van	O	-
+18	de	B-AGENT	16
+19	verloopende	I-AGENT	16
+20	golven	I-AGENT	16
+21	.	O	-
+
+# 46-7
+0	De	B-AGENT	2
+1	zon	I-AGENT	2
+2	was	REALIS	-
+3	weg	O	-
+4	,	O	-
+5	de	B-AGENT	11,13
+6	roode	I-AGENT	11,13
+7	schijn	I-AGENT	11,13
+8	op	I-AGENT	11,13
+9	't	I-AGENT	11,13
+10	water	I-AGENT	11,13
+11	begon	REALIS	-
+12	te	O	-
+13	verbleken	REALIS	-
+14	,	O	-
+15	in	O	-
+16	't	O	-
+17	zuiden	O	-
+18	klom	REALIS	-
+19	een	B-AGENT	18
+20	blauwige	I-AGENT	18
+21	duisternis	I-AGENT	18
+22	.	O	-
+
+# 46-8
+0	Er	O	-
+1	was	REALIS	-
+2	een	O	-
+3	geur	O	-
+4	van	O	-
+5	modder	O	-
+6	.	O	-
+
+# 46-9
+0	In	O	-
+1	de	O	-
+2	verte	O	-
+3	,	O	-
+4	bij	O	-
+5	't	O	-
+6	dorp	O	-
+7	,	O	-
+8	gingen	REALIS	-
+9	plotseling	O	-
+10	de	B-AGENT	8
+11	booglampen	I-AGENT	8
+12	aan	O	-
+13	bij	O	-
+14	't	O	-
+15	strand	O	-
+16	.	O	-
+
+# 46-10
+0	"	O	-
+1	Begrijp	IRREALIS	-
+2	jij	B-AGENT	1
+3	dat	O	-
+4	,	O	-
+5	"	O	-
+6	vroeg	REALIS	-
+7	Bavink	B-AGENT	6
+8	,	O	-
+9	"	O	-
+10	van	O	-
+11	die	O	-
+12	sociale	O	-
+13	taak	O	-
+14	?	O	-
+15	"	O	-
+
+# 47-1
+0	Ik	-	-
+1	haalde	-	-
+2	m'n	-	-
+3	schouders	-	-
+4	op	-	-
+5	.	-	-
+
+# 47-2
+0	"	O	-
+1	Wat	O	-
+2	zou	O	-
+3	dat	O	-
+4	voor	O	-
+5	'n	O	-
+6	vent	O	-
+7	zijn	IRREALIS	-
+8	,	O	-
+9	die	B-AGENT	12
+10	dat	B-PATIENT	12
+11	artikel	I-PATIENT	12
+12	geschreven	IRREALIS	-
+13	heeft	O	-
+14	?	O	-
+
+# 47-3
+0	Heb	-	-
+1	jij	-	-
+2	verantwoordelijkheidsgevoel	-	-
+3	,	-	-
+4	Koekebakker	-	-
+5	?	-	-
+6	"	-	-
+
+# 47-4
+0	Daar	-	-
+1	had	-	-
+2	Hoyer	-	-
+3	't	-	-
+4	ook	-	-
+5	over	-	-
+6	gehad	-	-
+7	.	-	-
+
+# 48-1
+0	"	O	-
+1	Hoyer	B-AGENT	2
+2	praat	REALIS	-
+3	machtig	O	-
+4	mooi	O	-
+5	,	O	-
+6	"	O	-
+7	zei	REALIS	-
+8	Bavink	B-AGENT	7
+9	.	O	-
+
+# 48-2
+0	"	O	-
+1	Machtig	O	-
+2	mooi	O	-
+3	.	O	-
+
+# 48-3
+0	Ik	B-AGENT	1
+1	heb	IRREALIS	-
+2	geen	O	-
+3	verantwoordelijkheidsgevoel	O	-
+4	.	O	-
+
+# 48-4
+0	Ik	B-AGENT	6
+1	kan	O	-
+2	me	O	-
+3	daar	O	-
+4	niet	O	-
+5	mee	O	-
+6	ophouden	IRREALIS	-
+7	.	O	-
+
+# 48-5
+0	Ik	B-AGENT	2
+1	moet	O	-
+2	schilderen	IRREALIS	-
+3	.	O	-
+
+# 48-6
+0	Een	O	-
+1	lolletje	O	-
+2	is	IRREALIS	-
+3	't	O	-
+4	niet	O	-
+5	.	O	-
+
+# 48-7
+0	Wat	O	-
+1	zei	IRREALIS	-
+2	-ie	O	-
+3	ook	O	-
+4	weer	O	-
+5	?	O	-
+6	"	O	-
+
+# 48-8
+0	"	O	-
+1	Wie	O	-
+2	?	O	-
+3	"	O	-
+4	vroeg	REALIS	-
+5	ik	B-AGENT	4
+6	.	O	-
+
+# 48-9
+0	"	O	-
+1	Die	B-AGENT	8
+2	vent	I-AGENT	8
+3	in	I-AGENT	8
+4	dat	I-AGENT	8
+5	boek	I-AGENT	8
+6	,	O	-
+7	wat	O	-
+8	zei	IRREALIS	-
+9	-ie	O	-
+10	ook	O	-
+11	weer	O	-
+12	dat	O	-
+13	kunstenaars	O	-
+14	waren	IRREALIS	-
+15	?	O	-
+16	"	O	-
+
+# 48-10
+0	"	O	-
+1	Gebenedijden	IRREALIS	-
+2	,	O	-
+3	Bavink	B-AGENT	1
+4	.	O	-
+5	"	O	-
+
+# 48-11
+0	"	O	-
+1	Weet	IRREALIS	-
+2	je	O	-
+3	wat	O	-
+4	ik	O	-
+5	denk	O	-
+6	,	O	-
+7	Koekebakker	B-AGENT	1
+8	?	O	-
+
+# 48-12
+0	Dat	O	-
+1	't	O	-
+2	dezelfde	B-AGENT	9
+3	vent	I-AGENT	9
+4	is	REALIS	-
+5	,	O	-
+6	die	O	-
+7	de	O	-
+8	spoorboekjes	O	-
+9	gemaakt	REALIS	-
+10	heeft	O	-
+11	.	O	-
+
+# 48-13
+0	Daar	O	-
+1	heb	O	-
+2	ik	B-AGENT	7
+3	ook	O	-
+4	nooit	O	-
+5	iets	O	-
+6	van	O	-
+7	begrepen	IRREALIS	-
+8	,	O	-
+9	hoe	O	-
+10	iemand	O	-
+11	dat	O	-
+12	kon	REALIS	-
+13	.	O	-
+
+# 48-14
+0	Gebenedijden	O	-
+1	...	O	-
+
+# 48-15
+0	God	B-AGENT	1
+1	is	IRREALIS	-
+2	overal	O	-
+3	?	O	-
+
+# 48-16
+0	Of	-	-
+1	niet	-	-
+2	,	-	-
+3	Koekebakker	-	-
+4	?	-	-
+
+# 48-17
+0	Dat	-	-
+1	zeggen	-	-
+2	ze	-	-
+3	toch	-	-
+4	?	-	-
+5	"	-	-
+
+# 49-1
+0	Ik	B-AGENT	1
+1	knikte	REALIS	-
+2	.	O	-
+
+# 49-2
+0	De	B-AGENT	2,9
+1	duisternis	I-AGENT	2,9
+2	begon	REALIS	-
+3	nu	O	-
+4	overal	O	-
+5	uit	O	-
+6	't	O	-
+7	water	O	-
+8	te	O	-
+9	klimmen	REALIS	-
+10	,	O	-
+11	in	O	-
+12	't	O	-
+13	noordwesten	O	-
+14	hield	REALIS	-
+15	de	B-AGENT	14
+16	kim	I-AGENT	14
+17	nog	O	-
+18	wat	O	-
+19	gelige	O	-
+20	en	O	-
+21	groenige	O	-
+22	gloed	O	-
+23	,	O	-
+24	boven	O	-
+25	onze	O	-
+26	hoofden	O	-
+27	trok	REALIS	-
+28	't	B-AGENT	27
+29	laatste	I-AGENT	27
+30	licht	I-AGENT	27
+31	weg	O	-
+32	.	O	-
+
+# 49-3
+0	Wolken	B-AGENT	1
+1	waren	IRREALIS	-
+2	er	O	-
+3	niet	O	-
+4	.	O	-
+
+# 49-4
+0	"	O	-
+1	Dus	O	-
+2	hij	B-AGENT	3
+3	is	REALIS	-
+4	overal	O	-
+5	,	O	-
+6	"	O	-
+7	zei	REALIS	-
+8	Bavink	B-AGENT	7
+9	.	O	-
+
+# 49-5
+0	"	O	-
+1	Daar	O	-
+2	en	O	-
+3	daar	O	-
+4	en	O	-
+5	daar	O	-
+6	.	O	-
+7	"	O	-
+
+# 49-6
+0	Met	O	-
+1	uitgestrekte	O	-
+2	arm	O	-
+3	wees	REALIS	-
+4	hij	B-AGENT	3
+5	om	O	-
+6	ons	O	-
+7	heen	O	-
+8	.	O	-
+
+# 49-7
+0	"	O	-
+1	En	O	-
+2	daar	O	-
+3	achter	O	-
+4	die	O	-
+5	zee	O	-
+6	,	O	-
+7	in	O	-
+8	't	B-PATIENT	13
+9	land	I-PATIENT	13
+10	dat	O	-
+11	wij	B-AGENT	13
+12	niet	O	-
+13	zien	IRREALIS	-
+14	.	O	-
+
+# 49-8
+0	En	-	-
+1	daar	-	-
+2	,	-	-
+3	bij	-	-
+4	Driehuis	-	-
+5	,	-	-
+6	waar	-	-
+7	de	-	-
+8	booglampen	-	-
+9	staan	-	-
+10	.	-	-
+
+# 49-9
+0	En	-	-
+1	in	-	-
+2	de	-	-
+3	Kalverstraat	-	-
+4	.	-	-
+
+# 49-10
+0	Ga	O	-
+1	eens	O	-
+2	met	O	-
+3	je	B-AGENT	8,10
+4	rug	O	-
+5	naar	O	-
+6	't	O	-
+7	water	O	-
+8	staan	IRREALIS	-
+9	en	O	-
+10	luister	IRREALIS	-
+11	.	O	-
+
+# 49-11
+0	Kan	O	-
+1	jij	B-AGENT	3
+2	eruit	O	-
+3	blijven	REALIS	-
+4	?	O	-
+5	"	O	-
+
+# 50-1
+0	"	O	-
+1	Waaruit	O	-
+2	?	O	-
+3	"	O	-
+
+# 51-1
+0	"	O	-
+1	Uit	O	-
+2	die	O	-
+3	zee	O	-
+4	?	O	-
+5	"	O	-
+
+# 51-2
+0	Ik	B-AGENT	1
+1	knikte	REALIS	-
+2	van	O	-
+3	ja	O	-
+4	,	O	-
+5	dat	O	-
+6	kon	REALIS	-
+7	ik	B-AGENT	6
+8	best	O	-
+9	.	O	-
+
+# 52-1
+0	"	O	-
+1	Ik	O	-
+2	nauwelijks	O	-
+3	,	O	-
+4	"	O	-
+5	zei	REALIS	-
+6	Bavink	B-AGENT	5
+7	.	O	-
+
+# 52-2
+0	"	O	-
+1	't	O	-
+2	Is	IRREALIS	-
+3	zoo	O	-
+4	raar	O	-
+5	dat	B-AGENT	2
+6	weemoedige	I-AGENT	2
+7	geluid	I-AGENT	2
+8	achter	I-AGENT	2
+9	je	I-AGENT	2
+10	.	O	-
+
+# 52-3
+0	't	O	-
+1	Is	IRREALIS	-
+2	net	O	-
+3	of	O	-
+4	zoo'n	B-AGENT	9
+5	zee	I-AGENT	9
+6	wat	O	-
+7	van	O	-
+8	me	O	-
+9	wil	IRREALIS	-
+10	.	O	-
+
+# 52-4
+0	Daarin	-	-
+1	is	-	-
+2	God	-	-
+3	ook	-	-
+4	,	-	-
+5	God	-	-
+6	roept	-	-
+7	.	-	-
+
+# 52-5
+0	't	O	-
+1	Is	REALIS	-
+2	waarachtig	O	-
+3	geen	O	-
+4	lolletje	O	-
+5	,	O	-
+6	overal	O	-
+7	is	REALIS	-
+8	-ie	B-AGENT	7
+9	.	O	-
+
+# 52-6
+0	En	O	-
+1	overal	O	-
+2	roept	REALIS	-
+3	-ie	B-AGENT	2
+4	Bavink	B-PATIENT	2
+5	.	O	-
+
+# 52-7
+0	Je	B-AGENT	1
+1	wordt	REALIS	-
+2	mal	O	-
+3	van	O	-
+4	je	B-AGENT	12
+5	eigen	I-AGENT	12
+6	naam	I-AGENT	12
+7	,	O	-
+8	als	O	-
+9	-ie	O	-
+10	zoo	O	-
+11	dikwijls	O	-
+12	geroepen	REALIS	-
+13	wordt	O	-
+14	.	O	-
+
+# 52-8
+0	En	O	-
+1	dan	O	-
+2	moet	O	-
+3	Bavink	B-AGENT	4
+4	schilderen	IRREALIS	-
+5	.	O	-
+
+# 52-9
+0	Dan	O	-
+1	moet	REALIS	-
+2	God	B-AGENT	1
+3	op	O	-
+4	een	O	-
+5	brokkie	O	-
+6	linnen	O	-
+7	met	O	-
+8	verf	O	-
+9	.	O	-
+
+# 52-10
+0	Dan	O	-
+1	roept	REALIS	-
+2	Bavink	B-AGENT	1
+3	"	O	-
+4	God	O	-
+5	.	O	-
+6	"	O	-
+
+# 52-11
+0	En	O	-
+1	zoo	O	-
+2	blijven	O	-
+3	ze	B-AGENT	5
+4	mekaar	O	-
+5	roepen	REALIS	-
+6	.	O	-
+
+# 52-12
+0	Voor	O	-
+1	God	O	-
+2	is	REALIS	-
+3	't	O	-
+4	een	B-AGENT	8
+5	spelletje	I-AGENT	8
+6	,	O	-
+7	die	O	-
+8	is	REALIS	-
+9	oneindig	O	-
+10	en	O	-
+11	overal	O	-
+12	.	O	-
+
+# 52-13
+0	Hij	-	-
+1	roept	-	-
+2	maar	-	-
+3	.	-	-
+
+# 52-14
+0	Maar	O	-
+1	Bavink	B-AGENT	2,19
+2	heeft	REALIS	-
+3	maar	O	-
+4	éen	O	-
+5	dom	O	-
+6	hoofd	O	-
+7	en	O	-
+8	één	O	-
+9	domme	O	-
+10	rechterhand	O	-
+11	en	O	-
+12	kan	O	-
+13	maar	O	-
+14	aan	O	-
+15	één	O	-
+16	schilderijtje	O	-
+17	te	O	-
+18	gelijk	O	-
+19	werken	REALIS	-
+20	.	O	-
+
+# 52-15
+0	En	O	-
+1	als	O	-
+2	-ie	B-AGENT	3
+3	denkt	REALIS	-
+4	dat	O	-
+5	-ie	B-AGENT	7
+6	God	O	-
+7	heeft	REALIS	-
+8	dan	O	-
+9	heeft	REALIS	-
+10	-ie	B-AGENT	9
+11	linnen	O	-
+12	en	O	-
+13	verf	O	-
+14	.	O	-
+
+# 52-16
+0	Dan	O	-
+1	is	REALIS	-
+2	God	B-AGENT	1
+3	overal	O	-
+4	,	O	-
+5	behalve	O	-
+6	waar	O	-
+7	Bavink	B-AGENT	9
+8	'm	O	-
+9	hebben	IRREALIS	-
+10	wil	O	-
+11	.	O	-
+
+# 52-17
+0	En	O	-
+1	dan	O	-
+2	komt	IRREALIS	-
+3	er	O	-
+4	een	B-AGENT	2,7
+5	vent	I-AGENT	2,7
+6	en	O	-
+7	schrijft	IRREALIS	-
+8	dat	O	-
+9	Bavink	B-AGENT	10
+10	gebenedijd	IRREALIS	-
+11	is	O	-
+12	.	O	-
+
+# 52-18
+0	En	O	-
+1	Hoyer	B-AGENT	2,8,12
+2	leert	REALIS	-
+3	dat	O	-
+4	uit	O	-
+5	z'n	O	-
+6	hoofd	O	-
+7	en	O	-
+8	loopt	REALIS	-
+9	er	O	-
+10	over	O	-
+11	te	O	-
+12	zwetsen	REALIS	-
+13	tegen	O	-
+14	Bekker	O	-
+15	.	O	-
+
+# 52-19
+0	Zeg	IRREALIS	-
+1	wel	O	-
+2	gebenedijd	O	-
+3	.	O	-
+
+# 52-20
+0	Weet	-	-
+1	je	-	-
+2	wat	-	-
+3	ik	-	-
+4	wou	-	-
+5	?	-	-
+
+# 52-21
+0	Dat	O	-
+1	ik	B-AGENT	4
+2	spoorwegboekjes	B-PATIENT	4
+3	kon	O	-
+4	maken	IRREALIS	-
+5	.	O	-
+
+# 52-22
+0	Zoo'n	-	-
+1	vent	-	-
+2	laat	-	-
+3	God	-	-
+4	met	-	-
+5	vrede	-	-
+6	,	-	-
+7	die	-	-
+8	is	-	-
+9	'm	-	-
+10	de	-	-
+11	moeite	-	-
+12	niet	-	-
+13	waard	-	-
+14	.	-	-
+15	"	-	-
+
+# 52-23
+0	Ik	B-AGENT	1,6
+1	presenteerde	REALIS	-
+2	Bavink	O	-
+3	een	B-PATIENT	1
+4	sigaar	I-PATIENT	1
+5	en	O	-
+6	stelde	REALIS	-
+7	voor	O	-
+8	naar	O	-
+9	Driehuis	O	-
+10	te	O	-
+11	gaan	IRREALIS	-
+12	.	O	-
+
+# 52-24
+0	Ik	B-AGENT	1
+1	had	REALIS	-
+2	trek	O	-
+3	in	O	-
+4	koffie	O	-
+5	.	O	-
+
+# 52-25
+0	Ik	B-AGENT	1
+1	vond	REALIS	-
+2	het	O	-
+3	niet	O	-
+4	mooi	O	-
+5	van	O	-
+6	Bavink	B-AGENT	12
+7	een	B-PATIENT	12
+8	verdienstelijk	I-PATIENT	12
+9	heer	I-PATIENT	12
+10	zoo	O	-
+11	te	O	-
+12	kleineeren	REALIS	-
+13	.	O	-
+
+# 52-26
+0	Achter	O	-
+1	ons	B-PATIENT	3
+2	aan	O	-
+3	kwamen	REALIS	-
+4	Hoyer	B-AGENT	3,9
+5	en	I-AGENT	3,9
+6	Bekker	I-AGENT	3,9
+7	terug	O	-
+8	en	O	-
+9	hadden	REALIS	-
+10	't	O	-
+11	nog	O	-
+12	erg	O	-
+13	druk	O	-
+14	.	O	-
+
+# 53-1
+0	Om	O	-
+1	elf	O	-
+2	uur	O	-
+3	stonden	REALIS	-
+4	we	B-AGENT	3
+5	dien	O	-
+6	avond	O	-
+7	nog	O	-
+8	weer	O	-
+9	aan	O	-
+10	't	O	-
+11	strand	O	-
+12	in	O	-
+13	de	O	-
+14	nacht	O	-
+15	.	O	-
+
+# 53-2
+0	Er	O	-
+1	was	O	-
+2	wat	O	-
+3	wind	O	-
+4	komen	O	-
+5	opzetten	REALIS	-
+6	,	O	-
+7	de	B-AGENT	9
+8	golven	I-AGENT	9
+9	ruischten	REALIS	-
+10	.	O	-
+
+# 53-3
+0	Een	O	-
+1	weinig	O	-
+2	drank	O	-
+3	had	O	-
+4	de	B-PATIENT	9
+5	weemoed	I-PATIENT	9
+6	en	O	-
+7	de	B-PATIENT	9
+8	somberheid	I-PATIENT	9
+9	verdreven	REALIS	-
+10	.	O	-
+
+# 53-4
+0	Een	-	-
+1	nieuwe	-	-
+2	tijd	-	-
+3	zou	-	-
+4	aanbreken	-	-
+5	.	-	-
+
+# 53-5
+0	Bekker	-	-
+1	zou	-	-
+2	in	-	-
+3	de	-	-
+4	eenzaamheid	-	-
+5	van	-	-
+6	zijn	-	-
+7	Duitsche	-	-
+8	kosthuis	-	-
+9	Dante	-	-
+10	vertalen	-	-
+11	,	-	-
+12	zooals	-	-
+13	nog	-	-
+14	nooit	-	-
+15	iemand	-	-
+16	't	-	-
+17	gedaan	-	-
+18	had	-	-
+19	.	-	-
+
+# 53-6
+0	Bavink	B-AGENT	1,20,23
+1	had	REALIS	-
+2	een	O	-
+3	groot	O	-
+4	doek	O	-
+5	in	O	-
+6	z'n	O	-
+7	hoofd	O	-
+8	,	O	-
+9	een	O	-
+10	gezicht	O	-
+11	op	O	-
+12	Rhenen	O	-
+13	,	O	-
+14	hij	O	-
+15	was	O	-
+16	daar	O	-
+17	eens	O	-
+18	een	O	-
+19	dag	O	-
+20	geweest	REALIS	-
+21	,	O	-
+22	duidelijk	O	-
+23	zag	REALIS	-
+24	hij	O	-
+25	alles	O	-
+26	voor	O	-
+27	zich	O	-
+28	.	O	-
+
+# 53-7
+0	En	-	-
+1	Hoyer	-	-
+2	ging	-	-
+3	werken	-	-
+4	aan	-	-
+5	z'n	-	-
+6	sociale	-	-
+7	taak	-	-
+8	;	-	-
+9	ze	-	-
+10	zouden	-	-
+11	er	-	-
+12	van	-	-
+13	opkijken	-	-
+14	.	-	-
+
+# 53-8
+0	En	O	-
+1	ik	B-AGENT	2
+2	probeerde	REALIS	-
+3	't	O	-
+4	allemaal	O	-
+5	te	O	-
+6	gelooven	O	-
+7	.	O	-
+
+# 54-1
+0	De	B-AGENT	3
+1	koele	I-AGENT	3
+2	wind	I-AGENT	3
+3	woei	REALIS	-
+4	om	O	-
+5	ons	O	-
+6	heen	O	-
+7	.	O	-
+
+# 54-2
+0	De	B-AGENT	2
+1	zee	I-AGENT	2
+2	ruischte	REALIS	-
+3	klagend	O	-
+4	,	O	-
+5	de	B-AGENT	9,11
+6	zee	I-AGENT	9,11
+7	,	O	-
+8	die	O	-
+9	klaagt	REALIS	-
+10	en	O	-
+11	weet	IRREALIS	-
+12	niet	O	-
+13	waarom	O	-
+14	.	O	-
+
+# 54-3
+0	De	B-AGENT	2
+1	zee	I-AGENT	2
+2	spoelt	REALIS	-
+3	verdrietig	O	-
+4	aan	O	-
+5	't	O	-
+6	land	O	-
+7	.	O	-
+
+# 54-4
+0	Mijn	B-AGENT	2,7
+1	gedachten	I-AGENT	2,7
+2	zijn	REALIS	-
+3	een	O	-
+4	zee	O	-
+5	,	O	-
+6	ze	O	-
+7	spoelen	REALIS	-
+8	verdrietig	O	-
+9	aan	O	-
+10	hun	O	-
+11	grenzen	O	-
+12	.	O	-
+
+# 54-5
+0	Een	O	-
+1	nieuwe	O	-
+2	tijd	O	-
+3	zou	O	-
+4	aanbreken	IRREALIS	-
+5	,	O	-
+6	nog	O	-
+7	konden	O	-
+8	wij	B-AGENT	13
+9	groote	O	-
+10	dingen	O	-
+11	tot	O	-
+12	stand	O	-
+13	brengen	IRREALIS	-
+14	.	O	-
+
+# 54-6
+0	Ik	B-AGENT	1
+1	deed	REALIS	-
+2	mijn	O	-
+3	best	O	-
+4	't	O	-
+5	te	O	-
+6	gelooven	REALIS	-
+7	,	O	-
+8	héél	O	-
+9	erg	O	-
+10	mijn	O	-
+11	best	O	-
+12	.	O	-
+
+# 55-1
+0	VIII	-	-
+1	.	-	-
+
+# 56-1
+0	In	O	-
+1	Rhenen	O	-
+2	stond	REALIS	-
+3	ik	B-AGENT	2,14
+4	in	O	-
+5	de	O	-
+6	schemering	O	-
+7	op	O	-
+8	de	O	-
+9	brug	O	-
+10	over	O	-
+11	den	O	-
+12	spoorweg	O	-
+13	en	O	-
+14	keek	REALIS	-
+15	naar	O	-
+16	't	O	-
+17	Noorden	O	-
+18	.	O	-
+
+# 56-2
+0	In	O	-
+1	de	O	-
+2	diepte	O	-
+3	lag	REALIS	-
+4	de	B-AGENT	3
+5	spoorlijn	I-AGENT	3
+6	tot	O	-
+7	den	O	-
+8	gezichtseinder	O	-
+9	,	O	-
+10	aan	O	-
+11	beide	O	-
+12	zijden	O	-
+13	er	O	-
+14	van	O	-
+15	rees	REALIS	-
+16	de	B-AGENT	15
+17	berg	I-AGENT	15
+18	steil	O	-
+19	op	O	-
+20	,	O	-
+21	begroeid	O	-
+22	met	O	-
+23	lichtgroen	O	-
+24	gras	O	-
+25	en	O	-
+26	donkergroene	O	-
+27	brem	O	-
+28	vol	O	-
+29	gele	O	-
+30	bloemen	O	-
+31	.	O	-
+
+# 56-3
+0	Ik	B-AGENT	1
+1	keek	REALIS	-
+2	er	O	-
+3	naar	O	-
+4	hoe	O	-
+5	de	B-AGENT	9,17
+6	bergwanden	I-AGENT	9,17
+7	geleidelijk	O	-
+8	lager	O	-
+9	werden	REALIS	-
+10	,	O	-
+11	tot	O	-
+12	ze	O	-
+13	,	O	-
+14	heel	O	-
+15	ver	O	-
+16	,	O	-
+17	overgingen	REALIS	-
+18	in	O	-
+19	de	O	-
+20	vlakte	O	-
+21	.	O	-
+
+# 57-1
+0	Weer	O	-
+1	begon	REALIS	-
+2	de	B-AGENT	1,8
+3	duisternis	I-AGENT	1,8
+4	geheimzinnig	O	-
+5	naar	O	-
+6	boven	O	-
+7	te	O	-
+8	kruipen	REALIS	-
+9	uit	O	-
+10	de	O	-
+11	aarde	O	-
+12	,	O	-
+13	zooals	O	-
+14	ik	B-AGENT	18
+15	dat	O	-
+16	zoo	O	-
+17	dikwijls	O	-
+18	gezien	REALIS	-
+19	had	O	-
+20	.	O	-
+
+# 57-2
+0	Bevreesd	O	-
+1	en	O	-
+2	bangelijk	O	-
+3	lag	REALIS	-
+4	't	B-AGENT	3
+5	laatste	I-AGENT	3
+6	licht	I-AGENT	3
+7	van	I-AGENT	3
+8	den	I-AGENT	3
+9	dag	I-AGENT	3
+10	op	O	-
+11	den	O	-
+12	berg	O	-
+13	,	O	-
+14	de	B-AGENT	16
+15	spleet	I-AGENT	16
+16	was	REALIS	-
+17	vol	O	-
+18	duisternis	O	-
+19	,	O	-
+20	een	B-AGENT	24
+21	rood	I-AGENT	24
+22	licht	I-AGENT	24
+23	was	O	-
+24	opgetrokken	REALIS	-
+25	aan	O	-
+26	een	O	-
+27	paal	O	-
+28	aan	O	-
+29	de	O	-
+30	spoorlijn	O	-
+31	.	O	-
+
+# 57-3
+0	De	-	-
+1	lucht	-	-
+2	was	-	-
+3	wat	-	-
+4	grijs	-	-
+5	beslagen	-	-
+6	en	-	-
+7	keek	-	-
+8	kleurloos	-	-
+9	neer	-	-
+10	op	-	-
+11	den	-	-
+12	verslagen	-	-
+13	dag	-	-
+14	.	-	-
+
+# 57-4
+0	Zes	O	-
+1	jaar	O	-
+2	was	O	-
+3	ik	B-AGENT	4
+4	weggeweest	REALIS	-
+5	en	O	-
+6	nu	O	-
+7	stond	REALIS	-
+8	ik	B-AGENT	7
+9	daar	O	-
+10	,	O	-
+11	pas	O	-
+12	in	O	-
+13	Holland	O	-
+14	terug	O	-
+15	,	O	-
+16	op	O	-
+17	de	B-PATIENT	24
+18	plaats	I-PATIENT	24
+19	waaraan	O	-
+20	ik	B-AGENT	24
+21	zoo	O	-
+22	vaak	O	-
+23	had	O	-
+24	gedacht	REALIS	-
+25	,	O	-
+26	waarover	O	-
+27	ze	B-AGENT	34
+28	mij	O	-
+29	in	O	-
+30	bijna	O	-
+31	iederen	O	-
+32	brief	O	-
+33	hadden	O	-
+34	geschreven	REALIS	-
+35	.	O	-
+
+# 57-5
+0	(	-	-
+1	Bavink	-	-
+2	schreef	-	-
+3	me	-	-
+4	ieder	-	-
+5	jaar	-	-
+6	zeker	-	-
+7	wel	-	-
+8	twee	-	-
+9	keer	-	-
+10	en	-	-
+11	Bekker	-	-
+12	wat	-	-
+13	vaker	-	-
+14	)	-	-
+15	,	-	-
+16	op	-	-
+17	den	-	-
+18	berg	-	-
+19	waarvan	-	-
+20	Bavink	-	-
+21	mij	-	-
+22	in	-	-
+23	den	-	-
+24	loop	-	-
+25	van	-	-
+26	den	-	-
+27	tijd	-	-
+28	zeven	-	-
+29	teekeningetjes	-	-
+30	had	-	-
+31	gestuurd	-	-
+32	en	-	-
+33	waarop	-	-
+34	Bekker	-	-
+35	twee	-	-
+36	heel	-	-
+37	kleine	-	-
+38	versjes	-	-
+39	had	-	-
+40	gemaakt	-	-
+41	.	-	-
+
+# 58-1
+0	Naar	O	-
+1	Holland	O	-
+2	was	O	-
+3	ik	B-AGENT	4,8,14
+4	gekomen	REALIS	-
+5	om	O	-
+6	armoe	O	-
+7	te	O	-
+8	lijden	REALIS	-
+9	en	O	-
+10	artikeltjes	B-PATIENT	14
+11	en	I-PATIENT	14
+12	verhaaltjes	I-PATIENT	14
+13	te	O	-
+14	schrijven	REALIS	-
+15	in	O	-
+16	't	O	-
+17	buurtje	O	-
+18	waar	O	-
+19	ik	B-AGENT	22
+20	zoo	O	-
+21	lang	O	-
+22	gewoond	REALIS	-
+23	had	O	-
+24	.	O	-
+
+# 58-2
+0	En	-	-
+1	mijn	-	-
+2	laatste	-	-
+3	twee	-	-
+4	rijksdaalders	-	-
+5	wilde	-	-
+6	ik	-	-
+7	verteren	-	-
+8	in	-	-
+9	de	-	-
+10	stad	-	-
+11	die	-	-
+12	in	-	-
+13	mijn	-	-
+14	afwezigheid	-	-
+15	een	-	-
+16	korte	-	-
+17	poos	-	-
+18	de	-	-
+19	hoofdstad	-	-
+20	der	-	-
+21	wereld	-	-
+22	was	-	-
+23	geweest	-	-
+24	.	-	-
+
+# 58-3
+0	In	O	-
+1	't	O	-
+2	Noorden	O	-
+3	verslond	REALIS	-
+4	de	B-PATIENT	3
+5	duisternis	I-PATIENT	3
+6	't	B-AGENT	3
+7	licht	I-AGENT	3
+8	mateloos	O	-
+9	,	O	-
+10	nu	O	-
+11	was	O	-
+12	de	B-AGENT	15
+13	berg	I-AGENT	15
+14	weldra	O	-
+15	verzwolgen	REALIS	-
+16	,	O	-
+17	't	O	-
+18	laatste	O	-
+19	geleide	O	-
+20	van	O	-
+21	den	O	-
+22	dag	O	-
+23	vluchtte	REALIS	-
+24	in	O	-
+25	't	O	-
+26	Noordwesten	O	-
+27	overhaast	O	-
+28	en	O	-
+29	ik	B-AGENT	30
+30	stond	REALIS	-
+31	op	O	-
+32	't	O	-
+33	bruggetje	O	-
+34	aan	O	-
+35	't	O	-
+36	niet	O	-
+37	,	O	-
+38	omspoeld	REALIS	-
+39	door	O	-
+40	de	B-AGENT	38
+41	oneindigheid	I-AGENT	38
+42	.	O	-
+
+# 59-1
+0	Ik	B-AGENT	1,8,16,21
+1	legde	REALIS	-
+2	mijn	B-PATIENT	1
+3	elboog	I-PATIENT	1
+4	op	O	-
+5	de	O	-
+6	leuning	O	-
+7	en	O	-
+8	hield	REALIS	-
+9	m'n	B-PATIENT	8
+10	kin	I-PATIENT	8
+11	met	O	-
+12	m'n	O	-
+13	hand	O	-
+14	vast	O	-
+15	en	O	-
+16	keek	REALIS	-
+17	in	O	-
+18	de	O	-
+19	duisternis	O	-
+20	en	O	-
+21	dacht	REALIS	-
+22	aan	O	-
+23	de	B-AGENT	42
+24	platte	I-AGENT	42
+25	roode	I-AGENT	42
+26	zon	I-AGENT	42
+27	,	O	-
+28	die	O	-
+29	,	O	-
+30	lang	O	-
+31	geleden	O	-
+32	,	O	-
+33	in	O	-
+34	de	O	-
+35	groene	O	-
+36	golven	O	-
+37	van	O	-
+38	den	O	-
+39	Atlantischen	O	-
+40	oceaan	O	-
+41	was	O	-
+42	ondergegaan	REALIS	-
+43	,	O	-
+44	de	B-AGENT	47,55,57,61,63
+45	golven	I-AGENT	47,55,57,61,63
+46	die	O	-
+47	opliepen	REALIS	-
+48	met	O	-
+49	scherpe	O	-
+50	randen	O	-
+51	en	O	-
+52	holle	O	-
+53	flanken	O	-
+54	en	O	-
+55	vielen	REALIS	-
+56	en	O	-
+57	opliepen	REALIS	-
+58	en	O	-
+59	nu	O	-
+60	nog	O	-
+61	oploopen	REALIS	-
+62	en	O	-
+63	vallen	REALIS	-
+64	.	O	-
+
+# 59-2
+0	En	O	-
+1	aan	O	-
+2	de	B-PATIENT	18,24
+3	gele	I-PATIENT	18,24
+4	lichten	I-PATIENT	18,24
+5	in	I-PATIENT	18,24
+6	de	I-PATIENT	18,24
+7	armelijke	I-PATIENT	18,24
+8	buurtwinkeltjes	I-PATIENT	18,24
+9	in	I-PATIENT	18,24
+10	Amsterdam	I-PATIENT	18,24
+11	,	O	-
+12	die	O	-
+13	ik	B-AGENT	18
+14	nu	O	-
+15	spoedig	O	-
+16	weer	O	-
+17	zou	O	-
+18	zien	IRREALIS	-
+19	en	O	-
+20	die	O	-
+21	iederen	O	-
+22	avond	O	-
+23	hadden	O	-
+24	geschenen	REALIS	-
+25	,	O	-
+26	terwijl	O	-
+27	de	B-AGENT	29
+28	oceaan	I-AGENT	29
+29	golfde	REALIS	-
+30	.	O	-
+
+# 60-1
+0	En	O	-
+1	de	B-AGENT	6
+2	vage	I-AGENT	6
+3	verwachtingen	I-AGENT	6
+4	van	I-AGENT	6
+5	vroeger	I-AGENT	6
+6	stegen	REALIS	-
+7	weer	O	-
+8	in	O	-
+9	mij	O	-
+10	op	O	-
+11	en	O	-
+12	het	O	-
+13	verlangen	O	-
+14	,	O	-
+15	zonder	O	-
+16	te	O	-
+17	weten	REALIS	-
+18	waarnaar	O	-
+19	.	O	-
+
+# 61-1
+0	Doch	O	-
+1	er	O	-
+2	kwam	REALIS	-
+3	een	B-AGENT	2
+4	gevoel	I-AGENT	2
+5	bij	O	-
+6	,	O	-
+7	dat	O	-
+8	ik	B-AGENT	11
+9	vroeger	O	-
+10	niet	O	-
+11	gekend	IRREALIS	-
+12	had	O	-
+13	.	O	-
+
+# 61-2
+0	Voorbij	O	-
+1	waren	O	-
+2	al	O	-
+3	die	O	-
+4	dagen	O	-
+5	gegaan	REALIS	-
+6	en	O	-
+7	voorbij	O	-
+8	zouden	O	-
+9	nog	O	-
+10	vele	O	-
+11	dagen	O	-
+12	gaan	REALIS	-
+13	,	O	-
+14	en	O	-
+15	al	O	-
+16	die	O	-
+17	dagen	O	-
+18	zouden	O	-
+19	mijn	B-AGENT	22
+20	verwachtingen	I-AGENT	22
+21	onvervuld	O	-
+22	blijven	REALIS	-
+23	en	O	-
+24	mijn	B-AGENT	22
+25	verlangens	I-AGENT	22
+26	onbevredigd	O	-
+27	.	O	-
+
+# 61-3
+0	Jaren	-	-
+1	had	-	-
+2	Bavink	-	-
+3	met	-	-
+4	tusschenpoozen	-	-
+5	gewerkt	-	-
+6	aan	-	-
+7	zijn	-	-
+8	gezicht	-	-
+9	op	-	-
+10	Rhenen	-	-
+11	,	-	-
+12	aan	-	-
+13	de	-	-
+14	rivier	-	-
+15	,	-	-
+16	den	-	-
+17	berg	-	-
+18	,	-	-
+19	den	-	-
+20	Cuneratoren	-	-
+21	,	-	-
+22	de	-	-
+23	bloeiende	-	-
+24	appelboomen	-	-
+25	,	-	-
+26	de	-	-
+27	roode	-	-
+28	daken	-	-
+29	van	-	-
+30	't	-	-
+31	stadje	-	-
+32	,	-	-
+33	de	-	-
+34	kastanjes	-	-
+35	met	-	-
+36	hun	-	-
+37	witte	-	-
+38	en	-	-
+39	roode	-	-
+40	bloemen	-	-
+41	en	-	-
+42	de	-	-
+43	bruine	-	-
+44	beuken	-	-
+45	tusschen	-	-
+46	de	-	-
+47	huizen	-	-
+48	in	-	-
+49	de	-	-
+50	hoogte	-	-
+51	,	-	-
+52	en	-	-
+53	't	-	-
+54	molentje	-	-
+55	ergens	-	-
+56	op	-	-
+57	den	-	-
+58	berg	-	-
+59	.	-	-
+
+# 61-4
+0	Jaren	O	-
+1	had	O	-
+2	Bekker	B-AGENT	18,21
+3	in	O	-
+4	't	B-PATIENT	12
+5	villaatje	I-PATIENT	12
+6	op	I-PATIENT	12
+7	den	I-PATIENT	12
+8	berg	I-PATIENT	12
+9	,	O	-
+10	dat	O	-
+11	Bavink	B-AGENT	12
+12	gehuurd	REALIS	-
+13	had	O	-
+14	,	O	-
+15	iederen	O	-
+16	Zondag	O	-
+17	Dante	B-PATIENT	18
+18	vertaald	REALIS	-
+19	en	O	-
+20	gedichtjes	O	-
+21	geschreven	REALIS	-
+22	soms	O	-
+23	,	O	-
+24	jaren	O	-
+25	had	O	-
+26	ik	B-AGENT	30
+27	over	O	-
+28	de	O	-
+29	wereld	O	-
+30	gezworven	REALIS	-
+31	.	O	-
+
+# 61-5
+0	En	O	-
+1	wat	O	-
+2	was	O	-
+3	er	O	-
+4	nu	O	-
+5	nog	O	-
+6	gebeurd	IRREALIS	-
+7	?	O	-
+
+# 61-6
+0	Wat	O	-
+1	beteekende	IRREALIS	-
+2	dat	O	-
+3	alles	O	-
+4	voor	O	-
+5	de	O	-
+6	wereld	O	-
+7	,	O	-
+8	voor	O	-
+9	God	O	-
+10	,	O	-
+11	voor	O	-
+12	ons	O	-
+13	zelf	O	-
+14	?	O	-
+
+# 62-1
+0	Op	O	-
+1	den	O	-
+2	toren	O	-
+3	van	O	-
+4	Rhenen	O	-
+5	had	O	-
+6	ik	B-AGENT	7,11
+7	gestaan	REALIS	-
+8	en	O	-
+9	de	O	-
+10	verten	O	-
+11	gezien	REALIS	-
+12	,	O	-
+13	en	O	-
+14	mijn	B-AGENT	20
+15	hart	I-AGENT	20
+16	had	O	-
+17	naar	O	-
+18	de	O	-
+19	verte	O	-
+20	getrokken	REALIS	-
+21	en	O	-
+22	naar	O	-
+23	de	O	-
+24	roode	O	-
+25	luchten	O	-
+26	in	O	-
+27	't	O	-
+28	westen	O	-
+29	.	O	-
+
+# 62-2
+0	Doch	O	-
+1	al	O	-
+2	had	O	-
+3	ik	B-AGENT	8
+4	van	O	-
+5	den	O	-
+6	toren	O	-
+7	kunnen	O	-
+8	vliegen	IRREALIS	-
+9	naar	O	-
+10	de	O	-
+11	verten	O	-
+12	,	O	-
+13	dan	O	-
+14	zou	O	-
+15	ik	B-AGENT	17
+16	slechts	O	-
+17	gevonden	IRREALIS	-
+18	hebben	O	-
+19	,	O	-
+20	dat	O	-
+21	de	O	-
+22	verte	O	-
+23	het	O	-
+24	nabije	O	-
+25	was	O	-
+26	geworden	IRREALIS	-
+27	en	O	-
+28	opnieuw	O	-
+29	zou	O	-
+30	mijn	B-AGENT	35
+31	hart	I-AGENT	35
+32	naar	O	-
+33	de	O	-
+34	verte	O	-
+35	getrokken	IRREALIS	-
+36	hebben	O	-
+37	.	O	-
+
+# 62-3
+0	En	O	-
+1	wat	O	-
+2	baat	IRREALIS	-
+3	mij	O	-
+4	de	B-AGENT	2,9
+5	wijsheid	I-AGENT	2,9
+6	,	O	-
+7	die	O	-
+8	mij	O	-
+9	leert	IRREALIS	-
+10	dat	O	-
+11	't	O	-
+12	niet	O	-
+13	anders	O	-
+14	kan	IRREALIS	-
+15	en	O	-
+16	zoo	O	-
+17	blijven	IRREALIS	-
+18	zal	O	-
+19	in	O	-
+20	eeuwigheid	O	-
+21	?	O	-
+
+# 63-1
+0	Iederen	O	-
+1	dag	O	-
+2	hadden	O	-
+3	wij	B-AGENT	4
+4	verlangd	REALIS	-
+5	zonder	O	-
+6	te	O	-
+7	weten	O	-
+8	waarnaar	O	-
+9	.	O	-
+
+# 63-2
+0	En	O	-
+1	eentonig	O	-
+2	was	O	-
+3	't	O	-
+4	geworden	REALIS	-
+5	.	O	-
+
+# 63-3
+0	Eentonig	O	-
+1	werd	O	-
+2	't	O	-
+3	opgaan	REALIS	-
+4	van	O	-
+5	de	B-AGENT	3,9,12
+6	zon	I-AGENT	3,9,12
+7	en	O	-
+8	't	O	-
+9	ondergaan	REALIS	-
+10	en	O	-
+11	't	O	-
+12	schijnen	REALIS	-
+13	van	O	-
+14	de	O	-
+15	zon	O	-
+16	in	O	-
+17	't	O	-
+18	water	O	-
+19	en	O	-
+20	't	O	-
+21	schuiven	REALIS	-
+22	der	B-AGENT	21
+23	witte	I-AGENT	21
+24	wolken	I-AGENT	21
+25	.	O	-
+
+# 63-4
+0	En	O	-
+1	ook	O	-
+2	de	B-AGENT	5
+3	donkere	I-AGENT	5
+4	luchten	I-AGENT	5
+5	werden	REALIS	-
+6	eentonig	O	-
+7	,	O	-
+8	en	O	-
+9	't	O	-
+10	bruin	O	-
+11	en	O	-
+12	geel	O	-
+13	worden	REALIS	-
+14	van	O	-
+15	de	B-AGENT	13
+16	bladen	I-AGENT	13
+17	,	O	-
+18	en	O	-
+19	de	B-PATIENT	38,46
+20	bladerlooze	I-PATIENT	38,46
+21	kruinen	I-PATIENT	38,46
+22	en	O	-
+23	de	B-PATIENT	38,46
+24	armoedige	I-PATIENT	38,46
+25	drassige	I-PATIENT	38,46
+26	weilanden	I-PATIENT	38,46
+27	in	O	-
+28	den	O	-
+29	winter	O	-
+30	,	O	-
+31	al	O	-
+32	die	O	-
+33	dingen	O	-
+34	die	O	-
+35	ik	B-AGENT	38
+36	zoo	O	-
+37	vaak	O	-
+38	gezien	REALIS	-
+39	had	O	-
+40	en	O	-
+41	waaraan	O	-
+42	ik	B-AGENT	46
+43	zoo	O	-
+44	vaak	O	-
+45	had	O	-
+46	gedacht	REALIS	-
+47	in	O	-
+48	mijn	O	-
+49	afwezigheid	O	-
+50	en	O	-
+51	die	B-PATIENT	57
+52	ik	B-AGENT	57
+53	zoo	O	-
+54	vaak	O	-
+55	weer	O	-
+56	zou	O	-
+57	zien	IRREALIS	-
+58	,	O	-
+59	als	O	-
+60	ik	B-AGENT	62
+61	niet	O	-
+62	stierf	IRREALIS	-
+63	.	O	-
+
+# 63-5
+0	Wie	O	-
+1	kan	O	-
+2	z'n	B-AGENT	4
+3	leven	I-AGENT	4
+4	doorbrengen	IRREALIS	-
+5	met	O	-
+6	te	O	-
+7	kijken	O	-
+8	naar	O	-
+9	al	B-AGENT	16
+10	deze	I-AGENT	16
+11	dingen	I-AGENT	16
+12	,	O	-
+13	die	O	-
+14	zich	O	-
+15	steeds	O	-
+16	herhalen	REALIS	-
+17	,	O	-
+18	wie	O	-
+19	kan	O	-
+20	blijven	O	-
+21	verlangen	IRREALIS	-
+22	naar	O	-
+23	niets	O	-
+24	?	O	-
+
+# 63-6
+0	Hopen	-	-
+1	op	-	-
+2	een	-	-
+3	God	-	-
+4	die	-	-
+5	er	-	-
+6	niet	-	-
+7	is	-	-
+8	?	-	-
+
+# 63-7
+0	En	O	-
+1	nu	O	-
+2	bloeiden	REALIS	-
+3	weer	O	-
+4	de	B-AGENT	2
+5	brem	I-AGENT	2
+6	en	O	-
+7	de	B-AGENT	2
+8	seringen	I-AGENT	2
+9	en	O	-
+10	de	B-AGENT	2
+11	appelboomen	I-AGENT	2
+12	en	O	-
+13	de	B-AGENT	2
+14	kastanjes	I-AGENT	2
+15	en	O	-
+16	de	O	-
+17	zon	O	-
+18	had	O	-
+19	al	O	-
+20	weer	O	-
+21	fel	O	-
+22	gebrand	O	-
+23	.	O	-
+
+# 63-8
+0	En	O	-
+1	vol	O	-
+2	ontroering	O	-
+3	had	O	-
+4	ik	B-AGENT	7
+5	dit	O	-
+6	alles	O	-
+7	weergezien	REALIS	-
+8	.	O	-
+
+# 64-1
+0	En	-	-
+1	terwijl	-	-
+2	ik	-	-
+3	daaraan	-	-
+4	dacht	-	-
+5	,	-	-
+6	weken	-	-
+7	de	-	-
+8	vage	-	-
+9	verwachtingen	-	-
+10	en	-	-
+11	verlangens	-	-
+12	.	-	-
+
+# 64-2
+0	God	B-AGENT	1
+1	leeft	REALIS	-
+2	in	O	-
+3	mijn	O	-
+4	hoofd	O	-
+5	.	O	-
+
+# 64-3
+0	Zijn	B-AGENT	2
+1	velden	I-AGENT	2
+2	zijn	REALIS	-
+3	er	O	-
+4	onmetelijk	O	-
+5	,	O	-
+6	zijn	B-AGENT	8
+7	tuinen	I-AGENT	8
+8	staan	REALIS	-
+9	er	O	-
+10	vol	O	-
+11	schoone	B-AGENT	16
+12	bloemen	I-AGENT	16
+13	,	O	-
+14	die	O	-
+15	niet	O	-
+16	sterven	IRREALIS	-
+17	en	O	-
+18	statige	B-AGENT	20
+19	vrouwen	I-AGENT	20
+20	wandelen	REALIS	-
+21	er	O	-
+22	naakt	O	-
+23	,	O	-
+24	vele	O	-
+25	duizenden	O	-
+26	.	O	-
+
+# 64-4
+0	En	O	-
+1	de	B-AGENT	3,9
+2	zon	I-AGENT	3,9
+3	gaat	REALIS	-
+4	er	O	-
+5	op	O	-
+6	en	O	-
+7	onder	O	-
+8	en	O	-
+9	schijnt	REALIS	-
+10	laag	O	-
+11	en	O	-
+12	hoog	O	-
+13	en	O	-
+14	weer	O	-
+15	laag	O	-
+16	en	O	-
+17	't	B-AGENT	20
+18	eindelooze	I-AGENT	20
+19	gebied	I-AGENT	20
+20	is	REALIS	-
+21	eindeloos	O	-
+22	't	O	-
+23	zelfde	O	-
+24	en	O	-
+25	geen	O	-
+26	oogenblik	O	-
+27	gelijk	O	-
+28	.	O	-
+
+# 64-5
+0	En	O	-
+1	breede	B-AGENT	3
+2	rivieren	I-AGENT	3
+3	stroomen	REALIS	-
+4	er	O	-
+5	door	O	-
+6	met	O	-
+7	vele	O	-
+8	bochten	O	-
+9	en	O	-
+10	de	B-AGENT	12
+11	zon	I-AGENT	12
+12	schijnt	REALIS	-
+13	er	O	-
+14	in	O	-
+15	en	O	-
+16	ze	B-AGENT	17
+17	voeren	REALIS	-
+18	't	B-PATIENT	17
+19	licht	I-PATIENT	17
+20	naar	O	-
+21	de	O	-
+22	zee	O	-
+23	.	O	-
+
+# 65-1
+0	En	O	-
+1	aan	O	-
+2	de	O	-
+3	rivieren	O	-
+4	mijner	O	-
+5	gedachten	O	-
+6	zit	REALIS	-
+7	ik	B-AGENT	6,12,17
+8	stilletjes	O	-
+9	en	O	-
+10	genoeglijk	O	-
+11	en	O	-
+12	rook	REALIS	-
+13	een	B-PATIENT	12
+14	steenen	I-PATIENT	12
+15	pijpje	I-PATIENT	12
+16	en	O	-
+17	voel	REALIS	-
+18	de	B-AGENT	23
+19	zon	I-AGENT	23
+20	op	O	-
+21	mijn	O	-
+22	lijf	O	-
+23	schijnen	REALIS	-
+24	en	O	-
+25	zie	O	-
+26	't	B-AGENT	28,31
+27	water	I-AGENT	28,31
+28	stroomen	REALIS	-
+29	,	O	-
+30	voortdurend	O	-
+31	stroomen	REALIS	-
+32	naar	O	-
+33	't	O	-
+34	onbekende	O	-
+35	.	O	-
+
+# 65-2
+0	En	-	-
+1	't	-	-
+2	onbekende	-	-
+3	deert	-	-
+4	mij	-	-
+5	niet	-	-
+6	.	-	-
+
+# 65-3
+0	En	O	-
+1	ik	B-AGENT	2,18
+2	knik	REALIS	-
+3	maar	O	-
+4	eens	O	-
+5	tegen	O	-
+6	de	B-AGENT	13
+7	schoone	I-AGENT	13
+8	vrouwen	I-AGENT	13
+9	,	O	-
+10	die	O	-
+11	de	B-PATIENT	13
+12	bloemen	I-PATIENT	13
+13	plukken	REALIS	-
+14	in	O	-
+15	mijn	O	-
+16	tuinen	O	-
+17	en	O	-
+18	hoor	REALIS	-
+19	de	B-PATIENT	18
+20	wind	I-PATIENT	18
+21	ruischen	O	-
+22	door	O	-
+23	de	O	-
+24	hooge	O	-
+25	dennen	O	-
+26	,	O	-
+27	door	O	-
+28	de	O	-
+29	wouden	O	-
+30	der	O	-
+31	zekerheid	O	-
+32	,	O	-
+33	dat	O	-
+34	dit	O	-
+35	alles	O	-
+36	bestaat	O	-
+37	,	O	-
+38	omdat	O	-
+39	ik	B-AGENT	42
+40	't	O	-
+41	zoo	O	-
+42	verkies	REALIS	-
+43	te	O	-
+44	denken	O	-
+45	.	O	-
+
+# 65-4
+0	En	O	-
+1	ik	B-AGENT	2,7
+2	ben	REALIS	-
+3	dankbaar	O	-
+4	dat	O	-
+5	mij	O	-
+6	dit	O	-
+7	gegeven	REALIS	-
+8	is	O	-
+9	.	O	-
+
+# 65-5
+0	En	O	-
+1	in	O	-
+2	ootmoed	O	-
+3	pijp	REALIS	-
+4	ik	B-AGENT	3,9
+5	nog	O	-
+6	eens	O	-
+7	aan	O	-
+8	en	O	-
+9	voel	REALIS	-
+10	mij	O	-
+11	God	O	-
+12	,	O	-
+13	de	O	-
+14	oneindigheid	O	-
+15	zelf	O	-
+16	.	O	-
+
+# 66-1
+0	Doelloos	-	-
+1	zit	-	-
+2	ik	-	-
+3	,	-	-
+4	Gods	-	-
+5	doel	-	-
+6	is	-	-
+7	de	-	-
+8	doelloosheid	-	-
+9	.	-	-
+
+# 67-1
+0	Maar	-	-
+1	voor	-	-
+2	geen	-	-
+3	mensch	-	-
+4	is	-	-
+5	het	-	-
+6	weggelegd	-	-
+7	dit	-	-
+8	bij	-	-
+9	voortduring	-	-
+10	te	-	-
+11	beseffen	-	-
+12	.	-	-
+
+# 68-1
+0	IX	O	-
+1	.	O	-
+
+# 69-1
+0	Toen	-	-
+1	ik	-	-
+2	den	-	-
+3	volgenden	-	-
+4	ochtend	-	-
+5	tegen	-	-
+6	negenen	-	-
+7	in	-	-
+8	Amsterdam	-	-
+9	aankwam	-	-
+10	en	-	-
+11	op	-	-
+12	't	-	-
+13	plein	-	-
+14	voor	-	-
+15	't	-	-
+16	Centraalstation	-	-
+17	stond	-	-
+18	,	-	-
+19	zag	-	-
+20	ik	-	-
+21	allerlei	-	-
+22	electrische	-	-
+23	trammen	-	-
+24	die	-	-
+25	ik	-	-
+26	daar	-	-
+27	nog	-	-
+28	nooit	-	-
+29	gezien	-	-
+30	had	-	-
+31	en	-	-
+32	huurauto's	-	-
+33	en	-	-
+34	agenten	-	-
+35	van	-	-
+36	politie	-	-
+37	met	-	-
+38	petten	-	-
+39	op	-	-
+40	inplaats	-	-
+41	van	-	-
+42	helmen	-	-
+43	.	-	-
+
+# 69-2
+0	Maar	O	-
+1	't	B-PATIENT	7
+2	Damrak	I-PATIENT	7
+3	hadden	O	-
+4	ze	B-AGENT	7
+5	nog	O	-
+6	niet	O	-
+7	gedempt	IRREALIS	-
+8	,	O	-
+9	ik	B-AGENT	10
+10	zag	REALIS	-
+11	de	B-PATIENT	10
+12	achterkanten	I-PATIENT	10
+13	van	I-PATIENT	10
+14	de	I-PATIENT	10
+15	huizen	I-PATIENT	10
+16	van	I-PATIENT	10
+17	de	I-PATIENT	10
+18	Warmoesstraat	I-PATIENT	10
+19	weer	O	-
+20	vlak	O	-
+21	aan	O	-
+22	't	O	-
+23	water	O	-
+24	staan	O	-
+25	en	O	-
+26	den	B-PATIENT	10
+27	toren	I-PATIENT	10
+28	van	I-PATIENT	10
+29	de	I-PATIENT	10
+30	Oudekerk	I-PATIENT	10
+31	aan	I-PATIENT	10
+32	't	I-PATIENT	10
+33	eind	I-PATIENT	10
+34	er	O	-
+35	boven	O	-
+36	uit	O	-
+37	.	O	-
+
+# 69-3
+0	Dat	O	-
+1	was	REALIS	-
+2	dus	O	-
+3	nog	O	-
+4	in	O	-
+5	orde	O	-
+6	.	O	-
+
+# 70-1
+0	En	O	-
+1	daar	O	-
+2	liepen	REALIS	-
+3	ook	O	-
+4	weer	O	-
+5	diezelfde	B-AGENT	2,30
+6	nette	I-AGENT	2,30
+7	heeren	I-AGENT	2,30
+8	,	O	-
+9	wier	B-AGENT	14
+10	haar	I-AGENT	14
+11	altijd	O	-
+12	even	O	-
+13	netjes	O	-
+14	zit	REALIS	-
+15	,	O	-
+16	die	O	-
+17	nooit	O	-
+18	een	O	-
+19	kreukel	O	-
+20	in	O	-
+21	hun	O	-
+22	jas	O	-
+23	of	O	-
+24	een	O	-
+25	spatje	O	-
+26	modder	O	-
+27	op	O	-
+28	hun	O	-
+29	schoenen	O	-
+30	hebben	IRREALIS	-
+31	.	O	-
+
+# 70-2
+0	En	O	-
+1	ze	B-AGENT	2
+2	zagen	REALIS	-
+3	er	O	-
+4	weer	O	-
+5	uit	O	-
+6	als	O	-
+7	of	O	-
+8	ze	B-AGENT	14
+9	't	O	-
+10	nog	O	-
+11	altijd	O	-
+12	enorm	O	-
+13	goed	O	-
+14	wisten	REALIS	-
+15	,	O	-
+16	en	O	-
+17	vonden	REALIS	-
+18	dat	O	-
+19	ze	B-AGENT	17,21
+20	vrijwel	O	-
+21	geslaagd	REALIS	-
+22	waren	O	-
+23	in	O	-
+24	't	O	-
+25	leven	O	-
+26	.	O	-
+
+# 70-3
+0	En	-	-
+1	vriendelijk	-	-
+2	en	-	-
+3	beleefd	-	-
+4	waren	-	-
+5	ze	-	-
+6	weer	-	-
+7	tegen	-	-
+8	elkaar	-	-
+9	.	-	-
+
+# 70-4
+0	Hun	B-AGENT	2
+1	kleeding	I-AGENT	2
+2	was	REALIS	-
+3	een	O	-
+4	kleinigheid	O	-
+5	anders	O	-
+6	dan	O	-
+7	een	O	-
+8	jaar	O	-
+9	of	O	-
+10	wat	O	-
+11	geleden	O	-
+12	,	O	-
+13	maar	O	-
+14	nog	O	-
+15	even	O	-
+16	degelijk	O	-
+17	.	O	-
+
+# 70-5
+0	En	-	-
+1	je	-	-
+2	kon	-	-
+3	zien	-	-
+4	dat	-	-
+5	zij	-	-
+6	nog	-	-
+7	altijd	-	-
+8	met	-	-
+9	alles	-	-
+10	in	-	-
+11	't	-	-
+12	reine	-	-
+13	waren	-	-
+14	.	-	-
+
+# 70-6
+0	Een	B-AGENT	2
+1	jas	I-AGENT	2
+2	was	REALIS	-
+3	nog	O	-
+4	altijd	O	-
+5	een	O	-
+6	jas	O	-
+7	en	O	-
+8	een	B-AGENT	2
+9	vest	I-AGENT	2
+10	een	O	-
+11	vest	O	-
+12	,	O	-
+13	en	O	-
+14	een	B-AGENT	2
+15	fatsoenlijke	I-AGENT	2
+16	vrouw	I-AGENT	2
+17	een	O	-
+18	fatsoenlijke	O	-
+19	vrouw	O	-
+20	en	O	-
+21	een	B-AGENT	2
+22	meid	I-AGENT	2
+23	een	O	-
+24	meid	O	-
+25	.	O	-
+
+# 70-7
+0	Het	O	-
+1	kwam	REALIS	-
+2	allemaal	O	-
+3	nog	O	-
+4	precies	O	-
+5	uit	O	-
+6	.	O	-
+
+# 70-8
+0	Ook	O	-
+1	wisten	REALIS	-
+2	ze	B-AGENT	1
+3	nog	O	-
+4	precies	O	-
+5	wie	O	-
+6	en	O	-
+7	wat	O	-
+8	beneden	O	-
+9	hun	O	-
+10	stand	O	-
+11	was	REALIS	-
+12	;	O	-
+13	ik	B-AGENT	14
+14	twijfelde	IRREALIS	-
+15	er	O	-
+16	niet	O	-
+17	aan	O	-
+18	.	O	-
+
+# 70-9
+0	En	O	-
+1	ook	O	-
+2	't	B-AGENT	7
+3	Rokin	I-AGENT	7
+4	zou	O	-
+5	wel	O	-
+6	gedempt	O	-
+7	komen	REALIS	-
+8	als	O	-
+9	ze	B-AGENT	13
+10	er	O	-
+11	aan	O	-
+12	toe	O	-
+13	waren	IRREALIS	-
+14	.	O	-
+
+# 71-1
+0	Met	O	-
+1	lijn	O	-
+2	twee	O	-
+3	reed	REALIS	-
+4	ik	B-AGENT	3
+5	over	O	-
+6	de	O	-
+7	Nieuwezijds	O	-
+8	Voorburgwal	O	-
+9	.	O	-
+
+# 71-2
+0	Het	O	-
+1	was	O	-
+2	maar	O	-
+3	goed	O	-
+4	dat	O	-
+5	ze	B-AGENT	7
+6	die	B-PATIENT	7
+7	gedempt	REALIS	-
+8	hadden	O	-
+9	lang	O	-
+10	geleden	O	-
+11	,	O	-
+12	anders	O	-
+13	had	O	-
+14	de	B-AGENT	20
+15	tram	I-AGENT	20
+16	daar	O	-
+17	allicht	O	-
+18	niet	O	-
+19	kunnen	O	-
+20	rijden	REALIS	-
+21	en	O	-
+22	je	B-AGENT	35
+23	kon	O	-
+24	nu	O	-
+25	ook	O	-
+26	overal	O	-
+27	makkelijk	O	-
+28	van	O	-
+29	den	O	-
+30	eenen	O	-
+31	kant	O	-
+32	naar	O	-
+33	den	O	-
+34	anderen	O	-
+35	oversteken	IRREALIS	-
+36	.	O	-
+
+# 72-1
+0	Met	O	-
+1	lijn	O	-
+2	twee	O	-
+3	,	O	-
+4	de	O	-
+5	lijn	O	-
+6	bij	O	-
+7	uitnemendheid	O	-
+8	der	O	-
+9	nette	O	-
+10	en	O	-
+11	gewichtige	O	-
+12	heeren	O	-
+13	.	O	-
+
+# 72-2
+0	Een	-	-
+1	paar	-	-
+2	vreeselijk	-	-
+3	gewichtige	-	-
+4	heeren	-	-
+5	waren	-	-
+6	in	-	-
+7	de	-	-
+8	tram	-	-
+9	,	-	-
+10	niets	-	-
+11	was	-	-
+12	ik	-	-
+13	daarbij	-	-
+14	.	-	-
+
+# 72-3
+0	Vroolijk	O	-
+1	scheen	REALIS	-
+2	het	B-AGENT	1
+3	zonnetje	I-AGENT	1
+4	op	O	-
+5	den	O	-
+6	Voorburgwal	O	-
+7	,	O	-
+8	't	B-AGENT	12
+9	groen	I-AGENT	12
+10	der	I-AGENT	12
+11	boompjes	I-AGENT	12
+12	was	REALIS	-
+13	nog	O	-
+14	wat	O	-
+15	licht	O	-
+16	en	O	-
+17	ik	B-AGENT	18
+18	zag	REALIS	-
+19	dat	O	-
+20	de	B-AGENT	31
+21	schaduw	I-AGENT	31
+22	van	I-AGENT	31
+23	de	I-AGENT	31
+24	Nieuwe	I-AGENT	31
+25	kerk	I-AGENT	31
+26	den	O	-
+27	overkant	O	-
+28	der	O	-
+29	straat	O	-
+30	niet	O	-
+31	raakte	IRREALIS	-
+32	,	O	-
+33	lang	O	-
+34	niet	O	-
+35	.	O	-
+
+# 72-4
+0	En	O	-
+1	ik	B-AGENT	2
+2	herinnerde	REALIS	-
+3	me	O	-
+4	,	O	-
+5	dat	O	-
+6	ik	B-AGENT	20
+7	jaren	O	-
+8	geleden	O	-
+9	,	O	-
+10	ook	O	-
+11	in	O	-
+12	't	O	-
+13	laatst	O	-
+14	van	O	-
+15	Mei	O	-
+16	dezelfde	O	-
+17	schaduw	O	-
+18	precies	O	-
+19	zoo	O	-
+20	gezien	REALIS	-
+21	had	O	-
+22	.	O	-
+
+# 72-5
+0	En	O	-
+1	dat	O	-
+2	ik	B-AGENT	23
+3	op	O	-
+4	een	O	-
+5	zonnigen	O	-
+6	winterdag	O	-
+7	,	O	-
+8	toen	O	-
+9	over	O	-
+10	de	O	-
+11	Voorburgwal	O	-
+12	nog	O	-
+13	geen	O	-
+14	tram	O	-
+15	reed	IRREALIS	-
+16	,	O	-
+17	door	O	-
+18	de	B-AGENT	34
+19	schaduw	I-AGENT	34
+20	van	I-AGENT	34
+21	die	I-AGENT	34
+22	kerk	I-AGENT	34
+23	geloopen	REALIS	-
+24	had	O	-
+25	,	O	-
+26	die	O	-
+27	toen	O	-
+28	de	B-PATIENT	34
+29	heele	I-PATIENT	34
+30	breedte	I-PATIENT	34
+31	van	I-PATIENT	34
+32	de	I-PATIENT	34
+33	straat	I-PATIENT	34
+34	bedekte	REALIS	-
+35	.	O	-
+
+# 72-6
+0	Nu	O	-
+1	raakte	IRREALIS	-
+2	hij	B-AGENT	1
+3	de	B-PATIENT	1
+4	rails	I-PATIENT	1
+5	niet	O	-
+6	,	O	-
+7	de	B-AGENT	9
+8	tram	I-AGENT	9
+9	reed	REALIS	-
+10	in	O	-
+11	de	O	-
+12	zon	O	-
+13	voorbij	O	-
+14	de	O	-
+15	kerk	O	-
+16	.	O	-
+
+# 72-7
+0	En	-	-
+1	over	-	-
+2	enkele	-	-
+3	maanden	-	-
+4	zou	-	-
+5	dezelfde	-	-
+6	wagen	-	-
+7	(	-	-
+8	hij	-	-
+9	was	-	-
+10	nog	-	-
+11	heel	-	-
+12	nieuw	-	-
+13	)	-	-
+14	op	-	-
+15	dezelfde	-	-
+16	plaats	-	-
+17	door	-	-
+18	die	-	-
+19	schaduw	-	-
+20	rijden	-	-
+21	.	-	-
+
+# 72-8
+0	En	O	-
+1	toen	O	-
+2	ik	B-AGENT	10
+3	weer	O	-
+4	naar	O	-
+5	die	O	-
+6	twee	O	-
+7	vreeselijk	O	-
+8	gewichtige	O	-
+9	heeren	O	-
+10	keek	REALIS	-
+11	vond	REALIS	-
+12	ik	B-AGENT	11
+13	,	O	-
+14	dat	O	-
+15	al	O	-
+16	dien	O	-
+17	tijd	O	-
+18	dat	O	-
+19	Rhenen	B-AGENT	24
+20	de	O	-
+21	hoofdstad	O	-
+22	der	O	-
+23	wereld	O	-
+24	geweest	REALIS	-
+25	was	O	-
+26	,	O	-
+27	er	O	-
+28	eigenlijk	O	-
+29	al	O	-
+30	heel	O	-
+31	weinig	O	-
+32	in	O	-
+33	die	B-AGENT	35
+34	wereld	I-AGENT	35
+35	veranderd	REALIS	-
+36	was	O	-
+37	.	O	-
+
+# 73-1
+0	En	O	-
+1	ik	B-AGENT	2
+2	dacht	REALIS	-
+3	,	O	-
+4	wanneer	O	-
+5	die	B-AGENT	10,14,23
+6	twee	I-AGENT	10,14,23
+7	heeren	I-AGENT	10,14,23
+8	dood	O	-
+9	zouden	O	-
+10	gaan	IRREALIS	-
+11	en	O	-
+12	naakt	O	-
+13	zouden	O	-
+14	aankomen	IRREALIS	-
+15	voor	O	-
+16	de	O	-
+17	rechtbank	O	-
+18	des	O	-
+19	Heeren	O	-
+20	,	O	-
+21	en	O	-
+22	hier	O	-
+23	vergeten	IRREALIS	-
+24	zouden	O	-
+25	zijn	O	-
+26	.	O	-
+
+# 73-2
+0	En	-	-
+1	dat	-	-
+2	er	-	-
+3	vreeselijk	-	-
+4	gewichtige	-	-
+5	heeren	-	-
+6	na	-	-
+7	hen	-	-
+8	zouden	-	-
+9	komen	-	-
+10	.	-	-
+
+# 73-3
+0	En	O	-
+1	of	O	-
+2	ze	B-AGENT	7
+3	hun	B-PATIENT	7
+4	stomme	I-PATIENT	7
+5	aplomb	I-PATIENT	7
+6	zouden	O	-
+7	bewaren	IRREALIS	-
+8	,	O	-
+9	als	O	-
+10	ze	B-AGENT	14
+11	daar	O	-
+12	boven	O	-
+13	zouden	O	-
+14	aankomen	IRREALIS	-
+15	zonder	O	-
+16	hun	O	-
+17	gepoetste	O	-
+18	schoenen	O	-
+19	?	O	-
+
+# 73-4
+0	En	O	-
+1	hoe	O	-
+2	't	O	-
+3	gaan	IRREALIS	-
+4	zou	O	-
+5	met	O	-
+6	die	O	-
+7	nette	O	-
+8	scheidingen	O	-
+9	in	O	-
+10	hun	O	-
+11	haar	O	-
+12	?	O	-
+
+# 73-5
+0	En	O	-
+1	of	O	-
+2	ze	B-AGENT	5
+3	dan	O	-
+4	zouden	O	-
+5	uitkomen	IRREALIS	-
+6	met	O	-
+7	hun	O	-
+8	stupide	O	-
+9	vertoon	O	-
+10	van	O	-
+11	meerderheid	O	-
+12	,	O	-
+13	of	O	-
+14	er	O	-
+15	niet	O	-
+16	een	B-AGENT	24
+17	kleinigheid	I-AGENT	24
+18	op	I-AGENT	24
+19	die	I-AGENT	24
+20	gezichten	I-AGENT	24
+21	te	O	-
+22	lezen	O	-
+23	zou	O	-
+24	zijn	IRREALIS	-
+25	,	O	-
+26	als	O	-
+27	ze	B-AGENT	36
+28	daar	O	-
+29	die	B-PATIENT	36,43
+30	andere	I-PATIENT	36,43
+31	,	I-PATIENT	36,43
+32	nog	I-PATIENT	36,43
+33	gewichtiger	I-PATIENT	36,43
+34	heeren	I-PATIENT	36,43
+35	zouden	O	-
+36	ontmoeten	IRREALIS	-
+37	,	O	-
+38	die	O	-
+39	ze	B-AGENT	43
+40	zooveel	O	-
+41	jaren	O	-
+42	hadden	O	-
+43	hooggeacht	REALIS	-
+44	,	O	-
+45	ook	O	-
+46	naakt	O	-
+47	?	O	-
+
+# 74-1
+0	En	O	-
+1	hoeveel	O	-
+2	idealistische	B-AGENT	8,13,16,18
+3	jongelingen	I-AGENT	8,13,16,18
+4	in	O	-
+5	dien	O	-
+6	tijd	O	-
+7	opstellen	O	-
+8	geschreven	IRREALIS	-
+9	en	O	-
+10	gedichtjes	O	-
+11	en	O	-
+12	schilderijtjes	O	-
+13	gemaakt	IRREALIS	-
+14	en	O	-
+15	zich	O	-
+16	opgewonden	IRREALIS	-
+17	en	O	-
+18	gedweept	IRREALIS	-
+19	zouden	O	-
+20	hebben	O	-
+21	.	O	-
+
+# 74-2
+0	En	-	-
+1	gezoend	-	-
+2	.	-	-
+
+# 74-3
+0	En	O	-
+1	daarna	O	-
+2	ook	O	-
+3	gewichtig	O	-
+4	zouden	O	-
+5	zijn	O	-
+6	geworden	IRREALIS	-
+7	misschien	O	-
+8	,	O	-
+9	en	O	-
+10	ook	O	-
+11	vergeten	IRREALIS	-
+12	.	O	-
+
+# 75-1
+0	Toen	-	-
+1	kwam	-	-
+2	er	-	-
+3	een	-	-
+4	meisje	-	-
+5	met	-	-
+6	een	-	-
+7	viool	-	-
+8	in	-	-
+9	de	-	-
+10	tram	-	-
+11	en	-	-
+12	keek	-	-
+13	met	-	-
+14	haar	-	-
+15	zwarte	-	-
+16	oogjes	-	-
+17	naar	-	-
+18	de	-	-
+19	puntjes	-	-
+20	van	-	-
+21	haar	-	-
+22	schoentjes	-	-
+23	,	-	-
+24	en	-	-
+25	ik	-	-
+26	keek	-	-
+27	naar	-	-
+28	de	-	-
+29	ronding	-	-
+30	van	-	-
+31	haar	-	-
+32	zomermanteltje	-	-
+33	en	-	-
+34	vergat	-	-
+35	die	-	-
+36	nette	-	-
+37	heeren	-	-
+38	.	-	-
+
+# 76-1
+0	X.	-	-
+
+# 77-1
+0	Hoyer	B-PATIENT	1
+1	vond	REALIS	-
+2	ik	B-AGENT	1
+3	thuis	O	-
+4	.	O	-
+
+# 77-2
+0	Hij	B-AGENT	1
+1	woonde	REALIS	-
+2	heel	O	-
+3	netjes	O	-
+4	in	O	-
+5	een	O	-
+6	straatje	O	-
+7	van	O	-
+8	den	O	-
+9	tweeden	O	-
+10	rang	O	-
+11	,	O	-
+12	achter	O	-
+13	't	O	-
+14	Concertgebouw	O	-
+15	.	O	-
+
+# 77-3
+0	Hij	-	-
+1	ontving	-	-
+2	me	-	-
+3	in	-	-
+4	een	-	-
+5	zitkamer	-	-
+6	,	-	-
+7	waar	-	-
+8	ik	-	-
+9	niet	-	-
+10	durfde	-	-
+11	loopen	-	-
+12	,	-	-
+13	er	-	-
+14	lag	-	-
+15	zoo'n	-	-
+16	duur	-	-
+17	kleed	-	-
+18	.	-	-
+
+# 77-4
+0	Zijn	-	-
+1	gordijnen	-	-
+2	waren	-	-
+3	van	-	-
+4	pluche	-	-
+5	,	-	-
+6	z'n	-	-
+7	stoelen	-	-
+8	bekleed	-	-
+9	met	-	-
+10	geel	-	-
+11	moquette	-	-
+12	,	-	-
+13	op	-	-
+14	den	-	-
+15	schoorsteen	-	-
+16	stond	-	-
+17	een	-	-
+18	zwarte	-	-
+19	pendule	-	-
+20	met	-	-
+21	candelabres	-	-
+22	en	-	-
+23	ik	-	-
+24	meen	-	-
+25	dat	-	-
+26	ik	-	-
+27	ook	-	-
+28	nog	-	-
+29	ergens	-	-
+30	een	-	-
+31	bronzen	-	-
+32	paard	-	-
+33	heb	-	-
+34	gezien	-	-
+35	,	-	-
+36	allemaal	-	-
+37	dingen	-	-
+38	uit	-	-
+39	dure	-	-
+40	bazars	-	-
+41	.	-	-
+
+# 77-5
+0	Goed	O	-
+1	zitten	IRREALIS	-
+2	durfde	IRREALIS	-
+3	ik	B-AGENT	1,2
+4	ook	O	-
+5	niet	O	-
+6	,	O	-
+7	ik	B-AGENT	8
+8	zat	REALIS	-
+9	al	O	-
+10	dien	O	-
+11	tijd	O	-
+12	op	O	-
+13	de	O	-
+14	punt	O	-
+15	van	O	-
+16	een	O	-
+17	stoei	O	-
+18	,	O	-
+19	maar	O	-
+20	ik	B-AGENT	21
+21	geloof	IRREALIS	-
+22	niet	O	-
+23	,	O	-
+24	dat	O	-
+25	Hoyer	B-AGENT	29
+26	daar	O	-
+27	iets	O	-
+28	van	O	-
+29	gesnapt	IRREALIS	-
+30	heeft	O	-
+31	.	O	-
+
+# 78-1
+0	Hoyer	B-AGENT	3
+1	had	O	-
+2	kolossaal	O	-
+3	geboft	REALIS	-
+4	.	O	-
+
+# 78-2
+0	Ze	B-AGENT	6,12
+1	hadden	O	-
+2	de	B-PATIENT	6
+3	ouwe	I-PATIENT	6
+4	stomme	I-PATIENT	6
+5	streek	I-PATIENT	6
+6	uitgehaald	REALIS	-
+7	een	B-PATIENT	12
+8	naaktfiguur	I-PATIENT	12
+9	van	I-PATIENT	12
+10	hem	I-PATIENT	12
+11	te	O	-
+12	weigeren	REALIS	-
+13	.	O	-
+
+# 78-3
+0	De	B-PATIENT	6
+1	Wellust	I-PATIENT	6
+2	had	O	-
+3	hij	B-AGENT	6
+4	de	B-AGENT	9
+5	dame	I-AGENT	9
+6	genoemd	REALIS	-
+7	en	O	-
+8	ze	O	-
+9	was	REALIS	-
+10	inderdaad	O	-
+11	,	O	-
+12	laat	O	-
+13	ik	B-AGENT	15
+14	maar	O	-
+15	zeggen	REALIS	-
+16	,	O	-
+17	omdat	O	-
+18	ik	B-AGENT	23
+19	voor	O	-
+20	een	B-PATIENT	23
+21	fatsoenlijk	I-PATIENT	23
+22	tijdschrift	I-PATIENT	23
+23	schrijf	REALIS	-
+24	"	O	-
+25	heel	O	-
+26	lief	O	-
+27	.	O	-
+28	"	O	-
+
+# 78-4
+0	En	O	-
+1	nu	O	-
+2	woonde	REALIS	-
+3	Hoyer	B-AGENT	2
+4	heel	O	-
+5	duur	O	-
+6	op	O	-
+7	gemeubileerde	O	-
+8	kamers	O	-
+9	,	O	-
+10	bij	O	-
+11	een	O	-
+12	nette	O	-
+13	weduwe	O	-
+14	met	O	-
+15	drie	O	-
+16	namen	O	-
+17	,	O	-
+18	waar	O	-
+19	ook	O	-
+20	een	B-AGENT	25
+21	vrouwelijke	I-AGENT	25
+22	advocaat	I-AGENT	25
+23	in	O	-
+24	huis	O	-
+25	was	REALIS	-
+26	en	O	-
+27	een	B-AGENT	25
+28	assistent-resident	I-AGENT	25
+29	met	I-AGENT	25
+30	verlof	I-AGENT	25
+31	,	O	-
+32	met	O	-
+33	vrouw	O	-
+34	en	O	-
+35	kind	O	-
+36	.	O	-
+
+# 78-5
+0	En	O	-
+1	hij	B-AGENT	2
+2	at	REALIS	-
+3	buitenshuis	O	-
+4	,	O	-
+5	want	O	-
+6	de	B-AGENT	8,16
+7	weduwe	I-AGENT	8,16
+8	was	REALIS	-
+9	veel	O	-
+10	te	O	-
+11	net	O	-
+12	om	O	-
+13	voor	O	-
+14	eten	O	-
+15	te	O	-
+16	zorgen	IRREALIS	-
+17	.	O	-
+
+# 78-6
+0	Schoenen	O	-
+1	poetsen	REALIS	-
+2	was	REALIS	-
+3	extra	O	-
+4	.	O	-
+
+# 78-7
+0	En	O	-
+1	ik	B-AGENT	2,13
+2	zat	REALIS	-
+3	al	O	-
+4	dien	O	-
+5	tijd	O	-
+6	op	O	-
+7	de	O	-
+8	punt	O	-
+9	van	O	-
+10	mijn	O	-
+11	stoel	O	-
+12	en	O	-
+13	keek	REALIS	-
+14	naar	O	-
+15	de	O	-
+16	gedraaide	O	-
+17	poot	O	-
+18	van	O	-
+19	de	O	-
+20	tafel	O	-
+21	en	O	-
+22	naar	O	-
+23	de	O	-
+24	vergulde	O	-
+25	lijst	O	-
+26	van	O	-
+27	den	O	-
+28	spiegel	O	-
+29	.	O	-
+
+# 78-8
+0	Het	O	-
+1	was	REALIS	-
+2	erg	O	-
+3	vervelend	O	-
+4	.	O	-
+
+# 78-9
+0	Ik	B-AGENT	3
+1	moest	O	-
+2	natuurlijk	O	-
+3	vertellen	REALIS	-
+4	van	O	-
+5	mijn	O	-
+6	reis	O	-
+7	,	O	-
+8	maar	O	-
+9	ik	B-AGENT	10
+10	wist	IRREALIS	-
+11	niet	O	-
+12	wat	O	-
+13	,	O	-
+14	ik	B-AGENT	15,17,19
+15	hoorde	REALIS	-
+16	mezelf	O	-
+17	praten	REALIS	-
+18	en	O	-
+19	luisterde	REALIS	-
+20	als	O	-
+21	een	O	-
+22	daas	O	-
+23	naar	O	-
+24	mijn	O	-
+25	eigen	O	-
+26	geluid	O	-
+27	.	O	-
+
+# 78-10
+0	Er	O	-
+1	was	REALIS	-
+2	een	B-AGENT	1
+3	naargeestig	I-AGENT	1
+4	licht	I-AGENT	1
+5	in	I-AGENT	1
+6	de	I-AGENT	1
+7	kamer	I-AGENT	1
+8	,	O	-
+9	ik	B-AGENT	10
+10	denk	REALIS	-
+11	dat	O	-
+12	de	B-AGENT	15
+13	weduwe	I-AGENT	15
+14	bang	O	-
+15	was	REALIS	-
+16	voor	O	-
+17	inkijken	O	-
+18	.	O	-
+
+# 78-11
+0	Ik	B-AGENT	1
+1	wou	REALIS	-
+2	dat	O	-
+3	ik	B-AGENT	6,8
+4	maar	O	-
+5	weg	O	-
+6	was	REALIS	-
+7	en	O	-
+8	keek	REALIS	-
+9	langs	O	-
+10	de	B-PATIENT	16,27
+11	drie	I-PATIENT	16,27
+12	muren	I-PATIENT	16,27
+13	,	O	-
+14	die	O	-
+15	ik	B-AGENT	16,23
+16	zien	REALIS	-
+17	kon	O	-
+18	zonder	O	-
+19	al	O	-
+20	te	O	-
+21	veel	O	-
+22	te	O	-
+23	draaien	REALIS	-
+24	,	O	-
+25	maar	O	-
+26	ze	O	-
+27	weken	IRREALIS	-
+28	niet	O	-
+29	en	O	-
+30	ik	B-AGENT	35
+31	kon	O	-
+32	er	O	-
+33	niet	O	-
+34	doorheen	O	-
+35	zien	IRREALIS	-
+36	.	O	-
+
+# 78-12
+0	Ik	B-AGENT	1
+1	keek	REALIS	-
+2	naar	O	-
+3	de	O	-
+4	deur	O	-
+5	,	O	-
+6	ik	B-AGENT	13
+7	kon	O	-
+8	er	O	-
+9	mijn	B-PATIENT	13
+10	oogen	I-PATIENT	13
+11	niet	O	-
+12	van	O	-
+13	afhouden	IRREALIS	-
+14	,	O	-
+15	hulpeloos	O	-
+16	zat	REALIS	-
+17	ik	B-AGENT	16
+18	daar	O	-
+19	te	O	-
+20	staren	O	-
+21	.	O	-
+
+# 78-13
+0	De	-	-
+1	deur	-	-
+2	trok	-	-
+3	.	-	-
+
+# 78-14
+0	Vage	O	-
+1	visioenen	O	-
+2	had	REALIS	-
+3	ik	B-AGENT	2
+4	van	O	-
+5	de	O	-
+6	Cunera	O	-
+7	,	O	-
+8	van	O	-
+9	den	O	-
+10	hoek	O	-
+11	van	O	-
+12	den	O	-
+13	Grebbeberg	O	-
+14	met	O	-
+15	de	O	-
+16	rivier	O	-
+17	en	O	-
+18	van	O	-
+19	't	O	-
+20	zonnige	O	-
+21	plein	O	-
+22	voor	O	-
+23	't	O	-
+24	Centraalstation	O	-
+25	en	O	-
+26	de	O	-
+27	blinkende	O	-
+28	wijzerplaat	O	-
+29	van	O	-
+30	de	O	-
+31	Oudekerk	O	-
+32	en	O	-
+33	daar	O	-
+34	doorheen	O	-
+35	zag	REALIS	-
+36	ik	B-AGENT	35
+37	de	B-PATIENT	35
+38	geschilderde	I-PATIENT	35
+39	vlammen	I-PATIENT	35
+40	van	I-PATIENT	35
+41	't	I-PATIENT	35
+42	nagemaakte	I-PATIENT	35
+43	eikenhout	I-PATIENT	35
+44	van	I-PATIENT	35
+45	die	I-PATIENT	35
+46	deur	I-PATIENT	35
+47	.	O	-
+
+# 78-15
+0	En	O	-
+1	onderwijl	O	-
+2	ging	REALIS	-
+3	iemand	B-AGENT	2,6
+4	door	O	-
+5	met	O	-
+6	praten	REALIS	-
+7	,	O	-
+8	o	O	-
+9	ja	O	-
+10	,	O	-
+11	dat	O	-
+12	was	REALIS	-
+13	Hoyer	O	-
+14	.	O	-
+
+# 78-16
+0	En	O	-
+1	nu	O	-
+2	antwoordde	REALIS	-
+3	ik	B-AGENT	2
+4	zelf	O	-
+5	,	O	-
+6	of	O	-
+7	eigenlijk	O	-
+8	ik	O	-
+9	zelf	O	-
+10	niet	O	-
+11	,	O	-
+12	maar	O	-
+13	mijn	B-AGENT	15
+14	tong	I-AGENT	15
+15	bewoog	REALIS	-
+16	toch	O	-
+17	en	O	-
+18	er	O	-
+19	kwam	REALIS	-
+20	geluid	O	-
+21	uit	O	-
+22	m'n	O	-
+23	mond	O	-
+24	,	O	-
+25	ik	B-AGENT	26
+26	hoorde	REALIS	-
+27	't	O	-
+28	duidelijk	O	-
+29	.	O	-
+
+# 79-1
+0	Niets	O	-
+1	merkte	IRREALIS	-
+2	Hoyer	B-AGENT	1
+3	.	O	-
+
+# 79-2
+0	Z'n	B-AGENT	2
+1	atelier	I-AGENT	2
+2	was	REALIS	-
+3	boven	O	-
+4	.	O	-
+
+# 79-3
+0	Of	O	-
+1	hij	B-AGENT	7
+2	me	O	-
+3	maar	O	-
+4	even	O	-
+5	voor	O	-
+6	mocht	O	-
+7	gaan	IRREALIS	-
+8	.	O	-
+
+# 79-4
+0	Wezenloos	O	-
+1	liep	REALIS	-
+2	ik	B-AGENT	1
+3	achter	O	-
+4	'm	O	-
+5	aan	O	-
+6	"	O	-
+7	Dit	B-AGENT	8
+8	is	IRREALIS	-
+9	zeker	O	-
+10	't	O	-
+11	privaat	O	-
+12	?	O	-
+13	"	O	-
+
+# 79-5
+0	Ik	B-AGENT	1
+1	dacht	REALIS	-
+2	dat	O	-
+3	't	O	-
+4	hoorde	IRREALIS	-
+5	zoo	O	-
+6	iets	O	-
+7	te	O	-
+8	zeggen	O	-
+9	,	O	-
+10	als	O	-
+11	een	B-AGENT	17
+12	heer	I-AGENT	17
+13	je	O	-
+14	z'n	B-PATIENT	17
+15	huis	I-PATIENT	17
+16	liet	O	-
+17	zien	REALIS	-
+18	.	O	-
+
+# 79-6
+0	Niets	O	-
+1	merkte	IRREALIS	-
+2	Hoyer	B-AGENT	1
+3	:	O	-
+4	"	O	-
+5	Nee	O	-
+6	,	O	-
+7	dat	B-AGENT	8
+8	is	IRREALIS	-
+9	een	O	-
+10	kast	O	-
+11	"	O	-
+12	zei	REALIS	-
+13	-ie	B-AGENT	12
+14	.	O	-
+
+# 79-7
+0	En	O	-
+1	ik	B-AGENT	2
+2	dacht	REALIS	-
+3	,	O	-
+4	waarom	O	-
+5	zegt	IRREALIS	-
+6	-ie	B-AGENT	5
+7	niet	O	-
+8	:	O	-
+9	"	O	-
+10	Pardon	O	-
+11	,	O	-
+12	dat	B-AGENT	13
+13	is	REALIS	-
+14	een	O	-
+15	kast	O	-
+16	.	O	-
+17	"	O	-
+
+# 79-8
+0	Dat	O	-
+1	zou	O	-
+2	-ie	B-AGENT	5
+3	zeker	O	-
+4	later	O	-
+5	zeggen	IRREALIS	-
+6	,	O	-
+7	over	O	-
+8	een	O	-
+9	jaar	O	-
+10	of	O	-
+11	zoo	O	-
+12	.	O	-
+
+# 79-9
+0	De	B-AGENT	2
+1	gangetjes	I-AGENT	2
+2	waren	REALIS	-
+3	nauw	O	-
+4	,	O	-
+5	de	O	-
+6	loopertjes	O	-
+7	smal	O	-
+8	,	O	-
+9	de	B-AGENT	20
+10	trapjes	I-AGENT	20
+11	naar	I-AGENT	20
+12	rato	I-AGENT	20
+13	,	O	-
+14	met	O	-
+15	dunne	O	-
+16	spijltjes	O	-
+17	,	O	-
+18	een	O	-
+19	beetje	O	-
+20	gedraaid	REALIS	-
+21	,	O	-
+22	maar	O	-
+23	alles	O	-
+24	was	REALIS	-
+25	netjes	O	-
+26	,	O	-
+27	keurig	O	-
+28	netjes	O	-
+29	,	O	-
+30	dat	O	-
+31	moest	O	-
+32	ik	B-AGENT	33
+33	zeggen	REALIS	-
+34	.	O	-
+
+# 79-10
+0	Nog	O	-
+1	merkte	IRREALIS	-
+2	Hoyer	B-AGENT	1
+3	niets	O	-
+4	.	O	-
+
+# 79-11
+0	Daar	-	-
+1	boven	-	-
+2	knapte	-	-
+3	ik	-	-
+4	wat	-	-
+5	op	-	-
+6	,	-	-
+7	daar	-	-
+8	was	-	-
+9	ten	-	-
+10	minste	-	-
+11	licht	-	-
+12	,	-	-
+13	't	-	-
+14	bekende	-	-
+15	licht	-	-
+16	van	-	-
+17	't	-	-
+18	atelier	-	-
+19	.	-	-
+
+# 79-12
+0	De	-	-
+1	ezel	-	-
+2	was	-	-
+3	leeg	-	-
+4	.	-	-
+
+# 79-13
+0	Er	-	-
+1	stond	-	-
+2	een	-	-
+3	dure	-	-
+4	stoel	-	-
+5	,	-	-
+6	een	-	-
+7	clubstoel	-	-
+8	waar	-	-
+9	ik	-	-
+10	in	-	-
+11	wegzakte	-	-
+12	,	-	-
+13	nog	-	-
+14	nooit	-	-
+15	had	-	-
+16	ik	-	-
+17	in	-	-
+18	zoo'n	-	-
+19	stoel	-	-
+20	gezeten	-	-
+21	.	-	-
+
+# 79-14
+0	Hoyer	B-AGENT	1
+1	schilderde	REALIS	-
+2	tegenwoordig	O	-
+3	portretten	B-PATIENT	1
+4	,	O	-
+5	dames	B-PATIENT	11
+6	en	I-PATIENT	11
+7	heeren	I-PATIENT	11
+8	,	O	-
+9	allemaal	O	-
+10	netjes	O	-
+11	aangekleed	REALIS	-
+12	.	O	-
+
+# 79-15
+0	Hij	B-AGENT	12
+1	liet	O	-
+2	me	O	-
+3	ook	O	-
+4	een	O	-
+5	pas	O	-
+6	begonnen	O	-
+7	portret	O	-
+8	van	O	-
+9	de	O	-
+10	vrouwelijke	O	-
+11	advocaat	O	-
+12	zien	REALIS	-
+13	.	O	-
+
+# 79-16
+0	Zij	-	-
+1	was	-	-
+2	nu	-	-
+3	op	-	-
+4	reis	-	-
+5	.	-	-
+
+# 79-17
+0	Eerst	O	-
+1	had	O	-
+2	Hoyer	B-AGENT	6
+3	z'n	O	-
+4	atelier	O	-
+5	buitenshuis	O	-
+6	gehad	REALIS	-
+7	,	O	-
+8	maar	O	-
+9	de	B-AGENT	15
+10	advocate	I-AGENT	15
+11	had	O	-
+12	"	O	-
+13	mevrouw	B-PATIENT	15,18
+14	"	O	-
+15	overgehaald	REALIS	-
+16	toe	O	-
+17	te	O	-
+18	staan	REALIS	-
+19	,	O	-
+20	dat	O	-
+21	een	B-PATIENT	29
+22	deel	I-PATIENT	29
+23	van	I-PATIENT	29
+24	de	I-PATIENT	29
+25	zolder	I-PATIENT	29
+26	voor	I-PATIENT	29
+27	atelier	I-PATIENT	29
+28	werd	O	-
+29	vertimmerd	REALIS	-
+30	.	O	-
+
+# 79-18
+0	Dat	-	-
+1	overhalen	-	-
+2	had	-	-
+3	eenige	-	-
+4	moeite	-	-
+5	gekost	-	-
+6	en	-	-
+7	was	-	-
+8	pas	-	-
+9	gelukt	-	-
+10	,	-	-
+11	toen	-	-
+12	de	-	-
+13	weduwe	-	-
+14	had	-	-
+15	gehoord	-	-
+16	,	-	-
+17	dat	-	-
+18	Hoyer	-	-
+19	het	-	-
+20	portret	-	-
+21	zou	-	-
+22	schilderen	-	-
+23	van	-	-
+24	een	-	-
+25	juffrouw	-	-
+26	van	-	-
+27	den	-	-
+28	Willemsparkweg	-	-
+29	met	-	-
+30	winterhoed	-	-
+31	,	-	-
+32	boa	-	-
+33	en	-	-
+34	mof	-	-
+35	.	-	-
+
+# 79-19
+0	En	-	-
+1	de	-	-
+2	rest	-	-
+3	van	-	-
+4	haar	-	-
+5	kleeren	-	-
+6	natuurlijk	-	-
+7	.	-	-
+
+# 79-20
+0	En	O	-
+1	dat	O	-
+2	hij	B-PATIENT	3
+3	voorgedragen	REALIS	-
+4	was	O	-
+5	als	O	-
+6	lid	O	-
+7	van	O	-
+8	"	O	-
+9	Arti	O	-
+10	"	O	-
+11	.	O	-
+
+# 80-1
+0	Of	O	-
+1	Bavink	B-AGENT	5
+2	wel	O	-
+3	eens	O	-
+4	hier	O	-
+5	kwam	IRREALIS	-
+6	?	O	-
+
+# 80-2
+0	Nooit	O	-
+1	,	O	-
+2	hij	B-AGENT	7
+3	was	O	-
+4	er	O	-
+5	nog	O	-
+6	niet	O	-
+7	geweest	IRREALIS	-
+8	.	O	-
+
+# 80-3
+0	En	O	-
+1	of	O	-
+2	hij	B-AGENT	10
+3	nog	O	-
+4	wel	O	-
+5	eens	O	-
+6	iets	O	-
+7	van	O	-
+8	Kees	O	-
+9	had	O	-
+10	gehoord	IRREALIS	-
+11	?	O	-
+
+# 80-4
+0	Ja	-	-
+1	,	-	-
+2	Bavink	-	-
+3	had	-	-
+4	hem	-	-
+5	een	-	-
+6	tijdje	-	-
+7	geleden	-	-
+8	op	-	-
+9	straat	-	-
+10	gesproken	-	-
+11	.	-	-
+
+# 80-5
+0	Drie	O	-
+1	of	O	-
+2	vier	O	-
+3	betrekkingen	O	-
+4	had	O	-
+5	Kees	B-AGENT	10,19
+6	in	O	-
+7	een	O	-
+8	paar	O	-
+9	jaar	O	-
+10	versleten	REALIS	-
+11	en	O	-
+12	daar	O	-
+13	tusschendoor	O	-
+14	was	O	-
+15	hij	O	-
+16	lange	O	-
+17	tijden	O	-
+18	werkeloos	O	-
+19	geweest	REALIS	-
+20	.	O	-
+
+# 80-6
+0	Z'n	B-AGENT	8
+1	vader	I-AGENT	8
+2	had	O	-
+3	eindelijk	O	-
+4	een	O	-
+5	betrekkinkje	O	-
+6	voor	O	-
+7	'm	O	-
+8	gevonden	REALIS	-
+9	bij	O	-
+10	de	O	-
+11	gasfabriek	O	-
+12	.	O	-
+
+# 81-1
+0	"	O	-
+1	Hij	B-AGENT	2
+2	loopt	REALIS	-
+3	nu	O	-
+4	met	O	-
+5	een	O	-
+6	uniformpet	O	-
+7	op	O	-
+8	met	O	-
+9	drie	O	-
+10	kruisjes	O	-
+11	en	O	-
+12	G.	O	-
+13	G.	O	-
+14	boven	O	-
+15	z'n	O	-
+16	voorhoofd	O	-
+17	en	O	-
+18	een	O	-
+19	boekje	O	-
+20	onder	O	-
+21	z'n	O	-
+22	arm	O	-
+23	.	O	-
+
+# 81-2
+0	En	O	-
+1	een	O	-
+2	vent	O	-
+3	bij	O	-
+4	'm	O	-
+5	met	O	-
+6	een	O	-
+7	zwarte	O	-
+8	zak	O	-
+9	.	O	-
+10	"	O	-
+
+# 81-3
+0	Bavink	-	-
+1	had	-	-
+2	't	-	-
+3	een	-	-
+4	heel	-	-
+5	gezicht	-	-
+6	gevonden	-	-
+7	.	-	-
+
+# 81-4
+0	Hij	B-AGENT	8
+1	moet	O	-
+2	de	B-PATIENT	8
+3	halve	I-PATIENT	8
+4	stuivers	I-PATIENT	8
+5	uit	O	-
+6	de	O	-
+7	muntmeters	O	-
+8	halen	IRREALIS	-
+9	en	O	-
+10	de	B-AGENT	15
+11	andere	I-AGENT	15
+12	vent	I-AGENT	15
+13	moet	O	-
+14	die	O	-
+15	dragen	IRREALIS	-
+16	in	O	-
+17	dien	O	-
+18	zak	O	-
+19	.	O	-
+
+# 81-5
+0	En	O	-
+1	als	O	-
+2	ze	B-AGENT	10
+3	de	B-PATIENT	10
+4	halve	I-PATIENT	10
+5	stuivers	I-PATIENT	10
+6	uit	O	-
+7	de	O	-
+8	meter	O	-
+9	hebben	O	-
+10	gehaald	IRREALIS	-
+11	,	O	-
+12	dan	O	-
+13	moet	O	-
+14	Kees	B-AGENT	15
+15	vragen	REALIS	-
+16	of	O	-
+17	de	B-AGENT	25
+18	juffrouw	I-AGENT	25
+19	die	B-PATIENT	25
+20	halve	I-PATIENT	25
+21	stuivers	I-PATIENT	25
+22	weer	O	-
+23	in	O	-
+24	wil	O	-
+25	wisselen	IRREALIS	-
+26	.	O	-
+
+# 81-6
+0	Hij	B-AGENT	1
+1	klaagde	REALIS	-
+2	dat	O	-
+3	-ie	O	-
+4	zoo	O	-
+5	weinig	O	-
+6	verdiende	O	-
+7	.	O	-
+
+# 81-7
+0	Bavink	B-AGENT	7
+1	was	O	-
+2	een	O	-
+3	eindje	O	-
+4	met	O	-
+5	'm	O	-
+6	mee	O	-
+7	gegaan	REALIS	-
+8	,	O	-
+9	hij	B-AGENT	16
+10	had	O	-
+11	nog	O	-
+12	nooit	O	-
+13	naast	O	-
+14	zoo	O	-
+15	iemand	O	-
+16	geloopen	IRREALIS	-
+17	.	O	-
+
+# 81-8
+0	Maar	O	-
+1	't	O	-
+2	had	O	-
+3	hem	B-AGENT	5
+4	gauw	O	-
+5	verveeld	REALIS	-
+6	.	O	-
+
+# 81-9
+0	Hij	B-AGENT	1
+1	deed	IRREALIS	-
+2	't	O	-
+3	nooit	O	-
+4	weer	O	-
+5	.	O	-
+
+# 81-10
+0	Ik	B-AGENT	1,12
+1	tuurde	REALIS	-
+2	naar	O	-
+3	't	B-AGENT	10
+4	Bokharakleedje	I-AGENT	10
+5	,	O	-
+6	dat	O	-
+7	voor	O	-
+8	den	O	-
+9	clubstoel	O	-
+10	lag	REALIS	-
+11	en	O	-
+12	zag	REALIS	-
+13	heel	O	-
+14	duidelijk	O	-
+15	de	B-PATIENT	12
+16	verlaten	I-PATIENT	12
+17	keien	I-PATIENT	12
+18	van	I-PATIENT	12
+19	de	I-PATIENT	12
+20	Linnaeusstraat	I-PATIENT	12
+21	en	O	-
+22	den	B-PATIENT	12
+23	hardsteenen	I-PATIENT	12
+24	trottoirband	I-PATIENT	12
+25	en	O	-
+26	de	B-PATIENT	12
+27	voeg	I-PATIENT	12
+28	,	O	-
+29	waar	O	-
+30	twee	B-AGENT	35
+31	stukken	I-AGENT	35
+32	daarvan	I-AGENT	35
+33	tegen	O	-
+34	elkaar	O	-
+35	gezet	REALIS	-
+36	waren	O	-
+37	en	O	-
+38	de	O	-
+39	klinkertjes	O	-
+40	van	O	-
+41	't	O	-
+42	trottoir	O	-
+43	.	O	-
+
+# 81-11
+0	En	O	-
+1	ik	B-AGENT	2
+2	zag	REALIS	-
+3	ons	B-AGENT	5
+4	daar	O	-
+5	zitten	REALIS	-
+6	in	O	-
+7	de	O	-
+8	zomernacht	O	-
+9	.	O	-
+
+# 81-12
+0	Bavink	-	-
+1	en	-	-
+2	Bekker	-	-
+3	en	-	-
+4	Kees	-	-
+5	en	-	-
+6	Hoyer	-	-
+7	en	-	-
+8	mijzelf	-	-
+9	.	-	-
+
+# 81-13
+0	Ik	B-AGENT	1
+1	zag	REALIS	-
+2	dat	O	-
+3	de	B-AGENT	9
+4	keien	I-AGENT	9
+5	en	O	-
+6	't	O	-
+7	stof	O	-
+8	nat	O	-
+9	waren	REALIS	-
+10	,	O	-
+11	de	B-AGENT	17
+12	sproeiwagen	I-AGENT	17
+13	was	O	-
+14	er	O	-
+15	over	O	-
+16	heen	O	-
+17	gegaan	REALIS	-
+18	,	O	-
+19	ergens	O	-
+20	lag	REALIS	-
+21	een	B-AGENT	20
+22	nat	I-AGENT	20
+23	stuk	I-AGENT	20
+24	krant	I-AGENT	20
+25	.	O	-
+
+# 81-14
+0	En	O	-
+1	ik	B-AGENT	2
+2	hoorde	REALIS	-
+3	Hoyer	B-AGENT	4,8
+4	zeggen	REALIS	-
+5	,	O	-
+6	dat	O	-
+7	-ie	O	-
+8	opstond	REALIS	-
+9	,	O	-
+10	want	O	-
+11	dat	O	-
+12	die	B-AGENT	16
+13	blauwe	I-AGENT	16
+14	steen	I-AGENT	16
+15	zoo	O	-
+16	optrok	REALIS	-
+17	.	O	-
+
+# 81-15
+0	En	O	-
+1	nu	O	-
+2	hoorde	REALIS	-
+3	ik	B-AGENT	2
+4	weer	O	-
+5	diezelfde	O	-
+6	stem	O	-
+7	,	O	-
+8	maar	O	-
+9	wat	O	-
+10	beschaafder	O	-
+11	,	O	-
+12	met	O	-
+13	wat	O	-
+14	meer	O	-
+15	modulatie	O	-
+16	:	O	-
+17	"	O	-
+18	Je	B-AGENT	21
+19	zult	O	-
+20	me	B-PATIENT	21
+21	excuseeren	IRREALIS	-
+22	,	O	-
+23	Koekebakker	O	-
+24	,	O	-
+25	om	O	-
+26	elf	O	-
+27	uur	O	-
+28	heb	REALIS	-
+29	ik	B-AGENT	28
+30	een	O	-
+31	conferentie	O	-
+32	.	O	-
+33	"	O	-
+
+# 82-1
+0	Buiten	O	-
+1	scheen	REALIS	-
+2	de	B-AGENT	1
+3	lentezon	I-AGENT	1
+4	in	O	-
+5	de	O	-
+6	troostelooze	O	-
+7	straat	O	-
+8	.	O	-
+
+# 82-2
+0	Mijn	O	-
+1	God	O	-
+2	,	O	-
+3	hoe	O	-
+4	kon	O	-
+5	zoo'n	B-AGENT	7
+6	straat	I-AGENT	7
+7	bestaan	IRREALIS	-
+8	.	O	-
+
+# 82-3
+0	't	-	-
+1	Meisje	-	-
+2	in	-	-
+3	de	-	-
+4	tram	-	-
+5	had	-	-
+6	ik	-	-
+7	vast	-	-
+8	niet	-	-
+9	mogen	-	-
+10	zoenen	-	-
+11	,	-	-
+12	maar	-	-
+13	zoo'n	-	-
+14	straat	-	-
+15	mocht	-	-
+16	bestaan	-	-
+17	.	-	-
+
+# 82-4
+0	Dat	O	-
+1	mocht	O	-
+2	.	O	-
+
+# 83-1
+0	XI	O	-
+1	.	O	-
+
+# 84-1
+0	Op	O	-
+1	een	O	-
+2	van	O	-
+3	de	O	-
+4	grachten	O	-
+5	was	REALIS	-
+6	't	O	-
+7	.	O	-
+
+# 84-2
+0	Ik	B-AGENT	1,6
+1	stond	REALIS	-
+2	op	O	-
+3	de	O	-
+4	stoep	O	-
+5	en	O	-
+6	las	REALIS	-
+7	:	O	-
+8	"	O	-
+9	P.	O	-
+10	Bekker	O	-
+11	,	O	-
+12	Agentuur	O	-
+13	en	O	-
+14	Commissiehandel	O	-
+15	.	O	-
+16	"	O	-
+
+# 84-3
+0	Ik	B-AGENT	1,3
+1	schelde	REALIS	-
+2	en	O	-
+3	wachtte	REALIS	-
+4	.	O	-
+
+# 84-4
+0	't	O	-
+1	Duurde	REALIS	-
+2	nog	O	-
+3	al	O	-
+4	lang	O	-
+5	.	O	-
+
+# 84-5
+0	Toen	-	-
+1	ging	-	-
+2	de	-	-
+3	bovenste	-	-
+4	helft	-	-
+5	van	-	-
+6	de	-	-
+7	deur	-	-
+8	open	-	-
+9	en	-	-
+10	ik	-	-
+11	zag	-	-
+12	een	-	-
+13	jongmensch	-	-
+14	met	-	-
+15	een	-	-
+16	vierkant	-	-
+17	hoofd	-	-
+18	.	-	-
+
+# 84-6
+0	"	-	-
+1	Is	-	-
+2	m'nheer	-	-
+3	Bekker	-	-
+4	op	-	-
+5	kantoor	-	-
+6	?	-	-
+7	"	-	-
+
+# 84-7
+0	Raar	O	-
+1	klonk	REALIS	-
+2	dat	O	-
+3	.	O	-
+
+# 84-8
+0	En	-	-
+1	terwijl	-	-
+2	't	-	-
+3	jonge	-	-
+4	mensch	-	-
+5	met	-	-
+6	eenige	-	-
+7	moeite	-	-
+8	de	-	-
+9	onderdeur	-	-
+10	open	-	-
+11	maakte	-	-
+12	,	-	-
+13	herinnerde	-	-
+14	ik	-	-
+15	me	-	-
+16	hoe	-	-
+17	vroeger	-	-
+18	de	-	-
+19	straatdeur	-	-
+20	werd	-	-
+21	opengetrokken	-	-
+22	zonder	-	-
+23	dat	-	-
+24	je	-	-
+25	iemand	-	-
+26	zag	-	-
+27	en	-	-
+28	dat	-	-
+29	ik	-	-
+30	dan	-	-
+31	riep	-	-
+32	"	-	-
+33	Hallo	-	-
+34	Bekker	-	-
+35	!	-	-
+36	"	-	-
+
+# 84-9
+0	"	O	-
+1	Is	IRREALIS	-
+2	mijnheer	B-AGENT	1
+3	op	O	-
+4	kantoor	O	-
+5	?	O	-
+6	"	O	-
+
+# 84-10
+0	Er	O	-
+1	was	REALIS	-
+2	iemand	O	-
+3	bij	O	-
+4	mijnheer	O	-
+5	.	O	-
+
+# 84-11
+0	In	O	-
+1	den	O	-
+2	marmeren	O	-
+3	gang	O	-
+4	stond	REALIS	-
+5	een	B-AGENT	4
+6	groote	I-AGENT	4
+7	rol	I-AGENT	4
+8	loopergoed	I-AGENT	4
+9	.	O	-
+
+# 84-12
+0	"	O	-
+1	Wie	O	-
+2	kan	O	-
+3	ik	B-AGENT	4
+4	zeggen	IRREALIS	-
+5	dat	O	-
+6	er	O	-
+7	is	O	-
+8	?	O	-
+9	"	O	-
+
+# 84-13
+0	"	O	-
+1	Koekebakker	O	-
+2	.	O	-
+3	"	O	-
+
+# 84-14
+0	"	O	-
+1	Wilt	O	-
+2	u	B-AGENT	5
+3	mij	B-PATIENT	5
+4	maar	O	-
+5	volgen	IRREALIS	-
+6	?	O	-
+7	"	O	-
+
+# 84-15
+0	't	B-AGENT	3
+1	Jonge	I-AGENT	3
+2	mensch	I-AGENT	3
+3	ging	REALIS	-
+4	mij	O	-
+5	voor	O	-
+6	,	O	-
+7	een	B-PATIENT	3,15
+8	smalle	I-PATIENT	3,15
+9	trap	I-PATIENT	3,15
+10	op	O	-
+11	,	O	-
+12	die	O	-
+13	ettelijke	O	-
+14	malen	O	-
+15	draaide	REALIS	-
+16	.	O	-
+
+# 84-16
+0	Boven	-	-
+1	,	-	-
+2	aan	-	-
+3	't	-	-
+4	eind	-	-
+5	van	-	-
+6	een	-	-
+7	nauwen	-	-
+8	donkeren	-	-
+9	gang	-	-
+10	stond	-	-
+11	hij	-	-
+12	stil	-	-
+13	.	-	-
+
+# 84-17
+0	In	O	-
+1	't	O	-
+2	schemerige	O	-
+3	licht	O	-
+4	kon	O	-
+5	ik	B-AGENT	14
+6	nog	O	-
+7	net	O	-
+8	even	O	-
+9	't	O	-
+10	woord	O	-
+11	"	O	-
+12	Monsterkamer	O	-
+13	"	O	-
+14	lezen	REALIS	-
+15	.	O	-
+
+# 84-18
+0	"	O	-
+1	Moet	O	-
+2	ik	B-AGENT	4
+3	hier	O	-
+4	zijn	IRREALIS	-
+5	vriend	O	-
+6	?	O	-
+7	"	O	-
+8	vroeg	REALIS	-
+9	ik	B-AGENT	8,11
+10	en	O	-
+11	wees	REALIS	-
+12	naar	O	-
+13	dat	O	-
+14	woord	O	-
+15	.	O	-
+
+# 84-19
+0	Ik	B-AGENT	1
+1	zag	REALIS	-
+2	dat	O	-
+3	de	B-AGENT	8
+4	vriend	I-AGENT	8
+5	mij	O	-
+6	een	O	-
+7	rare	O	-
+8	vond	REALIS	-
+9	.	O	-
+
+# 84-20
+0	"	O	-
+1	Dat	B-AGENT	2
+2	staat	REALIS	-
+3	er	O	-
+4	nog	O	-
+5	van	O	-
+6	vroeger	O	-
+7	,	O	-
+8	mijnheer	O	-
+9	.	O	-
+10	"	O	-
+
+# 84-21
+0	Hij	B-AGENT	1
+1	klopte	REALIS	-
+2	.	O	-
+
+# 85-1
+0	Ik	-	-
+1	hoorde	-	-
+2	Bekkers	-	-
+3	stem	-	-
+4	die	-	-
+5	"	-	-
+6	Ja	-	-
+7	"	-	-
+8	,	-	-
+9	riep	-	-
+10	.	-	-
+
+# 85-2
+0	De	B-AGENT	2
+1	vriend	I-AGENT	2
+2	ging	REALIS	-
+3	naar	O	-
+4	binnen	O	-
+5	,	O	-
+6	de	B-AGENT	8
+7	deur	I-AGENT	8
+8	ging	REALIS	-
+9	weer	O	-
+10	dicht	O	-
+11	en	O	-
+12	daar	O	-
+13	stond	REALIS	-
+14	ik	B-AGENT	13
+15	.	O	-
+
+# 86-1
+0	Of	O	-
+1	ik	B-AGENT	5
+2	zoo	O	-
+3	goed	O	-
+4	wilde	O	-
+5	zijn	REALIS	-
+6	hier	O	-
+7	even	O	-
+8	te	O	-
+9	wachten	O	-
+10	.	O	-
+
+# 86-2
+0	Ik	B-AGENT	6
+1	werd	O	-
+2	in	O	-
+3	een	O	-
+4	klein	O	-
+5	achterkantoortje	O	-
+6	gelaten	REALIS	-
+7	met	O	-
+8	een	O	-
+9	uitzicht	O	-
+10	op	O	-
+11	een	O	-
+12	blinden	O	-
+13	muur	O	-
+14	.	O	-
+
+# 86-3
+0	Aan	O	-
+1	den	O	-
+2	zolder	O	-
+3	hing	REALIS	-
+4	een	B-AGENT	3
+5	zware	I-AGENT	3
+6	rol	I-AGENT	3
+7	pakpapier	I-AGENT	3
+8	aan	O	-
+9	een	O	-
+10	spil	O	-
+11	,	O	-
+12	een	B-AGENT	15
+13	eind	I-AGENT	15
+14	papier	I-AGENT	15
+15	hing	REALIS	-
+16	naar	O	-
+17	beneden	O	-
+18	boven	O	-
+19	een	O	-
+20	groote	O	-
+21	,	O	-
+22	leege	O	-
+23	paktafel	O	-
+24	.	O	-
+
+# 86-4
+0	't	-	-
+1	Jongmensch	-	-
+2	ging	-	-
+3	aan	-	-
+4	een	-	-
+5	lessenaartje	-	-
+6	zitten	-	-
+7	,	-	-
+8	dat	-	-
+9	tegen	-	-
+10	't	-	-
+11	raam	-	-
+12	stond	-	-
+13	en	-	-
+14	begon	-	-
+15	te	-	-
+16	tikken	-	-
+17	op	-	-
+18	een	-	-
+19	schrijfmachine	-	-
+20	met	-	-
+21	z'n	-	-
+22	rug	-	-
+23	naar	-	-
+24	me	-	-
+25	toe	-	-
+26	.	-	-
+
+# 86-5
+0	Ik	B-AGENT	1
+1	zag	REALIS	-
+2	't	B-PATIENT	1,5,8,13
+3	stuk	I-PATIENT	1,5,8,13
+4	papier	I-PATIENT	1,5,8,13
+5	hangen	REALIS	-
+6	,	O	-
+7	ik	B-AGENT	8
+8	zag	REALIS	-
+9	dat	O	-
+10	't	O	-
+11	schuin	O	-
+12	was	O	-
+13	afgescheurd	REALIS	-
+14	,	O	-
+15	ik	B-AGENT	16
+16	keek	REALIS	-
+17	op	O	-
+18	den	O	-
+19	breeden	O	-
+20	bollen	O	-
+21	rug	O	-
+22	en	O	-
+23	de	O	-
+24	bonkige	O	-
+25	schouders	O	-
+26	van	O	-
+27	den	O	-
+28	kantoorbediende	O	-
+29	en	O	-
+30	naar	O	-
+31	den	O	-
+32	blinden	O	-
+33	muur	O	-
+34	.	O	-
+
+# 86-6
+0	Een	B-AGENT	4,19
+1	van	I-AGENT	4,19
+2	de	I-AGENT	4,19
+3	baksteenen	I-AGENT	4,19
+4	was	REALIS	-
+5	kapot	O	-
+6	en	O	-
+7	van	O	-
+8	binnen	O	-
+9	donkerrood	O	-
+10	;	O	-
+11	dat	B-AGENT	14
+12	brok	I-AGENT	14
+13	steen	I-AGENT	14
+14	was	REALIS	-
+15	't	O	-
+16	mooiste	O	-
+17	dat	O	-
+18	ik	B-AGENT	19
+19	zag	REALIS	-
+20	.	O	-
+
+# 87-1
+0	De	-	-
+1	bediende	-	-
+2	tikte	-	-
+3	maar	-	-
+4	,	-	-
+5	God	-	-
+6	weet	-	-
+7	wat	-	-
+8	-ie	-	-
+9	tikte	-	-
+10	.	-	-
+
+# 87-2
+0	Als	O	-
+1	-ie	B-AGENT	3
+2	even	O	-
+3	ophield	IRREALIS	-
+4	,	O	-
+5	hoorde	REALIS	-
+6	ik	B-AGENT	5
+7	de	O	-
+8	stemmen	O	-
+9	van	O	-
+10	twee	O	-
+11	menschen	O	-
+12	door	O	-
+13	de	O	-
+14	gesloten	O	-
+15	deur	O	-
+16	,	O	-
+17	ik	B-AGENT	18
+18	herkende	REALIS	-
+19	't	O	-
+20	geluid	O	-
+21	van	O	-
+22	Bekker	O	-
+23	,	O	-
+24	maar	O	-
+25	de	O	-
+26	woorden	O	-
+27	verstond	IRREALIS	-
+28	ik	B-AGENT	27
+29	niet	O	-
+30	.	O	-
+
+# 87-3
+0	Twintig	O	-
+1	minuten	O	-
+2	zat	REALIS	-
+3	ik	B-AGENT	2,6
+4	daar	O	-
+5	te	O	-
+6	sterven	REALIS	-
+7	.	O	-
+
+# 87-4
+0	"	O	-
+1	Per	O	-
+2	me	O	-
+3	si	O	-
+4	va	O	-
+5	nella	O	-
+6	città	O	-
+7	dolente	O	-
+8	.	O	-
+9	"	O	-
+
+# 88-1
+0	Toen	O	-
+1	ging	REALIS	-
+2	de	B-AGENT	1
+3	deur	I-AGENT	1
+4	open	O	-
+5	en	O	-
+6	Bekker	B-AGENT	7
+7	verscheen	REALIS	-
+8	.	O	-
+
+# 88-2
+0	Hij	B-AGENT	1
+1	was	REALIS	-
+2	zenuwachtig	O	-
+3	en	O	-
+4	verlegen	O	-
+5	.	O	-
+
+# 88-3
+0	Hoe	O	-
+1	het	O	-
+2	mij	B-AGENT	3
+3	ging	IRREALIS	-
+4	.	O	-
+
+# 88-4
+0	Ik	B-AGENT	1
+1	zag	REALIS	-
+2	er	O	-
+3	goed	O	-
+4	uit	O	-
+5	.	O	-
+
+# 88-5
+0	Het	O	-
+1	speet	REALIS	-
+2	hem	B-AGENT	1
+3	vreeselijk	O	-
+4	.	O	-
+
+# 88-6
+0	Hij	B-AGENT	1
+1	had	REALIS	-
+2	een	O	-
+3	klant	O	-
+4	over	O	-
+5	uit	O	-
+6	Bordeaux	O	-
+7	.	O	-
+
+# 88-7
+0	Die	B-AGENT	4,9
+1	mijnheer	I-AGENT	4,9
+2	was	O	-
+3	speciaal	O	-
+4	overgekomen	REALIS	-
+5	om	O	-
+6	met	O	-
+7	hem	O	-
+8	te	O	-
+9	spreken	REALIS	-
+10	.	O	-
+
+# 88-8
+0	Hij	B-AGENT	1
+1	geloofde	IRREALIS	-
+2	niet	O	-
+3	,	O	-
+4	dat	O	-
+5	hij	B-AGENT	12
+6	hem	B-PATIENT	12
+7	voor	O	-
+8	vanavond	O	-
+9	laat	O	-
+10	kwijt	O	-
+11	zou	O	-
+12	raken	IRREALIS	-
+13	...	O	-
+
+# 88-9
+0	"	O	-
+1	Je	B-AGENT	2
+2	begrijpt	IRREALIS	-
+3	-	O	-
+4	kerel	B-AGENT	6
+5	wat	O	-
+6	zie	IRREALIS	-
+7	je	O	-
+8	d'r	O	-
+9	toch	O	-
+10	goed	O	-
+11	uit	O	-
+12	.	O	-
+
+# 88-10
+0	Kom	-	-
+1	je	-	-
+2	nu	-	-
+3	van	-	-
+4	Algiers	-	-
+5	?	-	-
+6	"	-	-
+
+# 88-11
+0	Ik	B-AGENT	1
+1	begreep	REALIS	-
+2	't	O	-
+3	volkomen	O	-
+4	.	O	-
+
+# 88-12
+0	Ja	-	-
+1	,	-	-
+2	ik	-	-
+3	kwam	-	-
+4	van	-	-
+5	Algiers	-	-
+6	.	-	-
+
+# 88-13
+0	"	O	-
+1	Waar	O	-
+2	logeer	IRREALIS	-
+3	je	B-AGENT	2
+4	,	O	-
+5	als	O	-
+6	't	O	-
+7	kan	IRREALIS	-
+8	,	O	-
+9	kom	IRREALIS	-
+10	ik	B-AGENT	9
+11	vanavond	O	-
+12	om	O	-
+13	9	O	-
+14	uur	O	-
+15	bij	O	-
+16	je	B-PATIENT	9
+17	.	O	-
+18	"	O	-
+
+# 88-14
+0	Ik	B-AGENT	1
+1	logeerde	IRREALIS	-
+2	nergens	O	-
+3	,	O	-
+4	mijn	B-AGENT	6
+5	geld	I-AGENT	6
+6	was	IRREALIS	-
+7	op	O	-
+8	,	O	-
+9	maar	O	-
+10	dat	O	-
+11	kun	O	-
+12	je	B-AGENT	15
+13	toch	O	-
+14	niet	O	-
+15	zeggen	IRREALIS	-
+16	op	O	-
+17	een	O	-
+18	kantoor	O	-
+19	,	O	-
+20	waar	O	-
+21	een	B-AGENT	24
+22	vreemde	I-AGENT	24
+23	bij	O	-
+24	is	REALIS	-
+25	.	O	-
+
+# 88-15
+0	Ik	B-AGENT	1
+1	zei	REALIS	-
+2	maar	O	-
+3	dat	O	-
+4	ik	B-AGENT	8
+5	't	O	-
+6	nog	O	-
+7	niet	O	-
+8	wist	IRREALIS	-
+9	,	O	-
+10	ik	B-AGENT	11
+11	kwam	REALIS	-
+12	nog	O	-
+13	wel	O	-
+14	eens	O	-
+15	aan	O	-
+16	.	O	-
+
+# 88-16
+0	"	O	-
+1	Ik	B-AGENT	2
+2	hoop	REALIS	-
+3	dat	O	-
+4	je	B-AGENT	8
+5	't	O	-
+6	dan	O	-
+7	beter	O	-
+8	treft	IRREALIS	-
+9	.	O	-
+10	"	O	-
+
+# 88-17
+0	Ik	-	-
+1	wist	-	-
+2	dat	-	-
+3	-ie	-	-
+4	dat	-	-
+5	zeggen	-	-
+6	zou	-	-
+7	.	-	-
+
+# 88-18
+0	D'r	O	-
+1	zijn	REALIS	-
+2	zoo	B-AGENT	1
+3	van	I-AGENT	1
+4	die	I-AGENT	1
+5	gesprekken	I-AGENT	1
+6	onder	I-AGENT	1
+7	nette	I-AGENT	1
+8	lui	I-AGENT	1
+9	,	O	-
+10	waarbij	O	-
+11	je	B-AGENT	16
+12	heelemaal	O	-
+13	niet	O	-
+14	hoeft	O	-
+15	te	O	-
+16	luisteren	IRREALIS	-
+17	.	O	-
+
+# 89-1
+0	Hij	B-AGENT	1
+1	bracht	REALIS	-
+2	me	B-PATIENT	1
+3	tot	O	-
+4	de	O	-
+5	straatdeur	O	-
+6	.	O	-
+
+# 89-2
+0	Hij	B-AGENT	1
+1	vond	REALIS	-
+2	't	O	-
+3	verdomd	O	-
+4	beroerd	O	-
+5	.	O	-
+
+# 89-3
+0	Ik	B-AGENT	1
+1	keek	REALIS	-
+2	naar	O	-
+3	't	O	-
+4	bordje	O	-
+5	,	O	-
+6	"	O	-
+7	P.	O	-
+8	Bekker	O	-
+9	,	O	-
+10	Agentuur	O	-
+11	en	O	-
+12	commissiehandel	O	-
+13	"	O	-
+14	en	O	-
+15	toen	O	-
+16	naar	O	-
+17	z'n	O	-
+18	oogen	O	-
+19	.	O	-
+
+# 90-1
+0	En	O	-
+1	toen	O	-
+2	zag	REALIS	-
+3	ik	B-AGENT	2
+4	dat	O	-
+5	ook	O	-
+6	hij	B-AGENT	11
+7	plotseling	O	-
+8	weer	O	-
+9	die	O	-
+10	koe	O	-
+11	hoorde	REALIS	-
+12	loeien	O	-
+13	,	O	-
+14	die	O	-
+15	tien	O	-
+16	jaar	O	-
+17	geleden	O	-
+18	geloeid	REALIS	-
+19	had	O	-
+20	in	O	-
+21	de	O	-
+22	schemering	O	-
+23	,	O	-
+24	de	B-AGENT	18,28,31
+25	koe	I-AGENT	18,28,31
+26	die	O	-
+27	je	B-AGENT	28,31
+28	hoorde	REALIS	-
+29	en	O	-
+30	niet	O	-
+31	zag	IRREALIS	-
+32	.	O	-
+
+# 91-1
+0	Wij	B-AGENT	1
+1	gaven	REALIS	-
+2	elkaar	O	-
+3	de	O	-
+4	hand	O	-
+5	.	O	-
+
+# 91-2
+0	"	O	-
+1	Per	O	-
+2	me	O	-
+3	si	O	-
+4	va	O	-
+5	tra	O	-
+6	la	O	-
+7	perduta	O	-
+8	gente	O	-
+9	,	O	-
+10	Koekebakker	O	-
+11	.	O	-
+12	"	O	-
+
+# 91-3
+0	Hij	B-AGENT	1,7
+1	hield	REALIS	-
+2	mijn	O	-
+3	hand	O	-
+4	nog	O	-
+5	vast	O	-
+6	en	O	-
+7	legde	REALIS	-
+8	z'n	B-PATIENT	7
+9	andere	I-PATIENT	7
+10	hand	I-PATIENT	7
+11	op	O	-
+12	m'n	O	-
+13	schouder	O	-
+14	.	O	-
+
+# 91-4
+0	"	O	-
+1	Zeg	IRREALIS	-
+2	eens	O	-
+3	,	O	-
+4	als	O	-
+5	je	B-AGENT	8
+6	geld	O	-
+7	noodig	O	-
+8	hebt	IRREALIS	-
+9	?	O	-
+10	"	O	-
+
+# 92-1
+0	Ik	-	-
+1	ging	-	-
+2	de	-	-
+3	stoep	-	-
+4	af	-	-
+5	,	-	-
+6	de	-	-
+7	klant	-	-
+8	stond	-	-
+9	voor	-	-
+10	't	-	-
+11	raam	-	-
+12	met	-	-
+13	z'n	-	-
+14	handen	-	-
+15	in	-	-
+16	z'n	-	-
+17	zijden	-	-
+18	,	-	-
+19	de	-	-
+20	beenen	-	-
+21	van	-	-
+22	elkaar	-	-
+23	en	-	-
+24	keek	-	-
+25	naar	-	-
+26	buiten	-	-
+27	.	-	-
+
+# 92-2
+0	Rijk	O	-
+1	en	O	-
+2	welverzorgd	O	-
+3	zag	REALIS	-
+4	hij	B-AGENT	3
+5	er	O	-
+6	uit	O	-
+7	.	O	-
+
+# 92-3
+0	Ik	B-AGENT	1
+1	nam	REALIS	-
+2	eerbiedig	O	-
+3	mijn	B-PATIENT	1
+4	hoed	I-PATIENT	1
+5	voor	O	-
+6	'm	O	-
+7	af	O	-
+8	en	O	-
+9	hij	B-AGENT	10
+10	groette	REALIS	-
+11	terug	O	-
+12	,	O	-
+13	beleefd	O	-
+14	en	O	-
+15	minzaam	O	-
+16	.	O	-
+
+# 93-1
+0	XII	O	-
+1	.	O	-
+
+# 94-1
+0	Ik	-	-
+1	kom	-	-
+2	nu	-	-
+3	zoo	-	-
+4	gaandeweg	-	-
+5	tot	-	-
+6	't	-	-
+7	einde	-	-
+8	.	-	-
+
+# 94-2
+0	Goddank	O	-
+1	,	O	-
+2	zal	O	-
+3	hier	O	-
+4	of	O	-
+5	daar	O	-
+6	iemand	O	-
+7	zeggen	IRREALIS	-
+8	.	O	-
+
+# 94-3
+0	Och	O	-
+1	,	O	-
+2	ik	B-AGENT	3
+3	wist	REALIS	-
+4	vooruit	O	-
+5	dat	O	-
+6	't	B-AGENT	11
+7	op	O	-
+8	niet	O	-
+9	veel	O	-
+10	zou	O	-
+11	uitloopen	IRREALIS	-
+12	.	O	-
+
+# 94-4
+0	Waar	O	-
+1	loopt	IRREALIS	-
+2	tegenwoordig	O	-
+3	't	B-AGENT	1
+4	leven	I-AGENT	1
+5	van	I-AGENT	1
+6	een	I-AGENT	1
+7	Amsterdammer	I-AGENT	1
+8	op	O	-
+9	uit	O	-
+10	?	O	-
+
+# 94-5
+0	In	-	-
+1	mijn	-	-
+2	jongenstijd	-	-
+3	heb	-	-
+4	ik	-	-
+5	vaak	-	-
+6	genoeg	-	-
+7	gewenscht	-	-
+8	,	-	-
+9	dat	-	-
+10	er	-	-
+11	nu	-	-
+12	eindelijk	-	-
+13	eens	-	-
+14	iets	-	-
+15	zou	-	-
+16	gebeuren	-	-
+17	.	-	-
+
+# 94-6
+0	Maar	-	-
+1	er	-	-
+2	gebeurde	-	-
+3	nooit	-	-
+4	iets	-	-
+5	.	-	-
+
+# 94-7
+0	Zelfs	-	-
+1	verhuisd	-	-
+2	zijn	-	-
+3	we	-	-
+4	nooit	-	-
+5	.	-	-
+
+# 94-8
+0	En	O	-
+1	later	O	-
+2	...	O	-
+3	.	O	-
+
+# 95-1
+0	Alleen	O	-
+1	Hoyer	B-AGENT	2
+2	weet	REALIS	-
+3	waar	O	-
+4	de	B-AGENT	7
+5	boel	I-AGENT	7
+6	op	O	-
+7	uitloopt	REALIS	-
+8	.	O	-
+
+# 95-2
+0	Hij	B-AGENT	3,5
+1	heeft	O	-
+2	wat	O	-
+3	geërfd	REALIS	-
+4	en	O	-
+5	zit	REALIS	-
+6	flink	O	-
+7	in	O	-
+8	de	O	-
+9	duiten	O	-
+10	.	O	-
+
+# 95-3
+0	Hij	B-AGENT	1,10
+1	is	REALIS	-
+2	lid	O	-
+3	van	O	-
+4	de	O	-
+5	S.	O	-
+6	D.	O	-
+7	A.	O	-
+8	P.	O	-
+9	en	O	-
+10	leest	REALIS	-
+11	"	O	-
+12	Het	O	-
+13	Volk	O	-
+14	"	O	-
+15	.	O	-
+
+# 95-4
+0	's	O	-
+1	Avonds	O	-
+2	zit	REALIS	-
+3	-ie	B-AGENT	2,8
+4	op	O	-
+5	't	O	-
+6	Leesmuseum	O	-
+7	en	O	-
+8	leest	REALIS	-
+9	't	B-PATIENT	8
+10	Berliner	I-PATIENT	8
+11	Tageblatt	I-PATIENT	8
+12	.	O	-
+
+# 95-5
+0	Schilderen	IRREALIS	-
+1	doet	IRREALIS	-
+2	-ie	B-AGENT	1
+3	niet	O	-
+4	meer	O	-
+5	.	O	-
+
+# 95-6
+0	Hij	-	-
+1	weet	-	-
+2	ook	-	-
+3	waarom	-	-
+4	hij	-	-
+5	niet	-	-
+6	meer	-	-
+7	schildert	-	-
+8	:	-	-
+9	wij	-	-
+10	zijn	-	-
+11	in	-	-
+12	een	-	-
+13	tijd	-	-
+14	van	-	-
+15	verval	-	-
+16	.	-	-
+
+# 95-7
+0	Een	B-AGENT	3
+1	nieuwe	I-AGENT	3
+2	kunst	I-AGENT	3
+3	is	REALIS	-
+4	in	O	-
+5	opkomst	O	-
+6	.	O	-
+
+# 95-8
+0	Daar	O	-
+1	wacht	REALIS	-
+2	-ie	B-AGENT	1
+3	zeker	O	-
+4	op	O	-
+5	.	O	-
+
+# 95-9
+0	Hij	B-AGENT	1
+1	brengt	REALIS	-
+2	ondertusschen	O	-
+3	Kunst	O	-
+4	aan	O	-
+5	het	O	-
+6	Volk	O	-
+7	,	O	-
+8	hoe	O	-
+9	,	O	-
+10	dat	O	-
+11	weet	IRREALIS	-
+12	ik	B-AGENT	11
+13	niet	O	-
+14	.	O	-
+
+# 95-10
+0	Een	B-AGENT	5
+1	metselaar	I-AGENT	5
+2	heeft	O	-
+3	hem	O	-
+4	eens	O	-
+5	gevraagd	REALIS	-
+6	,	O	-
+7	"	O	-
+8	wat	O	-
+9	-ie	B-AGENT	13
+10	voor	O	-
+11	die	O	-
+12	smoessies	O	-
+13	kocht	IRREALIS	-
+14	.	O	-
+15	"	O	-
+
+# 95-11
+0	Ook	O	-
+1	daarvoor	O	-
+2	had	REALIS	-
+3	Hoyer	B-AGENT	2
+4	een	O	-
+5	verklaring	O	-
+6	"	O	-
+7	Wij	B-AGENT	10
+8	sociaal	O	-
+9	democraten	O	-
+10	weten	IRREALIS	-
+11	maar	O	-
+12	al	O	-
+13	te	O	-
+14	goed	O	-
+15	-	O	-
+16	"	O	-
+
+# 96-1
+0	Hij	-	-
+1	zegt	-	-
+2	een	-	-
+3	boel	-	-
+4	dingen	-	-
+5	,	-	-
+6	die	-	-
+7	erg	-	-
+8	waar	-	-
+9	zijn	-	-
+10	en	-	-
+11	als	-	-
+12	je	-	-
+13	denkt	-	-
+14	,	-	-
+15	"	-	-
+16	nou	-	-
+17	wordt	-	-
+18	't	-	-
+19	interessant	-	-
+20	"	-	-
+21	,	-	-
+22	dan	-	-
+23	gaat	-	-
+24	-ie	-	-
+25	niet	-	-
+26	verder	-	-
+27	.	-	-
+
+# 96-2
+0	Op	O	-
+1	een	O	-
+2	middag	O	-
+3	in	O	-
+4	"	O	-
+5	Polen	O	-
+6	"	O	-
+7	,	O	-
+8	sprak	REALIS	-
+9	-ie	B-AGENT	8
+10	heel	O	-
+11	veel	O	-
+12	over	O	-
+13	"	O	-
+14	proletarisch	O	-
+15	sentiment	O	-
+16	"	O	-
+17	en	O	-
+18	"	O	-
+19	burgerlijke	O	-
+20	ideologieën	O	-
+21	.	O	-
+22	"	O	-
+
+# 96-3
+0	Ik	B-AGENT	1
+1	luisterde	REALIS	-
+2	maar	O	-
+3	naar	O	-
+4	'm	O	-
+5	.	O	-
+
+# 96-4
+0	Eén	O	-
+1	keer	O	-
+2	heb	O	-
+3	ik	B-AGENT	6
+4	tegen	O	-
+5	'm	O	-
+6	gezegd	REALIS	-
+7	:	O	-
+8	"	O	-
+9	't	O	-
+10	Is	IRREALIS	-
+11	toch	O	-
+12	mooi	O	-
+13	dat	O	-
+14	je	B-AGENT	18
+15	alles	O	-
+16	zoo	O	-
+17	zeker	O	-
+18	weten	IRREALIS	-
+19	kunt	O	-
+20	.	O	-
+21	"	O	-
+
+# 96-5
+0	Hij	B-AGENT	1
+1	ging	REALIS	-
+2	daar	O	-
+3	direct	O	-
+4	op	O	-
+5	in	O	-
+6	en	O	-
+7	ik	B-AGENT	18
+8	kon	O	-
+9	in	O	-
+10	een	O	-
+11	half	O	-
+12	uur	O	-
+13	niet	O	-
+14	meer	O	-
+15	aan	O	-
+16	't	O	-
+17	woord	O	-
+18	komen	IRREALIS	-
+19	.	O	-
+
+# 96-6
+0	En	O	-
+1	't	O	-
+2	is	O	-
+3	inderdaad	O	-
+4	heel	O	-
+5	mooi	O	-
+6	voor	O	-
+7	iemand	O	-
+8	die	O	-
+9	zijn	O	-
+10	heele	O	-
+11	leven	O	-
+12	lang	O	-
+13	te	O	-
+14	doen	O	-
+15	heeft	O	-
+16	wat	O	-
+17	een	B-AGENT	20
+18	ander	I-AGENT	20
+19	'm	B-PATIENT	20
+20	commandeert	IRREALIS	-
+21	,	O	-
+22	zonder	O	-
+23	dat	O	-
+24	-ie	B-AGENT	29,33,38,44
+25	er	O	-
+26	zelf	O	-
+27	veel	O	-
+28	van	O	-
+29	snapt	IRREALIS	-
+30	en	O	-
+31	voortdurend	O	-
+32	wordt	O	-
+33	gesnauwd	IRREALIS	-
+34	en	O	-
+35	altijd	O	-
+36	margarine	O	-
+37	moet	O	-
+38	eten	IRREALIS	-
+39	en	O	-
+40	in	O	-
+41	de	O	-
+42	benauwde	O	-
+43	luchten	O	-
+44	wonen	IRREALIS	-
+45	.	O	-
+
+# 96-7
+0	Als	O	-
+1	ik	B-AGENT	5
+2	maar	O	-
+3	een	O	-
+4	beetje	O	-
+5	twijfelen	IRREALIS	-
+6	mocht	O	-
+7	,	O	-
+8	dan	O	-
+9	zou	O	-
+10	ik	B-AGENT	20
+11	ook	O	-
+12	wel	O	-
+13	lid	O	-
+14	van	O	-
+15	de	O	-
+16	S.	O	-
+17	D.	O	-
+18	A.	O	-
+19	P.	O	-
+20	worden	IRREALIS	-
+21	.	O	-
+
+# 96-8
+0	Eén	O	-
+1	geluk	O	-
+2	:	O	-
+3	de	B-AGENT	12,14
+4	menschen	I-AGENT	12,14
+5	,	O	-
+6	die	O	-
+7	altijd	O	-
+8	in	O	-
+9	de	O	-
+10	benauwde	O	-
+11	luchten	O	-
+12	verkeeren	REALIS	-
+13	,	O	-
+14	hebben	IRREALIS	-
+15	me	O	-
+16	niet	O	-
+17	noodig	O	-
+18	.	O	-
+
+# 96-9
+0	En	O	-
+1	misschien	O	-
+2	zou	O	-
+3	't	O	-
+4	zonder	O	-
+5	Hoyer	O	-
+6	ook	O	-
+7	nog	O	-
+8	wel	O	-
+9	gaan	IRREALIS	-
+10	.	O	-
+
+# 96-10
+0	'k	O	-
+1	Zal	O	-
+2	toch	O	-
+3	eens	O	-
+4	informeeren	IRREALIS	-
+5	of	O	-
+6	't	O	-
+7	mag	O	-
+8	,	O	-
+9	dat	O	-
+10	twijfelen	O	-
+11	.	O	-
+
+# 96-11
+0	Met	-	-
+1	den	-	-
+2	agentuur	-	-
+3	en	-	-
+4	commissiehandel	-	-
+5	is	-	-
+6	't	-	-
+7	slecht	-	-
+8	gegaan	-	-
+9	.	-	-
+
+# 96-12
+0	Die	B-AGENT	2
+1	commissiehandel	I-AGENT	2
+2	was	REALIS	-
+3	heelemaal	O	-
+4	larie	O	-
+5	,	O	-
+6	dat	O	-
+7	had	O	-
+8	Bekker	B-AGENT	12
+9	er	O	-
+10	maar	O	-
+11	bij	O	-
+12	laten	REALIS	-
+13	zetten	REALIS	-
+14	omdat	O	-
+15	't	O	-
+16	goed	O	-
+17	stond	REALIS	-
+18	.	O	-
+
+# 96-13
+0	En	O	-
+1	iemand	B-AGENT	4,8
+2	die	O	-
+3	Dante	B-PATIENT	4
+4	vertaald	REALIS	-
+5	heeft	O	-
+6	en	O	-
+7	gedichtjes	O	-
+8	gemaakt	REALIS	-
+9	,	O	-
+10	al	O	-
+11	zijn	IRREALIS	-
+12	't	O	-
+13	er	O	-
+14	maar	O	-
+15	dertien	O	-
+16	,	O	-
+17	die	B-AGENT	26
+18	moet	O	-
+19	geen	O	-
+20	agent	O	-
+21	van	O	-
+22	binnen-	O	-
+23	en	O	-
+24	buitenlandsche	O	-
+25	huizen	O	-
+26	worden	IRREALIS	-
+27	.	O	-
+
+# 96-14
+0	Op	O	-
+1	een	O	-
+2	regenachtigen	O	-
+3	Decemberdag	O	-
+4	,	O	-
+5	toen	O	-
+6	de	B-PATIENT	12
+7	lantaarns	I-PATIENT	12
+8	op	I-PATIENT	12
+9	de	I-PATIENT	12
+10	gracht	I-PATIENT	12
+11	werden	O	-
+12	opgestoken	REALIS	-
+13	,	O	-
+14	vond	REALIS	-
+15	ik	B-AGENT	14
+16	Bekker	B-AGENT	21
+17	scheef	O	-
+18	aan	O	-
+19	z'n	O	-
+20	lessenaar	O	-
+21	zitten	REALIS	-
+22	met	O	-
+23	z'n	O	-
+24	hand	O	-
+25	onder	O	-
+26	z'n	O	-
+27	hoofd	O	-
+28	.	O	-
+
+# 96-15
+0	De	B-AGENT	2
+1	kamer	I-AGENT	2
+2	was	REALIS	-
+3	half	O	-
+4	donker	O	-
+5	.	O	-
+
+# 96-16
+0	Hij	-	-
+1	bewoog	-	-
+2	niet	-	-
+3	.	-	-
+
+# 96-17
+0	Ik	B-AGENT	1
+1	stak	REALIS	-
+2	't	B-PATIENT	1
+3	gas	I-PATIENT	1
+4	op	O	-
+5	.	O	-
+
+# 96-18
+0	De	B-AGENT	2
+1	prullemand	I-AGENT	2
+2	stond	REALIS	-
+3	achter	O	-
+4	'm	O	-
+5	en	O	-
+6	daarin	O	-
+7	lag	REALIS	-
+8	al	O	-
+9	z'n	B-AGENT	7
+10	post	I-AGENT	7
+11	van	I-AGENT	7
+12	drie	I-AGENT	7
+13	dagen	I-AGENT	7
+14	,	O	-
+15	ongeopend	O	-
+16	.	O	-
+
+# 96-19
+0	Met	-	-
+1	z'n	-	-
+2	elleboog	-	-
+3	had	-	-
+4	-ie	-	-
+5	de	-	-
+6	heele	-	-
+7	rommel	-	-
+8	erin	-	-
+9	geschoven	-	-
+10	,	-	-
+11	opzettelijk	-	-
+12	,	-	-
+13	zonder	-	-
+14	er	-	-
+15	naar	-	-
+16	te	-	-
+17	kijken	-	-
+18	.	-	-
+
+# 96-20
+0	Z'n	B-PATIENT	7
+1	bediende	I-PATIENT	7
+2	had	O	-
+3	-ie	B-AGENT	7
+4	maanden	O	-
+5	geleden	O	-
+6	gedaan	O	-
+7	gegeven	REALIS	-
+8	,	O	-
+9	de	B-PATIENT	13
+10	telefoon	I-PATIENT	13
+11	hadden	O	-
+12	ze	B-AGENT	13
+13	weggenomen	REALIS	-
+14	.	O	-
+
+# 96-21
+0	Daar	O	-
+1	zat	REALIS	-
+2	-ie	B-AGENT	1
+3	.	O	-
+
+# 96-22
+0	Aan	O	-
+1	de	O	-
+2	muur	O	-
+3	hing	REALIS	-
+4	een	B-AGENT	3
+5	lijst	I-AGENT	3
+6	met	I-AGENT	3
+7	afvaarten	I-AGENT	3
+8	van	I-AGENT	3
+9	stoombooten	B-AGENT	3,18,24
+10	,	O	-
+11	waarvan	O	-
+12	de	O	-
+13	laatste	O	-
+14	al	O	-
+15	weer	O	-
+16	lang	O	-
+17	was	O	-
+18	binnengekomen	REALIS	-
+19	en	O	-
+20	na	O	-
+21	dien	O	-
+22	tijd	O	-
+23	weer	O	-
+24	uitgevaren	REALIS	-
+25	,	O	-
+26	herhaalde	REALIS	-
+27	malen	O	-
+28	.	O	-
+
+# 96-23
+0	En	O	-
+1	op	O	-
+2	den	B-PATIENT	4
+3	schoorsteen	I-PATIENT	4
+4	stond	REALIS	-
+5	een	B-AGENT	4
+6	dik	I-AGENT	4
+7	boek	I-AGENT	4
+8	,	O	-
+9	een	O	-
+10	prachtuitgave	O	-
+11	van	O	-
+12	de	O	-
+13	Divina	O	-
+14	Commedia	O	-
+15	.	O	-
+
+# 97-1
+0	Buiten	O	-
+1	stonden	REALIS	-
+2	de	B-AGENT	1,24
+3	lantaarns	I-AGENT	1,24
+4	te	O	-
+5	branden	O	-
+6	,	O	-
+7	bleek	O	-
+8	en	O	-
+9	vreemd	O	-
+10	in	O	-
+11	't	O	-
+12	laatste	O	-
+13	daglicht	O	-
+14	,	O	-
+15	als	O	-
+16	een	O	-
+17	wonderlijke	O	-
+18	vergissing	O	-
+19	,	O	-
+20	zooals	O	-
+21	ze	O	-
+22	zoo	O	-
+23	dikwijls	O	-
+24	gestaan	REALIS	-
+25	hadden	O	-
+26	.	O	-
+
+# 97-2
+0	Een	O	-
+1	wonderlijke	O	-
+2	vergissing	O	-
+3	leek	REALIS	-
+4	alles	O	-
+5	.	O	-
+
+# 98-1
+0	Nu	O	-
+1	zit	REALIS	-
+2	Bekker	B-AGENT	1
+3	weer	O	-
+4	ergens	O	-
+5	op	O	-
+6	een	O	-
+7	kantoortje	O	-
+8	.	O	-
+
+# 98-2
+0	Hij	-	-
+1	heeft	-	-
+2	een	-	-
+3	goeie	-	-
+4	baas	-	-
+5	,	-	-
+6	die	-	-
+7	hem	-	-
+8	respecteert	-	-
+9	,	-	-
+10	omdat	-	-
+11	hij	-	-
+12	Dante	-	-
+13	vertaald	-	-
+14	heeft	-	-
+15	.	-	-
+
+# 98-3
+0	Op	O	-
+1	mooie	O	-
+2	dagen	O	-
+3	stuurt	REALIS	-
+4	-ie	B-AGENT	3
+5	Bekker	B-PATIENT	3
+6	's	O	-
+7	middags	O	-
+8	weg	O	-
+9	,	O	-
+10	dan	O	-
+11	mag	O	-
+12	-ie	B-AGENT	18
+13	een	O	-
+14	beetje	O	-
+15	in	O	-
+16	't	O	-
+17	zonnetje	O	-
+18	wandelen	REALIS	-
+19	.	O	-
+
+# 99-1
+0	Aan	-	-
+1	den	-	-
+2	drank	-	-
+3	is	-	-
+4	Bekker	-	-
+5	niet	-	-
+6	gegaan	-	-
+7	.	-	-
+
+# 99-2
+0	Hij	B-AGENT	1,5
+1	lost	REALIS	-
+2	schaakproblemen	B-PATIENT	1
+3	op	O	-
+4	of	O	-
+5	slaapt	REALIS	-
+6	.	O	-
+
+# 99-3
+0	Een	O	-
+1	voorstelling	O	-
+2	van	O	-
+3	de	O	-
+4	toekomst	O	-
+5	heeft	IRREALIS	-
+6	-ie	B-AGENT	5
+7	niet	O	-
+8	.	O	-
+
+# 99-4
+0	Hij	B-AGENT	1
+1	verlangt	IRREALIS	-
+2	zelfs	O	-
+3	niet	O	-
+4	naar	O	-
+5	zes	O	-
+6	uur	O	-
+7	.	O	-
+
+# 99-5
+0	Dat	-	-
+1	geeft	-	-
+2	toch	-	-
+3	niets	-	-
+4	.	-	-
+
+# 99-6
+0	Z'n	B-PATIENT	2
+1	tractement	I-PATIENT	2
+2	beurt	REALIS	-
+3	-ie	B-AGENT	2
+4	met	O	-
+5	een	O	-
+6	weemoedig	O	-
+7	welbehagen	O	-
+8	,	O	-
+9	met	O	-
+10	weemoedig	O	-
+11	welbehagen	O	-
+12	koopt	REALIS	-
+13	-ie	B-AGENT	12
+14	er	O	-
+15	dassen	B-PATIENT	12
+16	en	I-PATIENT	12
+17	schoenen	I-PATIENT	12
+18	voor	O	-
+19	.	O	-
+
+# 99-7
+0	Z'n	B-PATIENT	4
+1	kleeren	I-PATIENT	4
+2	zijn	O	-
+3	netjes	O	-
+4	geborsteld	REALIS	-
+5	.	O	-
+
+# 99-8
+0	Bij	-	-
+1	tijden	-	-
+2	is	-	-
+3	hij	-	-
+4	een	-	-
+5	weinig	-	-
+6	ingenomen	-	-
+7	met	-	-
+8	zichzelf	-	-
+9	,	-	-
+10	om	-	-
+11	dat	-	-
+12	-ie	-	-
+13	vroeger	-	-
+14	"	-	-
+15	een	-	-
+16	geestelijk	-	-
+17	leven	-	-
+18	geleid	-	-
+19	heeft	-	-
+20	.	-	-
+21	"	-	-
+
+# 100-1
+0	Hij	B-AGENT	1
+1	ziet	REALIS	-
+2	nog	O	-
+3	weleens	O	-
+4	een	B-PATIENT	1
+5	schilderijtje	I-PATIENT	1
+6	.	O	-
+
+# 100-2
+0	Onlangs	-	-
+1	kwam	-	-
+2	ik	-	-
+3	hem	-	-
+4	nog	-	-
+5	eens	-	-
+6	tegen	-	-
+7	.	-	-
+
+# 100-3
+0	Toen	O	-
+1	had	REALIS	-
+2	-ie	B-AGENT	1
+3	't	O	-
+4	over	O	-
+5	de	O	-
+6	intocht	O	-
+7	van	O	-
+8	de	O	-
+9	koningin	O	-
+10	,	O	-
+11	dat	O	-
+12	schilderijtje	O	-
+13	van	O	-
+14	Eerelman	O	-
+15	,	O	-
+16	waar	O	-
+17	't	B-PATIENT	25
+18	woord	I-PATIENT	25
+19	"	I-PATIENT	25
+20	Odol	I-PATIENT	25
+21	"	I-PATIENT	25
+22	zoo	O	-
+23	natuurlijk	O	-
+24	op	O	-
+25	geschilderd	REALIS	-
+26	staat	O	-
+27	.	O	-
+
+# 100-4
+0	Hij	B-AGENT	1
+1	vroeg	REALIS	-
+2	of	O	-
+3	't	O	-
+4	niet	O	-
+5	een	B-AGENT	8
+6	mooi	I-AGENT	8
+7	schilderij	I-AGENT	8
+8	was	IRREALIS	-
+9	om	O	-
+10	in	O	-
+11	een	O	-
+12	deftige	O	-
+13	apotheek	O	-
+14	op	O	-
+15	te	O	-
+16	hangen	O	-
+17	.	O	-
+
+# 101-1
+0	Kees	B-AGENT	1,8
+1	loopt	REALIS	-
+2	nog	O	-
+3	altijd	O	-
+4	voor	O	-
+5	de	O	-
+6	gasfabriek	O	-
+7	en	O	-
+8	verkeert	REALIS	-
+9	in	O	-
+10	de	O	-
+11	benauwde	O	-
+12	luchten	O	-
+13	,	O	-
+14	waar	O	-
+15	ik	B-AGENT	21
+16	't	O	-
+17	zoo	O	-
+18	even	O	-
+19	ook	O	-
+20	over	O	-
+21	gehad	REALIS	-
+22	heb	O	-
+23	.	O	-
+
+# 101-2
+0	Hij	B-AGENT	1
+1	weet	IRREALIS	-
+2	niet	O	-
+3	waar	O	-
+4	't	B-AGENT	9
+5	volgende	I-AGENT	9
+6	kind	I-AGENT	9
+7	zal	O	-
+8	moeten	O	-
+9	slapen	IRREALIS	-
+10	.	O	-
+
+# 101-3
+0	De	B-AGENT	2
+1	kinderen	I-AGENT	2
+2	zijn	REALIS	-
+3	nu	O	-
+4	nog	O	-
+5	klein	O	-
+6	,	O	-
+7	maar	O	-
+8	over	O	-
+9	een	O	-
+10	jaar	O	-
+11	of	O	-
+12	wat	O	-
+13	kibbelen	REALIS	-
+14	ze	B-AGENT	13
+15	's	O	-
+16	morgens	O	-
+17	bij	O	-
+18	die	O	-
+19	ééne	O	-
+20	kraan	O	-
+21	en	O	-
+22	dat	O	-
+23	ééne	O	-
+24	privaat	O	-
+25	,	O	-
+26	zooals	O	-
+27	dat	O	-
+28	altijd	O	-
+29	in	O	-
+30	district	O	-
+31	III	O	-
+32	gegaan	REALIS	-
+33	is	O	-
+34	.	O	-
+
+# 101-4
+0	Hij	B-AGENT	1,20
+1	tobt	REALIS	-
+2	met	O	-
+3	wat	O	-
+4	Hoyer	B-AGENT	5
+5	noemt	REALIS	-
+6	:	O	-
+7	"	O	-
+8	't	O	-
+9	Chronische	O	-
+10	tekort	O	-
+11	in	O	-
+12	't	O	-
+13	huishouden	O	-
+14	van	O	-
+15	den	O	-
+16	werkman	O	-
+17	,	O	-
+18	"	O	-
+19	en	O	-
+20	koopt	REALIS	-
+21	alleen	O	-
+22	's	O	-
+23	Zaterdagsavonds	O	-
+24	sigaren	B-PATIENT	20
+25	.	O	-
+
+# 101-5
+0	's	O	-
+1	Zondags	O	-
+2	moet	O	-
+3	-ie	B-AGENT	6
+4	de	O	-
+5	kinderen	O	-
+6	verbieden	REALIS	-
+7	.	O	-
+
+# 101-6
+0	Hij	-	-
+1	moppert	-	-
+2	dat	-	-
+3	-ie	-	-
+4	't	-	-
+5	zooveel	-	-
+6	beter	-	-
+7	had	-	-
+8	kunnen	-	-
+9	hebben	-	-
+10	,	-	-
+11	als	-	-
+12	-ie	-	-
+13	eerder	-	-
+14	naar	-	-
+15	z'n	-	-
+16	vader	-	-
+17	geluisterd	-	-
+18	had	-	-
+19	.	-	-
+
+# 101-7
+0	Z'n	B-AGENT	2
+1	vrouw	I-AGENT	2
+2	is	REALIS	-
+3	goed	O	-
+4	voor	O	-
+5	'm	O	-
+6	.	O	-
+
+# 101-8
+0	Midden	O	-
+1	in	O	-
+2	de	O	-
+3	week	O	-
+4	heeft	REALIS	-
+5	-ie	B-AGENT	4
+6	een	O	-
+7	schoone	O	-
+8	zakdoek	O	-
+9	.	O	-
+
+# 101-9
+0	Maar	O	-
+1	ze	B-AGENT	6
+2	zal	O	-
+3	de	B-PATIENT	6
+4	lusten	I-PATIENT	6
+5	niet	O	-
+6	opwekken	IRREALIS	-
+7	van	O	-
+8	iemand	B-AGENT	14
+9	,	O	-
+10	die	O	-
+11	niet	O	-
+12	aan	O	-
+13	haar	O	-
+14	gewend	IRREALIS	-
+15	is	O	-
+16	,	O	-
+17	zooals	O	-
+18	Kees	O	-
+19	.	O	-
+
+# 101-10
+0	Zes	O	-
+1	jaar	O	-
+2	geleden	O	-
+3	was	REALIS	-
+4	dat	O	-
+5	anders	O	-
+6	.	O	-
+
+# 101-11
+0	En	-	-
+1	op	-	-
+2	zolder	-	-
+3	bij	-	-
+4	z'n	-	-
+5	vader	-	-
+6	,	-	-
+7	waar	-	-
+8	vroeger	-	-
+9	z'n	-	-
+10	hok	-	-
+11	was	-	-
+12	,	-	-
+13	daar	-	-
+14	hangen	-	-
+15	nu	-	-
+16	de	-	-
+17	onderlijfjes	-	-
+18	van	-	-
+19	z'n	-	-
+20	zusters	-	-
+21	te	-	-
+22	droogen	-	-
+23	.	-	-
+
+# 102-1
+0	XIII	O	-
+1	.	O	-
+
+# 103-1
+0	En	-	-
+1	Bavink	-	-
+2	?	-	-
+
+# 104-1
+0	Bavink	B-AGENT	9
+1	heeft	O	-
+2	't	O	-
+3	tegen	O	-
+4	die	B-PATIENT	9
+5	"	I-PATIENT	9
+6	Godverdomde	I-PATIENT	9
+7	dingen	I-PATIENT	9
+8	"	I-PATIENT	9
+9	afgelegd	REALIS	-
+10	.	O	-
+
+# 104-2
+0	Die	B-AGENT	3
+1	dingen	I-AGENT	3
+2	die	O	-
+3	geschilderd	REALIS	-
+4	wilden	O	-
+5	wezen	O	-
+6	en	O	-
+7	als	O	-
+8	je	B-AGENT	10
+9	dan	O	-
+10	dacht	REALIS	-
+11	:	O	-
+12	"	O	-
+13	dan	O	-
+14	moet	O	-
+15	't	O	-
+16	ook	O	-
+17	maar	O	-
+18	gebeuren	REALIS	-
+19	,	O	-
+20	"	O	-
+21	dan	O	-
+22	wilden	IRREALIS	-
+23	ze	B-AGENT	22
+24	weer	O	-
+25	niet	O	-
+26	.	O	-
+
+# 104-3
+0	Hij	B-AGENT	5
+1	begon	O	-
+2	wat	O	-
+3	opgang	O	-
+4	te	O	-
+5	maken	REALIS	-
+6	,	O	-
+7	toen	O	-
+8	de	B-AGENT	14
+9	strijd	I-AGENT	14
+10	al	O	-
+11	op	O	-
+12	't	O	-
+13	eind	O	-
+14	liep	REALIS	-
+15	.	O	-
+
+# 105-1
+0	Twee	O	-
+1	maanden	O	-
+2	na	O	-
+3	mijn	O	-
+4	terugkomst	O	-
+5	kwam	O	-
+6	-ie	B-AGENT	10
+7	me	O	-
+8	heel	O	-
+9	kalm	O	-
+10	vertellen	REALIS	-
+11	,	O	-
+12	dat	O	-
+13	-ie	B-AGENT	21
+14	zijn	B-PATIENT	21
+15	gezicht	I-PATIENT	21
+16	op	I-PATIENT	21
+17	Rhenen	I-PATIENT	21
+18	in	O	-
+19	stukken	O	-
+20	had	O	-
+21	gesneden	REALIS	-
+22	.	O	-
+
+# 105-2
+0	En	O	-
+1	zoo	O	-
+2	was	REALIS	-
+3	't	O	-
+4	.	O	-
+
+# 105-3
+0	De	B-PATIENT	53
+1	rivier	I-PATIENT	53
+2	,	O	-
+3	den	B-PATIENT	53
+4	berg	I-PATIENT	53
+5	,	O	-
+6	den	B-PATIENT	53
+7	Cuneratoren	I-PATIENT	53
+8	,	O	-
+9	de	B-PATIENT	53
+10	bloeiende	I-PATIENT	53
+11	appelboomen	I-PATIENT	53
+12	,	O	-
+13	de	B-PATIENT	53
+14	roode	I-PATIENT	53
+15	daken	I-PATIENT	53
+16	van	I-PATIENT	53
+17	Rhenen	I-PATIENT	53
+18	,	O	-
+19	de	B-PATIENT	53
+20	kastanjes	I-PATIENT	53
+21	met	O	-
+22	hun	O	-
+23	witte	O	-
+24	en	O	-
+25	roode	O	-
+26	bloemen	O	-
+27	,	O	-
+28	de	B-PATIENT	53
+29	bruine	I-PATIENT	53
+30	beuken	I-PATIENT	53
+31	en	O	-
+32	't	B-PATIENT	53
+33	molentje	I-PATIENT	53
+34	ergens	I-PATIENT	53
+35	in	I-PATIENT	53
+36	de	I-PATIENT	53
+37	hoogte	I-PATIENT	53
+38	,	O	-
+39	64	B-PATIENT	53
+40	gelijke	I-PATIENT	53
+41	,	I-PATIENT	53
+42	rechthoekige	I-PATIENT	53
+43	brokken	I-PATIENT	53
+44	van	I-PATIENT	53
+45	15	I-PATIENT	53
+46	bij	I-PATIENT	53
+47	12-1/2	I-PATIENT	53
+48	centimeter	I-PATIENT	53
+49	had	O	-
+50	-ie	B-AGENT	53
+51	er	O	-
+52	van	O	-
+53	gesneden	REALIS	-
+54	,	O	-
+55	met	O	-
+56	een	O	-
+57	bot	O	-
+58	knipmes	O	-
+59	.	O	-
+
+# 105-4
+0	Een	B-AGENT	5
+1	heel	I-AGENT	5
+2	werk	I-AGENT	5
+3	was	O	-
+4	't	O	-
+5	geweest	REALIS	-
+6	.	O	-
+
+# 105-5
+0	't	O	-
+1	Ding	O	-
+2	had	O	-
+3	'm	B-AGENT	4
+4	geërgerd	REALIS	-
+5	.	O	-
+
+# 105-6
+0	't	B-AGENT	1
+1	Was	IRREALIS	-
+2	niks	O	-
+3	,	O	-
+4	totaal	O	-
+5	niks	O	-
+6	,	O	-
+7	vodden	O	-
+8	.	O	-
+
+# 105-7
+0	Hij	B-AGENT	4
+1	wou	O	-
+2	van	O	-
+3	mij	O	-
+4	weten	IRREALIS	-
+5	,	O	-
+6	waarom	O	-
+7	iemand	O	-
+8	schilderde	IRREALIS	-
+9	.	O	-
+
+# 105-8
+0	Hij	-	-
+1	begreep	-	-
+2	zelf	-	-
+3	niets	-	-
+4	meer	-	-
+5	.	-	-
+
+# 105-9
+0	Hij	B-AGENT	1,6
+1	stak	REALIS	-
+2	z'n	B-PATIENT	1
+3	arm	I-PATIENT	1
+4	uit	O	-
+5	en	O	-
+6	wees	REALIS	-
+7	in	O	-
+8	de	O	-
+9	ruimte	O	-
+10	.	O	-
+
+# 105-10
+0	Dààr	O	-
+1	waren	REALIS	-
+2	de	B-AGENT	1
+3	dingen	I-AGENT	1
+4	.	O	-
+
+# 105-11
+0	Hij	B-AGENT	1
+1	sloeg	REALIS	-
+2	met	O	-
+3	z'n	O	-
+4	vuist	O	-
+5	tegen	O	-
+6	z'n	B-PATIENT	1
+7	voorhoofd	I-PATIENT	1
+8	.	O	-
+
+# 105-12
+0	En	O	-
+1	daar	O	-
+2	waren	REALIS	-
+3	ze	B-AGENT	2
+4	.	O	-
+
+# 105-13
+0	Er	O	-
+1	uit	O	-
+2	wilden	REALIS	-
+3	ze	B-AGENT	2
+4	,	O	-
+5	maar	O	-
+6	ze	B-AGENT	7
+7	deden	IRREALIS	-
+8	't	O	-
+9	niet	O	-
+10	.	O	-
+
+# 105-14
+0	Stapelgek	O	-
+1	werd	REALIS	-
+2	je	B-AGENT	1
+3	ervan	O	-
+4	.	O	-
+
+# 106-1
+0	Bijna	O	-
+1	een	O	-
+2	jaar	O	-
+3	daarna	O	-
+4	vond	REALIS	-
+5	ik	B-AGENT	4
+6	hem	B-PATIENT	4
+7	aan	O	-
+8	't	O	-
+9	Centraalstation	O	-
+10	aan	O	-
+11	de	O	-
+12	Parijzer	O	-
+13	trein	O	-
+14	van	O	-
+15	8	O	-
+16	uur	O	-
+17	.	O	-
+
+# 106-2
+0	Hij	B-AGENT	1
+1	bracht	REALIS	-
+2	een	O	-
+3	of	O	-
+4	anderen	O	-
+5	kennis	O	-
+6	weg	O	-
+7	,	O	-
+8	een	O	-
+9	haarboer	O	-
+10	met	O	-
+11	lange	O	-
+12	zwarte	O	-
+13	lokken	O	-
+14	en	O	-
+15	heel	O	-
+16	veel	O	-
+17	baard	O	-
+18	,	O	-
+19	meer	O	-
+20	haar	O	-
+21	dan	O	-
+22	mensch	O	-
+23	,	O	-
+24	en	O	-
+25	een	O	-
+26	hoog	O	-
+27	voorhoofd	O	-
+28	met	O	-
+29	niets	O	-
+30	er	O	-
+31	achter	O	-
+32	.	O	-
+
+# 106-3
+0	De	B-AGENT	3,5,17
+1	ondergaande	I-AGENT	3,5,17
+2	zon	I-AGENT	3,5,17
+3	stond	REALIS	-
+4	te	O	-
+5	schijnen	REALIS	-
+6	,	O	-
+7	groot	O	-
+8	en	O	-
+9	rood	O	-
+10	,	O	-
+11	aan	O	-
+12	't	O	-
+13	eind	O	-
+14	van	O	-
+15	de	O	-
+16	kap	O	-
+17	stond	REALIS	-
+18	-ie	O	-
+19	,	O	-
+20	er	O	-
+21	was	O	-
+22	een	O	-
+23	rossig	O	-
+24	schijnsel	O	-
+25	in	O	-
+26	de	O	-
+27	ruiten	O	-
+28	en	O	-
+29	't	O	-
+30	vernis	O	-
+31	van	O	-
+32	de	O	-
+33	spoorwagens	O	-
+34	.	O	-
+
+# 106-4
+0	Bavink	B-AGENT	1
+1	was	REALIS	-
+2	dronken	O	-
+3	.	O	-
+
+# 106-5
+0	De	B-AGENT	2,4,10
+1	trein	I-AGENT	2,4,10
+2	vertrok	REALIS	-
+3	,	O	-
+4	schoof	REALIS	-
+5	onder	O	-
+6	de	O	-
+7	kap	O	-
+8	vandaan	O	-
+9	en	O	-
+10	boog	REALIS	-
+11	even	O	-
+12	om	O	-
+13	naar	O	-
+14	links	O	-
+15	.	O	-
+
+# 106-6
+0	Bij	O	-
+1	't	O	-
+2	ombuigen	REALIS	-
+3	flikkerde	REALIS	-
+4	't	B-AGENT	3
+5	licht	I-AGENT	3
+6	fel	O	-
+7	op	O	-
+8	de	O	-
+9	wagens	O	-
+10	.	O	-
+
+# 107-1
+0	Wij	B-AGENT	1
+1	wandelden	REALIS	-
+2	naar	O	-
+3	't	O	-
+4	eind	O	-
+5	van	O	-
+6	't	O	-
+7	perron	O	-
+8	.	O	-
+
+# 107-2
+0	Een	B-PATIENT	5
+1	man	I-PATIENT	5
+2	met	I-PATIENT	5
+3	een	I-PATIENT	5
+4	seinlicht	I-PATIENT	5
+5	kwamen	REALIS	-
+6	wij	B-AGENT	5
+7	tegen	O	-
+8	,	O	-
+9	ik	B-AGENT	10
+10	zag	REALIS	-
+11	,	O	-
+12	dat	O	-
+13	hij	B-AGENT	20
+14	in	O	-
+15	't	O	-
+16	voorbijloopen	O	-
+17	naar	O	-
+18	een	B-AGENT	24,32
+19	conducteur	I-AGENT	24,32
+20	keek	REALIS	-
+21	,	O	-
+22	die	O	-
+23	daar	O	-
+24	stond	REALIS	-
+25	bij	O	-
+26	een	O	-
+27	anderen	O	-
+28	trein	O	-
+29	en	O	-
+30	een	O	-
+31	beweging	O	-
+32	maakte	REALIS	-
+33	van	O	-
+34	drinken	O	-
+35	met	O	-
+36	de	O	-
+37	hand	O	-
+38	aan	O	-
+39	den	O	-
+40	mond	O	-
+41	.	O	-
+
+# 108-1
+0	Wij	B-AGENT	1,7
+1	stonden	REALIS	-
+2	stil	O	-
+3	buiten	O	-
+4	de	O	-
+5	kap	O	-
+6	en	O	-
+7	keken	REALIS	-
+8	naar	O	-
+9	de	B-PATIENT	7
+10	zon	I-PATIENT	7
+11	.	O	-
+
+# 108-2
+0	"	O	-
+1	Zie	IRREALIS	-
+2	je	O	-
+3	die	B-PATIENT	1
+4	zon	I-PATIENT	1
+5	,	O	-
+6	Koekebakker	B-AGENT	1
+7	?	O	-
+8	"	O	-
+
+# 108-3
+0	De	B-AGENT	2,7,25
+1	zon	I-AGENT	2,7,25
+2	was	REALIS	-
+3	bijzonder	O	-
+4	duidelijk	O	-
+5	,	O	-
+6	hij	O	-
+7	stond	REALIS	-
+8	recht	O	-
+9	voor	O	-
+10	ons	O	-
+11	uit	O	-
+12	en	O	-
+13	dicht	O	-
+14	bij	O	-
+15	,	O	-
+16	zoo	O	-
+17	groot	O	-
+18	en	O	-
+19	zoo	O	-
+20	rood	O	-
+21	was	O	-
+22	-ie	O	-
+23	nog	O	-
+24	nooit	O	-
+25	geweest	IRREALIS	-
+26	.	O	-
+
+# 108-4
+0	Hij	B-AGENT	1
+1	raakte	IRREALIS	-
+2	bijna	O	-
+3	de	B-PATIENT	1
+4	rails	I-PATIENT	1
+5	van	I-PATIENT	1
+6	den	I-PATIENT	1
+7	spoorweg	I-PATIENT	1
+8	,	O	-
+9	hij	B-AGENT	10
+10	maakte	REALIS	-
+11	geen	O	-
+12	flikkeringen	O	-
+13	meer	O	-
+14	op	O	-
+15	de	O	-
+16	dingen	O	-
+17	,	O	-
+18	en	O	-
+19	alleen	O	-
+20	in	O	-
+21	de	O	-
+22	matglazen	O	-
+23	ruiten	O	-
+24	van	O	-
+25	den	O	-
+26	locomotievenstal	O	-
+27	,	O	-
+28	rechts	O	-
+29	van	O	-
+30	den	O	-
+31	spoorweg	O	-
+32	,	O	-
+33	was	REALIS	-
+34	een	B-AGENT	33
+35	dof	I-AGENT	33
+36	schijnsel	I-AGENT	33
+37	.	O	-
+
+# 108-5
+0	"	O	-
+1	Je	B-AGENT	2
+2	denkt	IRREALIS	-
+3	dat	O	-
+4	ik	B-AGENT	6
+5	dronken	O	-
+6	ben	IRREALIS	-
+7	?	O	-
+8	"	O	-
+
+# 108-6
+0	Dat	O	-
+1	dacht	REALIS	-
+2	ik	B-AGENT	1
+3	inderdaad	O	-
+4	.	O	-
+
+# 108-7
+0	"	O	-
+1	Het	O	-
+2	maakt	IRREALIS	-
+3	geen	O	-
+4	verschil	O	-
+5	,	O	-
+6	Koekebakker	O	-
+7	,	O	-
+8	als	O	-
+9	ik	B-AGENT	11
+10	nuchter	O	-
+11	ben	REALIS	-
+12	,	O	-
+13	begrijp	IRREALIS	-
+14	ik	B-AGENT	13
+15	er	O	-
+16	toch	O	-
+17	ook	O	-
+18	niks	O	-
+19	van	O	-
+20	.	O	-
+21	"	O	-
+
+# 109-1
+0	"	O	-
+1	Begrijp	IRREALIS	-
+2	jij	B-AGENT	1
+3	wat	O	-
+4	die	O	-
+5	zon	O	-
+6	van	O	-
+7	mij	O	-
+8	wil	O	-
+9	?	O	-
+
+# 109-2
+0	Vier	B-AGENT	10,15
+1	en	I-AGENT	10,15
+2	dertig	I-AGENT	10,15
+3	ondergaande	I-AGENT	10,15
+4	zonnen	I-AGENT	10,15
+5	heb	O	-
+6	ik	O	-
+7	tegen	O	-
+8	de	O	-
+9	muur	O	-
+10	staan	REALIS	-
+11	,	O	-
+12	achter	O	-
+13	elkaar	O	-
+14	,	O	-
+15	omgekeerd	REALIS	-
+16	.	O	-
+
+# 109-3
+0	En	O	-
+1	toch	O	-
+2	staat	REALIS	-
+3	-ie	B-AGENT	2
+4	daar	O	-
+5	weer	O	-
+6	iederen	O	-
+7	avond	O	-
+8	.	O	-
+9	"	O	-
+
+# 110-1
+0	"	O	-
+1	Als	O	-
+2	er	O	-
+3	geen	O	-
+4	wolken	O	-
+5	zijn	IRREALIS	-
+6	,	O	-
+7	"	O	-
+8	zei	REALIS	-
+9	ik	B-AGENT	8
+10	.	O	-
+
+# 110-2
+0	Maar	O	-
+1	hij	B-PATIENT	5
+2	liet	O	-
+3	zich	O	-
+4	niet	O	-
+5	afleiden	IRREALIS	-
+6	.	O	-
+
+# 110-3
+0	"	O	-
+1	Koekebakker	B-AGENT	8
+2	jij	O	-
+3	bent	O	-
+4	altijd	O	-
+5	mijn	O	-
+6	beste	O	-
+7	vrind	O	-
+8	geweest	REALIS	-
+9	.	O	-
+
+# 110-4
+0	Ik	B-AGENT	1
+1	ken	REALIS	-
+2	jou	O	-
+3	al	O	-
+4	-	O	-
+5	hoe	O	-
+6	lang	O	-
+7	al	O	-
+8	?	O	-
+9	"	O	-
+
+# 111-1
+0	"	O	-
+1	Omtrent	O	-
+2	dertien	O	-
+3	jaar	O	-
+4	Bavink	O	-
+5	.	O	-
+6	"	O	-
+
+# 111-2
+0	"	O	-
+1	Dertien	O	-
+2	jaar	O	-
+3	.	O	-
+
+# 111-3
+0	Dat	O	-
+1	is	REALIS	-
+2	lang	O	-
+3	.	O	-
+
+# 111-4
+0	Weet	IRREALIS	-
+1	je	B-AGENT	0
+2	wat	O	-
+3	jij	B-AGENT	4
+4	doen	IRREALIS	-
+5	moet	O	-
+6	?	O	-
+
+# 111-5
+0	Doe	IRREALIS	-
+1	me	O	-
+2	een	O	-
+3	lol	O	-
+4	.	O	-
+
+# 111-6
+0	Heb	IRREALIS	-
+1	je	B-AGENT	0
+2	een	O	-
+3	hoedendoos	O	-
+4	?	O	-
+5	"	O	-
+
+# 111-7
+0	Ik	-	-
+1	zweeg	-	-
+2	.	-	-
+
+# 112-1
+0	"	O	-
+1	Doe	IRREALIS	-
+2	'm	O	-
+3	in	O	-
+4	een	O	-
+5	hoedendoos	O	-
+6	,	O	-
+7	Koekebakker	O	-
+8	.	O	-
+
+# 112-2
+0	In	O	-
+1	een	O	-
+2	hoedendoos	O	-
+3	.	O	-
+
+# 112-3
+0	Ik	B-AGENT	4
+1	wil	O	-
+2	met	O	-
+3	vrede	O	-
+4	gelaten	IRREALIS	-
+5	worden	O	-
+6	.	O	-
+
+# 112-4
+0	Doe	IRREALIS	-
+1	'm	O	-
+2	in	O	-
+3	een	O	-
+4	hoedendoos	O	-
+5	,	O	-
+6	in	O	-
+7	een	O	-
+8	ordinaire	O	-
+9	hoedendoos	O	-
+10	.	O	-
+
+# 112-5
+0	Hij	O	-
+1	verdient	IRREALIS	-
+2	niet	O	-
+3	beter	O	-
+4	.	O	-
+5	"	O	-
+
+# 113-1
+0	Bavink	B-AGENT	1
+1	griende	REALIS	-
+2	dronkemanstranen	O	-
+3	.	O	-
+
+# 113-2
+0	Ik	B-AGENT	1
+1	keek	REALIS	-
+2	hulpeloos	O	-
+3	rond	O	-
+4	.	O	-
+
+# 113-3
+0	Een	B-AGENT	12,17
+1	heer	I-AGENT	12,17
+2	in	I-AGENT	12,17
+3	een	I-AGENT	12,17
+4	uniformjas	I-AGENT	12,17
+5	en	I-AGENT	12,17
+6	met	I-AGENT	12,17
+7	gele	I-AGENT	12,17
+8	biezen	I-AGENT	12,17
+9	om	I-AGENT	12,17
+10	z'n	I-AGENT	12,17
+11	pet	I-AGENT	12,17
+12	kwam	REALIS	-
+13	op	O	-
+14	ons	O	-
+15	af	O	-
+16	en	O	-
+17	sprak	REALIS	-
+18	mij	B-PATIENT	17
+19	aan	O	-
+20	.	O	-
+
+# 114-1
+0	"	O	-
+1	Ik	B-AGENT	2
+2	geloof	REALIS	-
+3	mijnheer	O	-
+4	,	O	-
+5	dat	O	-
+6	u	B-AGENT	8
+7	beter	O	-
+8	doet	IRREALIS	-
+9	,	O	-
+10	als	O	-
+11	u	B-AGENT	16
+12	dezen	B-PATIENT	16
+13	heer	I-PATIENT	16
+14	naar	O	-
+15	huis	O	-
+16	brengt	IRREALIS	-
+17	.	O	-
+18	"	O	-
+
+# 115-1
+0	Ik	B-AGENT	1,3
+1	salueerde	REALIS	-
+2	en	O	-
+3	gaf	REALIS	-
+4	Bavink	O	-
+5	een	B-PATIENT	3
+6	arm	I-PATIENT	3
+7	.	O	-
+
+# 115-2
+0	Hij	B-AGENT	1
+1	ging	REALIS	-
+2	gewillig	O	-
+3	mee	O	-
+4	.	O	-
+
+# 115-3
+0	In	O	-
+1	de	O	-
+2	huurauto	O	-
+3	viel	REALIS	-
+4	-ie	B-AGENT	3
+5	in	O	-
+6	slaap	O	-
+7	.	O	-
+
+# 115-4
+0	Op	O	-
+1	de	O	-
+2	Nieuwe	O	-
+3	Zijds-Voorburgwal	O	-
+4	werd	REALIS	-
+5	-ie	B-AGENT	4,20
+6	even	O	-
+7	wakker	O	-
+8	toen	O	-
+9	wij	B-AGENT	13
+10	door	O	-
+11	een	O	-
+12	kuil	O	-
+13	reden	REALIS	-
+14	en	O	-
+15	wilde	O	-
+16	weer	O	-
+17	over	O	-
+18	die	O	-
+19	hoedendoos	O	-
+20	beginnen	IRREALIS	-
+21	.	O	-
+
+# 115-5
+0	Maar	O	-
+1	meteen	O	-
+2	viel	REALIS	-
+3	-ie	B-AGENT	2
+4	weer	O	-
+5	in	O	-
+6	slaap	O	-
+7	.	O	-
+
+# 116-1
+0	Op	-	-
+1	een	-	-
+2	morgen	-	-
+3	zat	-	-
+4	-ie	-	-
+5	wezenloos	-	-
+6	te	-	-
+7	staren	-	-
+8	voor	-	-
+9	z'n	-	-
+10	laatste	-	-
+11	zonsondergang	-	-
+12	.	-	-
+
+# 116-2
+0	Ik	B-AGENT	1
+1	kwam	REALIS	-
+2	op	O	-
+3	z'n	O	-
+4	hok	O	-
+5	met	O	-
+6	Hoyer	O	-
+7	.	O	-
+
+# 116-3
+0	Hij	B-AGENT	1
+1	herkende	IRREALIS	-
+2	ons	O	-
+3	niet	O	-
+4	.	O	-
+
+# 116-4
+0	Hij	B-AGENT	1
+1	keek	REALIS	-
+2	maar	O	-
+3	naar	O	-
+4	die	B-AGENT	18
+5	zon	I-AGENT	18
+6	,	O	-
+7	een	O	-
+8	groote	O	-
+9	,	O	-
+10	koude	O	-
+11	,	O	-
+12	roode	O	-
+13	zon	O	-
+14	,	O	-
+15	die	O	-
+16	in	O	-
+17	wolken	O	-
+18	onderging	REALIS	-
+19	.	O	-
+
+# 117-1
+0	"	-	-
+1	Hij	-	-
+2	kijkt	-	-
+3	me	-	-
+4	maar	-	-
+5	aan	-	-
+6	,	-	-
+7	wij	-	-
+8	begrijpen	-	-
+9	geen	-	-
+10	van	-	-
+11	beiden	-	-
+12	wat	-	-
+13	we	-	-
+14	van	-	-
+15	elkaar	-	-
+16	moeten	-	-
+17	.	-	-
+18	"	-	-
+
+# 117-2
+0	Verder	O	-
+1	kwam	IRREALIS	-
+2	-ie	B-AGENT	1
+3	niet	O	-
+4	.	O	-
+
+# 118-1
+0	Hij	B-AGENT	1
+1	is	REALIS	-
+2	nu	O	-
+3	in	O	-
+4	een	O	-
+5	gesticht	O	-
+6	voor	O	-
+7	zenuwpatienten	O	-
+8	.	O	-
+
+# 118-2
+0	Hij	B-AGENT	1
+1	is	REALIS	-
+2	heel	O	-
+3	rustig	O	-
+4	.	O	-
+
+# 118-3
+0	Hij	B-AGENT	1,10,15,20
+1	kijkt	REALIS	-
+2	maar	O	-
+3	naar	O	-
+4	boven	O	-
+5	,	O	-
+6	naar	O	-
+7	de	O	-
+8	lucht	O	-
+9	of	O	-
+10	tuurt	REALIS	-
+11	naar	O	-
+12	den	O	-
+13	horizon	O	-
+14	of	O	-
+15	zit	REALIS	-
+16	in	O	-
+17	de	O	-
+18	zon	O	-
+19	te	O	-
+20	staren	REALIS	-
+21	tot	O	-
+22	z'n	B-AGENT	25
+23	oogen	I-AGENT	25
+24	pijn	O	-
+25	doen	REALIS	-
+26	.	O	-
+
+# 118-4
+0	Dat	O	-
+1	mag	IRREALIS	-
+2	-ie	B-AGENT	1
+3	niet	O	-
+4	,	O	-
+5	maar	O	-
+6	ze	B-AGENT	11
+7	kunnen	O	-
+8	niets	O	-
+9	met	O	-
+10	'm	O	-
+11	beginnen	IRREALIS	-
+12	.	O	-
+
+# 118-5
+0	Aan	O	-
+1	't	O	-
+2	praten	O	-
+3	kunnen	O	-
+4	ze	B-AGENT	7
+5	'm	O	-
+6	niet	O	-
+7	krijgen	IRREALIS	-
+8	.	O	-
+
+# 118-6
+0	Z'n	B-AGENT	2
+1	schilderijen	I-AGENT	2
+2	doen	REALIS	-
+3	tegenwoordig	O	-
+4	aardige	O	-
+5	prijzen	O	-
+6	.	O	-
+
+# 118-7
+0	En	O	-
+1	Koekebakkertje	B-AGENT	8
+2	is	O	-
+3	een	O	-
+4	wijs	O	-
+5	en	O	-
+6	bedaard	O	-
+7	man	O	-
+8	geworden	REALIS	-
+9	.	O	-
+
+# 118-8
+0	Hij	B-AGENT	1,4,9
+1	schrijft	REALIS	-
+2	maar	O	-
+3	,	O	-
+4	ontvangt	REALIS	-
+5	z'n	B-PATIENT	4
+6	schamel	I-PATIENT	4
+7	loon	I-PATIENT	4
+8	en	O	-
+9	geeft	IRREALIS	-
+10	geen	O	-
+11	ergernis	O	-
+12	.	O	-
+
+# 119-1
+0	Gods	B-AGENT	4
+1	troon	I-AGENT	4
+2	is	O	-
+3	nog	O	-
+4	ongeschokt	REALIS	-
+5	.	O	-
+
+# 119-2
+0	Zijn	B-AGENT	2
+1	wereld	I-AGENT	2
+2	gaat	IRREALIS	-
+3	haar	O	-
+4	gang	O	-
+5	maar	O	-
+6	.	O	-
+
+# 119-3
+0	Af	O	-
+1	en	O	-
+2	toe	O	-
+3	glimlacht	REALIS	-
+4	God	B-AGENT	3
+5	even	O	-
+6	om	O	-
+7	de	B-AGENT	12
+8	gewichtige	I-AGENT	12
+9	heeren	I-AGENT	12
+10	,	O	-
+11	die	O	-
+12	denken	REALIS	-
+13	dat	O	-
+14	ze	O	-
+15	heel	O	-
+16	wat	O	-
+17	beteekenen	O	-
+18	.	O	-
+
+# 119-4
+0	Nieuwe	B-AGENT	2,10,17,28
+1	Titaantjes	I-AGENT	2,10,17,28
+2	zijn	REALIS	-
+3	al	O	-
+4	weer	O	-
+5	bezig	O	-
+6	kleine	B-PATIENT	10
+7	rotsblokjes	I-PATIENT	10
+8	op	O	-
+9	te	O	-
+10	stapelen	REALIS	-
+11	om	O	-
+12	'm	B-PATIENT	17
+13	van	O	-
+14	z'n	O	-
+15	verhevenheid	O	-
+16	te	O	-
+17	storten	REALIS	-
+18	en	O	-
+19	dan	O	-
+20	de	B-PATIENT	28
+21	wereld	I-PATIENT	28
+22	eens	O	-
+23	naar	O	-
+24	hun	O	-
+25	zin	O	-
+26	in	O	-
+27	te	O	-
+28	richten	REALIS	-
+29	.	O	-
+
+# 119-5
+0	Hij	B-AGENT	1,4
+1	lacht	REALIS	-
+2	maar	O	-
+3	en	O	-
+4	denkt	REALIS	-
+5	:	O	-
+6	"	O	-
+7	Goed	O	-
+8	zoo	O	-
+9	jongens	O	-
+10	,	O	-
+11	zoo	O	-
+12	mal	O	-
+13	als	O	-
+14	je	B-AGENT	15
+15	bent	REALIS	-
+16	,	O	-
+17	ben	REALIS	-
+18	je	B-AGENT	17
+19	me	O	-
+20	toch	O	-
+21	liever	O	-
+22	dan	O	-
+23	die	O	-
+24	mooie	O	-
+25	wijze	O	-
+26	heeren	O	-
+27	.	O	-
+
+# 119-6
+0	't	O	-
+1	Spijt	REALIS	-
+2	me	B-AGENT	1
+3	dat	O	-
+4	je	B-AGENT	8
+5	je	B-PATIENT	8
+6	nek	I-PATIENT	8
+7	moet	O	-
+8	breken	REALIS	-
+9	en	O	-
+10	dat	O	-
+11	ik	B-AGENT	16
+12	die	B-PATIENT	16
+13	heeren	I-PATIENT	16
+14	moet	O	-
+15	laten	O	-
+16	gedijen	REALIS	-
+17	,	O	-
+18	maar	O	-
+19	ik	B-AGENT	20
+20	ben	REALIS	-
+21	ook	O	-
+22	God	O	-
+23	maar	O	-
+24	.	O	-
+25	"	O	-
+
+# 119-7
+0	En	O	-
+1	zoo	O	-
+2	gaat	REALIS	-
+3	alles	O	-
+4	z'n	O	-
+5	gangetje	O	-
+6	en	O	-
+7	wee	O	-
+8	hem	B-PATIENT	10
+9	die	B-AGENT	10
+10	vraagt	REALIS	-
+11	:	O	-
+12	Waarom	O	-
+13	?	O	-
+
