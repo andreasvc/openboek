@@ -108,10 +108,10 @@ Verne_ReisOmDeWereld	0	58	te	VZ[init]	*	-	-	-	-	*	-
 Verne_ReisOmDeWereld	0	59	vestigen	WW[inf,vrij,zonder]	(INF*)))))))	-	-	-	-	*	-
 Verne_ReisOmDeWereld	0	60	.	LET[]	*)	-	-	-	-	*	-
 
-Verne_ReisOmDeWereld	0	0	Een	TW[hoofd,vrij]	(TOP(NP*	-	-	-	-	*	(1252
+Verne_ReisOmDeWereld	0	0	Een	TW[hoofd,vrij]	(TOP(NP*	-	-	-	-	*	(305
 Verne_ReisOmDeWereld	0	1	der	LID[bep,gen,rest3]	(NP*	-	-	-	-	*	-
 Verne_ReisOmDeWereld	0	2	welsprekendste	ADJ[prenom,sup,met-e,stan]	*	-	-	-	-	*	-
-Verne_ReisOmDeWereld	0	3	redenaars	N[soort,mv,basis]	*))	-	-	-	-	*	1252)
+Verne_ReisOmDeWereld	0	3	redenaars	N[soort,mv,basis]	*))	-	-	-	-	*	305)
 Verne_ReisOmDeWereld	0	4	,	LET[]	*	-	-	-	-	*	-
 Verne_ReisOmDeWereld	0	5	waarop	BW[]	(REL*	-	-	-	-	*	-
 Verne_ReisOmDeWereld	0	6	Engeland	N[eigen,ev,basis,onz,stan]	(SSUB*	-	-	-	-	(LOC)	(1252)
