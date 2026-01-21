@@ -14,7 +14,7 @@ Verne_ReisOmDeWereld	6	37	41	n	sg	ORG.misc	de Reform-club te Londen, de Reform-c
 Verne_ReisOmDeWereld	6	40	41	n	sg	LOC.bc	Londen, Londen, Engelands hoofdstad, Londen, Londen, Londen, der hoofdstad, Londen, Londen, Londen, Londen, de hoofdstad, LONDEN
 Verne_ReisOmDeWereld	6	49	51	n	sg	PKM.in	zijn vermogen
 Verne_ReisOmDeWereld	6	53	55	n	sg	MISC	de aandacht
-Verne_ReisOmDeWereld	7	0	4	n	sg	LOC.lamd	Een der welsprekendste redenaars, Engeland, zich, Engeland, het vereenigd koninkrijk, Engeland, Engeland, het Vereenigde Koninkrijk, Engeland, geheel Engeland, het gansche Vereenigde Koninkrijk, Engeland, het Vereenigde Koninkrijk, Engeland
+Verne_ReisOmDeWereld	7	0	4	n	sg	LOC.land	Een der welsprekendste redenaars, Engeland, zich, Engeland, het vereenigd koninkrijk, Engeland, Engeland, het Vereenigde Koninkrijk, Engeland, geheel Engeland, het gansche Vereenigde Koninkrijk, Engeland, het Vereenigde Koninkrijk, Engeland
 Verne_ReisOmDeWereld	7	24	25	fm	sg	PER.misc	men, Men, Men, Men
 Verne_ReisOmDeWereld	7	42	45	fm	pl	PER.misc	de aanzienlijkste kringen, aanzienlijken kring
 Verne_ReisOmDeWereld	8	5	6	m	sg	PER.nfic	Byron, een Byron met baard en knevel, een kalme Byron, die
@@ -46,7 +46,7 @@ Verne_ReisOmDeWereld	16	59	61	f	sg	PER.nfic	der Koningin
 Verne_ReisOmDeWereld	17	7	11	n	pl	ORG.misc	andere vereenigingen en genootschappen
 Verne_ReisOmDeWereld	17	20	23	n	sg	ORG.misc	de maatschappij Armonica
 Verne_ReisOmDeWereld	17	25	28	n	sg	ORG.misc	het Entomologisch Genootschap, dat
-Verne_ReisOmDeWereld	17	34	36	fm	pl	PER,misc	schadelijke insecten
+Verne_ReisOmDeWereld	17	34	36	fm	pl	PER.misc	schadelijke insecten
 Verne_ReisOmDeWereld	19	1	2	fm	sg	PER.misc	zich
 Verne_ReisOmDeWereld	19	11	17	fm	pl	PER.misc	de leden van dien aanzienlijken kring
 Verne_ReisOmDeWereld	19	22	24	n	sg	PKM.in	de verklaring

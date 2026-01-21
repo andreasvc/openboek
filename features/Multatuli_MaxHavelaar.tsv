@@ -313,7 +313,7 @@ Multatuli_MaxHavelaar	193	6	8	n	sg	OBJ	mijn boek, mijn boek, mijn boek, mijn boe
 Multatuli_MaxHavelaar	194	8	10	n	sg	LOC.lijn	de Kalverstraat
 Multatuli_MaxHavelaar	194	16	21	n	sg	ORG.com	den winkel van een kruienier
 Multatuli_MaxHavelaar	194	19	21	fm	sg	PER.misc	een kruienier, die, zich
-Multatuli_MaxHavelaar	194	26	28	n	sg	MISc	het sorteeren
+Multatuli_MaxHavelaar	194	26	28	n	sg	MISC	het sorteeren
 Multatuli_MaxHavelaar	194	31	32	n	sg	LOC.regio	Java
 Multatuli_MaxHavelaar	194	43	44	n	sg	OBJ	veegsel, dat, 't veegsel
 Multatuli_MaxHavelaar	195	4	6	m	sg	PER.misc	een heer, die, Hij, hij, hij, reiziger, die, Hij, Hij, den vreemdeling, hem, een klant, hem, Hij, ik, ik, me, me, mij, mij, hem, hem, zijn, hij, zich, gij, hij, ik, hèm, hij, hem, hem, hij, het, die, hij, hij, zich, hem, hij, die, zijn, hij, hij, de primus van onze klasse, hij, hij, hij, mijn Sjaalman, Hij, hij, een vlug en dapper mannetje, zijn, hij, hem, zijn, dien persoon, Hij, hem, hij, hij, hij, hij, zijn, Hij, hij, hij, hij, zijn, u, ik, me, hij, hij, ik, Hij, de Sjaalman, hij, hij, Ik, Ik, ik, mij, ik, Hij, hij, mijn, mijner, hij, zijn, zijn, hij, hem, zijn, mij, ik, ik, mij, mijn, ik, mijn, ik, mijn, Ik, ik, mij, ik, mijn, mij, ik, mijn, mijn, ik, hij, mij, Ik, hij, me, ik, ik, mij, uw ouden schoolmakker, zijn, die Sjaalman, hem, de man, zich, zijn, hij, zich, hij, iets, Sjaalman, den man, die, dien man, Sjaalman, die Sjaalman, die, die Sjaalman, hij, hij
@@ -694,7 +694,7 @@ Multatuli_MaxHavelaar	577	0	2	n	sg	PKM.in	Mijn hart
 Multatuli_MaxHavelaar	577	21	24	n	sg	ORG.com	een goed merk
 Multatuli_MaxHavelaar	578	5	8	n	pl	PKM.in	zulke onzedelijke verzen
 Multatuli_MaxHavelaar	579	6	10	n	sg	PKM.in	een heel ander oog
-Multatuli_MaxHavelaar	579	15	16	n	pl	PBJ	stukken, die, die
+Multatuli_MaxHavelaar	579	15	16	n	pl	OBJ	stukken, die, die
 Multatuli_MaxHavelaar	579	28	31	n	sg	PKM.in	kennis van zaken
 Multatuli_MaxHavelaar	580	2	3	n	pl	LOC.bc	staten
 Multatuli_MaxHavelaar	580	4	5	n	pl	MISC	opgaven
@@ -741,7 +741,7 @@ Multatuli_MaxHavelaar	600	3	6	n	sg	MISC	de athmospherische lucht
 Multatuli_MaxHavelaar	601	1	5	n	sg	PKM.in	de staatkunde van Rusland
 Multatuli_MaxHavelaar	601	4	5	n	sg	LOC.land	Rusland
 Multatuli_MaxHavelaar	602	1	3	n	pl	MISC	de klinkletters
-Multatuli_MaxHavelaar	603	1	3	n	pl	ORg.misc	cellulaire gevangenissen
+Multatuli_MaxHavelaar	603	1	3	n	pl	ORG.misc	cellulaire gevangenissen
 Multatuli_MaxHavelaar	604	1	4	n	pl	MISC	de oude stellingen
 Multatuli_MaxHavelaar	604	7	9	n	sg	PKM.in	HORROR VACUI
 Multatuli_MaxHavelaar	605	4	7	n	sg	MISC	afschaffing van strafbepalingen
