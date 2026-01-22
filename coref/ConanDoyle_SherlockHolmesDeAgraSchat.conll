@@ -2904,7 +2904,7 @@ ConanDoyle_SherlockHolmesDeAgraSchat	0	15	zou	WW[pv,verl,ev]	*	-	-	-	-	*	-
 ConanDoyle_SherlockHolmesDeAgraSchat	0	16	nooit	BW[]	*	-	-	-	-	*	-
 ConanDoyle_SherlockHolmesDeAgraSchat	0	17	hebben	WW[pv,tgw,mv]	*	-	-	-	-	*	-
 ConanDoyle_SherlockHolmesDeAgraSchat	0	18	kunnen	WW[pv,tgw,mv]	(DU(SV1*	-	-	-	-	*	-
-ConanDoyle_SherlockHolmesDeAgraSchat	0	19	gelooven	N[soort,mv,basis]	*))	-	-	-	-	*	(116)
+ConanDoyle_SherlockHolmesDeAgraSchat	0	19	gelooven	N[soort,mv,basis]	*))	-	-	-	-	*	-
 ConanDoyle_SherlockHolmesDeAgraSchat	0	20	,	LET[]	*	-	-	-	-	*	-
 ConanDoyle_SherlockHolmesDeAgraSchat	0	21	dat	VG[onder]	(CP*	-	-	-	-	*	-
 ConanDoyle_SherlockHolmesDeAgraSchat	0	22	gij	VNW[pers,pron,nomin,vol,2,getal]	(SSUB*	-	-	-	-	*	(1195)
