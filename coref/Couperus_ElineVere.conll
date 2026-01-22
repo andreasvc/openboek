@@ -9156,11 +9156,11 @@ Couperus_ElineVere	0	4	....!	TW[hoofd,vrij]	*)))	-	-	-	-	*	-
 Couperus_ElineVere	0	0	Verbeeld	WW[pv,tgw,ev]	(TOP(SV1*	-	-	-	-	*	-
 Couperus_ElineVere	0	1	je	VNW[pr,pron,obl,red,2v,getal]	*)	-	-	-	-	*	(9)
 Couperus_ElineVere	0	2	,	LET[]	*	-	-	-	-	*	-
-Couperus_ElineVere	0	3	een	TW[hoofd,nom,zonder-n,basis]	(DU(NP*	-	-	-	-	*	(25
+Couperus_ElineVere	0	3	een	TW[hoofd,nom,zonder-n,basis]	(DU(NP*	-	-	-	-	*	(876
 Couperus_ElineVere	0	4	van	VZ[init]	(PP*	-	-	-	-	*	-
 Couperus_ElineVere	0	5	mijn	VNW[bez,det,stan,vol,1,ev,prenom,zonder,agr]	(NP*	-	-	-	-	*	(186)
 Couperus_ElineVere	0	6	fijne	ADJ[prenom,basis,met-e,stan]	*	-	-	-	-	*	-
-Couperus_ElineVere	0	7	schaaltjes	N[soort,mv,dim]	*))))	-	-	-	-	*	25)
+Couperus_ElineVere	0	7	schaaltjes	N[soort,mv,dim]	*))))	-	-	-	-	*	876)
 Couperus_ElineVere	0	8	.	LET[]	*)	-	-	-	-	*	-
 
 Couperus_ElineVere	0	0	Dat	VNW[aanw,pron,stan,vol,3o,ev]	(TOP(DU(SMAIN*	-	-	-	-	*	-
